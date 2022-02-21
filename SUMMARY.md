@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Giới thiệu Trường Đại học Mở Tp.HCM](README.md)
 
 ## The Company
 
