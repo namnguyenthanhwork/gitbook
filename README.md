@@ -1,6 +1,6 @@
 ---
 coverY: 0
-description: 'Website: ou.edu.v'
+description: 'Website: www.ou.edu.vn'
 cover: .gitbook/assets/Banner group (1140 × 250 px).png
 ---
 
