@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Giới thiệu Trường Đại học Mở Tp.HCM](README.md)
+* [Trường Đại học Mở Tp.HCM](README.md)
 
 ## Thông tin tuyển sinh
 

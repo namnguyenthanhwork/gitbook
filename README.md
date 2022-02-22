@@ -4,13 +4,13 @@ description: 'Website: www.ou.edu.vn'
 cover: .gitbook/assets/Banner group (1140 × 250 px).png
 ---
 
-# Giới thiệu Trường Đại học Mở Tp.HCM
+# Trường Đại học Mở Tp.HCM
 
-## GIỚI THIỆU KHÁI QUÁT
+## GIỚI THIỆU CHUNG
 
 **TRƯỜNG ĐẠI HỌC MỞ THÀNH PHỐ HỒ CHÍ MINH (Ho Chi Minh City Open University)**
 
-**Loại hình:** trường Công lập từ năm 2006
+**Loại hình:** Trường Công lập từ năm 2006
 
 **Cơ quan/Bộ chủ quản:** Bộ Giáo dục và Đào tạo
 
