@@ -1,15 +1,20 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
+cover: ../.gitbook/assets/1110x475-Ngành TS 2022.jpg
+coverY: 96.8586387434555
 ---
 
 # Hướng dẫn nhập hồ sơ tuyển sinh
 
-To get reimbursed for your expenses, just fill in our simple form and we'll get it approved!
+{% embed url="https://www.youtube.com/watch?v=TcybXHbd540" %}
+Tham khảo đăng ký nhập học khoá 2021
+{% endembed %}
 
-{% hint style="info" %}
-**Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
-{% endhint %}
+**Hoặc tham khảo link:** [**https://www.facebook.com/groups/1021019474981327/posts/1285563878526884**](https://www.facebook.com/groups/1021019474981327/posts/1285563878526884)****
 
-{% embed url="https://2w3pnm4iy73.typeform.com/to/e51Urcwb" %}
+{% embed url="https://www.facebook.com/groups/oumembers" %}
+Link group
+{% endembed %}
+
+{% embed url="https://www.facebook.com/NguyenThanhNam1601" %}
+Tác giả
+{% endembed %}

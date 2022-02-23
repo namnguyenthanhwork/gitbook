@@ -1,15 +1,40 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1511497584788-876760111969?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3432&q=80
+cover: ../.gitbook/assets/Banner group (1140 × 250 px).png
 coverY: 0
 ---
 
-# Requesting Time Off
+# Công cụ tính điểm xét tuyển
 
-To request time off, just fill in our simple form and we'll get it approved!
+**Link web tính điểm:** [https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html](https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html)
 
-{% hint style="info" %}
-**Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
-{% endhint %}
+**Link tổng hợp thông tin tuyển sinh:** [https://namnguyenthanhwork.github.io/oulink](https://namnguyenthanhwork.github.io/oulink?fbclid=IwAR2G9WqSqjkZ13eqTWZq6wvt2Szk\_NfB\_PYM7LggknmHAesIl49mEi2KmOk)
 
-{% embed url="https://2w3pnm4iy73.typeform.com/to/P228Ngvj" %}
+![Công cụ tính điểm xét tuyển (Xét học bạ & xét thi THPT)](../.gitbook/assets/1.png)
+
+![Giới thiệu](../.gitbook/assets/2.png)
+
+![Giới thiệu](../.gitbook/assets/3.png)
+
+![Cách sử dụng](../.gitbook/assets/4.png)
+
+![Cách sử dụng](../.gitbook/assets/5.png)
+
+![Cách sử dụng](../.gitbook/assets/6.png)
+
+![Cách sử dụng](../.gitbook/assets/7.png)
+
+![Cách sử dụng](../.gitbook/assets/8.png)
+
+![Cách sử dụng](../.gitbook/assets/9.png)
+
+![Cách sử dụng](../.gitbook/assets/10.png)
+
+![Tham khảo thêm](../.gitbook/assets/11.png)
+
+{% embed url="https://www.facebook.com/groups/oumembers" %}
+Link group
+{% endembed %}
+
+{% embed url="https://www.facebook.com/NguyenThanhNam1601" %}
+Tác giả
+{% endembed %}

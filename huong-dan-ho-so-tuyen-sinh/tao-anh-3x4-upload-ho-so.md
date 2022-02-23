@@ -1,15 +1,20 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
+cover: ../.gitbook/assets/Banner group (1140 × 250 px).png
 coverY: 0
 ---
 
-# Filing Expenses
+# Tạo ảnh 3x4 upload hồ sơ
 
-To get reimbursed for your expenses, just fill in our simple form and we'll get it approved!
+{% embed url="https://www.youtube.com/watch?v=NQ5Pm7PPb6o" %}
+Hướng dẫn tạo ảnh 3x4
+{% endembed %}
 
-{% hint style="info" %}
-**Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
-{% endhint %}
+Hoặc có thể tham khảo tại [https://www.facebook.com/groups/1021019474981327/posts/1284282711988334](https://www.facebook.com/groups/1021019474981327/posts/1284282711988334)
 
-{% embed url="https://2w3pnm4iy73.typeform.com/to/e51Urcwb" %}
+{% embed url="https://www.facebook.com/groups/oumembers" %}
+Link group
+{% endembed %}
+
+{% embed url="https://www.facebook.com/NguyenThanhNam1601" %}
+Tác giả
+{% endembed %}
