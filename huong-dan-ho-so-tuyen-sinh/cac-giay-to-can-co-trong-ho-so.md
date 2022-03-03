@@ -60,17 +60,18 @@ Tham khảo link tại: [https://www.facebook.com/groups/1021019474981327/posts/
 
 ![](<../.gitbook/assets/image (3).png>)
 
-**10. Bản photo CMND/CCCD** (bắt buộc);
+### **10. Bản photo CMND/CCCD** (bắt buộc);
 
 ![](<../.gitbook/assets/image (15).png>)
 
-**11. Biên lai đóng học phí học kỳ I,** năm học 2021 – 2022 (bản in hoặc photo);
+### **11. Biên lai đóng học phí học kỳ I,** năm học 2021 – 2022 (bản in hoặc photo);
 
 ![](<../.gitbook/assets/image (12).png>)
 
 
 
-**12. Bản sao công chứng chứng chỉ Ngoại ngữ/Tin học** đối với thí sinh được miễn thi Ngoại ngữ, Tin học;\
+### **12. Bản sao công chứng chứng chỉ Ngoại ngữ/Tin học** đối với thí sinh được miễn thi Ngoại ngữ, Tin học;
+
 Link tham khảo: [http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet...](https://l.facebook.com/l.php?u=http%3A%2F%2Ftuyensinh.ou.edu.vn%2Fhuong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc%3Ffbclid%3DIwAR3y5kKWDHPukkbKPNcjXdokO1D1Jv5q1oSdp2LFR5v5m-KvHx21A6Pb4vo\&h=AT2MVExixw9\_MBmYqAeoy94wYgSNy7ZI7i\_QYWHvzoXXJCoxwpTgjTNZ7X4Oq4SG1YVY6KyNpZRUDzkwAT3Bb4jYpjE6SGDSFN9s9zAFMQPWaUOzylxhdMjpzXVRvNWcrpag&\_\_tn\_\_=-UK-R\&c\[0]=AT03unkiNDxYd3IQ7nZtC6a\_p8BW1ZIf8cCA4KKNZazSAKb-I6F2bTENRb6moigkPXWWNDZ7ixUnBYYOoWLKIuTJx6bEh6miHF-fux4DTS7m72X1YeyMaV6tI71XLOQ7uHIHqDDoP0I68XBXIUPdZppaOVjCQjHX-sE)
 
 ![](<../.gitbook/assets/image (8).png>)
