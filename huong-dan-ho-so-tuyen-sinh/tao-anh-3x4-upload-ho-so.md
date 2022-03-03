@@ -14,7 +14,3 @@ Hoặc có thể tham khảo tại [https://www.facebook.com/groups/102101947498
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Link group
 {% endembed %}
-
-{% embed url="https://www.facebook.com/NguyenThanhNam1601" %}
-Tác giả
-{% endembed %}

@@ -14,7 +14,3 @@ Tham khảo đăng ký nhập học khoá 2021
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Link group
 {% endembed %}
-
-{% embed url="https://www.facebook.com/NguyenThanhNam1601" %}
-Tác giả
-{% endembed %}

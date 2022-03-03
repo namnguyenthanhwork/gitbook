@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/1110x475-Ngành TS 2022.jpg
 coverY: 96.8586387434555
 ---
 
-# Xác nhận nhập học
+# Liên kết Đại học Bond, Úc
 
 Trong những năm gần đây, thí sinh xét tuyển được lựa chọn nhiều hình thức xét tuyển như xét tuyển bằng học bạ, điểm kì thi ĐGNL, UTXT, điểm thi kì thi THPTQG,... và một số hình thức khác. Tuy nhiên, thời gian nhập học của các phương thức trên đều có trước kết quả trúng tuyển bằng hình thức xét tuyển điểm thi THPTQ
 
@@ -40,4 +40,8 @@ Hãy suy nghĩ thật kĩ về vấn đề mình thích gì và mình muốn gì
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Link group
+{% endembed %}
+
+{% embed url="https://www.facebook.com/NguyenThanhNam1601" %}
+Tác giả
 {% endembed %}

@@ -1,10 +1,10 @@
 ---
 coverY: 0
-description: Build by <ThanhNamNguyen>
+description: Thông tin hướng dẫn tuyển sinh được tổng hợp bởi "ThanhNamNguyen"
 cover: .gitbook/assets/Banner group (1140 × 250 px).png
 ---
 
-# Trường Đại học Mở Tp.HCM
+# Sổ tay hướng dẫn tuyển sinh
 
 ## **Thông tin Trường**
 
@@ -93,10 +93,10 @@ Cuối cùng, hy vọng các bạn có lựa chọn vào OU muốn có những c
 
 > Bài viết này không nhằm công kích bất kỳ cá nhân hay tổ chức nào.
 
+{% hint style="info" %}
+Bài viết khác: [https://www.facebook.com/groups/oumembers/posts/1429874620762475/](https://www.facebook.com/groups/oumembers/posts/1429874620762475/?\_\_cft\_\_\[0]=AZXkW7fm-nu0f0FaWcbPxmyDiDuFRSeHEJIHgyPnim-NGh3t\_5Fgc7XaxLPlORWdVHX8XcfJvEMOlrzm-Bz4SHhCItkB8biGjUaqgAtIztXo2\_SVovgVi-oOIUNtBD4Qmgo&\_\_tn\_\_=%2CO%2CP-R)
+{% endhint %}
+
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Link group
-{% endembed %}
-
-{% embed url="https://www.facebook.com/NguyenThanhNam1601" %}
-Tác giả
 {% endembed %}

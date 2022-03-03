@@ -9,17 +9,17 @@ coverY: 0
 
 **Link tổng hợp thông tin tuyển sinh:** [https://namnguyenthanhwork.github.io/oulink](https://namnguyenthanhwork.github.io/oulink?fbclid=IwAR2G9WqSqjkZ13eqTWZq6wvt2Szk\_NfB\_PYM7LggknmHAesIl49mEi2KmOk)
 
-![Công cụ tính điểm xét tuyển (Xét học bạ & xét thi THPT)](../.gitbook/assets/1.png)
+![Công cụ tính điểm xét tuyển (Xét học bạ & xét thi THPT)](<../.gitbook/assets/1 (1).png>)
 
 ![Giới thiệu](../.gitbook/assets/2.png)
 
-![Giới thiệu](../.gitbook/assets/3.png)
+![Giới thiệu](<../.gitbook/assets/3 (1).png>)
 
-![Cách sử dụng](../.gitbook/assets/4.png)
+![Cách sử dụng](<../.gitbook/assets/4 (1).png>)
 
 ![Cách sử dụng](../.gitbook/assets/5.png)
 
-![Cách sử dụng](../.gitbook/assets/6.png)
+![Cách sử dụng](<../.gitbook/assets/6 (1).png>)
 
 ![Cách sử dụng](../.gitbook/assets/7.png)
 
@@ -33,8 +33,4 @@ coverY: 0
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Link group
-{% endembed %}
-
-{% embed url="https://www.facebook.com/NguyenThanhNam1601" %}
-Tác giả
 {% endembed %}

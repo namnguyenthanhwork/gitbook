@@ -1,16 +1,18 @@
 # Table of contents
 
-* [Trường Đại học Mở Tp.HCM](README.md)
+* [Sổ tay hướng dẫn tuyển sinh](README.md)
 
 ## Thông tin tuyển sinh
 
 * [Tuyển sinh học bạ 2022](thong-tin-tuyen-sinh/tuyen-sinh-hoc-ba-2022.md)
+* [Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm](thong-tin-tuyen-sinh/chi-tieu-hoc-phi-2022-and-diem-chuan-cac-nam.md)
 * [Q\&A tuyển sinh](thong-tin-tuyen-sinh/q-and-a-tuyen-sinh.md)
 * [Xác nhận nhập học](thong-tin-tuyen-sinh/xac-nhan-nhap-hoc.md)
 
 ## Hướng dẫn hồ sơ tuyển sinh
 
 * [Công cụ tính điểm xét tuyển](huong-dan-ho-so-tuyen-sinh/cong-cu-tinh-diem-xet-tuyen.md)
+* [Hướng dẫn đăng ký xét tuyển online](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online.md)
 * [Tạo ảnh 3x4 upload hồ sơ](huong-dan-ho-so-tuyen-sinh/tao-anh-3x4-upload-ho-so.md)
 * [Hướng dẫn nhập hồ sơ tuyển sinh](huong-dan-ho-so-tuyen-sinh/huong-dan-nhap-ho-so-tuyen-sinh.md)
 * [Các giấy tờ cần có trong hồ sơ](huong-dan-ho-so-tuyen-sinh/cac-giay-to-can-co-trong-ho-so.md)
@@ -18,7 +20,7 @@
 
 ## Giới thiệu khoa - ngành đào tạo
 
-* [Khoa Đào tạo đặc biệt](gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet.md)
+* [Khoa Đào tạo đặc biệt (Các ngành CLC)](gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc.md)
 * [Khoa Kế toán - Kiểm toán](gioi-thieu-khoa-nganh-dao-tao/khoa-ke-toan-kiem-toan/README.md)
   * [Ngành Kế toán](gioi-thieu-khoa-nganh-dao-tao/khoa-ke-toan-kiem-toan/nganh-ke-toan.md)
   * [Ngành Kiểm toán](gioi-thieu-khoa-nganh-dao-tao/khoa-ke-toan-kiem-toan/nganh-kiem-toan.md)
@@ -31,3 +33,9 @@
 * [Khoa Tài chính ngân hàng](gioi-thieu-khoa-nganh-dao-tao/khoa-tai-chinh-ngan-hang.md)
 * [Khoa Ngoại ngữ](gioi-thieu-khoa-nganh-dao-tao/khoa-ngoai-ngu.md)
 * [Khoa Xã Công Đông](gioi-thieu-khoa-nganh-dao-tao/khoa-xa-cong-dong.md)
+
+## CHƯƠNG TRÌNH LIÊN KẾT
+
+* [Liên kết Đại học Rouen Normandie, Pháp](chuong-trinh-lien-ket/lien-ket-dai-hoc-rouen-normandie-phap.md)
+* [Liên kết Đại học Flinders, Úc](chuong-trinh-lien-ket/lien-ket-dai-hoc-flinders-uc.md)
+* [Liên kết Đại học Bond, Úc](chuong-trinh-lien-ket/lien-ket-dai-hoc-bond-uc.md)

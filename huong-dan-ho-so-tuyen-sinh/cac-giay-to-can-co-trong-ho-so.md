@@ -94,7 +94,3 @@ Link tham khảo: [http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet...]
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Link group
 {% endembed %}
-
-{% embed url="https://www.facebook.com/NguyenThanhNam1601" %}
-Tác giả
-{% endembed %}

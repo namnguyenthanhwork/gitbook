@@ -1,10 +1,10 @@
 ---
+description: 'Tham khảo: http://tuyensinh.ou.edu.vn/'
 cover: ../.gitbook/assets/1110x475-2022-01.jpg
 coverY: 17.434554973821992
-description: 'Tham khảo: http://tuyensinh.ou.edu.vn/'
 ---
 
-# Tuyển sinh học bạ 2022
+# Liên kết Đại học Rouen Normandie, Pháp
 
 ### **Thông tin tuyển sinh Đại học chính quy năm 202**
 
@@ -40,4 +40,8 @@ Thông tin chi tiết xem tại: [http://tuyensinh.ou.edu.vn/thong-tin-tuyen-sin
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Link group
+{% endembed %}
+
+{% embed url="https://www.facebook.com/NguyenThanhNam1601" %}
+Tác giả
 {% endembed %}

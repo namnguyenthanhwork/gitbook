@@ -41,7 +41,3 @@ Hãy suy nghĩ thật kĩ về vấn đề mình thích gì và mình muốn gì
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Link group
 {% endembed %}
-
-{% embed url="https://www.facebook.com/NguyenThanhNam1601" %}
-Tác giả
-{% endembed %}
