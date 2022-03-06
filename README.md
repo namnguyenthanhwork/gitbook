@@ -1,7 +1,7 @@
 ---
-coverY: 0
-description: Thông tin hướng dẫn tuyển sinh được tổng hợp bởi "ThanhNamNguyen"
-cover: .gitbook/assets/Banner group (1140 × 250 px).png
+coverY: 193.97905759162305
+description: Thông tin tuyển sinh được tổng hợp bởi "ThanhNamNguyen"
+cover: .gitbook/assets/Banner gitbook (3420 × 750 px).png
 ---
 
 # Sổ tay hướng dẫn tuyển sinh
@@ -98,5 +98,5 @@ Bài viết khác: [https://www.facebook.com/groups/oumembers/posts/142987462076
 {% endhint %}
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}
-Link group
+Tham gia group để cập nhật thông tin tuyển sinh mới nhất
 {% endembed %}

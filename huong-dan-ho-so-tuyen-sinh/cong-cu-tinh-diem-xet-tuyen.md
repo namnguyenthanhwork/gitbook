@@ -1,6 +1,9 @@
 ---
-cover: ../.gitbook/assets/Banner group (1140 × 250 px).png
+cover: ../.gitbook/assets/Công cụ tính điểm xét tuyển.png
 coverY: 0
+description: >-
+  Lưu ý: điểm sau khi tính chính là điểm của bạn đã khai báo lúc đầu, không phải
+  điểm chuẩn của ngành đó
 ---
 
 # Công cụ tính điểm xét tuyển
@@ -32,5 +35,5 @@ coverY: 0
 ![Tham khảo thêm](../.gitbook/assets/11.png)
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}
-Link group
+Tham gia group để cập nhật thông tin tuyển sinh mới nhất
 {% endembed %}
