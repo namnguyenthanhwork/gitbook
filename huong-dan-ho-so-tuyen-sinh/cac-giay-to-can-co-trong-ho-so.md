@@ -20,7 +20,7 @@ coverY: 0
 
 ### 1. Giấy chứng nhận kết quả thi THPT năm 2022 (**bản chính - Bắt buộc đối với thí sinh tham gia kỳ thi Tốt nghiệp THPT 2022, bao gồm thí sinh tự do có đăng ký tham dự kỳ thi năm nay**)
 
-![Giấy chứng nhận kết quả thi THPT năm 2022](<../.gitbook/assets/image (16).png>)
+![Giấy chứng nhận kết quả thi THPT năm 2022](<../.gitbook/assets/image (16) (1).png>)
 
 ### **2. Giấy chứng nhận tốt nghiệp trung học tạm thời** đối với những thí sinh trúng tuyển ngay trong năm tốt nghiệp (2021) hoặc **bằng tốt nghiệp trung học đối với những thí sinh đã tốt nghiệp năm 2020 trở về trước.** Những thí sinh nộp giấy chứng nhận tốt nghiệp tạm thời, đầu năm học sau phải xuất trình bản chính bằng tốt nghiệp trung học để đối chiếu kiểm tra;
 
@@ -28,21 +28,21 @@ coverY: 0
 
 ### **3. Phiếu thông tin sinh viên trúng tuyển** (in ra sau khi đăng ký nhập học trực tuyến);
 
-![Giấy kết quả trúng tuyển](<../.gitbook/assets/image (14).png>)
+![Giấy kết quả trúng tuyển](<../.gitbook/assets/image (14) (1).png>)
 
-![Giấy kết quả trúng tuyển & thanh toán](<../.gitbook/assets/image (7).png>)
+![Giấy kết quả trúng tuyển & thanh toán](<../.gitbook/assets/image (7) (1).png>)
 
 ### **4. Phiếu đăng ký xét tuyển/ưu tiên xét tuyển** (in ra từ thư xác nhận nộp hồ sơ xét tuyển của trường hoặc từ trang tra cứu: [http://xettuyen.ou.edu.vn/hb2021d1/ketqua](https://l.facebook.com/l.php?u=http%3A%2F%2Fxettuyen.ou.edu.vn%2Fhb2021d1%2Fketqua%3Ffbclid%3DIwAR0oP5YV1K0d4WGWtAOe6R32NBwPGVSiNUovkkrb2tJfnf-n-TQ-OrBGHUE\&h=AT14OJjxZFPIpzX4G6SJLRwt8w8vf\_MaGexXbtvIexcWvnCX-zPr47zAPv\_DODJepeL280a3OoJ77qyKphBhov3RZWFOSnOREM26X4lsY1zDTS4ivrUWYaz2w2EKpm6ED3Lw&\_\_tn\_\_=-UK-R\&c\[0]=AT03unkiNDxYd3IQ7nZtC6a\_p8BW1ZIf8cCA4KKNZazSAKb-I6F2bTENRb6moigkPXWWNDZ7ixUnBYYOoWLKIuTJx6bEh6miHF-fux4DTS7m72X1YeyMaV6tI71XLOQ7uHIHqDDoP0I68XBXIUPdZppaOVjCQjHX-sE)
 
-![Giấy xét tuyển](<../.gitbook/assets/image (11) (1).png>)
+![Giấy xét tuyển](<../.gitbook/assets/image (11) (1) (1).png>)
 
 ### **5. Học bạ** (3 bản - đầy đủ thông tin 3 năm học THPT);
 
-![Học bạ (công chứng)](<../.gitbook/assets/image (6).png>)
+![Học bạ (công chứng)](<../.gitbook/assets/image (6) (1).png>)
 
 ### **6. Giấy khai sinh** (1 bản);
 
-![Giấy khai sinh (bản sao hoặc photo công chứng)](<../.gitbook/assets/image (13).png>)
+![Giấy khai sinh (bản sao hoặc photo công chứng)](<../.gitbook/assets/image (13) (1).png>)
 
 ### **7. Các minh chứng để được hưởng chế độ ưu tiên quy định trong văn bản hướng dẫn của Bộ Giáo dục và Đào tạo** (các giấy tờ xác nhận đối tượng và khu vực ưu tiên, hộ khẩu...). Link minh chứng: [http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu...](https://l.facebook.com/l.php?u=http%3A%2F%2Ftuyensinh.ou.edu.vn%2Fhd-chuan-bi-mc-huong-che-do-uu-tien-2021%3Ffbclid%3DIwAR2Cq06lqGz4Yk3qr2GUmEkCBbUnqFmPVX89kDGi663L3BlIWiM45XuDWMU\&h=AT1MQeqIYsUQm9u2kAgoZGgVhmYpAPtKngFAT5IPmqjMjVknX\_tHEI7D485iUdF9Z1qjS\_1H1Ijzx3Un3gNQXp5BA5g1gPhhEmUIbX1lvLPs3jZISqw--DRZtStwAS1jH5XB&\_\_tn\_\_=-UK-R\&c\[0]=AT03unkiNDxYd3IQ7nZtC6a\_p8BW1ZIf8cCA4KKNZazSAKb-I6F2bTENRb6moigkPXWWNDZ7ixUnBYYOoWLKIuTJx6bEh6miHF-fux4DTS7m72X1YeyMaV6tI71XLOQ7uHIHqDDoP0I68XBXIUPdZppaOVjCQjHX-sE)
 
@@ -52,21 +52,21 @@ coverY: 0
 
 ### **8. 03 ảnh màu 3x4 chụp trong vòng 6 tháng ghi rõ thông tin cá nhân sau ảnh** (mã sinh viên, họ và tên);
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ### **9. Giấy chứng nhận đăng ký nghĩa vụ quân sự** do Ban chỉ huy quân sự cấp Quận, Huyện cấp và **giấy xác nhận đăng ký vắng mặt** do Ban chỉ huy quân sự cấp Phường, Xã nơi cư trú cấp **(đối với nam sinh viên);**
 
-![Giấy chứng nhận đăng ký NVQS](../.gitbook/assets/image.png)
+![Giấy chứng nhận đăng ký NVQS](<../.gitbook/assets/image (2).png>)
 
-![Giấy xác nhận đăng ký vắng mặt](<../.gitbook/assets/image (3).png>)
+![Giấy xác nhận đăng ký vắng mặt](<../.gitbook/assets/image (3) (1).png>)
 
 ### **10. Bản photo CMND/CCCD** (bắt buộc);
 
-![Giấy CMND/CCCD](<../.gitbook/assets/image (15).png>)
+![Giấy CMND/CCCD](<../.gitbook/assets/image (15) (1).png>)
 
 ### **11. Biên lai đóng học phí học kỳ I,** năm học 2021 – 2022 (bản in hoặc photo);
 
-![Biên lai](<../.gitbook/assets/image (12).png>)
+![Biên lai](<../.gitbook/assets/image (12) (1).png>)
 
 ### **12. Bản sao công chứng chứng chỉ Ngoại ngữ/Tin học** đối với thí sinh được miễn thi Ngoại ngữ, Tin học;
 

@@ -50,7 +50,7 @@ _Điều kiện đăng ký:_ thí sinh thỏa mãn cùng lúc 02 điều kiện
    * Các ngành còn lại: IELTS đạt 5.5 (hoặc các chứng chỉ khác tương đương – Tham khảo PL2)**.**
 {% endhint %}
 
-![Phụ lục 2](<../.gitbook/assets/image (11).png>)
+![Phụ lục 2](<../.gitbook/assets/image (11) (1).png>)
 
 ### **Phương thức 6:** Xét tuyển theo kết quả học tập THPT
 
@@ -60,7 +60,7 @@ _Điều kiện đăng ký hồ sơ:_
 Tổng Điểm trung bình môn học các môn trong tổ hợp xét tuyển (Điểm Đăng ký xét tuyển - không bao gồm điểm ưu tiên) phải đạt từ 18,00 điểm trở lên đối với các ngành Công nghệ sinh học (đại trà và chất lượng cao), Công tác xã hội, Xã hội học, Đông Nam Á học. Các ngành còn lại từ 20,00 điểm trở lên.
 {% endhint %}
 
-![Phương thức 6](<../.gitbook/assets/image (2).png>)
+![Phương thức 6](<../.gitbook/assets/image (2) (1).png>)
 
 Nếu thấy công thức khó khăn, vui lòng vào[ "Công cụ tính điểm xét tuyển"](cong-cu-tinh-diem-xet-tuyen.md) để tính
 

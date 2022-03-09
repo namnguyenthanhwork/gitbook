@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Sổ tay hướng dẫn tuyển sinh](README.md)
+* [Câu lạc bộ](cau-lac-bo.md)
 
 ## Thông tin tuyển sinh
 
@@ -9,6 +10,7 @@
 * [Q\&A tuyển sinh](thong-tin-tuyen-sinh/q-and-a-tuyen-sinh.md)
 * [Xác nhận nhập học](thong-tin-tuyen-sinh/xac-nhan-nhap-hoc.md)
 * [Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm](thong-tin-tuyen-sinh/chi-tieu-hoc-phi-2022-and-diem-chuan-cac-nam.md)
+* [Địa điểm học tập](thong-tin-tuyen-sinh/dia-diem-hoc-tap.md)
 
 ## Hướng dẫn hồ sơ tuyển sinh
 
@@ -64,3 +66,20 @@
 * [Liên kết Đại học Rouen Normandie, Pháp](chuong-trinh-lien-ket/lien-ket-dai-hoc-rouen-normandie-phap.md)
 * [Liên kết Đại học Flinders, Úc](chuong-trinh-lien-ket/lien-ket-dai-hoc-flinders-uc.md)
 * [Liên kết Đại học Bond, Úc](chuong-trinh-lien-ket/lien-ket-dai-hoc-bond-uc.md)
+
+## Chia sẻ
+
+* [Canva Education](chia-se/canva-education.md)
+* [Notion personal pro (Education)](chia-se/notion-personal-pro-education.md)
+* [Một số kinh nghiệm đạt học bổng khuyến khích học tập](chia-se/mot-so-kinh-nghiem-dat-hoc-bong-khuyen-khich-hoc-tap.md)
+* [Template kho tài liệu tiếng anh tự học](chia-se/template-kho-tai-lieu-tieng-anh-tu-hoc.md)
+
+## Review
+
+* [Ngành ngôn ngữ anh tại đại học Mở tp.HCM](review/nganh-ngon-ngu-anh-tai-dai-hoc-mo-tp.hcm.md)
+* [Review cơ sở 371 Nguyễn Kiệm](review/review-co-so-371-nguyen-kiem.md)
+* [Ngôn ngữ Anh năm nhất cần chuẩn bị gì ?](review/ngon-ngu-anh-nam-nhat-can-chuan-bi-gi.md)
+* [Review cơ sở Mai Thị Lựu](review/review-co-so-mai-thi-luu.md)
+* [Review kiểm tra anh văn đầu vào](review/review-kiem-tra-anh-van-dau-vao.md)
+* [Review quân sự](review/review-quan-su.md)
+* [Mẹo thuê phòng trọ](review/meo-thue-phong-tro.md)
