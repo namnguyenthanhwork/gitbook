@@ -64,8 +64,8 @@
 ## CHƯƠNG TRÌNH LIÊN KẾT
 
 * [Liên kết Đại học Rouen Normandie, Pháp](chuong-trinh-lien-ket/lien-ket-dai-hoc-rouen-normandie-phap.md)
-* [Liên kết Đại học Flinders, Úc](chuong-trinh-lien-ket/lien-ket-dai-hoc-flinders-uc.md)
 * [Liên kết Đại học Bond, Úc](chuong-trinh-lien-ket/lien-ket-dai-hoc-bond-uc.md)
+* [Liên kết Đại học Flinders, Úc](chuong-trinh-lien-ket/lien-ket-dai-hoc-flinders-uc.md)
 
 ## Chia sẻ
 

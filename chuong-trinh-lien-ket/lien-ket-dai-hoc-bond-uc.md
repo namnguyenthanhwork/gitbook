@@ -1,47 +1,152 @@
 ---
 description: XÁC NHẬN NHẬP HỌC - Hiểu đúng về cụm từ này
-cover: ../.gitbook/assets/1110x475-Ngành TS 2022.jpg
-coverY: 96.8586387434555
+cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
+coverY: 56.742081447963805
 ---
 
 # Liên kết Đại học Bond, Úc
 
-Trong những năm gần đây, thí sinh xét tuyển được lựa chọn nhiều hình thức xét tuyển như xét tuyển bằng học bạ, điểm kì thi ĐGNL, UTXT, điểm thi kì thi THPTQG,... và một số hình thức khác. Tuy nhiên, thời gian nhập học của các phương thức trên đều có trước kết quả trúng tuyển bằng hình thức xét tuyển điểm thi THPTQ
-
-## **1. XÁC NHẬN NHẬP HỌC LÀ GÌ ?**
-
 {% hint style="info" %}
-Xác nhận nhập học là việc thí sinh chính thức chọn trường đó để học
+**THÔNG BÁO**
+
+**Tuyển sinh Chương trình liên kết quốc tế Đại học Bond, Úc - Khóa 2 - Năm 2022**
 {% endhint %}
 
-## **2. THỜI GIAN XÁC NHẬN NHẬP HỌC**
+Trường Đại học Mở Thành phố Hồ Chí Minh thông báo tuyển sinh Chương trình liên kết quốc tế Đại học Bond, Úc khóa 2 - năm 2022 với các thông tin chi tiết như sau:
 
-{% hint style="info" %}
-Thí sinh trúng tuyển phải xác nhận nhập học trong thời hạn quy định.Quá thời hạn này, thí sinh không xác nhận nhập học được xem như từ chối nhập học và trường được xét tuyển thí sinh khác trong đợt xét tuyển bổ sung;Thời gian của các phương thức học bạ, UTXT,.. sẽ có hết hạn trước khi có điểm chuẩn của phương thức điểm thi THPTQG. Do vậy, các bạn nên lưu ý để tránh bỏ qua cơ hội cho bản thân mìnhHơn thế, các bạn phải cập nhật thời gian cụ thể ở trường mình xét tuyển. Vì mỗi trường sẽ có thời gian cụ thể khác nhau
-{% endhint %}
+### **1. NGÀNH TUYỂN SINH**
 
-## **3. KHI XÁC NHẬN NHẬP HỌC, CÁC NGUYỆN VỌNG KHÁC CỦA EM SẼ NHƯ THẾ NÀO ?**
+**a)  Cử nhân kinh doanh**: Các chuyên ngành đào tạo:
 
-{% hint style="info" %}
-Xin thưa, theo cơ chế tuyển sinh mới trong những năm nay thì một khi thí sinh XÁC NHẬN NHẬP HỌC thì dữ liệu thí sinh sẽ được đưa lên hệ thống và gửi về BGDNhững nguyện vọng khác, xét tuyển bằng hình thức nào không quan trọng thì SẼ KHÔNG ĐƯỢC XÉT TUYỂN (mặc dù điểm của em cao hơn điểm chuẩn)
-{% endhint %}
+* Quản trị kinh doanh;
+* Quản trị du lịch.
 
-## **4. XÁC NHẬN NHẬP HỌC NHƯ THẾ NÀO**
+**b) Cử nhân thương mại**: Chuyên ngành đào tạo:
 
-{% hint style="info" %}
-Tùy trường mà sẽ có cách thức nhập học khác nhau. Các bạn nên xem thông tin từ trường để có hướng dẫn cụ thểThông thường có 2 cách nhập học: Trực tiếp và Online.
-{% endhint %}
+* Dữ liệu lớn – Big Data.
 
-## **5. LƯU Ý (QUAN ĐIỂM CÁ NHÂN)**
+### **2. VĂN BẰNG TỐT NGHIỆP**
 
-{% hint style="info" %}
-Hãy suy nghĩ thật kĩ về vấn đề mình thích gì và mình muốn gì trước khi xác nhận nhập học nhé!Nên nhớ rằng, xét tuyển bằng điểm thi THPT sẽ là cơ hội cuối cùng của tất cả các nguyện vọng. Vì vậy, đừng để một phút đánh liều của bản thân mà để lại tiếc nuốiChúng ta 18 tuổi rồi, đủ trưởng thành và chính chắn để nghiêm túc suy nghĩ về tương lai của chính chúng ta! Hy vọng mọi người sẽ đưa ra quyết định tốt nhất cho chính mình
-{% endhint %}
+Bằng tốt nghiệp Cử nhân Kinh doanh (Bachelor of Business), Cử nhân Thương mại (Bachelor of Commerce), do Đại học Bond cấp sau khi sinh viên hoàn thành giai đoạn 2 tại Đại học Bond.
+
+### **3. HÌNH THỨC ĐÀO TẠO**
+
+Chính quy
+
+### **4. THỜI GIAN & CHƯƠNG TRÌNH ĐÀO TẠO**
+
+Chương trình chia làm hai giai đoạn:
+
+* Giai đoạn 1:  1.5 năm (5 học kỳ – 3 học kỳ/năm học) tại Trường Đại học Mở Thành phố Hồ Chí Minh.
+* Giai đoạn 2:  1 năm (3 học kỳ) đến 1,5 năm (04 học kỳ) tại Đại học Bond.
+
+Thí sinh tiếp tục theo học giai đoạn 2 sau khi hoàn tất chương trình giai đoạn 1, đạt chứng chỉ tiếng Anh IELTS 6.5 (trong đó không có kỹ năng nào dưới 6.0) và đạt yêu cầu visa của lãnh sự quán Úc.
+
+### **5.  ĐỐI TƯỢNG TUYỂN SINH**
+
+Những người có đủ sức khỏe để học tập, không trong thời gian thi hành án và đảm bảo một trong các điều kiện dưới đây được tham gia xét tuyển:
+
+a) Có bằng tốt nghiệp Trung học phổ thông (THPT); tốt nghiệp chương trình THPT của nước ngoài đã được nước sở tại cho phép thực hiện, đạt trình độ tương đương trình độ THPT của Việt Nam, ở nước ngoài hoặc ở Việt Nam;
+
+Xét tuyển thẳng cho các đối tượng sau:
+
+b) Tốt nghiệp THPT và có chứng chỉ tiếng Anh quốc tế IELTS 4.5 trở lên hoặc tương đương;
+
+c) Có bằng Tú tài quốc tế International Baccalaureate (IB) với tổng điểm từ 26 trở lên;
+
+d) Có Chứng chỉ quốc tế A-Level của Trung tâm Khảo thí Đại học Cambridge, Anh theo điểm 03 môn thi (trở lên) đảm bảo mức điểm mỗi môn thi đạt từ điểm C trở lên;
+
+e) Có kết quả trong kỳ thi chuẩn hóa SAT (Scholastic Assessment Test, Hoa Kỳ) đạt điểm từ 1100/1600.
+
+### **6. PHẠM VI TUYỂN SINH**
+
+Toàn quốc và quốc tế.
+
+### **7.  PHƯƠNG THỨC TUYỂN SINH**
+
+Xét tuyển.
+
+**a) Giai đoạn 1:**
+
+Thí sinh có chứng chỉ tiếng Anh quốc tế IELTS từ 4.5 trở lên hoặc tương đương theo bảng dưới đây hoặc đạt kỳ kiểm tra tiếng Anh đầu vào của chương trình do Trường Đại học Mở Thành phố Hồ Chí Minh tổ chức.
+
+&#x20;    Bảng quy đổi chứng chỉ ngoại ngữ tương đương:
+
+| IELTS | TOEFL iBT | TOEFL ITP |                     Cambridge                     |  TOEIC  |
+| :---: | :-------: | :-------: | :-----------------------------------------------: | :-----: |
+|  4.5  |   53-60   |  475-499  | <p>45-59 FCE</p><p>65-79 PET</p><p>90-100 KET</p> | 505-550 |
+
+**b) Giai đoạn 2:**
+
+* Hoàn thành Giai đoạn 1;
+* Đạt chứng chỉ IELTS từ 6,5 trở lên theo bảng dưới đây:
+
+|                        Ngành học                       |          IELTS Academic requirement         |
+| :----------------------------------------------------: | :-----------------------------------------: |
+| <p>Bachelor of Business</p><p>Bachelor of Commerce</p> | Overall 6.5 with no sub score less than 6.0 |
+
+* Đạt yêu cầu về visa của Lãnh sự quán Úc.
+
+### **8.  KIỂM TRA TIẾNG ANH ĐẦU VÀO**
+
+Các thí sinh không có chứng chỉ tiếng Anh quốc tế phải tham dự kỳ kiểm tra tiếng Anh đầu vào tương đương trình độ B1.
+
+**a) Cấu trúc bài kiểm tra**
+
+Đề bài gồm 02 phần
+
+* Phần 01: Structure and Written Expression (40 câu);
+* Phần 02: Reading Comprehension (20 câu).
+
+**b) Thời gian làm bài**: **** 75 phút
+
+**c) Thang điểm và điểm đạt:** Bài kiểm tra được chấm theo thang điểm 10; điểm 5,0 là điểm đạt.
+
+### **9. ĐỊA ĐIỂM HỌC TẬP**
+
+**a) Giai đoạn 1:** Học tại Trường Đại học Mở Thành phố Hồ Chí Minh (cơ sở 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh).
+
+**b) Giai đoạn 2:** Học tại Đại học Bond, Úc.
+
+### **10. HỌC PHÍ – PHƯƠNG THỨC ĐÓNG**
+
+**a) Học phí**
+
+Học phí giai đoạn 1:
+
+* Đối với sinh viên Việt Nam:  19 triệu đồng/học kỳ. Tổng học phí cho giai đoạn 1: 5 học kỳ: 95 triệu đồng.
+* Đối với sinh viên quốc tế:  38 triệu đồng/học kỳ. Tổng học phí cho giai đoạn 1: 5 học kỳ: 190 triệu đồng.
+
+Học phí giai đoạn 2: theo chính sách của Đại học Bond.
+
+**b) Phương thức đóng học phí (giai đoạn 1)**
+
+**Đối với sinh viên Việt Nam:** Học phí giai đoạn 1 ngành Cử nhân Kinh doanh & Cử nhân Thương mại được đóng theo học kỳ. Mỗi học kỳ là 19 triệu đồng.
+
+**Đối với sinh viên quốc tế:** Học phí giai đoạn 1 ngành Cử nhân Kinh doanh & Cử nhân Thương mại được đóng theo học kỳ. Mỗi học kỳ là 38 triệu đồng.
+
+Sinh viên nộp tiền mặt trực tiếp cho Trường hoặc chuyển khoản theo thông tin:
+
+**Tên tài khoản:** Trường Đại học Mở Thành phố Hồ Chí Minh
+
+**Số tài khoản:** **1900 2010 31556**
+
+**Tại Ngân hàng:** Nông nghiệp và Phát triển nông thôn, chi nhánh Trung tâm Sài Gòn.
+
+### 11. **LỊCH TUYỂN SINH**
+
+a) Ngày bắt đầu nhận hồ sơ đăng ký: 05/04/2022.
+
+b) Ngày nhập học (dự kiến): 15/09/2022.
+
+**MỌI CHI TIẾT LIÊN HỆ: CHƯƠNG TRÌNH LIÊN KẾT QUỐC TẾ**
+
+KHOA ĐÀO TẠO ĐẶC BIỆT
+
+PHÒNG 007, 97 VÕ VĂN TẦN, P. VÕ THỊ SÁU, QUẬN 3, TP. HỒ CHÍ MINH
+
+ĐIỆN THOẠI: 028 3930 9918
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}
-Link group
-{% endembed %}
-
-{% embed url="https://www.facebook.com/NguyenThanhNam1601" %}
-Tác giả
+Tham gia group để cập nhật thông tin tuyển sinh mới nhất
 {% endembed %}
