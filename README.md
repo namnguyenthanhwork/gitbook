@@ -94,7 +94,11 @@ Cuối cùng, hy vọng các bạn có lựa chọn vào OU muốn có những c
 > Bài viết này không nhằm công kích bất kỳ cá nhân hay tổ chức nào.
 
 {% hint style="info" %}
-Bài viết khác: [https://www.facebook.com/groups/oumembers/posts/1429874620762475/](https://www.facebook.com/groups/oumembers/posts/1429874620762475/?\_\_cft\_\_\[0]=AZXkW7fm-nu0f0FaWcbPxmyDiDuFRSeHEJIHgyPnim-NGh3t\_5Fgc7XaxLPlORWdVHX8XcfJvEMOlrzm-Bz4SHhCItkB8biGjUaqgAtIztXo2\_SVovgVi-oOIUNtBD4Qmgo&\_\_tn\_\_=%2CO%2CP-R)
+Bài viết khác (1): [https://www.facebook.com/groups/oumembers/posts/1429874620762475/](https://www.facebook.com/groups/oumembers/posts/1429874620762475/?\_\_cft\_\_\[0]=AZXkW7fm-nu0f0FaWcbPxmyDiDuFRSeHEJIHgyPnim-NGh3t\_5Fgc7XaxLPlORWdVHX8XcfJvEMOlrzm-Bz4SHhCItkB8biGjUaqgAtIztXo2\_SVovgVi-oOIUNtBD4Qmgo&\_\_tn\_\_=%2CO%2CP-R)
+{% endhint %}
+
+{% hint style="info" %}
+Bài viết khác (2): [https://www.facebook.com/groups/oumembers/posts/1442544796162124/](https://www.facebook.com/groups/oumembers/posts/1442544796162124/)
 {% endhint %}
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}
