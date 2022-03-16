@@ -1,6 +1,6 @@
 ---
 description: Giới thiệu khoa Đào tạo đặc biệt (Các ngành CLC)
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
+cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
 coverY: 0
 ---
 
@@ -67,11 +67,13 @@ Chương trình chất lượng cao khác chương trình đại trà là:
 
 ## Ngành và chuyên ngành đào tạo
 
-![](<../.gitbook/assets/10 - Ngành Quản Trị Kinh Doanh.png>) ![](<../.gitbook/assets/11 - Marketing.png>) ![](<../.gitbook/assets/12 - Marketing.png>) ![](<../.gitbook/assets/13 - Kinh doanh quốc tế.png>) ![](<../.gitbook/assets/14 - Kinh doanh quốc tế.png>) ![](<../.gitbook/assets/15 - Ngành Tài chính ngân hàng.png>) ![](<../.gitbook/assets/16 - Tài chính.png>) ![](<../.gitbook/assets/17- Tài chính.png>) ![](<../.gitbook/assets/18 - Tài chính.png>) ![](<../.gitbook/assets/19 - Ngân hàng.png>) ![](<../.gitbook/assets/20 - Ngân hàng.png>) ![](<../.gitbook/assets/21 - Ngân hàng.png>) ![](<../.gitbook/assets/22 - Ngành Kế Toán.png>) ![](<../.gitbook/assets/23 - Kế toán.png>) ![](<../.gitbook/assets/24 - Kế toán.png>) ![](<../.gitbook/assets/25 - Kiểm toán.png>) ![](<../.gitbook/assets/26 -  Kiểm toán.png>) ![](<../.gitbook/assets/27 - Công nghệ sinh học.png>) ![](<../.gitbook/assets/28 - Công nghệ sinh học.png>) ![](<../.gitbook/assets/29 - Luật kinh tế.png>) ![](<../.gitbook/assets/30 - Luật kinh tế.png>) ![](<../.gitbook/assets/31 - Luật kinh tế.png>) ![](<../.gitbook/assets/32 - Luật kinh tế.png>) ![](<../.gitbook/assets/33 - Luật kinh tế.png>) ![](<../.gitbook/assets/34 - Ngành Khoa Học Máy Tính.png>) ![](<../.gitbook/assets/35 - Khoa học máy tính.png>) ![](<../.gitbook/assets/36 - Khoa học máy tính.png>) ![](<../.gitbook/assets/37 - Khoa học máy tính.png>) ![](<../.gitbook/assets/38 - Khoa học máy tính.png>) ![](<../.gitbook/assets/39 - CNKT – Công trình xây dựng .png>) ![](<../.gitbook/assets/40 - CNKT – Công trình xây dựng .png>) ![](<../.gitbook/assets/41 - Ngành Ngôn Ngữ Anh.png>) ![](<../.gitbook/assets/42 - Ngành Ngôn Ngữ Anh.png>) ![](<../.gitbook/assets/43 - Ngôn ngữ Trung.png>) ![](<../.gitbook/assets/44 - Ngôn ngữ Trung.png>) ![](<../.gitbook/assets/45 - Ngôn ngữ Nhật.png>) ![](<../.gitbook/assets/46 - Ngôn ngữ Nhật.png>) ![](<../.gitbook/assets/47 - Ngôn ngữ Nhật.png>)
+### Ngành Quản Trị Kinh Doanh (Mã ngành: 7340101C)
+
+
 
 ## Học phí
 
-![](<../.gitbook/assets/48 - học phí.png>)
+![](<../../.gitbook/assets/48 - học phí.png>)
 
 
 

@@ -22,7 +22,8 @@
 
 ## Giới thiệu khoa - ngành đào tạo
 
-* [Khoa Đào tạo đặc biệt (Các ngành CLC)](gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc.md)
+* [Khoa Đào tạo đặc biệt (Các ngành CLC)](gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/README.md)
+  * [Ngành Quản Trị Kinh Doanh](gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-quan-tri-kinh-doanh.md)
 * [Khoa Kế toán - Kiểm toán](gioi-thieu-khoa-nganh-dao-tao/khoa-ke-toan-kiem-toan/README.md)
   * [Ngành Kế toán](gioi-thieu-khoa-nganh-dao-tao/khoa-ke-toan-kiem-toan/nganh-ke-toan.md)
   * [Ngành Kiểm toán](gioi-thieu-khoa-nganh-dao-tao/khoa-ke-toan-kiem-toan/nganh-kiem-toan.md)
