@@ -67,9 +67,45 @@ Chương trình chất lượng cao khác chương trình đại trà là:
 
 ## Ngành và chuyên ngành đào tạo
 
-### Ngành Quản Trị Kinh Doanh (Mã ngành: 7340101C)
+{% content-ref url="nganh-quan-tri-kinh-doanh-clc.md" %}
+[nganh-quan-tri-kinh-doanh-clc.md](nganh-quan-tri-kinh-doanh-clc.md)
+{% endcontent-ref %}
 
+{% content-ref url="nganh-tai-chinh-ngan-hang-clc.md" %}
+[nganh-tai-chinh-ngan-hang-clc.md](nganh-tai-chinh-ngan-hang-clc.md)
+{% endcontent-ref %}
 
+{% content-ref url="nganh-ke-toan-clc.md" %}
+[nganh-ke-toan-clc.md](nganh-ke-toan-clc.md)
+{% endcontent-ref %}
+
+{% content-ref url="nganh-cong-nghe-sinh-hoc-clc.md" %}
+[nganh-cong-nghe-sinh-hoc-clc.md](nganh-cong-nghe-sinh-hoc-clc.md)
+{% endcontent-ref %}
+
+{% content-ref url="nganh-luat-kinh-te-clc.md" %}
+[nganh-luat-kinh-te-clc.md](nganh-luat-kinh-te-clc.md)
+{% endcontent-ref %}
+
+{% content-ref url="nganh-khoa-hoc-may-tinh-clc.md" %}
+[nganh-khoa-hoc-may-tinh-clc.md](nganh-khoa-hoc-may-tinh-clc.md)
+{% endcontent-ref %}
+
+{% content-ref url="nganh-cnkt-cong-trinh-xay-dung-clc.md" %}
+[nganh-cnkt-cong-trinh-xay-dung-clc.md](nganh-cnkt-cong-trinh-xay-dung-clc.md)
+{% endcontent-ref %}
+
+{% content-ref url="nganh-ngon-ngu-anh-clc.md" %}
+[nganh-ngon-ngu-anh-clc.md](nganh-ngon-ngu-anh-clc.md)
+{% endcontent-ref %}
+
+{% content-ref url="nganh-ngon-ngu-nhat-clc.md" %}
+[nganh-ngon-ngu-nhat-clc.md](nganh-ngon-ngu-nhat-clc.md)
+{% endcontent-ref %}
+
+{% content-ref url="nganh-ngon-ngu-trung-clc.md" %}
+[nganh-ngon-ngu-trung-clc.md](nganh-ngon-ngu-trung-clc.md)
+{% endcontent-ref %}
 
 ## Học phí
 

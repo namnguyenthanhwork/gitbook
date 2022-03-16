@@ -28,10 +28,6 @@ Khoa Công Nghệ Thông Tin (CNTT) được thành lập từ tháng 09/1990, 
 [nganh-cong-nghe-thong-tin.md](nganh-cong-nghe-thong-tin.md)
 {% endcontent-ref %}
 
-{% content-ref url="nganh-khoa-hoc-may-tinh-chat-luong-cao.md" %}
-[nganh-khoa-hoc-may-tinh-chat-luong-cao.md](nganh-khoa-hoc-may-tinh-chat-luong-cao.md)
-{% endcontent-ref %}
-
 ## Thông tin liên hệ
 
 {% hint style="info" %}
