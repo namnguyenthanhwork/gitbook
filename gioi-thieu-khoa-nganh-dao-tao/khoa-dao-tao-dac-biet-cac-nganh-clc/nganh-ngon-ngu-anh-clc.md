@@ -33,6 +33,12 @@ Cơ hội việc làm
 * Nhân viên phục vụ mặt đất ở sân bay, nhân viên đại lý lữ hành, hướng dẫn viên du lịch, nhân viên lễ tân khách sạn và nhân viên phục vụ nhà hàng (sau khi bổ sung các chứng chỉ nghiệp vụ liên quan)
 {% endhint %}
 
+### 1Infographic
+
+![](<../../.gitbook/assets/41 - Ngành Ngôn Ngữ Anh.png>)
+
+![](<../../.gitbook/assets/42 - Ngành Ngôn Ngữ Anh.png>)
+
 ### Học phí
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)

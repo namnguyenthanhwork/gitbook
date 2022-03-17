@@ -65,6 +65,18 @@ Cơ hội việc làm
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)
 
+### Infographic
+
+![](<../../.gitbook/assets/34 - Ngành Khoa Học Máy Tính.png>)
+
+![](<../../.gitbook/assets/35 - Khoa học máy tính.png>)
+
+![](<../../.gitbook/assets/36 - Khoa học máy tính.png>)
+
+![](<../../.gitbook/assets/37 - Khoa học máy tính.png>)
+
+![](<../../.gitbook/assets/38 - Khoa học máy tính.png>)
+
 ### Thông tin liên hệ
 
 {% hint style="info" %}

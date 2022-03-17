@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
 coverY: 0
 ---
 
-# Ngành Quản Trị Kinh Doanh
+# Ngành Quản Trị Kinh Doanh CLC
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
 
@@ -58,6 +58,18 @@ Sinh viên tốt nghiệp chuyên ngành Kinh doanh quốc tế có thể đảm
 ### Học phí
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)
+
+### Infographic
+
+![Ngành Quản Trị Kinh Doanh](<../../.gitbook/assets/10 - Ngành Quản Trị Kinh Doanh.png>)
+
+![](<../../.gitbook/assets/11 - Marketing.png>)
+
+![](<../../.gitbook/assets/12 - Marketing.png>)
+
+![](<../../.gitbook/assets/13 - Kinh doanh quốc tế.png>)
+
+![](<../../.gitbook/assets/14 - Kinh doanh quốc tế.png>)
 
 ### Thông tin liên hệ
 

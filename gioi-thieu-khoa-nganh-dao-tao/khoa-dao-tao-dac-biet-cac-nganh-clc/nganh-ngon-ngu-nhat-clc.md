@@ -31,6 +31,14 @@ Cơ hội việc làm
 * Vị trí khác: Công tác tại các cơ quan như Đại sứ quán, Lãnh sự quán Nhật Bản hay các tổ chức, cơ quan Việt Nam hợp tác với Nhật Bản có nhu cầu tuyển dụng nhân viên biết tiếng Nhật.
 {% endhint %}
 
+45Infographic
+
+![](<../../.gitbook/assets/45 - Ngôn ngữ Nhật.png>)
+
+![](<../../.gitbook/assets/46 - Ngôn ngữ Nhật.png>)
+
+![](<../../.gitbook/assets/47 - Ngôn ngữ Nhật.png>)
+
 ### Học phí
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)

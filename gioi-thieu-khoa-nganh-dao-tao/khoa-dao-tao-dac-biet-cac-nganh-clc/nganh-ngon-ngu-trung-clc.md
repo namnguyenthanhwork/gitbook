@@ -31,6 +31,12 @@ Cơ hội việc làm
 * Học lên bậc học thạc sĩ các ngành liên quan tiếng Trung Quốc.
 {% endhint %}
 
+### Infographic
+
+![](<../../.gitbook/assets/43 - Ngôn ngữ Trung.png>)
+
+![](<../../.gitbook/assets/44 - Ngôn ngữ Trung.png>)
+
 ### Học phí
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)

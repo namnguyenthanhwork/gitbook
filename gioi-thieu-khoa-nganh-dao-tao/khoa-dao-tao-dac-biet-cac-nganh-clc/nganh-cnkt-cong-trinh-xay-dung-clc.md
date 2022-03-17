@@ -41,6 +41,12 @@ Cơ hội việc làm
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)
 
+### Infographic
+
+![](<../../.gitbook/assets/39 - CNKT – Công trình xây dựng .png>)
+
+![](<../../.gitbook/assets/40 - CNKT – Công trình xây dựng .png>)
+
 ### Thông tin liên hệ
 
 {% hint style="info" %}

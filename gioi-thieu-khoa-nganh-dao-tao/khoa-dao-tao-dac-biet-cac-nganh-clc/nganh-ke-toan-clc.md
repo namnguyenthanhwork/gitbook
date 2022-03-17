@@ -65,6 +65,18 @@ Chương trình đào tạo chuyên ngành Kiểm Toán được thiết kế ba
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)
 
+### Infographic
+
+![](<../../.gitbook/assets/22 - Ngành Kế Toán.png>)
+
+![](<../../.gitbook/assets/23 - Kế toán.png>)
+
+![](<../../.gitbook/assets/24 - Kế toán.png>)
+
+![](<../../.gitbook/assets/25 - Kiểm toán.png>)
+
+![](<../../.gitbook/assets/26 -  Kiểm toán.png>)
+
 ### Thông tin liên hệ
 
 {% hint style="info" %}
