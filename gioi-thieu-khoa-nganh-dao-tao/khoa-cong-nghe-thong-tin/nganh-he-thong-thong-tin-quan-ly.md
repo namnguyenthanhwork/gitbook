@@ -11,32 +11,50 @@ coverY: 0
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}
-Ngày 17/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
+Ngành Hệ thống thông tin quản lý đào tạo các cử nhân có kiến thức chuyên sâu về hệ thống thông tin quản lý; có khả năng vận dụng các kiến thức cơ bản của lĩnh vực CNTT, các kiến thức về kinh tế và quản trị vào quản lý các hệ thống thông tin trong doanh nghiệp.
 {% endhint %}
-
-## Chuyên ngành
 
 {% hint style="info" %}
-Ngày 17/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
+Chương trình đào tạo đại học của các ngành xấp xỉ 131 tín chỉ với thời gian đào tạo là 4 năm. Sinh viên tốt nghiệp bằng Cử Nhân sau 4 năm học tập.
+
+**Chương trình đào tạo gồm hai khối kiến thức chính:**
+
+* **Khối kiến thức giáo dục đại cương** bao gồm các môn học cơ sở về tin học (cơ sở lập trình, nhập môn tin học …), các môn học công cụ như toán, tin học, ngoại ngữ, giáo dục thể chất và quốc phòng…
+* **Khối kiến thức chuyên nghiệp** bao gồm các môn học cơ sở ngành và chuyên ngành như:
+  * Nhập môn lập trình, kỹ thuật lập trình
+  * Cấu trúc dữ liệu và thuật giải
+  * Quản trị học
+  * Cơ sở dữ liệu, phân tích thiết kế hệ thống
+  * ......
 {% endhint %}
 
-## Cơ hội việc làm
+Khi vào giai đoạn chuyên ngành, sinh viên được chọn chuyên ngành phù hợp với năng lực và nguyện vọng. Với mỗi định hướng, sinh viên sẽ chọn những môn học phù hợp để sau khi ra trường có thể thích ứng nhanh chóng với môi trường làm việc.
+
+Trước khi ra trường, sinh viên phải trải qua một kỳ thực tập tại các doanh nghiệp, cơ quan, hoạt động trong lĩnh vực CNTT nhằm thực hành việc vận dụng lý thuyết vào thực tế. Sinh viên có thể chủ động lựa chọn đơn vị thực tập phù hợp với định hướng nghề nghiệp sau khi ra trường.
+
+## Chuyên ngành - Cơ hội việc làm
 
 {% hint style="info" %}
-Ngày 17/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
+Sau khi học xong chương trình, cử nhân ngành Hệ thống thông tin quản lý có thể làm việc ở các vị trí sau:
+
+* **Hướng Kinh tế - quản trị:** Chuyên viên CNTT giải quyết các bài toán kinh tế và quản trị như marketing, nhân sự, kinh doanh, hoạch định nguồn lực doanh nghiệp ERP.
+* **Hướng Công nghệ thông tin:** Chuyên viên quản trị và vận hành các hệ thống thông tin; Chuyên viên phân tích và quản trị cơ sở dữ liệu; Lập trình viên; Kiểm thử viên phần mềm; Chuyên viên tư vấn, đào tạo, nghiên cứu về hệ thống thông tin.
 {% endhint %}
 
-## Sự khác biệt của chương trình đào tạo
+## Học phí
 
-{% hint style="info" %}
-Ngày 17/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
-{% endhint %}
+| NGÀNH/NHÓM NGÀNH                                                                                                                                                                  | MỨC HỌC PHÍ BÌNH QUÂN      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| CÔNG NGHỆ SINH HỌC, CÔNG NGHỆ THỰC PHẨM                                                                                                                                           | 24,000,000/1 NĂM/SINH VIÊN |
+| CÔNG NGHỆ KỸ THUẬT CÔNG TRÌNH XÂY DỰNG, QUẢN LÝ XÂY DỰNG                                                                                                                          | 25,000,000/1 NĂM/SINH VIÊN |
+| KHOA HỌC MÁY TÍNH, HỆ THỐNG THÔNG TIN QUẢN LÝ, CÔNG NGHỆ THÔNG TIN                                                                                                                | 25,000,000/1 NĂM/SINH VIÊN |
+| KẾ TOÁN, KIỂM TOÁN,TÀI CHÍNH - NGÂN HÀNG, QUẢN TRỊ KINH DOANH, MARKETING, KINH DOANH QUỐC TẾ, QUẢN TRỊ NHÂN LỰC, LUẬT, LUẬT KINH TẾ, LOGISTICS VÀ QUẢN LÝ CHUỖI CUNG ỨNG, DU LỊCH | 23,000,000/1 NĂM/SINH VIÊN |
+| KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
+| NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
 
-## Hoạt động sinh viên
+## Infographic
 
-{% hint style="info" %}
-Ngày 17/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
-{% endhint %}
+![](<../../.gitbook/assets/1 - tiêu đề (1).png>) ![](<../../.gitbook/assets/2 - giới thiệu chung.png>) ![](<../../.gitbook/assets/3 - ngành - chuyên ngành (2).png>) ![](<../../.gitbook/assets/4 - việc làm (2).png>) ![](<../../.gitbook/assets/5 - chuyên ngành - việc làm.png>) ![](<../../.gitbook/assets/6 - chuyên ngành - việc làm.png>) ![](<../../.gitbook/assets/7 - tỷ lệ việc làm.png>) ![](<../../.gitbook/assets/8 - nd ctdt.png>) ![](<../../.gitbook/assets/9 - nd ctdt (2).png>) ![](<../../.gitbook/assets/10 - nd ctdt (2).png>) ![](<../../.gitbook/assets/12 - HỌC PHÍ.png>) ![](<../../.gitbook/assets/13 - HỌC PHÍ (1).png>)
 
 ## Thông tin liên hệ
 
