@@ -21,7 +21,7 @@ Chương trình đào tạo ngành Khoa Học Máy Tính được thiết kế b
   * ......
 
 {% hint style="info" %}
-Hướng Cơ sở dữ liệu: gồm các môn chuyên ngành như:
+**Hướng Cơ sở dữ liệu: gồm các môn chuyên ngành như:**
 
 * Cơ sở dữ liệu nâng cao
 * Lập trình cơ sở dữ liệu
@@ -30,7 +30,7 @@ Hướng Cơ sở dữ liệu: gồm các môn chuyên ngành như:
 {% endhint %}
 
 {% hint style="info" %}
-Hướng Mạng máy tính: gồm các môn chuyên ngành như:
+**Hướng Mạng máy tính: gồm các môn chuyên ngành như:**
 
 * Mạng máy tính nâng cao
 * Lập trình mạng
@@ -38,7 +38,7 @@ Hướng Mạng máy tính: gồm các môn chuyên ngành như:
 * Quản trị mạng
 {% endhint %}
 
-Ngoài ra còn có các môn học tự chọn như:
+Ngoài **ra còn có các môn học tự chọn như:**
 
 * Trí tuệ nhân tạo
 * An toàn hệ thống thông tin
@@ -48,7 +48,7 @@ Ngoài ra còn có các môn học tự chọn như:
 * Các công nghệ lập trình hiện đại
 
 {% hint style="info" %}
-Cơ hội việc làm
+**Cơ hội việc làm**
 
 * Lập trình viên/ Chuyên viên phát triển phần mềm (Programmer/ Software Developer);
 * Chuyên viên quản trị, vận hành hệ thống (System Administrator);
@@ -67,15 +67,15 @@ Cơ hội việc làm
 
 ### Infographic
 
-![](<../../.gitbook/assets/34 - Ngành Khoa Học Máy Tính.png>)
+![1](<../../.gitbook/assets/34 - Ngành Khoa Học Máy Tính.png>)
 
-![](<../../.gitbook/assets/35 - Khoa học máy tính.png>)
+![2](<../../.gitbook/assets/35 - Khoa học máy tính.png>)
 
-![](<../../.gitbook/assets/36 - Khoa học máy tính.png>)
+![3](<../../.gitbook/assets/36 - Khoa học máy tính.png>)
 
-![](<../../.gitbook/assets/37 - Khoa học máy tính.png>)
+![4](<../../.gitbook/assets/37 - Khoa học máy tính.png>)
 
-![](<../../.gitbook/assets/38 - Khoa học máy tính.png>)
+![5](<../../.gitbook/assets/38 - Khoa học máy tính.png>)
 
 ### Thông tin liên hệ
 

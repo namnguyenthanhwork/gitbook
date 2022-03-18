@@ -32,9 +32,9 @@ Chương trình đào tạo chuyên ngành Kế Toán được thiết kế bao 
 {% hint style="info" %}
 **Cơ hội việc làm**
 
-* Vị trí việc làm 1: Kế toán các phần hành tại các doanh nghiệp như Kế toán kho, Kế toán công nợ, Kế toán giá thành, Kế toán tiền lương, Kế toán thuế.
-* Vị trí việc làm 2: Kế toán viên tại các tổ chức tài chính và công ty chứng khoán như Ngân hàng, Quỹ đầu tư.
-* Vị trí việc làm 3: Kế toán viên tại các đơn vị hành chính sự nghiệp, các đơn vị công ích như trường học, bệnh viện..
+* **Vị trí việc làm 1:** Kế toán các phần hành tại các doanh nghiệp như Kế toán kho, Kế toán công nợ, Kế toán giá thành, Kế toán tiền lương, Kế toán thuế.
+* **Vị trí việc làm 2:** Kế toán viên tại các tổ chức tài chính và công ty chứng khoán như Ngân hàng, Quỹ đầu tư.
+* **Vị trí việc làm 3:** Kế toán viên tại các đơn vị hành chính sự nghiệp, các đơn vị công ích như trường học, bệnh viện..
 {% endhint %}
 
 ### Chuyên ngành Kiểm Toán
@@ -54,11 +54,11 @@ Chương trình đào tạo chuyên ngành Kiểm Toán được thiết kế ba
 {% hint style="info" %}
 **Cơ hội việc làm**
 
-* Vị trí việc làm 1: Trợ lý kiểm toán cho các công ty cung cấp dịch vụ chuyên nghiệp về kiểm toán, kế toán và tư vấn tài chính - kế toán - thuế.
-* Vị trí việc làm 2: Kiểm toán viên nội bộ, Nhân viên ban kiểm soát
-* Vị trí việc làm 3: Giám sát viên Tài chính - Kế toán tại các doanh nghiệp
-* Vị trí việc làm 4: Nhân viên nghiệp vụ tại các công ty môi giới chứng khoán, quỹ đầu tư, ngân hàng, bảo hiểm tại các doanh nghiệp và các đơn vị kiểm toán Nhà nước.
-* Vị trí việc làm 5: Kế toán các phần hành tại các doanh nghiệp như Kế toán kho, Kế toán công nợ, Kế toán giá thành, Kế toán tiền lương, Kế toán thuế.
+* **Vị trí việc làm 1:** Trợ lý kiểm toán cho các công ty cung cấp dịch vụ chuyên nghiệp về kiểm toán, kế toán và tư vấn tài chính - kế toán - thuế.
+* **Vị trí việc làm 2:** Kiểm toán viên nội bộ, Nhân viên ban kiểm soát
+* **Vị trí việc làm 3:** Giám sát viên Tài chính - Kế toán tại các doanh nghiệp
+* **Vị trí việc làm 4:** Nhân viên nghiệp vụ tại các công ty môi giới chứng khoán, quỹ đầu tư, ngân hàng, bảo hiểm tại các doanh nghiệp và các đơn vị kiểm toán Nhà nước.
+* **Vị trí việc làm 5:** Kế toán các phần hành tại các doanh nghiệp như Kế toán kho, Kế toán công nợ, Kế toán giá thành, Kế toán tiền lương, Kế toán thuế.
 {% endhint %}
 
 ### Học phí
@@ -67,15 +67,15 @@ Chương trình đào tạo chuyên ngành Kiểm Toán được thiết kế ba
 
 ### Infographic
 
-![](<../../.gitbook/assets/22 - Ngành Kế Toán.png>)
+![1](<../../.gitbook/assets/22 - Ngành Kế Toán.png>)
 
-![](<../../.gitbook/assets/23 - Kế toán.png>)
+![2](<../../.gitbook/assets/23 - Kế toán.png>)
 
-![](<../../.gitbook/assets/24 - Kế toán.png>)
+![3](<../../.gitbook/assets/24 - Kế toán.png>)
 
-![](<../../.gitbook/assets/25 - Kiểm toán.png>)
+![4](<../../.gitbook/assets/25 - Kiểm toán.png>)
 
-![](<../../.gitbook/assets/26 -  Kiểm toán.png>)
+![5](<../../.gitbook/assets/26 -  Kiểm toán.png>)
 
 ### Thông tin liên hệ
 

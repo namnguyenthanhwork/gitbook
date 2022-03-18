@@ -21,7 +21,7 @@ Chương trình đào tạo chuyên ngành Biên - Phiên dịch được thiế
   * ......
 
 {% hint style="info" %}
-Cơ hội việc làm
+**Cơ hội việc làm**
 
 * Biên dịch viên trong lĩnh vực ngành nghề thương mại, du lịch, báo chí…
 * Phiên dịch viên làm việc đàm phán, hội nghị, hội thảo.
@@ -33,9 +33,9 @@ Cơ hội việc làm
 
 ### Infographic
 
-![](<../../.gitbook/assets/43 - Ngôn ngữ Trung.png>)
+![1](<../../.gitbook/assets/43 - Ngôn ngữ Trung.png>)
 
-![](<../../.gitbook/assets/44 - Ngôn ngữ Trung.png>)
+![2](<../../.gitbook/assets/44 - Ngôn ngữ Trung.png>)
 
 ### Học phí
 

@@ -37,9 +37,9 @@ Chương trình đào tạo ngành Công Nghệ Sinh Học được thiết kế
 
 ### Infographic
 
-![](<../../.gitbook/assets/27 - Công nghệ sinh học.png>)
+![1](<../../.gitbook/assets/27 - Công nghệ sinh học.png>)
 
-![](<../../.gitbook/assets/28 - Công nghệ sinh học.png>)
+![2](<../../.gitbook/assets/28 - Công nghệ sinh học.png>)
 
 ### Thông tin liên hệ
 

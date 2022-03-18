@@ -35,10 +35,10 @@ Chương trình đào tạo chuyên ngành Tài Chính được thiết kế bao
 Người học có thể đảm nhận những vị trí việc làm tại công ty cổ phần chuyên về sản xuất, kinh doanh. Ngoài ra, họ còn có thể làm việc tại các doanh nghiệp hoạt động trong lĩnh vực tài chính, như: Công ty chứng khoán, quỹ đầu tư, công ty bảo hiểm, công ty đầu tư tài chính:
 {% endhint %}
 
-* Vị trí việc làm 1: Nhân viên phân tích và dự báo tài chính.
-* Vị trí việc làm 2: Nhân viên đầu tư tài chính.
-* Vị trí việc làm 3: Nhân viên thẩm định dự án.
-* Vị trí việc làm 4: Nhân viên môi giới và tư vấn đầu tư.
+* **Vị trí việc làm 1:** Nhân viên phân tích và dự báo tài chính.
+* **Vị trí việc làm 2:** Nhân viên đầu tư tài chính.
+* **Vị trí việc làm 3:** Nhân viên thẩm định dự án.
+* **Vị trí việc làm 4:** Nhân viên môi giới và tư vấn đầu tư.
 
 {% hint style="info" %}
 Sau khi tích lũy kinh nghiệm thực tế và đáp ứng các điều kiện qui định của luật pháp (nếu có), người học có thể đảm nhận các vị trí sau:
@@ -66,10 +66,10 @@ Chương trình đào tạo chuyên ngành Ngân Hàng được thiết kế bao
 
 Sau khi tốt nghiệp, người học có thể đảm nhận những vị trí việc làm sau tại các phòng giao dịch, chi nhánh của các ngân hàng:
 
-* Vị trí 1: Giao dịch viên.
-* Vị trí 2: Chuyên viên khách hàng cá nhân/khách hàng doanh nghiệp/chuyên viên tư vấn.
-* Vị trí 3: Chuyên viên thanh toán quốc tế.
-* Vị trí 4: Chuyên viên kinh doanh ngoại hối.
+* **Vị trí 1:** Giao dịch viên.
+* **Vị trí 2:** Chuyên viên khách hàng cá nhân/khách hàng doanh nghiệp/chuyên viên tư vấn.
+* **Vị trí 3:** Chuyên viên thanh toán quốc tế.
+* **Vị trí 4:** Chuyên viên kinh doanh ngoại hối.
 
 Ngoài ra, người học còn có thể đảm nhận vị trí là chuyên viên tư vấn tại các TCTD phi ngân hàng như công ty bảo hiểm, công ty tài chính, công ty chứng khoán, công ty bất động sản.
 
@@ -86,19 +86,19 @@ Sau khi tích lũy kinh nghiệm thực tế và đáp ứng các điều kiện
 
 ### Infographic
 
-![](<../../.gitbook/assets/15 - Ngành Tài chính ngân hàng.png>)
+![1](<../../.gitbook/assets/15 - Ngành Tài chính ngân hàng.png>)
 
-![](<../../.gitbook/assets/16 - Tài chính.png>)
+![2](<../../.gitbook/assets/16 - Tài chính.png>)
 
-![](<../../.gitbook/assets/17- Tài chính.png>)
+![3](<../../.gitbook/assets/17- Tài chính.png>)
 
-![](<../../.gitbook/assets/18 - Tài chính.png>)
+![4](<../../.gitbook/assets/18 - Tài chính.png>)
 
-![](<../../.gitbook/assets/19 - Ngân hàng.png>)
+![5](<../../.gitbook/assets/19 - Ngân hàng.png>)
 
-![](<../../.gitbook/assets/20 - Ngân hàng.png>)
+![6](<../../.gitbook/assets/20 - Ngân hàng.png>)
 
-![](<../../.gitbook/assets/21 - Ngân hàng.png>)
+![7](<../../.gitbook/assets/21 - Ngân hàng.png>)
 
 ### Thông tin liên hệ
 

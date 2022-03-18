@@ -11,11 +11,15 @@ coverY: 0
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}
-Chương trình đào tạo ngành Kế toán có 123 tín chỉ. Thời gian đào tạo khoảng từ 3,5 đến 4 năm, tùy vào tiến độ học tập của sinh viên. Sinh viên được chủ động trong việc đăng ký chọn môn học và có thể tốt nghiệp sớm tùy theo năng lực học tập và đáp ứng điều kiện học tập của trường. Chương trình đào tạo chú trọng tính ứng dụng, công nghệ thông tin, tăng cường khả năng tiếng Anh và các kỹ năng mềm cho sinh viên.
+**Chương trình đào tạo ngành Kế toán** có 123 tín chỉ. Thời gian đào tạo khoảng từ 3,5 đến 4 năm, tùy vào tiến độ học tập của sinh viên. Sinh viên được chủ động trong việc đăng ký chọn môn học và có thể tốt nghiệp sớm tùy theo năng lực học tập và đáp ứng điều kiện học tập của trường. Chương trình đào tạo chú trọng tính ứng dụng, công nghệ thông tin, tăng cường khả năng tiếng Anh và các kỹ năng mềm cho sinh viên.
+{% endhint %}
 
-Sinh viên sẽ được cung cấp kiến thức nền tảng như: kinh tế vĩ mô, kinh tế vi mô, quản trị học, marketing căn bản, tài chính doanh nghiệp, thị trường tiền tệ… trước khi đi sâu vào các môn chuyên ngành.
+{% hint style="info" %}
+**Sinh viên sẽ được cung cấp kiến thức nền tảng như:** kinh tế vĩ mô, kinh tế vi mô, quản trị học, marketing căn bản, tài chính doanh nghiệp, thị trường tiền tệ… trước khi đi sâu vào các môn chuyên ngành.
+{% endhint %}
 
-Sinh viên chọn học ngành Kế toán sẽ bắt buộc học các môn tài chính kế toán, kiểm toán căn bản, phân tích báo cáo tài chính, pháp luật về thuế và báo cáo kế toán. Bên cạnh đó, tùy theo định hướng nghề nghiệp của mình, sinh viên được quyền chọn lựa môn học chuyên sâu về kế toán ngân hàng, tài chính hành chính sự nghiệp, kế toán hành chính sự nghiệp, kế toán quốc tế, thanh toán quốc tế, thị trường chứng khoán… để phát huy tối đa tiềm năng, triển vọng nghề nghiệp và cơ hội kiếm được việc làm phù hợp với nhu cầu từng cá nhân.
+{% hint style="info" %}
+**Sinh viên chọn học ngành Kế toán** sẽ bắt buộc học các môn tài chính kế toán, kiểm toán căn bản, phân tích báo cáo tài chính, pháp luật về thuế và báo cáo kế toán. Bên cạnh đó, tùy theo định hướng nghề nghiệp của mình, sinh viên được quyền chọn lựa môn học chuyên sâu về kế toán ngân hàng, tài chính hành chính sự nghiệp, kế toán hành chính sự nghiệp, kế toán quốc tế, thanh toán quốc tế, thị trường chứng khoán… để phát huy tối đa tiềm năng, triển vọng nghề nghiệp và cơ hội kiếm được việc làm phù hợp với nhu cầu từng cá nhân.
 {% endhint %}
 
 **Chương trình đào tạo gồm hai khối kiến thức chính:**
@@ -36,14 +40,14 @@ Ngoài ra, Khoa có chương trình thực tập kết hợp với doanh nghiệ
 ## Cơ hội việc làm
 
 {% hint style="info" %}
-Người học sau khi tốt nghiệp có thể làm việc tại các vị trí việc làm sau:
+**Người học sau khi tốt nghiệp có thể làm việc tại các vị trí việc làm sau:**
 
-* Vị trí việc làm 1:
+* **Vị trí việc làm 1:**
   * Kế toán tài chính, Kế toán quản trị và Kế toán ngân hàng tại doanh nghiệp sản xuất, thương mại, dịch vụ, ngân hàng, chứng khoán…
   * Kế toán thuế: lập báo cáo kê khai thuế, quyết toán thuế giá trị gia tăng, thu thu nhập cá nhân…
   * Kế toán lĩnh vực công: kế toán tài chính, tài sản, quỹ tiền lương, sử dụng ngân sách; chuyên viên lập dự toán thu chi tài chính, thẩm tra quyết toán…
-* Vị trí việc làm 2: Kế toán viên tại các tổ chức tài chính và công ty chứng khoán như Ngân hàng, Quỹ đầu tư.
-* Vị trí việc làm 3: Kế toán viên tại các đơn vị hành chính sự nghiệp, các đơn vị công ích như trường học, bệnh viện..
+* **Vị trí việc làm 2:** Kế toán viên tại các tổ chức tài chính và công ty chứng khoán như Ngân hàng, Quỹ đầu tư.
+* **Vị trí việc làm 3**: Kế toán viên tại các đơn vị hành chính sự nghiệp, các đơn vị công ích như trường học, bệnh viện..
 * Sau khi tích lũy kinh nghiệm làm việc, sinh viên có thể đảm nhiệm các vị trí: Kế toán tổng hợp, Kế toán trưởng, Giám đốc tài chính, Giám đốc điều hành..
 * Người học có thể tiếp tục học tập nâng cao trình độ như tham gia học chương trình Kế toán công chứng Anh, Kế toán công chứng Úc... chương trình Thạc sĩ ngành Kế toán, Kiểm toán hoặc học mở rộng kiến thức của các ngành gần như Tài chính- Ngân hàng, Quản trị kinh doanh, Kinh tế.
 {% endhint %}
@@ -85,7 +89,7 @@ Người học sau khi tốt nghiệp có thể làm việc tại các vị trí
 
 ## Infographic
 
-![](<../../.gitbook/assets/1 - tiêu đề (2) (1).png>) ![](<../../.gitbook/assets/2 - giới thiệu chung (1).png>) ![](<../../.gitbook/assets/3 - việc làm.png>) ![](<../../.gitbook/assets/4 - việc làm (1).png>) ![](<../../.gitbook/assets/5 - việc làm.png>) ![](<../../.gitbook/assets/6 - MỤC TIÊU CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![](<../../.gitbook/assets/7 - MỤC TIÊU CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![](<../../.gitbook/assets/8 - nội dung ctdt (2).png>) ![](<../../.gitbook/assets/9 - nội dung ctdt.png>) ![](<../../.gitbook/assets/10 - ngành kế toán.png>) ![](<../../.gitbook/assets/11 - ngành kế toán.png>) ![](<../../.gitbook/assets/12 - ngành kế toán.png>) ![](<../../.gitbook/assets/14 - nd ctdt.png>) ![](<../../.gitbook/assets/15 - nd ctdt.png>) ![](<../../.gitbook/assets/16 - nd ctdt.png>) ![](<../../.gitbook/assets/17 - nd ctdt.png>) ![](<../../.gitbook/assets/18 - HỌC PHÍ (2).png>) ![](<../../.gitbook/assets/19 - HỌC PHÍ.png>)
+![1](<../../.gitbook/assets/1 - tiêu đề (2) (1) (1).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (1) (1).png>) ![3](<../../.gitbook/assets/3 - việc làm.png>) ![4](<../../.gitbook/assets/4 - việc làm (1).png>) ![5](<../../.gitbook/assets/5 - việc làm.png>) ![6](<../../.gitbook/assets/6 - MỤC TIÊU CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![7](<../../.gitbook/assets/7 - MỤC TIÊU CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![8](<../../.gitbook/assets/8 - nội dung ctdt (2).png>) ![9](<../../.gitbook/assets/9 - nội dung ctdt.png>) ![10](<../../.gitbook/assets/10 - ngành kế toán.png>) ![11](<../../.gitbook/assets/11 - ngành kế toán.png>) ![12](<../../.gitbook/assets/12 - ngành kế toán.png>) ![13](<../../.gitbook/assets/14 - nd ctdt.png>) ![14](<../../.gitbook/assets/15 - nd ctdt.png>) ![15](<../../.gitbook/assets/16 - nd ctdt.png>) ![16](<../../.gitbook/assets/17 - nd ctdt.png>) ![17](<../../.gitbook/assets/18 - HỌC PHÍ (2).png>) ![18](<../../.gitbook/assets/19 - HỌC PHÍ.png>)
 
 ## Thông tin liên hệ
 

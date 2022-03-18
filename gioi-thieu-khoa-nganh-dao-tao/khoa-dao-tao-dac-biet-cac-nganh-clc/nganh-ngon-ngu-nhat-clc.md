@@ -21,23 +21,23 @@ Chương trình đào tạo chuyên ngành Biên - Phiên dịch được thiế
   * ......
 
 {% hint style="info" %}
-Cơ hội việc làm
+**Cơ hội việc làm**
 
-* Vị trí việc làm 1: Biên-phiên dịch viên tại các công ty có 100% vốn Nhật Bản hay công ty liên doanh với Nhật Bản phụ trách những công việc có liên quan đến lĩnh vực biên dịch hoặc phiên dịch cho các cuộc tiếp xúc song phương.
-* Vị trí việc làm 2: Biên dịch viên tại các nhà xuất bản có xuất bản phẩm là tiếng Nhật.
-* Vị trí việc làm 3: Nhân viên văn phòng trong các công ty có 100% vốn Nhật Bản hay liên doanh với Nhật Bản.
-* Vị trí việc làm 4: Hướng dẫn viên hoặc nhân viên hỗ trợ khách hàng tại các công ty du lịch, nhà hàng - khách sạn, ngân hàng... có đối tác, khách hàng là người Nhật Bản sau khi có các chứng chỉ nghiệp vụ liên quan.
-* Vị trí việc làm 5: Giáo viên giảng dạy tiếng Nhật tại các trung tâm Nhật ngữ hoặc Giảng viên tại trường đại học sau khi học thêm một số học phần bổ túc kiến thức nghiệp vụ giảng dạy.
-* Vị trí khác: Công tác tại các cơ quan như Đại sứ quán, Lãnh sự quán Nhật Bản hay các tổ chức, cơ quan Việt Nam hợp tác với Nhật Bản có nhu cầu tuyển dụng nhân viên biết tiếng Nhật.
+* **Vị trí việc làm 1:** Biên-phiên dịch viên tại các công ty có 100% vốn Nhật Bản hay công ty liên doanh với Nhật Bản phụ trách những công việc có liên quan đến lĩnh vực biên dịch hoặc phiên dịch cho các cuộc tiếp xúc song phương.
+* **Vị trí việc làm 2:** Biên dịch viên tại các nhà xuất bản có xuất bản phẩm là tiếng Nhật.
+* **Vị trí việc làm 3:** Nhân viên văn phòng trong các công ty có 100% vốn Nhật Bản hay liên doanh với Nhật Bản.
+* **Vị trí việc làm 4**: Hướng dẫn viên hoặc nhân viên hỗ trợ khách hàng tại các công ty du lịch, nhà hàng - khách sạn, ngân hàng... có đối tác, khách hàng là người Nhật Bản sau khi có các chứng chỉ nghiệp vụ liên quan.
+* **Vị trí việc làm 5:** Giáo viên giảng dạy tiếng Nhật tại các trung tâm Nhật ngữ hoặc Giảng viên tại trường đại học sau khi học thêm một số học phần bổ túc kiến thức nghiệp vụ giảng dạy.
+* **Vị trí khác:** Công tác tại các cơ quan như Đại sứ quán, Lãnh sự quán Nhật Bản hay các tổ chức, cơ quan Việt Nam hợp tác với Nhật Bản có nhu cầu tuyển dụng nhân viên biết tiếng Nhật.
 {% endhint %}
 
-45Infographic
+### Infographic
 
-![](<../../.gitbook/assets/45 - Ngôn ngữ Nhật.png>)
+![1](<../../.gitbook/assets/45 - Ngôn ngữ Nhật.png>)
 
-![](<../../.gitbook/assets/46 - Ngôn ngữ Nhật.png>)
+![2](<../../.gitbook/assets/46 - Ngôn ngữ Nhật.png>)
 
-![](<../../.gitbook/assets/47 - Ngôn ngữ Nhật.png>)
+![3](<../../.gitbook/assets/47 - Ngôn ngữ Nhật.png>)
 
 ### Học phí
 

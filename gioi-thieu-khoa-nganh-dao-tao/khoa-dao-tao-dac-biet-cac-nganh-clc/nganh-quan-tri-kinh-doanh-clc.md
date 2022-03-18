@@ -61,15 +61,15 @@ Sinh viên tốt nghiệp chuyên ngành Kinh doanh quốc tế có thể đảm
 
 ### Infographic
 
-![Ngành Quản Trị Kinh Doanh](<../../.gitbook/assets/10 - Ngành Quản Trị Kinh Doanh.png>)
+![1](<../../.gitbook/assets/10 - Ngành Quản Trị Kinh Doanh.png>)
 
-![](<../../.gitbook/assets/11 - Marketing.png>)
+![2](<../../.gitbook/assets/11 - Marketing.png>)
 
-![](<../../.gitbook/assets/12 - Marketing.png>)
+![3](<../../.gitbook/assets/12 - Marketing.png>)
 
-![](<../../.gitbook/assets/13 - Kinh doanh quốc tế.png>)
+![4](<../../.gitbook/assets/13 - Kinh doanh quốc tế.png>)
 
-![](<../../.gitbook/assets/14 - Kinh doanh quốc tế.png>)
+![5](<../../.gitbook/assets/14 - Kinh doanh quốc tế.png>)
 
 ### Thông tin liên hệ
 

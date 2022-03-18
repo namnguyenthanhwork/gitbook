@@ -11,32 +11,58 @@ coverY: 0
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}
-Ngày 21/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
+Chương trình đào tạo có 125 tín chỉ học trong 4 năm đối với thời lượng học trung bình. Tuy nhiên, với 3 học kỳ/năm học, sinh viên hoàn toàn có thể học vượt để kết thúc chương trình học chỉ trong 3 năm.
+
+**Chương trình đào tạo gồm 2 khối kiến thức chính:**
+
+* **Khối kiến thức giáo dục đại cương:** bao gồm các môn học về xã hội (Pháp luật, Giao tiếp trong kinh doanh…), các môn học công cụ như Toán, Tin học, Ngoại ngữ, ngoài ra sinh viên còn được rèn luyện về giáo dục thể chất và quốc phòng…
+* **Khối kiến thức chuyên nghiệp:** bao gồm các môn học cơ sở của khối ngành (Marketing căn bản, Quản trị học, Quản trị marketing, Quản trị tài chính, Quản trị dự án, Quản trị chiến lược,…) và các môn học chuyên sâu: Quản trị kinh doanh (2 chuyên ngành: QTKD tổng quát, Khởi nghiệp và đổi mới sáng tạo)
 {% endhint %}
 
 ## Chuyên ngành
 
 {% hint style="info" %}
-Ngày 21/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
+**Có 2 chuyên ngành:**
+
+* QTKD tổng quát
+* Khởi nghiệp và đổi mới sáng tạo
 {% endhint %}
 
 ## Cơ hội việc làm
 
 {% hint style="info" %}
-Ngày 21/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
+**Học ngành QTKD** người học sẽ được trang bị kiến thức cơ bản về tự nhiên, xã hội và con người để phục vụ cho phát triển nghề nghiệp và tự hoàn thiện bản thân. Chương trình cung cấp kiến thức lý thuyết và thực tiễn thuộc lĩnh vực kinh tế - quản lý và ngành Quản trị kinh doanh để giải quyết các vấn đề chuyên môn, phát triển kỹ năng nhận thức, kỹ năng thực hành nghề nghiệp và kỹ năng giao tiếp ứng xử cần thiết thuộc lĩnh vực ngành Quản trị kinh doanh để thực hiện các nhiệm vụ chuyên môn tương xứng với vị trí nghề nghiệp.
 {% endhint %}
+
+{% hint style="info" %}
+**Chương trình** nhắm đến đào tạo năng lực làm việc độc lập và theo nhóm trong điều kiện làm việc thay đổi, chịu trách nhiệm cá nhân, trách nhiệm với nhóm trong việc hướng dẫn, truyền bá, phổ biến kiến thức thuộc ngành Quản trị kinh doanh và giám sát người khác thực hiện nhiệm vụ. Chương trình chú trọng xây dựng ý thức trách nhiệm đối với cá nhân, cộng đồng, ý thức phục vụ đất nước và đạo đức nghề nghiệp.
+{% endhint %}
+
+**Vị trí làm việc sau khi tốt nghiệp:**
+
+* Chuyên viên, trợ lý kinh doanh; chuyên viên kiểm soát chất lượng; chuyên viên phụ trách chiến lược tại các công ty tư nhân đang hoạt động trong nhiều lĩnh vực ngành nghề. Chuyên viên tại các tổ chức khu vực công, hoặc các Uỷ ban tư vấn, cố vấn thuộc nhiều các sở ban ngành. Sau một thời gian làm việc, tích luỹ kinh nghiệm và đáp ứng các điều kiện quy định của luật pháp (nếu có) người học có thể phát triển nghề nghiệp trở thành nhà quản trị cấp trung: trưởng nhóm, phụ trách hoặc phó trưởng bộ phận các đơn vị (sau 3-5 năm).
+* Chủ doanh nghiệp, thông qua xây dựng ý tưởng kinh doanh và thực hiện khởi nghiệp; tạo lập doanh nghiệp và điều hành doanh nghiệp.
 
 ## Sự khác biệt của chương trình đào tạo
 
 {% hint style="info" %}
-Ngày 21/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
+Chương trình đào tạo cử nhân của khoa QTKD cung cấp kiến thức và kỹ năng chuyên sâu về quản trị doanh nghiệp nói chung và cụ thể cho từng ngành, chuyên ngành nói riêng để có thể lập kế hoạch, triển khai thực hiện, quản lý điều hành những hoạt động kinh doanh của công ty hoặc tự mình tạo lập doanh nghiệp mới.
 {% endhint %}
 
-## Hoạt động sinh viên
+## Học phí
 
-{% hint style="info" %}
-Ngày 21/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
-{% endhint %}
+| NGÀNH/NHÓM NGÀNH                                                                                                                                                                  | MỨC HỌC PHÍ BÌNH QUÂN      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| CÔNG NGHỆ SINH HỌC, CÔNG NGHỆ THỰC PHẨM                                                                                                                                           | 24,000,000/1 NĂM/SINH VIÊN |
+| CÔNG NGHỆ KỸ THUẬT CÔNG TRÌNH XÂY DỰNG, QUẢN LÝ XÂY DỰNG                                                                                                                          | 25,000,000/1 NĂM/SINH VIÊN |
+| KHOA HỌC MÁY TÍNH, HỆ THỐNG THÔNG TIN QUẢN LÝ, CÔNG NGHỆ THÔNG TIN                                                                                                                | 25,000,000/1 NĂM/SINH VIÊN |
+| KẾ TOÁN, KIỂM TOÁN,TÀI CHÍNH - NGÂN HÀNG, QUẢN TRỊ KINH DOANH, MARKETING, KINH DOANH QUỐC TẾ, QUẢN TRỊ NHÂN LỰC, LUẬT, LUẬT KINH TẾ, LOGISTICS VÀ QUẢN LÝ CHUỖI CUNG ỨNG, DU LỊCH | 23,000,000/1 NĂM/SINH VIÊN |
+| KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
+| NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
+
+## Infographic
+
+![1](<../../.gitbook/assets/1 - tiêu đề.png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (5).png>) ![3](<../../.gitbook/assets/3 - Ngành & việc làm.png>) ![4](<../../.gitbook/assets/4 - NGÀNH QUẢN TRỊ KINH DOANH.png>) ![5](<../../.gitbook/assets/5 - NGÀNH QUẢN TRỊ KINH DOANH.png>) ![6](<../../.gitbook/assets/6 - NGÀNH QUẢN TRỊ KINH DOANH.png>) ![7](<../../.gitbook/assets/7 - MỤC TIÊU ĐÀO TẠO (1).png>) ![8](<../../.gitbook/assets/8 - MỤC TIÊU ĐÀO TẠO.png>) ![9](<../../.gitbook/assets/9 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![10](<../../.gitbook/assets/10 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO (1).png>) ![11](<../../.gitbook/assets/12 - học phí (1).png>) ![12](<../../.gitbook/assets/13 - học phí (1).png>)
 
 ## Thông tin liên hệ
 

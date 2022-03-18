@@ -11,7 +11,7 @@ coverY: 0
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}
-Ngành Công nghệ thông tin đào tạo các cử nhân nắm vững các kiến thức chuyên môn; có khả năng vận hành, quản lý, phát triển các ứng dụng CNTT; đáp ứng nhu cầu nhân lực CNTT trong các lĩnh vực chuyên môn khác nhau.
+**Ngành Công nghệ thông tin** đào tạo các cử nhân nắm vững các kiến thức chuyên môn; có khả năng vận hành, quản lý, phát triển các ứng dụng CNTT; đáp ứng nhu cầu nhân lực CNTT trong các lĩnh vực chuyên môn khác nhau.
 {% endhint %}
 
 Chương trình đào tạo đại học của các ngành xấp xỉ 130 tín chỉ với thời gian đào tạo là 4 năm. Sinh viên tốt nghiệp bằng Cử Nhân sau 4 năm học tập.
@@ -40,14 +40,12 @@ Trước khi ra trường, sinh viên phải trải qua một kỳ thực tập 
 * Công nghệ phần mềm
 * Đồ họa máy tính – thị giác máy tính
 * Cơ sở dữ liệu – khai phá dữ liệu
-
-
 {% endhint %}
 
 ## Cơ hội việc làm
 
 {% hint style="info" %}
-Sau khi học xong chương trình, cử nhân ngành Công nghệ thông tin có thể làm việc ở các vị trí sau:
+**Sau khi học xong chương trình, cử nhân ngành Công nghệ thông tin có thể làm việc ở các vị trí sau:**
 
 * Lập trình viên phát triển, sản xuất và quản lý dự án phần mềm.
 * Chuyên viên phân tích và khai phá dữ liệu.
@@ -71,7 +69,7 @@ Sau khi học xong chương trình, cử nhân ngành Công nghệ thông tin c
 
 ## Infographic
 
-![](<../../.gitbook/assets/1 - tiêu đề (3).png>) ![](<../../.gitbook/assets/3 - ngành - chuyên ngành (1).png>) ![](<../../.gitbook/assets/4 - CNTT.png>) ![](<../../.gitbook/assets/5 - Chuyên ngành CNTT.png>) ![](<../../.gitbook/assets/6 - Chuyên ngành CNTT.png>) ![](<../../.gitbook/assets/7 - Chuyên ngành CNTT.png>) ![](<../../.gitbook/assets/8 - tỷ lệ việc làm.png>) ![](<../../.gitbook/assets/9 - nd ctdt.png>) ![](<../../.gitbook/assets/10 - nd ctdt.png>) ![](<../../.gitbook/assets/11 - nd ctdt (1).png>) ![](<../../.gitbook/assets/12 - hỌC PHÍ.png>) ![](<../../.gitbook/assets/13 - hỌC PHÍ.png>)
+![](<../../.gitbook/assets/1 - tiêu đề (3) (1).png>) ![](<../../.gitbook/assets/3 - ngành - chuyên ngành (1).png>) ![1](<../../.gitbook/assets/4 - CNTT.png>) ![2](<../../.gitbook/assets/5 - Chuyên ngành CNTT.png>) ![3](<../../.gitbook/assets/6 - Chuyên ngành CNTT.png>) ![4](<../../.gitbook/assets/7 - Chuyên ngành CNTT.png>) ![5](<../../.gitbook/assets/8 - tỷ lệ việc làm.png>) ![6](<../../.gitbook/assets/9 - nd ctdt.png>) ![7](<../../.gitbook/assets/10 - nd ctdt.png>) ![8](<../../.gitbook/assets/11 - nd ctdt (1).png>) ![9](<../../.gitbook/assets/12 - hỌC PHÍ.png>) ![10](<../../.gitbook/assets/13 - hỌC PHÍ.png>)
 
 ## Thông tin liên hệ
 

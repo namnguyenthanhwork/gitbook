@@ -11,7 +11,7 @@ coverY: 0
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}
-Ngành Khoa học máy tính đào tạo các cử nhân có kiến thức chuyên sâu về khoa học máy tính, đáp ứng các yêu cầu về nghiên cứu phát triển và hiện thực các ứng dụng công nghệ thông tin (CNTT). Sinh viên ra trường có khả năng làm việc với tư cách là lập trình viên, kỹ sư phát triển phần mềm, các ứng dụng thông minh; chuyên viên phân tích nghiệp vụ dự án phần mềm; kiểm thử viên phần mềm; chuyên viên nghiên cứu & phát triển các giải pháp thông minh, phân tích dữ liệu; lập trình viên phát triển ứng dụng mạng, thiết kế và quản trị mạng; chuyên viên huấn luyện và đào tạo, nghiên cứu.
+**Ngành Khoa học máy tính** đào tạo các cử nhân có kiến thức chuyên sâu về khoa học máy tính, đáp ứng các yêu cầu về nghiên cứu phát triển và hiện thực các ứng dụng công nghệ thông tin (CNTT). Sinh viên ra trường có khả năng làm việc với tư cách là lập trình viên, kỹ sư phát triển phần mềm, các ứng dụng thông minh; chuyên viên phân tích nghiệp vụ dự án phần mềm; kiểm thử viên phần mềm; chuyên viên nghiên cứu & phát triển các giải pháp thông minh, phân tích dữ liệu; lập trình viên phát triển ứng dụng mạng, thiết kế và quản trị mạng; chuyên viên huấn luyện và đào tạo, nghiên cứu.
 {% endhint %}
 
 Chương trình đào tạo đại học của các ngành xấp xỉ 130 tín chỉ với thời gian đào tạo là 4 năm. Sinh viên tốt nghiệp bằng Cử Nhân sau 4 năm học tập.
@@ -54,7 +54,7 @@ Trước khi ra trường, sinh viên phải trải qua một kỳ thực tập 
 
 ## Infographic
 
-![](<../../.gitbook/assets/1 - tiêu đề.png>) ![](<../../.gitbook/assets/3 - ngành - chuyên ngành.png>) ![](<../../.gitbook/assets/4 - ngành - chuyên ngành.png>) ![](<../../.gitbook/assets/5 - ngành - chuyên ngành.png>) ![](<../../.gitbook/assets/6 - ngành - chuyên ngành.png>) ![](<../../.gitbook/assets/7 - ngành - chuyên ngành.png>) ![](<../../.gitbook/assets/8 - tỷ lệ việc làm (2).png>) ![](<../../.gitbook/assets/9 - nd ctdt (1).png>) ![](<../../.gitbook/assets/10 - nd ctdt (1).png>) ![](<../../.gitbook/assets/11 - nd ctdt.png>) ![](<../../.gitbook/assets/13 - HỌC PHÍ.png>) ![](<../../.gitbook/assets/14 - HỌC PHÍ.png>)
+![1](<../../.gitbook/assets/1 - tiêu đề (2).png>) ![2](<../../.gitbook/assets/3 - ngành - chuyên ngành.png>) ![3](<../../.gitbook/assets/4 - ngành - chuyên ngành.png>) ![4](<../../.gitbook/assets/5 - ngành - chuyên ngành.png>) ![5](<../../.gitbook/assets/6 - ngành - chuyên ngành.png>) ![6](<../../.gitbook/assets/7 - ngành - chuyên ngành.png>) ![7](<../../.gitbook/assets/8 - tỷ lệ việc làm (2).png>) ![8](<../../.gitbook/assets/9 - nd ctdt (1).png>) ![9](<../../.gitbook/assets/10 - nd ctdt (1).png>) ![10](<../../.gitbook/assets/11 - nd ctdt.png>) ![11](<../../.gitbook/assets/13 - HỌC PHÍ.png>) ![12](<../../.gitbook/assets/14 - HỌC PHÍ.png>)
 
 ## Thông tin liên hệ
 

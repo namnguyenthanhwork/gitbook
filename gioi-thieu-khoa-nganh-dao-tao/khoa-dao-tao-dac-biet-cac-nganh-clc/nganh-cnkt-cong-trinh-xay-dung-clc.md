@@ -21,7 +21,7 @@ Chương trình đào tạo ngành CNKT Công Trình Xây Dựng được thiế
   * ......
 
 {% hint style="info" %}
-Cơ hội việc làm
+**Cơ hội việc làm:**
 
 * Kỹ sư thi công xây dựng
 * Kỹ sư giám sát xây dựng
@@ -43,9 +43,9 @@ Cơ hội việc làm
 
 ### Infographic
 
-![](<../../.gitbook/assets/39 - CNKT – Công trình xây dựng .png>)
+![1](<../../.gitbook/assets/39 - CNKT – Công trình xây dựng .png>)
 
-![](<../../.gitbook/assets/40 - CNKT – Công trình xây dựng .png>)
+![2](<../../.gitbook/assets/40 - CNKT – Công trình xây dựng .png>)
 
 ### Thông tin liên hệ
 

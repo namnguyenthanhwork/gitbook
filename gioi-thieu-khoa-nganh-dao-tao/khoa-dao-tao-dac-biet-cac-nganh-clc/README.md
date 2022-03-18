@@ -46,7 +46,7 @@ Khoa Đào tạo đặc biệt (ĐTĐB) tiền thân là “Chương trình Đà
 
 Chương trình chất lượng cao học tại trụ sở chính của trường: 97 Võ Văn Tần, Q3 hoặc 35-37 Hồ Hảo Hớn, Q1.
 
-Chương trình chất lượng cao khác chương trình đại trà là:
+**Chương trình chất lượng cao khác chương trình đại trà là:**
 
 * Bằng tốt nghiệp sẽ được ghi là Chương trình chất lượng cao
 * Tập trung học tiếng anh và khoảng 50% các môn chuyên ngành học bằng tiếng anh
@@ -57,7 +57,7 @@ Chương trình chất lượng cao khác chương trình đại trà là:
 * Cơ sở vật chất tốt.
 * Nhiều cơ hội học bổng và giao lưu
 
-Đối với hệ Chất lượng cao (CLC) có nhiều điểm ưu việt hơn so với chương trình hệ đại trà:
+**Đối với hệ Chất lượng cao (CLC) có nhiều điểm ưu việt hơn so với chương trình hệ đại trà:**
 
 * Hệ CLC quy mô sĩ số sinh viên trong 1 lớp ít hơn so với đại trà, sinh viên có nhiều cơ hội tiếp xúc, trao đổi với GV nhiều hơn.
 * Chương trình được thiết kế với các điều kiện đầu ra khắt khe và đảm bảo cao hơn so với hệ đại trà.

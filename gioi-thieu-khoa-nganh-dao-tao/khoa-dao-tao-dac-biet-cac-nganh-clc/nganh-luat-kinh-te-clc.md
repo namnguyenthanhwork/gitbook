@@ -23,32 +23,32 @@ Chương trình đào tạo ngành Luật Kinh Tế được thiết kế bao g�
 {% hint style="info" %}
 **Cơ hội việc làm**
 
-* Vị trí việc làm 1: Chuyên viên pháp chế trong các doanh nghiệp trong và ngoài nước, tổ chức kinh tế, ở các phòng pháp chế, nhân sự, Ban thư ký lãnh đạo doanh nghiệp.
-* Vị trí việc làm 2: Chuyên viên pháp lý, thư ký nghiệp vụ, trợ lý cho luật sư tại các Công ty Luật, Văn phòng Luật sư, Văn phòng Công chứng, Văn phòng Thừa phát lại, Trung tâm bán đấu giá tài sản, Trung tâm hòa giải, Trọng tài thương mại, Trợ giúp pháp lý, Chuyên viên tư vấn ở các Trung tâm trợ giúp pháp lý nhà nước.
-* Vị trí việc làm 3: Thư ký, Thẩm tra viên trong Tòa án, Cơ quan Thi hành án dân sự; Chuyên viên, Kiểm tra viên trong Viện kiểm sát nhân dân, Công tác pháp luật trong cơ quan Công an nhân dân.
-* Vị trí việc làm 4: Chuyên viên pháp chế tại các bộ phận: nhân sự, hành chính, tổng hợp, chính sách, tuyên truyền pháp luật, thư ký lãnh đạo ở các cơ quan: Hội đồng nhân dân, Ủy ban nhân dân, Sở, phòng, ban các cấp.
-* Vị trí việc làm 5: Chuyên viên pháp lý trong các tổ chức chính trị - xã hội - nghề nghiệp, các tổ chức quốc tế, tổ chức phi chính phủ (NGOS).
-* Vị trí việc làm 6: Công tác nghiên cứu, báo cáo viên pháp luật trong các cơ sở đào tạo, đơn vị sự nghiệp về lĩnh vực pháp luật, tư vấn hoạch định chính sách công.
-* Vị trí việc làm 7: Cơ hội nâng cao nghề nghiệp sau khi đáp ứng một số quy định của nhà nước về tiêu chuẩn, điều kiện để được cấp chứng chỉ hành nghề hay bổ nhiệm chức danh nghề nghiệp:
-  * Luật sư: tham gia khóa đào tạo nghề luật sư, trải qua thời gian tập sự hành nghề luật sư, đạt yêu cầu kiểm tra kết quả tập sự để cấp chứng chỉ hành nghề Luật sư.
-  * Thẩm phán: có thời gian công tác thực tiễn theo quy định, tham gia khóa đào tạonghiệp vụ xét xử, trải qua kỳ thi tuyển chọn để bổ nhiệm Thẩm phán Quốc gia.
-  * Kiểm sát viên: có thời gian công tác thực tiễn theo quy định, tham gia khóa đào tạo nghiệp vụ kiểm sát, có năng lực thực hành quyền công tố, kiểm sát hoạt động tư pháp, trải qua kỳ thi tuyển chọn để bổ nhiệm làm Kiểm sát viên.
-  * Chấp hành viên: có thời gian công tác thực tiễn, tham gia khóa đào tạo nghiệp vụ thi hành án dân sự, đạt kết quả kỳ thi tuyển chọn để bổ nhiệm Chấp hành viên.
-  * Công chứng viên, Thừa phát lại, Đấu giá viên: tham gia khóa đào tạo, bồi dưỡng nghiệp vụ chuyên môn, có thời gian công tác thực tiễn, đạt kết quả tập sự hành nghề để cấp chứng chi hành nghề theo quy định.
-  * Công tác giảng dạy pháp luật: sau khi tham gia khóa đào tạo, bồi dưỡng nghiệp vụ chuyên môn, có thời gian công tác thực tiễn theo quy định.
+* **Vị trí việc làm 1:** Chuyên viên pháp chế trong các doanh nghiệp trong và ngoài nước, tổ chức kinh tế, ở các phòng pháp chế, nhân sự, Ban thư ký lãnh đạo doanh nghiệp.
+* **Vị trí việc làm 2:** Chuyên viên pháp lý, thư ký nghiệp vụ, trợ lý cho luật sư tại các Công ty Luật, Văn phòng Luật sư, Văn phòng Công chứng, Văn phòng Thừa phát lại, Trung tâm bán đấu giá tài sản, Trung tâm hòa giải, Trọng tài thương mại, Trợ giúp pháp lý, Chuyên viên tư vấn ở các Trung tâm trợ giúp pháp lý nhà nước.
+* **Vị trí việc làm 3:** Thư ký, Thẩm tra viên trong Tòa án, Cơ quan Thi hành án dân sự; Chuyên viên, Kiểm tra viên trong Viện kiểm sát nhân dân, Công tác pháp luật trong cơ quan Công an nhân dân.
+* **Vị trí việc làm 4:** Chuyên viên pháp chế tại các bộ phận: nhân sự, hành chính, tổng hợp, chính sách, tuyên truyền pháp luật, thư ký lãnh đạo ở các cơ quan: Hội đồng nhân dân, Ủy ban nhân dân, Sở, phòng, ban các cấp.
+* **Vị trí việc làm 5:** Chuyên viên pháp lý trong các tổ chức chính trị - xã hội - nghề nghiệp, các tổ chức quốc tế, tổ chức phi chính phủ (NGOS).
+* **Vị trí việc làm 6:** Công tác nghiên cứu, báo cáo viên pháp luật trong các cơ sở đào tạo, đơn vị sự nghiệp về lĩnh vực pháp luật, tư vấn hoạch định chính sách công.
+* **Vị trí việc làm 7**: Cơ hội nâng cao nghề nghiệp sau khi đáp ứng một số quy định của nhà nước về tiêu chuẩn, điều kiện để được cấp chứng chỉ hành nghề hay bổ nhiệm chức danh nghề nghiệp:
+  * **Luật sư**: tham gia khóa đào tạo nghề luật sư, trải qua thời gian tập sự hành nghề luật sư, đạt yêu cầu kiểm tra kết quả tập sự để cấp chứng chỉ hành nghề Luật sư.
+  * **Thẩm phán**: có thời gian công tác thực tiễn theo quy định, tham gia khóa đào tạonghiệp vụ xét xử, trải qua kỳ thi tuyển chọn để bổ nhiệm Thẩm phán Quốc gia.
+  * **Kiểm sát viên**: có thời gian công tác thực tiễn theo quy định, tham gia khóa đào tạo nghiệp vụ kiểm sát, có năng lực thực hành quyền công tố, kiểm sát hoạt động tư pháp, trải qua kỳ thi tuyển chọn để bổ nhiệm làm Kiểm sát viên.
+  * **Chấp hành viên**: có thời gian công tác thực tiễn, tham gia khóa đào tạo nghiệp vụ thi hành án dân sự, đạt kết quả kỳ thi tuyển chọn để bổ nhiệm Chấp hành viên.
+  * **Công chứng viên, Thừa phát lại, Đấu giá viên**: tham gia khóa đào tạo, bồi dưỡng nghiệp vụ chuyên môn, có thời gian công tác thực tiễn, đạt kết quả tập sự hành nghề để cấp chứng chi hành nghề theo quy định.
+  * **Công tác giảng dạy pháp luật**: sau khi tham gia khóa đào tạo, bồi dưỡng nghiệp vụ chuyên môn, có thời gian công tác thực tiễn theo quy định.
 {% endhint %}
 
 ### Infographic
 
-![](<../../.gitbook/assets/29 - Luật kinh tế.png>)
+![1](<../../.gitbook/assets/29 - Luật kinh tế.png>)
 
-![](<../../.gitbook/assets/30 - Luật kinh tế.png>)
+![2](<../../.gitbook/assets/30 - Luật kinh tế.png>)
 
-![](<../../.gitbook/assets/31 - Luật kinh tế.png>)
+![3](<../../.gitbook/assets/31 - Luật kinh tế.png>)
 
-![](<../../.gitbook/assets/32 - Luật kinh tế.png>)
+![4](<../../.gitbook/assets/32 - Luật kinh tế.png>)
 
-![](<../../.gitbook/assets/33 - Luật kinh tế.png>)
+![5](<../../.gitbook/assets/33 - Luật kinh tế.png>)
 
 ### Học phí
 

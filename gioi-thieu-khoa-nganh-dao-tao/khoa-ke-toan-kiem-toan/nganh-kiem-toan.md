@@ -11,11 +11,15 @@ coverY: 0
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}
-Chương trình đào tạo ngành Kiểm toán 126 tín chỉ. Thời gian đào tạo khoảng từ 3,5 đến 4 năm, tùy vào tiến độ học tập của sinh viên. Sinh viên được chủ động trong việc đăng ký chọn môn học và có thể tốt nghiệp sớm tùy theo năng lực học tập và đáp ứng điều kiện học tập của trường. Chương trình đào tạo chú trọng tính ứng dụng, công nghệ thông tin, tăng cường khả năng tiếng Anh và các kỹ năng mềm cho sinh viên.
+**Chương trình đào tạo ngành Kiểm toá**n 126 tín chỉ. Thời gian đào tạo khoảng từ 3,5 đến 4 năm, tùy vào tiến độ học tập của sinh viên. Sinh viên được chủ động trong việc đăng ký chọn môn học và có thể tốt nghiệp sớm tùy theo năng lực học tập và đáp ứng điều kiện học tập của trường. Chương trình đào tạo chú trọng tính ứng dụng, công nghệ thông tin, tăng cường khả năng tiếng Anh và các kỹ năng mềm cho sinh viên.
+{% endhint %}
 
-Sinh viên sẽ được cung cấp kiến thức nền tảng như: kinh tế vĩ mô, kinh tế vi mô, quản trị học, marketing căn bản, tài chính doanh nghiệp, thị trường tiền tệ… trước khi đi sâu vào các môn chuyên ngành.
+{% hint style="info" %}
+**Sinh viên sẽ được cung cấp kiến thức nền tảng như:** kinh tế vĩ mô, kinh tế vi mô, quản trị học, marketing căn bản, tài chính doanh nghiệp, thị trường tiền tệ… trước khi đi sâu vào các môn chuyên ngành.
+{% endhint %}
 
-Sinh viên chọn học ngành Kiểm toán sẽ được học các môn chuyên sâu về Kiểm toán như Kế toán tài chính, Kiểm toán 1, Kiểm toán 2, Kiểm soát nội bộ, Kiểm toán thực hành, Kiểm toán hoạt động, Kế toán quốc tế, các môn học thuộc chương trình Kế toán công chứng Anh quốc… Với kiến thức được giảng viên truyền đạt, các bạn có thể hội nhập tốt, thích ứng nhanh với môi trường làm việc tại công ty Kiểm toán, qua đó giúp tăng cơ hội được giữ lại tại công ty Kiểm toán sau quá trình thực tập.
+{% hint style="info" %}
+**Sinh viên chọn học ngành Kiểm toán** sẽ được học các môn chuyên sâu về Kiểm toán như Kế toán tài chính, Kiểm toán 1, Kiểm toán 2, Kiểm soát nội bộ, Kiểm toán thực hành, Kiểm toán hoạt động, Kế toán quốc tế, các môn học thuộc chương trình Kế toán công chứng Anh quốc… Với kiến thức được giảng viên truyền đạt, các bạn có thể hội nhập tốt, thích ứng nhanh với môi trường làm việc tại công ty Kiểm toán, qua đó giúp tăng cơ hội được giữ lại tại công ty Kiểm toán sau quá trình thực tập.
 {% endhint %}
 
 **Chương trình đào tạo gồm hai khối kiến thức chính:**
@@ -26,7 +30,7 @@ Sinh viên chọn học ngành Kiểm toán sẽ được học các môn chuyê
 ## Chuyên ngành
 
 {% hint style="info" %}
-NKhi vào giai đoạn chuyên ngành, sinh viên được chọn một trong hai chuyên ngành kế toán hoặc kiểm toán. Với mỗi chuyên ngành, sinh viên sẽ chọn những môn học phù hợp để sau khi ra trường có thể thích ứng nhanh chóng với môi trường làm việc.
+Khi vào giai đoạn chuyên ngành, sinh viên được chọn một trong hai chuyên ngành kế toán hoặc kiểm toán. Với mỗi chuyên ngành, sinh viên sẽ chọn những môn học phù hợp để sau khi ra trường có thể thích ứng nhanh chóng với môi trường làm việc.
 
 Trước khi ra trường, sinh viên phải trải qua một kỳ thực tập tại các doanh nghiệp, cơ quan, công ty kiểm toán, ngân hàng … nhằm thực hành việc vận dụng lý thuyết vào thực tế. Sinh viên được chủ động lựa chọn đơn vị thực tập phù hợp với định hướng nghề nghiệp sau khi ra trường.
 
@@ -36,13 +40,13 @@ Ngoài ra, Khoa có chương trình thực tập kết hợp với doanh nghiệ
 ## Cơ hội việc làm
 
 {% hint style="info" %}
-Người học sau khi tốt nghiệp có thể làm việc tại các vị trí việc làm sau:
+**Người học sau khi tốt nghiệp có thể làm việc tại các vị trí việc làm sau:**
 
-* Vị trí việc làm 1: Trợ lý kiểm toán cho các công ty cung cấp dịch vụ chuyên nghiệp về kiểm toán, kế toán và tư vấn tài chính- kế toán-thuế.
-* Vị trí việc làm 2: Kiểm toán viên nội bộ, Nhân viên ban kiểm soát
-* Vị trí việc làm 3: Giám sát viên Tài chính-Kế toán tại các doanh nghiệp
-* Vị trí việc làm 4: Nhân viên nghiệp vụ tại các công ty môi giới chứng khoán, quỹ đầu tư, ngân hàng, bảo hiểm tại các doanh nghiệp và các đơn vị kiểm toán Nhà nước.
-* Vị trí việc làm 5: Kế toán các phần hành tại các doanh nghiệp như Kế toán kho, Kế toán công nợ, Kế toán giá thành, Kế toán tiền lương, Kế toán thuế.
+* **Vị trí việc làm 1:** Trợ lý kiểm toán cho các công ty cung cấp dịch vụ chuyên nghiệp về kiểm toán, kế toán và tư vấn tài chính- kế toán-thuế.
+* **Vị trí việc làm 2:** Kiểm toán viên nội bộ, Nhân viên ban kiểm soát
+* **Vị trí việc làm 3:** Giám sát viên Tài chính-Kế toán tại các doanh nghiệp
+* **Vị trí việc làm 4:** Nhân viên nghiệp vụ tại các công ty môi giới chứng khoán, quỹ đầu tư, ngân hàng, bảo hiểm tại các doanh nghiệp và các đơn vị kiểm toán Nhà nước.
+* **Vị trí việc làm 5:** Kế toán các phần hành tại các doanh nghiệp như Kế toán kho, Kế toán công nợ, Kế toán giá thành, Kế toán tiền lương, Kế toán thuế.
 * Sau khi tích lũy kinh nghiệm làm việc, sinh viên có thể đảm nhiệm các vị trí: Kiểm toán viên, Kế toán trưởng, Giám đốc kiểm toán, Giám đốc tài chính, Giám đốc điều hành
 * Người học có thể tiếp tục học tập nâng cao trình độ như tham gia học chương trình Kế toán công chứng Anh, Kế toán công chứng Úc... chương trình Thạc sĩ ngành Kế toán, Kiểm toán hoặc học mở rộng kiến thức của các ngành gần như Tài chính- Ngân hàng, Quản trị kinh doanh, Kinh tế.
 {% endhint %}
@@ -84,7 +88,7 @@ Người học sau khi tốt nghiệp có thể làm việc tại các vị trí
 
 ## Infographic
 
-![](<../../.gitbook/assets/1 - tiêu đề (1) (1).png>) ![](<../../.gitbook/assets/3 - việc làm (1).png>) ![](<../../.gitbook/assets/4 - việc làm (2) (1).png>) ![](<../../.gitbook/assets/5 - việc làm (1).png>) ![](<../../.gitbook/assets/6 - MỤC TIÊU CHƯƠNG TRÌNH ĐÀO TẠO (2).png>) ![](<../../.gitbook/assets/7 - MỤC TIÊU CHƯƠNG TRÌNH ĐÀO TẠO (1).png>) ![](<../../.gitbook/assets/8 - nội dung ctdt (1).png>) ![](<../../.gitbook/assets/9 - nội dung ctdt (1).png>) ![](<../../.gitbook/assets/10 - ngành kiểm toán.png>) ![](<../../.gitbook/assets/11 - ngành kiểm toán (1).png>) ![](<../../.gitbook/assets/12 - ngành kiểm toán.png>) ![](<../../.gitbook/assets/14 - KHÁC BIỆT (1).png>) ![](<../../.gitbook/assets/15 - KHÁC BIỆT.png>) ![](<../../.gitbook/assets/16 - KHÁC BIỆT (1).png>) ![](<../../.gitbook/assets/17 - KHÁC BIỆT.png>) ![](<../../.gitbook/assets/18 - HỌC PHÍ (1).png>) ![](<../../.gitbook/assets/19 - HỌC PHÍ (2).png>)
+![1](<../../.gitbook/assets/1 - tiêu đề (1) (1) (1).png>) ![2](<../../.gitbook/assets/3 - việc làm (1).png>) ![3](<../../.gitbook/assets/4 - việc làm (2) (1).png>) ![4](<../../.gitbook/assets/5 - việc làm (1).png>) ![5](<../../.gitbook/assets/6 - MỤC TIÊU CHƯƠNG TRÌNH ĐÀO TẠO (2).png>) ![6](<../../.gitbook/assets/7 - MỤC TIÊU CHƯƠNG TRÌNH ĐÀO TẠO (1).png>) ![7](<../../.gitbook/assets/8 - nội dung ctdt (1).png>) ![8](<../../.gitbook/assets/9 - nội dung ctdt (1).png>) ![9](<../../.gitbook/assets/10 - ngành kiểm toán.png>) ![10](<../../.gitbook/assets/11 - ngành kiểm toán (1).png>) ![11](<../../.gitbook/assets/12 - ngành kiểm toán.png>) ![12](<../../.gitbook/assets/14 - KHÁC BIỆT (1).png>) ![13](<../../.gitbook/assets/15 - KHÁC BIỆT.png>) ![14](<../../.gitbook/assets/16 - KHÁC BIỆT (1).png>) ![15](<../../.gitbook/assets/17 - KHÁC BIỆT.png>) ![16](<../../.gitbook/assets/18 - HỌC PHÍ (1).png>) ![17](<../../.gitbook/assets/19 - HỌC PHÍ (2).png>)
 
 ## Thông tin liên hệ
 
