@@ -66,7 +66,7 @@ Hiện nay, Khoa Kinh tế & Quản lý công đào tạo ngành Kinh tế (Mã 
 
 ## Infographic
 
-![1](<../../.gitbook/assets/1 - tiêu đề (6).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (1).png>) ![3](<../../.gitbook/assets/3 - vị trí việc làm.png>) ![4](<../../.gitbook/assets/4 - vị trí việc làm.png>) ![5](<../../.gitbook/assets/5 - vị trí việc làm.png>) ![6](<../../.gitbook/assets/6 - ngành - chuyên ngành.png>) ![7](<../../.gitbook/assets/7 - ngành - chuyên ngành.png>) ![8](<../../.gitbook/assets/9 - HỌC PHÍ.png>) ![9](<../../.gitbook/assets/10 - HỌC PHÍ.png>) ![10](<../../.gitbook/assets/11 - liên hệ.png>)
+![1](<../../.gitbook/assets/1 - tiêu đề (6).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (1).png>) ![3](<../../.gitbook/assets/3 - vị trí việc làm.png>) ![4](<../../.gitbook/assets/4 - vị trí việc làm.png>) ![5](<../../.gitbook/assets/5 - vị trí việc làm.png>) ![6](<../../.gitbook/assets/6 - ngành - chuyên ngành.png>) ![7](<../../.gitbook/assets/7 - ngành - chuyên ngành (1).png>) ![8](<../../.gitbook/assets/9 - HỌC PHÍ.png>) ![9](<../../.gitbook/assets/10 - HỌC PHÍ.png>) ![10](<../../.gitbook/assets/11 - liên hệ.png>)
 
 ## Thông tin liên hệ
 
