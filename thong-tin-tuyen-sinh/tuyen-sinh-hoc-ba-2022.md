@@ -1,10 +1,14 @@
 ---
+description: 'Tham khảo: http://tuyensinh.ou.edu.vn/'
 cover: ../.gitbook/assets/Tuyển sinh học bạ 2022.png
 coverY: 0
-description: 'Tham khảo: http://tuyensinh.ou.edu.vn/'
 ---
 
 # Tuyển sinh học bạ 2022
+
+**Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
+
+**Website tuyển sinh:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
 
 ### **Thông tin tuyển sinh Đại học chính quy năm 202**
 

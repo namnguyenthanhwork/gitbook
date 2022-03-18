@@ -1,10 +1,14 @@
 ---
-coverY: 193.97905759162305
 description: Thông tin tuyển sinh được tổng hợp bởi "ThanhNamNguyen"
 cover: .gitbook/assets/Banner gitbook (3420 × 750 px).png
+coverY: 193.97905759162305
 ---
 
 # Sổ tay hướng dẫn tuyển sinh
+
+**Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
+
+**Website tuyển sinh:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
 
 ## **Thông tin Trường**
 

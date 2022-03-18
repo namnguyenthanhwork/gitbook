@@ -8,6 +8,12 @@ coverY: 0
 
 # Các giấy tờ cần có trong hồ sơ
 
+**Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
+
+**Website tuyển sinh:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
+
+
+
 **Gửi về địa chỉ:** Phòng Quản lý Đào tạo - Trường Đại học Mở Thành phố Hồ Chí Minh, số 97 Võ Văn Tần, Phường Võ Thị Sáu (or phường 6), Quận 3, Thành phố Hồ Chí Minh.
 
 > **Lưu ý nhỏ:**

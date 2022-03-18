@@ -5,6 +5,10 @@ coverY: 0
 
 # Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm
 
+**Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
+
+**Website tuyển sinh:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
+
 ### Chỉ tiêu tuyển sinh 2022
 
 ![Chỉ tiêu tuyển sinh đại trà 2022](../.gitbook/assets/1.png)

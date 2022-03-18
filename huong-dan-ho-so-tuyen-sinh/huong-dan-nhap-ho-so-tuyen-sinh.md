@@ -1,13 +1,17 @@
 ---
-cover: ../.gitbook/assets/Hướng dẫn nhập hồ sơ tuyển sinh.png
-coverY: 0
 description: >-
   Lưu ý: sau khi có kết quả trúng tuyển thì mới được phép đăng ký hồ sơ nhập
   học, trong thời gian mở cổng nhập hồ sơ, nếu bạn không nhập và để hết hạn thì
   đồng nghĩa việc bạn "từ chối nhập học"
+cover: ../.gitbook/assets/Hướng dẫn nhập hồ sơ tuyển sinh.png
+coverY: 0
 ---
 
 # Hướng dẫn nhập hồ sơ tuyển sinh
+
+**Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
+
+**Website tuyển sinh:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
 
 {% embed url="https://www.youtube.com/watch?v=TcybXHbd540" %}
 Tham khảo đăng ký nhập học khoá 2021

@@ -1,12 +1,16 @@
 ---
-cover: ../.gitbook/assets/Hướng dẫn đăng ký xét tuyển online.png
-coverY: 0
 description: >-
   Lưu ý: sau khi đăng ký online xong, nếu bạn có kết quả trúng tuyển thì mới
   tiến hành nộp hồ sơ
+cover: ../.gitbook/assets/Hướng dẫn đăng ký xét tuyển online.png
+coverY: 0
 ---
 
 # Hướng dẫn đăng ký xét tuyển online
+
+**Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
+
+**Website tuyển sinh:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
 
 {% hint style="warning" %}
 Lưu ý: bạn nên chọn phương thức xét phù hợp để nâng cao tỷ lệ trúng tuyển

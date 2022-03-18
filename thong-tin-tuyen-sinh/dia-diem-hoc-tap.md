@@ -6,6 +6,10 @@ coverY: 0
 
 # Địa điểm học tập
 
+**Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
+
+**Website tuyển sinh:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
+
 ![Cơ sở học tập](<../.gitbook/assets/cơ sở ĐHM.jpg>)
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}

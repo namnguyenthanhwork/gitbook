@@ -6,6 +6,10 @@ coverY: 0
 
 # Học bổng tuyển sinh 2022
 
+**Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
+
+**Website tuyển sinh:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
+
 {% hint style="success" %}
 **HỌC BỔNG TUYỂN SINH NĂM 2022**
 

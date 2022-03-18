@@ -1,10 +1,14 @@
 ---
+description: Hỗ trợ tạo ảnh để upload hồ sơ nhập học online
 cover: ../.gitbook/assets/Tạo ảnh 3x4 upload hồ sơ.png
 coverY: 0
-description: Hỗ trợ tạo ảnh để upload hồ sơ nhập học online
 ---
 
 # Tạo ảnh 3x4 upload hồ sơ
+
+**Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
+
+**Website tuyển sinh:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
 
 {% embed url="https://www.youtube.com/watch?v=NQ5Pm7PPb6o" %}
 Hướng dẫn tạo ảnh 3x4
