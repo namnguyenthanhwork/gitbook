@@ -69,7 +69,7 @@ Trước khi ra trường, sinh viên phải trải qua một kỳ thực tập 
 
 ## Infographic
 
-![](<../../.gitbook/assets/1 - tiêu đề (3) (1).png>) ![](<../../.gitbook/assets/3 - ngành - chuyên ngành (1).png>) ![1](<../../.gitbook/assets/4 - CNTT.png>) ![2](<../../.gitbook/assets/5 - Chuyên ngành CNTT.png>) ![3](<../../.gitbook/assets/6 - Chuyên ngành CNTT.png>) ![4](<../../.gitbook/assets/7 - Chuyên ngành CNTT.png>) ![5](<../../.gitbook/assets/8 - tỷ lệ việc làm.png>) ![6](<../../.gitbook/assets/9 - nd ctdt.png>) ![7](<../../.gitbook/assets/10 - nd ctdt.png>) ![8](<../../.gitbook/assets/11 - nd ctdt (1).png>) ![9](<../../.gitbook/assets/12 - hỌC PHÍ.png>) ![10](<../../.gitbook/assets/13 - hỌC PHÍ.png>)
+![](<../../.gitbook/assets/1 - tiêu đề (3) (1) (1).png>) ![](<../../.gitbook/assets/3 - ngành - chuyên ngành (1).png>) ![1](<../../.gitbook/assets/4 - CNTT.png>) ![2](<../../.gitbook/assets/5 - Chuyên ngành CNTT.png>) ![3](<../../.gitbook/assets/6 - Chuyên ngành CNTT.png>) ![4](<../../.gitbook/assets/7 - Chuyên ngành CNTT.png>) ![5](<../../.gitbook/assets/8 - tỷ lệ việc làm.png>) ![6](<../../.gitbook/assets/9 - nd ctdt.png>) ![7](<../../.gitbook/assets/10 - nd ctdt.png>) ![8](<../../.gitbook/assets/11 - nd ctdt (1) (1).png>) ![9](<../../.gitbook/assets/12 - hỌC PHÍ.png>) ![10](<../../.gitbook/assets/13 - hỌC PHÍ.png>)
 
 ## Thông tin liên hệ
 

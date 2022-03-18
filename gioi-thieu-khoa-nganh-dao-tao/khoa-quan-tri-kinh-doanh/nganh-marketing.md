@@ -72,7 +72,7 @@ Chương trình đào tạo cử nhân của khoa QTKD cung cấp kiến thức 
 
 ## Infographic
 
-![1](<../../.gitbook/assets/1 - tiêu đề (4) (1).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (5).png>) ![3](<../../.gitbook/assets/3 - Ngành & việc làm (1).png>) ![4](<../../.gitbook/assets/4 - NGÀNH MARKETING 1.png>) ![5](<../../.gitbook/assets/5 - NGÀNH MARKETING 2.png>) ![6](<../../.gitbook/assets/6 - NGÀNH MARKETING 3.png>) ![7](<../../.gitbook/assets/7 - MỤC TIÊU ĐÀO TẠO (2).png>) ![8](<../../.gitbook/assets/8 - MỤC TIÊU ĐÀO TẠO (1).png>) ![9](<../../.gitbook/assets/9 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO (2).png>) ![10](<../../.gitbook/assets/10 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![11](<../../.gitbook/assets/12 - học phí (2).png>) ![12](<../../.gitbook/assets/13 - học phí.png>) ![13](<../../.gitbook/assets/14 - thông tin khác.png>)
+![1](<../../.gitbook/assets/1 - tiêu đề (4) (1).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (5) (1).png>) ![3](<../../.gitbook/assets/3 - Ngành & việc làm (1).png>) ![4](<../../.gitbook/assets/4 - NGÀNH MARKETING 1.png>) ![5](<../../.gitbook/assets/5 - NGÀNH MARKETING 2.png>) ![6](<../../.gitbook/assets/6 - NGÀNH MARKETING 3.png>) ![7](<../../.gitbook/assets/7 - MỤC TIÊU ĐÀO TẠO (2).png>) ![8](<../../.gitbook/assets/8 - MỤC TIÊU ĐÀO TẠO (1).png>) ![9](<../../.gitbook/assets/9 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO (2).png>) ![10](<../../.gitbook/assets/10 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![11](<../../.gitbook/assets/12 - học phí (2).png>) ![12](<../../.gitbook/assets/13 - học phí.png>) ![13](<../../.gitbook/assets/14 - thông tin khác.png>)
 
 ## Thông tin liên hệ
 

@@ -54,7 +54,7 @@ Sau khi học xong chương trình, cử nhân ngành Hệ thống thông tin q
 
 ## Infographic
 
-![1](<../../.gitbook/assets/1 - tiêu đề (1) (1).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (4).png>) ![3](<../../.gitbook/assets/3 - ngành - chuyên ngành (2).png>) ![4](<../../.gitbook/assets/4 - việc làm (2).png>) ![5](<../../.gitbook/assets/5 - chuyên ngành - việc làm.png>) ![6](<../../.gitbook/assets/6 - chuyên ngành - việc làm.png>) ![7](<../../.gitbook/assets/7 - tỷ lệ việc làm.png>) ![8](<../../.gitbook/assets/8 - nd ctdt.png>) ![9](<../../.gitbook/assets/9 - nd ctdt (2).png>) ![10](<../../.gitbook/assets/10 - nd ctdt (2).png>) ![11](<../../.gitbook/assets/12 - HỌC PHÍ.png>) ![12](<../../.gitbook/assets/13 - HỌC PHÍ (1).png>)
+![1](<../../.gitbook/assets/1 - tiêu đề (1) (1).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (4).png>) ![3](<../../.gitbook/assets/3 - ngành - chuyên ngành (2).png>) ![4](<../../.gitbook/assets/4 - việc làm (2).png>) ![5](<../../.gitbook/assets/5 - chuyên ngành - việc làm.png>) ![6](<../../.gitbook/assets/6 - chuyên ngành - việc làm.png>) ![7](<../../.gitbook/assets/7 - tỷ lệ việc làm.png>) ![8](<../../.gitbook/assets/8 - nd ctdt.png>) ![9](<../../.gitbook/assets/9 - nd ctdt (2) (1).png>) ![10](<../../.gitbook/assets/10 - nd ctdt (2).png>) ![11](<../../.gitbook/assets/12 - HỌC PHÍ.png>) ![12](<../../.gitbook/assets/13 - HỌC PHÍ (1) (1).png>)
 
 ## Thông tin liên hệ
 
