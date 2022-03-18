@@ -11,32 +11,88 @@ coverY: 0
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}
-Ngày 26/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
+**Thời gian đào tạo:** 4,0 năm
+
+**Khối lượng kiến thức toàn khóa (tổng số tín chỉ):** 127 tín chỉ
+
+**Văn bằng tốt nghiệp:** Cử nhân Quản lý
+
+Sinh viên được trang bị các khối kiến thức:
+
+**Kiến thức giáo dục đại cương:**
+
+* Khoa học tự nhiên: toán, tin học, thống kê ứng dụng
+* Khoa học xã hội: kinh tế học, quản trị học, pháp luật, kế toán
+* Ngoại ngữ
+
+**Kiến thức giáo dục chuyên nghiệp:**
+
+* Cơ sở ngành xây dựng: Vẽ kỹ thuật xây dựng, sức bền vật liệu, cơ học đất, địa chất công trình, trắc địa, vật liệu xây dựng, vẽ kỹ thuật
+* Chuyên ngành xây dựng: kỹ thuật thi công, tổ chức và quản lý thi công, quản lý dự án, lập và thẩm định dự án, phương pháp định lượng, máy xây dựng & an toàn lao động, dự toán, quản lý tài chính, đấu thầu, quản lý rủi ro, quản lý năng suất…
+
+**Kiến thức bổ trợ:** kinh tế xây dựng, quản trị chuỗi cung ứng, kinh tế lao động. Thuế, Quản trị nhân lực, quản lý chiến lược…
+
+**Tổng hợp áp dụng kiến thức:** Thực tập tốt nghiệp và Khóa luận tốt nghiệp.
 {% endhint %}
 
 ## Chuyên ngành
 
 {% hint style="info" %}
-Ngày 26/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
+**Chuyên ngành chính:** Quản lý xây dựng
 {% endhint %}
 
 ## Cơ hội việc làm
 
 {% hint style="info" %}
-Ngày 26/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
+**Các công việc mà sinh viên tốt nghiệp chuyên ngành Quản lý Xây Dựng có thể làm sau khi ra trường:**
+
+* Chuyên viên thi công xây dựng.
+* Chuyên viên tư vấn và quản lý dự án xây dựng.
+* Chuyên viên quản lý an toàn lao động.
+* Chuyên viên giám sát và quản lý chất lượng.
+* Chuyên viên lập dự toán.
+* Chuyên viên sở ban ngành xây dựng (quản lý đô thị, xây dựng cơ bản,…).
+* Chuyên viên ban quản lý dự án, phòng đầu tư xây dựng.
+* Nhân viên kinh doanh các doanh nghiệp xây dựng (công ty sản xuất thép, công ty sản xuất vật liệu xây dựng, công ty kinh doanh bất động sản,…).
+* Nghiên cứu viên tại các viện/trường về quản lý xây dựng/ quản lý dự án.
 {% endhint %}
 
 ## Sự khác biệt của chương trình đào tạo
 
 {% hint style="info" %}
-Ngày 26/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
-{% endhint %}
+Đào tạo cử nhân ngành Quản lý Xây Dựng có phẩm chất chính trị, đạo đức nghề nghiệp, ý thức trách nhiệm đối với xã hội, sức khỏe, kiến thức và năng lực chuyên môn trong lĩnh vực quản lý dự án và thi công xây dựng. Các kiến thức, kỹ năng được trang bị:
 
-## Hoạt động sinh viên
+* Trang bị kiến thức cơ bản về tự nhiên, xã hội và con người.
+* Cung cấp kiến thức lý thuyết và thực tiễn thuộc lĩnh vực thi công xây dựng và quản lý dự án của ngành quản lý xây dựng.
+* Giúp người học phát triển kỹ năng nhận thức, thực hành nghề nghiệp để thực hiện các nhiệm vụ chuyên môn tương xứng với vị trí nghề nghiệp.
+* Giúp người học phát triển kỹ năng giao tiếp ứng xử cần thiết trong xây dựng.
+* Đào tạo năng lực làm việc độc lập hoặc theo nhóm.
+* Giúp người học xây dựng ý thức trách nhiệm đối với cá nhân, cộng đồng, ý thức phục vụ đất nước và đạo đức nghề nghiệp.
+{% endhint %}
 
 {% hint style="info" %}
-Ngày 26/03 sẽ đăng tại đây và đăng trong group ["Sinh viên Đại học Mở TP.HCM- HCMCOU"](https://www.facebook.com/groups/oumembers)
+* Chương trình đào tạo được thiết kế đan xem giữa kỹ thuật và quản lý. Sinh viên được trang bị tất cả các kiến thức căn bản của ngành xây dựng và song song đó được dạy nhiều môn học về quản lý dự án, và đầu tư trong lĩnh vực xây dựng.
+* Các học phần phân bổ môn học tạo điều kiện thuận lợi cho việc hoàn thành sớm chương trình đào tạo, dễ trả nợ môn học để ra trường đúng hạn.
+* Thường xuyên tổ chức các Seminar chuyên ngành cho sinh viên.
+* Các buổi đối thoại với CEO của các doanh nghiệp ngành xây dựng.
+* Sinh viên được tham quan công trình xây dựng và nhà máy sản xuất nhà công nghiệp tại các doanh nghiệp hàng đầu trong lĩnh vực xây dựng.
+* Tạo điều kiện cho sinh viên đi thực tập để có cơ hội nghề nghiệp khi ra trường.
 {% endhint %}
+
+## Học phí
+
+| NGÀNH/NHÓM NGÀNH                                                                                                                                                                  | MỨC HỌC PHÍ BÌNH QUÂN      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| CÔNG NGHỆ SINH HỌC, CÔNG NGHỆ THỰC PHẨM                                                                                                                                           | 24,000,000/1 NĂM/SINH VIÊN |
+| CÔNG NGHỆ KỸ THUẬT CÔNG TRÌNH XÂY DỰNG, QUẢN LÝ XÂY DỰNG                                                                                                                          | 25,000,000/1 NĂM/SINH VIÊN |
+| KHOA HỌC MÁY TÍNH, HỆ THỐNG THÔNG TIN QUẢN LÝ, CÔNG NGHỆ THÔNG TIN                                                                                                                | 25,000,000/1 NĂM/SINH VIÊN |
+| KẾ TOÁN, KIỂM TOÁN,TÀI CHÍNH - NGÂN HÀNG, QUẢN TRỊ KINH DOANH, MARKETING, KINH DOANH QUỐC TẾ, QUẢN TRỊ NHÂN LỰC, LUẬT, LUẬT KINH TẾ, LOGISTICS VÀ QUẢN LÝ CHUỖI CUNG ỨNG, DU LỊCH | 23,000,000/1 NĂM/SINH VIÊN |
+| KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
+| NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
+
+## Infographic
+
+![1](<../../.gitbook/assets/1 - tiêu đề (4).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (8).png>) ![3](<../../.gitbook/assets/3 - việc làm.png>) ![4](<../../.gitbook/assets/4 - Việc làm - QLXD.png>) ![5](<../../.gitbook/assets/5 - Điểm nổi bật của khoa.png>) ![6](<../../.gitbook/assets/6 - Mục tiêu.png>) ![7](<../../.gitbook/assets/7 - Mục tiêu - QLXD.png>) ![8](<../../.gitbook/assets/8 - điểm mạnh.png>) ![9](<../../.gitbook/assets/9 - điểm mạnh.png>) ![10](<../../.gitbook/assets/10 - ngành - chuyên ngành.png>) ![11](<../../.gitbook/assets/11 - nd ctdt (2).png>) ![12](<../../.gitbook/assets/12 - nd ctdt (1).png>) ![13](<../../.gitbook/assets/13 - nd ctdt (1).png>) ![14](<../../.gitbook/assets/15 - học phí (2).png>) ![15](<../../.gitbook/assets/16 - học phí.png>) ![16](<../../.gitbook/assets/17 - Thông tin liên hệ.png>)
 
 ## Thông tin liên hệ
 
