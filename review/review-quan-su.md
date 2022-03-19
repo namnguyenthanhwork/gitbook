@@ -1,11 +1,18 @@
 ---
+description: Review quân sự (Lobita land OU)
 cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
 coverY: 95.42986425339366
 ---
 
 # Review quân sự
 
+**Bài viết gốc**: [https://www.facebook.com/groups/oumembers/posts/1191871581229448/](https://www.facebook.com/groups/oumembers/posts/1191871581229448/)
+
+**Bài viết khác**, nhưng kể chi tiết hơn, có khả năng biết trước thì mất vui nhưng ai muốn đọc thì vẫn có thể đọc để tham khảo: [https://www.facebook.com/groups/oumembers/posts/1215120692237870/](https://www.facebook.com/groups/oumembers/posts/1215120692237870/?\_\_cft\_\_\[0]=AZXiASax8\_DrqB8dSLXokCNrBh5c7tOO-lx8hGjS6JGo5F2G9UMRmCfkwYfBpOePQ9mNMmyAuGBgBhji0U10u\_PQ1D7ahUB4H7a0AKR6TZtpZcM9447twDZcjdCmgw8pib3vmg\_DZsgZHesG2hGScwp9RGWAUzszun-033BimMg-hwSPOF5OiTops27P8TDGUuE&\_\_tn\_\_=%2CO%2CP-R)
+
+{% hint style="info" %}
 **Tips để sống sót qua kỳ quân sự**
+{% endhint %}
 
 * 1-2 đôi giày + 2-3 đôi vớ (sài suốt ngày, từ sáng tới tối, thế nên đem nhiều để thay cho đỡ hôi)
 * 1 đôi dép (chỉ được mang khi đi ăn, sinh hoạt tối)
@@ -65,8 +72,6 @@ _=> Chúc mấy bạn có 1 kỳ quân sự vui vẻ nhé :))_
 ![](<../.gitbook/assets/image (14).png>)
 
 ![](<../.gitbook/assets/image (13).png>)
-
-Nguồn: [https://www.facebook.com/groups/oumembers/posts/1191871581229448/](https://www.facebook.com/groups/oumembers/posts/1191871581229448/)
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Tham gia group để cập nhật thông tin tuyển sinh mới nhất
