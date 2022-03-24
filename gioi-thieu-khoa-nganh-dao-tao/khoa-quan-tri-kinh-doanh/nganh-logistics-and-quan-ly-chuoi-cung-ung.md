@@ -8,6 +8,10 @@ coverY: 0
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 02 Mai Thị Lựu, Phường Đakao, Q.1, TP.HCM.
 
+{% embed url="https://youtu.be/wR7aWXGzZjM" %}
+Giới thiệu ngành Logistics & Quản lý chuỗi cung ứng - Trường Đại học Mở Tp.HCM
+{% endembed %}
+
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}

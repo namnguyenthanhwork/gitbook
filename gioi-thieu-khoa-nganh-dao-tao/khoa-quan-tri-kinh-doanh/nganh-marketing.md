@@ -8,6 +8,10 @@ coverY: 0
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 02 Mai Thị Lựu, Phường Đakao, Q.1, TP.HCM.
 
+{% embed url="https://youtu.be/Ss9D2HYhneM" %}
+Giới thiệu ngành Marketing - Trường Đại học Mở Tp.HCM
+{% endembed %}
+
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}
