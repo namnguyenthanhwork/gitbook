@@ -8,6 +8,10 @@ coverY: 0
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 371 Nguyễn Kiệm, phường 3, Quận Gò Vấp, Tp.HCM.
 
+{% embed url="https://youtu.be/2s72BnMcRqA" %}
+Giới thiệu ngành Quản lý Xây dựng - Trường Đại học Mở Tp.HCM
+{% endembed %}
+
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}
