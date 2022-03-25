@@ -1,5 +1,5 @@
 ---
-description: Giới thiệu ngành Ngôn ngữ Anh
+description: Giới thiệu ngành Ngôn ngữ Trung
 cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
 coverY: 0
 ---
