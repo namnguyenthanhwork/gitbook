@@ -8,6 +8,10 @@ coverY: 0
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 02 Mai Thị Lựu, P.Đakao, Q.1 Tp.HCM
 
+{% embed url="https://youtu.be/lIIBJE-Or_I" %}
+Giới thiệu ngành Kinh Tế - Trường Đại học Mở Tp.HCM
+{% endembed %}
+
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}

@@ -8,15 +8,19 @@ coverY: 0
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 371 Nguyễn Kiệm, phường 3, Quận Gò Vấp, Tp.HCM.
 
+{% embed url="https://youtu.be/6VS6ft2UHqg" %}
+Giới thiệu ngành Luật - Trường Đại học Mở Tp.HCM
+{% endembed %}
+
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}
 Chương trình đào tạo có 125 tín chỉ học trong 4 năm đối với thời lượng học trung bình. Tuy nhiên, với 3 học kỳ/năm học, sinh viên hoàn toàn có thể học vượt để kết thúc chương trình học sớm.
 
-Chương trình đào tạo gồm 2 khối kiến thức chính:
+**Chương trình đào tạo gồm 2 khối kiến thức chính:**
 
-* Khối kiến thức giáo dục đại cương: bao gồm các môn học về xã hội (Pháp luật, Giao tiếp trong kinh doanh…), các môn học công cụ như Toán, Tin học, Ngoại ngữ, ngoài ra sinh viên còn được rèn luyện về giáo dục thể chất và quốc phòng…
-* Khối kiến thức chuyên nghiệp: bao gồm các môn học cơ sở của khối ngành và các môn học chuyên sâu vào chuyên ngành như:
+* **Khối kiến thức giáo dục đại cương:** bao gồm các môn học về xã hội (Pháp luật, Giao tiếp trong kinh doanh…), các môn học công cụ như Toán, Tin học, Ngoại ngữ, ngoài ra sinh viên còn được rèn luyện về giáo dục thể chất và quốc phòng…
+* **Khối kiến thức chuyên nghiệp:** bao gồm các môn học cơ sở của khối ngành và các môn học chuyên sâu vào chuyên ngành như:
   * Luật hôn nhân và gia đình
   * Luật sở hữu trí tuệ
   * Luật ngân sách nhà nước
