@@ -177,8 +177,6 @@ KHOA ĐÀO TẠO ĐẶC BIỆT
 
 PHÒNG 007, 97 VÕ VĂN TẦN, P. VÕ THỊ SÁU, QUẬN 3, TP. HỒ CHÍ MINH
 
-ĐIỆN THOẠI: 028 3930 9918
-
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Tham gia group để cập nhật thông tin tuyển sinh mới nhất
 {% endembed %}
