@@ -8,6 +8,10 @@ coverY: 0
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 371 Nguyễn Kiệm, phường 3, Quận Gò Vấp, Tp.HCM.
 
+{% embed url="https://youtu.be/M-s-Tes6tnU" %}
+Giới thiệu ngành Ngôn Ngữ Nhật - Trường Đại học Mở Tp.HCM
+{% endembed %}
+
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}
