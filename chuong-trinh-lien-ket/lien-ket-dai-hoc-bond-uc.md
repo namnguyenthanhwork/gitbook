@@ -150,11 +150,11 @@ a) Ngày bắt đầu nhận hồ sơ đăng ký: 05/04/2022.
 
 b) Ngày nhập học (dự kiến): 15/09/2022.
 
-**MỌI CHI TIẾT LIÊN HỆ: CHƯƠNG TRÌNH LIÊN KẾT QUỐC TẾ**
+**Nếu bạn có thắc mắc, vui lòng liên hệ mình để được giải đáp nhé:**&#x20;
 
-KHOA ĐÀO TẠO ĐẶC BIỆT
+**Messenger:** [**https://www.messenger.com/t/100010636239565**](https://www.messenger.com/t/100010636239565)****
 
-PHÒNG 007, 97 VÕ VĂN TẦN, P. VÕ THỊ SÁU, QUẬN 3, TP. HỒ CHÍ MINH
+**Facebook:** [**https://www.facebook.com/NguyenThanhNam1601**](https://www.facebook.com/NguyenThanhNam1601)****
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Tham gia group để cập nhật thông tin tuyển sinh mới nhất

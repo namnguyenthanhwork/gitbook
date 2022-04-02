@@ -128,17 +128,11 @@ _**Lưu ý**_: Các loại giấy tờ tại (3), (4), (5) là bản sao công c
 
 ### **11. Địa chỉ liên hệ:**
 
-**KHOA QUẢN TRỊ KINH DOANH**
+**Nếu bạn có thắc mắc, vui lòng liên hệ mình để được giải đáp nhé:**&#x20;
 
-**TRƯỜNG ĐẠI HỌC MỞ THÀNH PHỐ HỒ CHÍ MINH**
+**Messenger:** [**https://www.messenger.com/t/100010636239565**](https://www.messenger.com/t/100010636239565)****
 
-Phòng 403, lầu 4, 35 -37 Hồ Hảo Hớn, P. Cô Giang, Q.1, Thành phố Hồ Chí Minh.
-
-**E-mail:** rouenou@ou.edu.vn
-
-**Website**: rouen.ou.edu.vn
-
-Fanpage: [www.facebook.com/kdqtrouenou](http://www.facebook.com/kdqtrouenou)
+**Facebook:** [**https://www.facebook.com/NguyenThanhNam1601**](https://www.facebook.com/NguyenThanhNam1601)****
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 LinkTham gia group để cập nhật thông tin tuyển sinh mới nhất
