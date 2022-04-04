@@ -15,7 +15,7 @@
 ## Hướng dẫn hồ sơ tuyển sinh
 
 * [Công cụ tính điểm xét tuyển](huong-dan-ho-so-tuyen-sinh/cong-cu-tinh-diem-xet-tuyen.md)
-* [Hướng dẫn đăng ký xét tuyển online](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/README.md)
+* [Hướng dẫn đăng ký xét tuyển online](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online.md)
   * [Phương thức xét học bạ 3 năm THPT](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt.md)
   * [Phương thức xét học bạ 3 năm THPT có chứng chỉ ngoại ngữ](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt-co-chung-chi-ngoai-ngu.md)
   * [Phương thức ưu tiên xét học sinh giỏi](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-uu-tien-xet-hoc-sinh-gioi.md)

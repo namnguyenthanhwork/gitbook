@@ -2,7 +2,7 @@
 description: >-
   Lưu ý: sau khi đăng ký online xong, nếu bạn có kết quả trúng tuyển thì mới
   tiến hành nộp hồ sơ
-cover: ../../.gitbook/assets/Hướng dẫn đăng ký xét tuyển online.png
+cover: ../.gitbook/assets/Hướng dẫn đăng ký xét tuyển online.png
 coverY: 0
 ---
 
@@ -62,7 +62,7 @@ _Điều kiện đăng ký:_ thí sinh thỏa mãn cùng lúc 02 điều kiện
    * Các ngành còn lại: IELTS đạt 5.5 (hoặc các chứng chỉ khác tương đương – Tham khảo PL2)**.**
 {% endhint %}
 
-![Phụ lục 2](<../../.gitbook/assets/image (11) (1).png>)
+![Phụ lục 2](<../.gitbook/assets/image (11) (1).png>)
 
 ### **Phương thức 6:** Xét tuyển theo kết quả học tập THPT
 
@@ -72,9 +72,9 @@ _Điều kiện đăng ký hồ sơ:_
 Tổng Điểm trung bình môn học các môn trong tổ hợp xét tuyển (Điểm Đăng ký xét tuyển - không bao gồm điểm ưu tiên) phải đạt từ 18,00 điểm trở lên đối với các ngành Công nghệ sinh học (đại trà và chất lượng cao), Công tác xã hội, Xã hội học, Đông Nam Á học. Các ngành còn lại từ 20,00 điểm trở lên.
 {% endhint %}
 
-![Phương thức 6](<../../.gitbook/assets/image (2) (1).png>)
+![Phương thức 6](<../.gitbook/assets/image (2) (1).png>)
 
-Nếu thấy công thức khó khăn, vui lòng vào[ "Công cụ tính điểm xét tuyển"](../cong-cu-tinh-diem-xet-tuyen.md) để tính
+Nếu thấy công thức khó khăn, vui lòng vào[ "Công cụ tính điểm xét tuyển"](cong-cu-tinh-diem-xet-tuyen.md) để tính
 
 {% hint style="info" %}
 **Chú ý:** thứ tự ưu tiên các phương thức&#x20;
@@ -84,9 +84,21 @@ Nếu thấy công thức khó khăn, vui lòng vào[ "Công cụ tính điểm 
 
 ## Hướng dẫn đăng ký online
 
-> <mark style="color:red;">**Lưu ý:**</mark> Đến đúng thời gian mở đăng ký, bạn truy cập vào trang xét tuyển để tiến hành đăng ký
+{% hint style="info" %}
+Chọn 1 trong các phương thức dưới đây để xem hướng dẫn
+{% endhint %}
 
-****
+{% content-ref url="huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt.md" %}
+[phuong-thuc-xet-hoc-ba-3-nam-thpt.md](huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt.md)
+{% endcontent-ref %}
+
+{% content-ref url="huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt-co-chung-chi-ngoai-ngu.md" %}
+[phuong-thuc-xet-hoc-ba-3-nam-thpt-co-chung-chi-ngoai-ngu.md](huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt-co-chung-chi-ngoai-ngu.md)
+{% endcontent-ref %}
+
+{% content-ref url="huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-uu-tien-xet-hoc-sinh-gioi.md" %}
+[phuong-thuc-uu-tien-xet-hoc-sinh-gioi.md](huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-uu-tien-xet-hoc-sinh-gioi.md)
+{% endcontent-ref %}
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Tham gia group để cập nhật thông tin tuyển sinh mới nhất

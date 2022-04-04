@@ -48,6 +48,8 @@ description: Phương thức ưu tiên xét học sinh giỏi
 **Bước 5: Đăng ký nguyện vọng**
 
 Tick chọn xác nhận hạnh kiểm tốt và học lực giỏi năm 10 11 hk1 12. Chọn ngành và tổ hợp, điền chứng chỉ ngoại ngữ thì chọn và điền thông tin, điền thông tin điểm số (điểm cột cả năm 10, 11 và hk1 12). Các nguyện vọng 2 và 3 tương tự
+
+Lưu ý: khi xét học sinh giỏi, các môn trong tổ hợp xét tuyển phải >= 7đ
 {% endhint %}
 
 ![](<../../.gitbook/assets/c6 hsg.PNG>)
