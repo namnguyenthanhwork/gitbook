@@ -1,7 +1,7 @@
 ---
 description: Cơ sở học tập các ngành
 cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 0
+coverY: 322.3981900452489
 ---
 
 # Địa điểm học tập

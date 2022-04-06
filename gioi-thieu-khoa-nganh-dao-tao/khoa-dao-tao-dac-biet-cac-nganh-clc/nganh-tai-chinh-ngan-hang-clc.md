@@ -1,7 +1,7 @@
 ---
 description: Giới thiệu Ngành Tài Chính Ngân Hàng CLC
 cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 0
+coverY: 273.39366515837105
 ---
 
 # Ngành Tài Chính Ngân Hàng CLC

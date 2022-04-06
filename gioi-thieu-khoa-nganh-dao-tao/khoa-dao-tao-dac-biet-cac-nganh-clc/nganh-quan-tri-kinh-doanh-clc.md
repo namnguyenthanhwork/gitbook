@@ -1,7 +1,7 @@
 ---
 description: Giới thiệu Ngành Quản Trị Kinh Doanh CLC
 cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 0
+coverY: 376.5610859728507
 ---
 
 # Ngành Quản Trị Kinh Doanh CLC

@@ -1,7 +1,7 @@
 ---
 description: Giới thiệu khoa Đào tạo đặc biệt (Các ngành CLC)
 cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 0
+coverY: 466.8325791855204
 ---
 
 # Khoa Đào tạo đặc biệt (Các ngành CLC)
