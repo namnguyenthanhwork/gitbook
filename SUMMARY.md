@@ -11,6 +11,7 @@
 * [Xác nhận nhập học](thong-tin-tuyen-sinh/xac-nhan-nhap-hoc.md)
 * [Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm](thong-tin-tuyen-sinh/chi-tieu-hoc-phi-2022-and-diem-chuan-cac-nam.md)
 * [Địa điểm học tập](thong-tin-tuyen-sinh/dia-diem-hoc-tap.md)
+* [Danh sách khoa - ngành đào tạo](thong-tin-tuyen-sinh/danh-sach-khoa-nganh-dao-tao.md)
 
 ## Hướng dẫn hồ sơ tuyển sinh
 
