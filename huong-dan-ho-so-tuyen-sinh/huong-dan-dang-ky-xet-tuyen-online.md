@@ -2,8 +2,8 @@
 description: >-
   Lưu ý: sau khi đăng ký online xong, nếu bạn có kết quả trúng tuyển thì mới
   tiến hành nộp hồ sơ
-cover: ../.gitbook/assets/Hướng dẫn đăng ký xét tuyển online.png
-coverY: 0
+cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
+coverY: 371.4027149321267
 ---
 
 # Hướng dẫn đăng ký xét tuyển online
