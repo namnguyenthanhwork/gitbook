@@ -13,10 +13,10 @@ coverY: 335.29411764705884
 ![Bước 1: Chọn mục xét tuyển ưu tiên xét học sinh giỏi](<../../.gitbook/assets/c1 (1).PNG>)
 
 {% hint style="info" %}
-**1 bảng thông báo giới thiệu sẽ hiện ra, nhớ đọc kỹ rồi hãy ấn tiếp tục**
+**1 bảng thông báo giới thiệu sẽ hiện ra, nhìn và đọc kỹ rồi hãy ấn tiếp tục**
 {% endhint %}
 
-![1 bảng thông báo giới thiệu sẽ hiện ra](<../../.gitbook/assets/c1 hsg.PNG>)
+![1 bảng thông báo giới thiệu sẽ hiện ra, nhìn và đọc kỹ rồi hãy ấn tiếp tục](<../../.gitbook/assets/1 hsg.PNG>)
 
 {% hint style="info" %}
 **Bước 2: Điền thông tin**

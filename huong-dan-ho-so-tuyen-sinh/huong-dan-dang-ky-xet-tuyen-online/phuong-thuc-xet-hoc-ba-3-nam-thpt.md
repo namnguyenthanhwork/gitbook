@@ -16,7 +16,7 @@ coverY: 64.47963800904978
 **1 bảng thông báo giới thiệu sẽ hiện ra, nhớ đọc kỹ rồi hãy ấn tiếp tục**
 {% endhint %}
 
-![1 bảng thông báo giới thiệu sẽ hiện ra](<../../.gitbook/assets/c1 hb.PNG>)
+![](../../.gitbook/assets/hb.PNG)
 
 {% hint style="info" %}
 **Bước 2: Điền thông tin**

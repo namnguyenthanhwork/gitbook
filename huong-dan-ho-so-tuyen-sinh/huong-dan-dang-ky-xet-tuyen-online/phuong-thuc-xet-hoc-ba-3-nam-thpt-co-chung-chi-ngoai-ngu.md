@@ -16,7 +16,7 @@ coverY: 162.48868778280544
 **1 bảng thông báo giới thiệu sẽ hiện ra, nhớ đọc kỹ rồi hãy ấn tiếp tục**
 {% endhint %}
 
-![1 bảng thông báo giới thiệu sẽ hiện ra](<../../.gitbook/assets/c0 ccnn.PNG>)
+![](../../.gitbook/assets/ccnn.PNG)
 
 {% hint style="info" %}
 **Bước 2: Điền thông tin**
