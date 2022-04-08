@@ -16,7 +16,7 @@ coverY: 203.7556561085973
 
 **🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/](https://namnguyenthanhwork.github.io/oulink/)
 
-### KHOA ĐÀO TẠO ĐẶC BIỆT (CÁC NGÀNH CHẤT LƯỢNG CAO):
+### KHOA ĐÀO TẠO ĐẶC BIỆT (CÁC NGÀNH CHẤT LƯỢNG CAO)
 
 {% content-ref url="../gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-luat-kinh-te-clc.md" %}
 [nganh-luat-kinh-te-clc.md](../gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-luat-kinh-te-clc.md)
@@ -60,7 +60,7 @@ coverY: 203.7556561085973
 [nganh-ke-toan-clc.md](../gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-ke-toan-clc.md)
 {% endcontent-ref %}
 
-### KHOA KẾ TOÁN - KIỂM TOÁN:
+### KHOA KẾ TOÁN - KIỂM TOÁN
 
 {% content-ref url="../gioi-thieu-khoa-nganh-dao-tao/khoa-ke-toan-kiem-toan/nganh-ke-toan.md" %}
 [nganh-ke-toan.md](../gioi-thieu-khoa-nganh-dao-tao/khoa-ke-toan-kiem-toan/nganh-ke-toan.md)
