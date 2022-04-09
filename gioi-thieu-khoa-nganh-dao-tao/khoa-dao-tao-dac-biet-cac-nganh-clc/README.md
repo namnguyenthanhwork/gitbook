@@ -8,8 +8,8 @@ coverY: 466.8325791855204
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
 
-{% embed url="https://youtu.be/X-nG3oSmln0" %}
-Giới thiệu Khoa Đào Tạo Đặc Biệt (Các ngành Chất lượng cao)
+{% embed url="https://youtu.be/cfH5H6cnpfQ" %}
+Giới thiệu khoa Đào tạo đặc biệt (Các ngành CLC)
 {% endembed %}
 
 ## Giới thiệu chung

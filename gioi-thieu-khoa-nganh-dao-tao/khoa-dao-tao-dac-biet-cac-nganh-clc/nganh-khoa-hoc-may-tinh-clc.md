@@ -6,11 +6,11 @@ coverY: 0
 
 # Ngành Khoa Học Máy Tính CLC
 
-> **ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
-
-{% embed url="https://youtu.be/X-nG3oSmln0?t=385" %}
+{% embed url="https://youtu.be/cfH5H6cnpfQ?t=385" %}
 Giới thiệu Ngành Khoa Học Máy Tính CLC
 {% endembed %}
+
+> **ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
 
 Chương trình đào tạo ngành Khoa Học Máy Tính được thiết kế bao gồm 141 tín chỉ. Sinh viên tốt nghiệp bằng Cử Nhân sau 4 năm học tập.
 

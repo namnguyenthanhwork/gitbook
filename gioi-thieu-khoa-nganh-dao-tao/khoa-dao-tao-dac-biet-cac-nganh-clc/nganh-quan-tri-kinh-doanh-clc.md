@@ -8,7 +8,7 @@ coverY: 376.5610859728507
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
 
-{% embed url="https://youtu.be/X-nG3oSmln0?t=70" %}
+{% embed url="https://youtu.be/cfH5H6cnpfQ?t=70" %}
 Giới thiệu Ngành Quản Trị Kinh Doanh CLC
 {% endembed %}
 

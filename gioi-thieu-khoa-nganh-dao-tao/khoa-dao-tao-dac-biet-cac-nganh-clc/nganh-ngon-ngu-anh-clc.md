@@ -8,7 +8,7 @@ coverY: 0
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
 
-{% embed url="https://youtu.be/X-nG3oSmln0?t=477" %}
+{% embed url="https://youtu.be/cfH5H6cnpfQ?t=477" %}
 Giới thiệu Ngành Ngôn ngữ Anh CLC
 {% endembed %}
 

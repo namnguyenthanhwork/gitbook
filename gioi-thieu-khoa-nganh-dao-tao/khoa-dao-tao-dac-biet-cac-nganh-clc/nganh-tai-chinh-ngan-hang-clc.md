@@ -8,7 +8,7 @@ coverY: 273.39366515837105
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
 
-{% embed url="https://youtu.be/X-nG3oSmln0?t=127" %}
+{% embed url="https://youtu.be/cfH5H6cnpfQ?t=127" %}
 Giới thiệu Ngành Tài Chính Ngân Hàng CLC
 {% endembed %}
 
