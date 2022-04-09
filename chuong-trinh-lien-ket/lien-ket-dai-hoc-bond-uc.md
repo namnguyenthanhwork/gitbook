@@ -5,17 +5,11 @@ coverY: 56.742081447963805
 
 # Liên kết Đại học Bond, Úc
 
-📞 **Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
+**Nếu bạn có thắc mắc hoặc hỗ trợ đăng ký chương trình liên kết quốc tế, vui lòng liên hệ mình để được giải đáp nhé:**&#x20;
 
-**🌐 Website tuyển sinh chính thức:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
+**Messenger:** [**https://www.messenger.com/t/100010636239565**](https://www.messenger.com/t/100010636239565)****
 
-🔗 **Thông tin tuyển sinh Đại học chính quy năm 2022:** [http://tuyensinh.ou.edu.vn/thong-tin-tuyen-sinh-dai-hoc-he-chinh-quy-nam-2022](http://tuyensinh.ou.edu.vn/thong-tin-tuyen-sinh-dai-hoc-he-chinh-quy-nam-2022)
-
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html](https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html)
-
-**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/](https://namnguyenthanhwork.github.io/oulink/)
-
-
+**Facebook:** [**https://www.facebook.com/NguyenThanhNam1601**](https://www.facebook.com/NguyenThanhNam1601)****
 
 {% hint style="info" %}
 **THÔNG BÁO**
@@ -150,7 +144,7 @@ a) Ngày bắt đầu nhận hồ sơ đăng ký: 05/04/2022.
 
 b) Ngày nhập học (dự kiến): 15/09/2022.
 
-**Nếu bạn có thắc mắc, vui lòng liên hệ mình để được giải đáp nhé:**&#x20;
+**Nếu bạn có thắc mắc hoặc hỗ trợ đăng ký chương trình liên kết quốc tế, vui lòng liên hệ mình để được giải đáp nhé:**&#x20;
 
 **Messenger:** [**https://www.messenger.com/t/100010636239565**](https://www.messenger.com/t/100010636239565)****
 
