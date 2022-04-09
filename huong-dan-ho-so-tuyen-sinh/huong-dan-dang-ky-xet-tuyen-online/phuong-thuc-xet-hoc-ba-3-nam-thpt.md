@@ -6,6 +6,12 @@ coverY: 64.47963800904978
 
 # Phương thức xét học bạ 3 năm THPT
 
+🔗**Link đăng ký xét tuyển học bạ 2022:** [https://xettuyen.ou.edu.vn/hb2022d1/vi](https://xettuyen.ou.edu.vn/hb2022d1/vi)
+
+**⌚ Thời gian xét tuyển:** Từ 09g00 ngày 04/04/2022 đến 17g00 ngày 30/05/2022&#x20;
+
+**📌 Hình thức xét:** online (chỉ nhận hồ sơ khi có kết quả trúng tuyển)
+
 {% hint style="info" %}
 **Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ)**
 {% endhint %}
