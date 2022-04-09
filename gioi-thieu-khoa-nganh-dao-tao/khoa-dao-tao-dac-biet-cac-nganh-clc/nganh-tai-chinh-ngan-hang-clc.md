@@ -8,6 +8,10 @@ coverY: 273.39366515837105
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
 
+{% embed url="https://youtu.be/X-nG3oSmln0?t=127" %}
+Giới thiệu Ngành Tài Chính Ngân Hàng CLC
+{% endembed %}
+
 {% hint style="info" %}
 Ngành Tài Chính Ngân Hàng (Chất lượng cao) có 2 hướng chuyên ngành chính:
 {% endhint %}

@@ -8,6 +8,10 @@ coverY: 0
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
 
+{% embed url="https://youtu.be/X-nG3oSmln0?t=477" %}
+Giới thiệu Ngành Ngôn ngữ Anh CLC
+{% endembed %}
+
 Chương trình đào tạo chuyên ngành Tiếng Anh thương mại được thiết kế bao gồm 127 tín chỉ. Sinh viên tốt nghiệp bằng Cử Nhân sau 4 năm học tập.
 
 **Chương trình đào tạo gồm 2 khối kiến thức chính:**

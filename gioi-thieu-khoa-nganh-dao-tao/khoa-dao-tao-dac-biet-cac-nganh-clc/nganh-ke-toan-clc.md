@@ -8,6 +8,10 @@ coverY: 0
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
 
+{% embed url="https://youtu.be/X-nG3oSmln0?t=212" %}
+Giới thiệu Ngành Kế Toán CLC
+{% endembed %}
+
 {% hint style="info" %}
 Ngành Ngành Kế Toán (Chất lượng cao) có 2 hướng chuyên ngành chính:
 {% endhint %}

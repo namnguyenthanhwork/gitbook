@@ -30,6 +30,12 @@ Giới thiệu ngành Kiểm Toán - Trường Đại học Mở Tp.HCM
 
 * **Khối kiến thức giáo dục đại cương:** bao gồm các môn học về xã hội (xã hội học, quản trị học, tâm lý học…), các môn học công cụ như toán, tin học, ngoại ngữ…
 * **Khối kiến thức chuyên nghiệp:** bao gồm các môn học cơ sở ngành và khối ngành kinh tế (kinh tế học, luật kinh tế…), các môn học ngành và chuyên ngành (kế toán, tài chính, kiểm toán…)
+  * Nguyên lý kế toán
+  * Kế toán tài chính
+  * Hệ thống thông tin kế toán
+  * Phân tích báo cáo tài chính
+  * Tài chính doanh nghiệp
+  * ..............
 
 ## Chuyên ngành
 

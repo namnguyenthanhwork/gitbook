@@ -8,6 +8,10 @@ coverY: 376.5610859728507
 
 > **ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
 
+{% embed url="https://youtu.be/X-nG3oSmln0?t=70" %}
+Giới thiệu Ngành Quản Trị Kinh Doanh CLC
+{% endembed %}
+
 {% hint style="info" %}
 Ngành Quản Trị Kinh Doanh (Chất lượng cao) có 2 hướng chuyên ngành chính:
 {% endhint %}

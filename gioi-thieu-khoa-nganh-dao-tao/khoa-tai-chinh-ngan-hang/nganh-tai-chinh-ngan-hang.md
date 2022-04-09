@@ -46,7 +46,7 @@ Khoa thực hiện đào tạo theo 03 chuyên ngành:
 
 * Chương trình đào tạo được xây dựng trên cơ sở thực tế môi trường kinh tế - tài chính Việt Nam, đồng thời tham khảo các chương trình đào tạo tiên tiến của các nước phát triển và đặc biệt gắn liền với chương trình đào tạo để lấy các chứng chỉ hành nghề quốc tế như CFA, ACCA, CPA.
 * Các môn học được bố trí theo trình tự hợp lý nhằm giúp sinh viên nắm bắt vấn đề từ đơn giản đến kiến thức chuyên môn sâu.
-* Bên cạnh các kiến thức không thể thiếu của một cử nhân kinh tế như ngoại ngữ, tin học và kiến thức chính là Tài chính dành cho khối doanh nghiệp, chương trình đào tạo còn tập trung trang bị cho sinh viên các kiến thức mới liên quan đến sự thay đổi mạnh mẽ hiện nay của công nghệ và dữ liệu trong lĩnh vực tài chính và ngân hàng nhằm giúp cho sinh viên có các kiến thức phù hợp với sự phát triển mạnh mẽ của ngành.hi
+* Bên cạnh các kiến thức không thể thiếu của một cử nhân kinh tế như ngoại ngữ, tin học và kiến thức chính là Tài chính dành cho khối doanh nghiệp, chương trình đào tạo còn tập trung trang bị cho sinh viên các kiến thức mới liên quan đến sự thay đổi mạnh mẽ hiện nay của công nghệ và dữ liệu trong lĩnh vực tài chính và ngân hàng nhằm giúp cho sinh viên có các kiến thức phù hợp với sự phát triển mạnh mẽ của ngành
 {% endhint %}
 
 {% hint style="success" %}

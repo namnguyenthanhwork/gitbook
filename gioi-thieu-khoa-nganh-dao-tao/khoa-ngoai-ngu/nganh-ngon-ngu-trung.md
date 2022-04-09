@@ -21,6 +21,12 @@ Chương trình đào tạo có 149 tín chỉ học trong 4 năm đối với t
 
 * **Khối kiến thức giáo dục đại cương**: Lý luận chính trị, kinh tế, luật và khoa học xã hội – nhân văn; toán, tin học và khoa học tự nhiên, ngoại ngữ (tiếng Anh)., ngoài ra sinh viên còn được rèn luyện về giáo dục thể chất và quốc phòng…
 * **Khối kiến thức chuyên nghiệp**: bao gồm các môn học cơ sở của khối ngành và các môn học chuyên sâu vào chuyên ngành Biên - Phiên dịch tiếng Trung
+  * Tiếng Trung Quốc tổng hợp
+  * Kỹ năng nghe hiểu, nói, đọc, viết
+  * Lý thuyết dịch
+  * Dịch thương mại
+  * Dịch báo chí
+  * ...........
 {% endhint %}
 
 ## Chuyên ngành
