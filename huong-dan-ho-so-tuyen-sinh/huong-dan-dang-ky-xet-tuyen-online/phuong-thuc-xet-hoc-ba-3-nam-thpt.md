@@ -191,3 +191,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 **Bước 2: lấy email đã đăng ký xét online, gửi mail đến** [_<mark style="color:red;">**duy.nhv@ou.edu.vn**</mark>_](mailto:duy.nhv@ou.edu.vn) **với nội dung như trong hình**
 
 ![Bước 2: lấy email đã đăng ký xét online, gửi mail đến duy.nhv@ou.edu.vn với nội dung như trong hình](<../../.gitbook/assets/b2 sua pt xet tuyen.PNG>)
+
+{% hint style="info" %}
+**Sau khi gửi xong, bạn đợi ban tuyển sinh phản hồi lại, khi có phản hồi thành công thì bạn có thể thực hiện đăng ký xét tuyển online lại như ban đầu (Đọc lại hướng dẫn này để đăng ký cho chính xác nhé)**
+{% endhint %}
