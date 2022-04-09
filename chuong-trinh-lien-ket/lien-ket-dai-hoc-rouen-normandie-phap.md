@@ -40,11 +40,11 @@ Các thí sinh phải tham dự thi năng lực tiếng Anh do trường Đại 
 
 ### **4. Thời gian và chương trình đào tạo**:&#x20;
 
-![](<../.gitbook/assets/CT LK Rouen 1.jpg>)
+![chương trình đào tạo](<../.gitbook/assets/CT LK Rouen 1.jpg>)
 
-![](<../.gitbook/assets/CT LK Rouen 2.jpg>)
+![chương trình đào tạo](<../.gitbook/assets/CT LK Rouen 2.jpg>)
 
-![](<../.gitbook/assets/CT LK Rouen 3.jpg>)
+![chương trình đào tạo](<../.gitbook/assets/CT LK Rouen 3.jpg>)
 
 ### **5. Văn bằng**
 

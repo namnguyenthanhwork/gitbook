@@ -5,8 +5,6 @@ coverY: 56.742081447963805
 
 # Liên kết Đại học Bond, Úc
 
-**Nếu bạn có thắc mắc hoặc hỗ trợ đăng ký chương trình liên kết quốc tế, vui lòng liên hệ mình để được giải đáp nhé:**&#x20;
-
 **Messenger:** [**https://www.messenger.com/t/100010636239565**](https://www.messenger.com/t/100010636239565)****
 
 **Facebook:** [**https://www.facebook.com/NguyenThanhNam1601**](https://www.facebook.com/NguyenThanhNam1601)****
@@ -29,6 +27,16 @@ Trường Đại học Mở Thành phố Hồ Chí Minh thông báo tuyển sinh
 **b) Cử nhân thương mại**: Chuyên ngành đào tạo:
 
 * Dữ liệu lớn – Big Data.
+
+{% hint style="info" %}
+Chương trình đào tạo Cử nhân Kinh Doanh - Thương mại
+{% endhint %}
+
+![Chương trình đào tạo Cử nhân Kinh Doanh - Thương mại](<../.gitbook/assets/bond 0001.jpg>)
+
+![Chương trình đào tạo Cử nhân Kinh Doanh - Thương mại](<../.gitbook/assets/bond 0002.jpg>)
+
+![Chương trình đào tạo Cử nhân Kinh Doanh - Thương mại](<../.gitbook/assets/bond 0003.jpg>)
 
 ### **2. VĂN BẰNG TỐT NGHIỆP**
 

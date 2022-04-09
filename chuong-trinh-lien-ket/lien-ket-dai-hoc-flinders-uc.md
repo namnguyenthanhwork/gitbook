@@ -6,8 +6,6 @@ coverY: 56.742081447963805
 
 # Liên kết Đại học Flinders, Úc
 
-**Nếu bạn có thắc mắc hoặc hỗ trợ đăng ký chương trình liên kết quốc tế, vui lòng liên hệ mình để được giải đáp nhé:**&#x20;
-
 **Messenger:** [**https://www.messenger.com/t/100010636239565**](https://www.messenger.com/t/100010636239565)****
 
 **Facebook:** [**https://www.facebook.com/NguyenThanhNam1601**](https://www.facebook.com/NguyenThanhNam1601)****
@@ -36,9 +34,27 @@ Trường Đại học Mở Thành phố Hồ Chí Minh thông báo tuyển sinh
 * Kế toán (Accounting);
 * Kinh tế Kinh doanh (Business Economics).
 
+{% hint style="info" %}
+Chương trình đào tạo cử nhân Kinh doanh - Thương mại
+{% endhint %}
+
+![Chương trình đào tạo cử nhân Kinh doanh - Thương mại](<../.gitbook/assets/CN KD TM Flinders 0001.jpg>)
+
+![Chương trình đào tạo cử nhân Kinh doanh - Thương mại](<../.gitbook/assets/CN KD TM Flinders 0002.jpg>)
+
+![Chương trình đào tạo cử nhân Kinh doanh - Thương mại](<../.gitbook/assets/CN KD TM Flinders 0003.jpg>)
+
+![Chương trình đào tạo cử nhân Kinh doanh - Thương mại](<../.gitbook/assets/CN KD TM Flinders 0004.jpg>)
+
 **c) Cử nhân Ngôn ngữ**: Chuyên ngành đào tạo:
 
 * Ngôn ngữ Anh
+
+{% hint style="info" %}
+Chương trình đào tạo cử nhân Ngôn ngữ
+{% endhint %}
+
+![Chương trình đào tạo cử nhân Ngôn ngữ](<../.gitbook/assets/CN Ngon ngu - CTLK Flinders\_page-0001.jpg>)
 
 ### **2. VĂN BẰNG TỐT NGHIỆP**
 
