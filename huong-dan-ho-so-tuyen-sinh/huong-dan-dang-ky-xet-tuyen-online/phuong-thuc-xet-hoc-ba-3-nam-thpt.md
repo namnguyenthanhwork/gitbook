@@ -12,9 +12,7 @@ coverY: 64.47963800904978
 
 **📌 Hình thức xét:** online (chỉ nhận hồ sơ khi có kết quả trúng tuyển)
 
-{% hint style="info" %}
-**Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ)**
-{% endhint %}
+### **Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ)**
 
 ![Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ)](<../../.gitbook/assets/c1 (1).PNG>)
 
@@ -24,8 +22,10 @@ coverY: 64.47963800904978
 
 ![1 bảng thông báo giới thiệu sẽ hiện ra, nhớ đọc kỹ rồi hãy ấn tiếp tục](../../.gitbook/assets/hb.PNG)
 
+### **Bước 2: Điền thông tin**
+
 {% hint style="info" %}
-**Bước 2: Điền thông tin**
+**Điền thông tin**
 
 * [x] 2.1. Điền CCCD/CMND hoặc mã định danh **(chỉ chọn 1 trong 3 thứ được đề cập)**
 * [x] 2.2. Điền email (email nhận xác nhận - nhận thông báo đăng ký thành công)
@@ -34,8 +34,10 @@ coverY: 64.47963800904978
 
 ![Bước 2: Điền thông tin](<../../.gitbook/assets/c2 hb.PNG>)
 
+### **Bước 3: Điền thông tin cá nhân**&#x20;
+
 {% hint style="info" %}
-**Bước 3: Điền thông tin cá nhân gồm:**
+**Điền thông tin cá nhân gồm:**
 
 * [x] Họ và tên **(có 2 ô nên ô 1 điền họ + tên lót, ô 2 điền tên)**
 * [x] Giới tính
@@ -43,13 +45,15 @@ coverY: 64.47963800904978
 * [x] Nơi sinh
 * [x] Dân tộc
 * [x] Điện thoại liên lạc
-* [x] Địa chỉ báo tin (địa chỉ nhà)
+* [x] Địa chỉ báo tin (địa chỉ nhà) - **có thể điền hoặc không, không bắt buộc**
 {% endhint %}
 
 ![Bước 3: Điền thông tin cá nhân](<../../.gitbook/assets/c3 hb.PNG>)
 
+### **Bước 4: điền thông tin trường**
+
 {% hint style="info" %}
-**Bước 4: điền thông tin trường (3 năm học cấp 3)**
+**Điền thông tin trường (3 năm học cấp 3)**
 
 * [x] Điền tỉnh
 * [x] Điền tên trường
@@ -111,17 +115,19 @@ Các trường hợp sau đây được hưởng ưu tiên khu vực theo hộ k
 {% endhint %}
 
 {% file src="../../.gitbook/assets/quyet-dinh-861-qd-ttg-danh-sach-cac-xa-khu-vuc-iii-ii-i-2021-2025.pdf" %}
-danh mục xã khó khăn
+danh mục xã khó khăn 2021- 2025
 {% endfile %}
 
 {% file src="../../.gitbook/assets/danh muc diem truong thpt.pdf" %}
 danh sách khu vực ưu tiên điểm trường thpt
 {% endfile %}
 
-![](<../../.gitbook/assets/c5 hsg.PNG>)
+![thay đổi khu vực ưu tiên theo hộ gia đình](<../../.gitbook/assets/c5 hsg.PNG>)
+
+### **Bước 5: Đăng ký nguyện vọng**
 
 {% hint style="info" %}
-**Bước 5: Đăng ký nguyện vọng**
+**Đăng ký nguyện vọng**
 
 * [x] Chọn ngành và tổ hợp môn.
 * [x] Điền chứng chỉ ngoại ngữ (nếu có) và điền thông tin điểm số.
@@ -134,8 +140,10 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 **Lưu ý:** điểm trung bình ở trên là điểm trung bình của cả năm 10 11 và hk1 năm 12. Tổng điểm chỉ là tổng điểm trung bình của 3 môn đó **(chưa áp dụng công thức, chưa nhân hệ số và chưa cộng điểm ưu tiên)**
 
+### **Bước 6: Kiểm tra thông tin, sau đó ấn lưu và nộp hồ sơ**
+
 {% hint style="info" %}
-**Bước 6: Kiểm tra thông tin, sau đó ấn lưu và nộp hồ sơ**
+**Kiểm tra thông tin, sau đó ấn lưu và nộp hồ sơ**
 {% endhint %}
 
 ![Bước 6: Kiểm tra thông tin](<../../.gitbook/assets/c6 hb.PNG>)
@@ -145,6 +153,8 @@ danh sách khu vực ưu tiên điểm trường thpt
 {% endhint %}
 
 ![Hồ sơ gửi thành công, vào thư đến hoặc thư rác để kiểm tra](<../../.gitbook/assets/c7 hb.PNG>)
+
+### Chỉnh sửa thông tin đăng ký xét học bạ
 
 {% hint style="info" %}
 **Thông tin đăng ký thành công**
@@ -160,11 +170,15 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Chỉnh sửa và ấn lưu, khi có thông báo bên dưới là đã thành công](<../../.gitbook/assets/c11 ccnn (1).PNG>)
 
+### Khắc phục lỗi khi mail không đến sau khi đăng ký hoàn tất
+
 {% hint style="info" %}
 **Khi không có email đến, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại email cho đến khi nhận được**
 {% endhint %}
 
 ![Khi không có email đến, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại email](<../../.gitbook/assets/re send.PNG>)
+
+### Chỉnh sửa - đổi phương thức xét tuyển
 
 {% hint style="danger" %}
 **Trong trường hợp chọn sai phương thức xét tuyển, muốn chuyển phương thức xét tuyển thì làm theo các bước dưới đây**
