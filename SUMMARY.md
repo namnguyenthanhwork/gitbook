@@ -15,6 +15,9 @@
 
 ## Hướng dẫn hồ sơ tuyển sinh
 
+* [Quy chế tuyển sinh](huong-dan-ho-so-tuyen-sinh/quy-che-tuyen-sinh/README.md)
+  * [Khu vực ưu tiên](huong-dan-ho-so-tuyen-sinh/quy-che-tuyen-sinh/khu-vuc-uu-tien.md)
+  * [Đối tượng ưu tiên](huong-dan-ho-so-tuyen-sinh/quy-che-tuyen-sinh/doi-tuong-uu-tien.md)
 * [Công cụ tính điểm xét tuyển](huong-dan-ho-so-tuyen-sinh/cong-cu-tinh-diem-xet-tuyen.md)
 * [Hướng dẫn đăng ký xét tuyển online](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online.md)
   * [Phương thức xét học bạ 3 năm THPT](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt.md)

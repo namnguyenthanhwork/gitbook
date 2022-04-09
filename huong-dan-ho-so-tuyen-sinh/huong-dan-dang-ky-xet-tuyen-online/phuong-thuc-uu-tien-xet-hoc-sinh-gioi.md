@@ -54,18 +54,69 @@ coverY: 335.29411764705884
 * [x] Điền tỉnh
 * [x] Điền tên trường
 * [x] Điền năm tốt nghiệp THPT **(Đối với thí sinh lớp 12 thì điền năm hiện tại, hoặc điền năm đã tốt nghiệp đối với các thí sinh tốt nghiệp năm cũ)**
-* [x] Điền khu vực ưu tiên theo trường THPT nếu hệ thống không tự điền sẵn
-* [x] Điền đối tượng ưu tiên **(download file quy chế bên dưới và đọc trang thứ 5)**
-* [x] Mục thay đổi khu vực ưu tiên theo hộ gia đình có nên tick hay không thì xin vui lòng đọc quy chế tuyển sinh được để bên dưới, **đọc kỹ Điều 7 khoản 4 điểm b của quy chế tuyển sinh (trang thứ 10)**
+*   [x] Điền khu vực ưu tiên theo trường THPT nếu hệ thống không tự điền sẵn
+
+    * **Khu vực 1 (KV1)**: **Cộng ưu tiên 0,75 điểm**
+    * **Khu vực 2 (KV2):** **Cộng ưu tiên 0,25 điểm**
+    * **Khu vực 2 nông thôn (KV2-NT): Cộng ưu tiên 0,5 điểm**&#x20;
+    * **Khu vực 3: Không được cộng điểm ưu tiên**&#x20;
+
+    **Hoặc đọc khu vực ưu tiên được để bên dưới (ấn vào rồi đọc nhé)**
+* [x] Điền đối tượng ưu tiên (<mark style="color:red;">**đọc đối tượng ưu tiên ở bên dưới**</mark>** ** trước khi chọn, nếu không thuộc loại nào thì điền **"**<mark style="color:red;">**Không ưu tiên**</mark>**"**)
+  1. **Nhóm ưu tiên 1 (UT1) gồm 4 đối tượng: Được cộng 2 điểm**
+     * **Đối tượng 01:**
+     * **Đối tượng 04:**
+  2. **Nhóm ưu tiên 2 (UT2) gồm các đối tượng: Được cộng 1 điểm**
+     * **Đối tượng 06**
+     * **Đối tượng 07**
+* [x] Mục thay đổi khu vực ưu tiên theo hộ gia đình có nên tick hay không thì xin vui lòng đọc quy chế tuyển sinh được để bên dưới, **đọc kỹ Điều 7 khoản 4 điểm b của quy chế tuyển sinh (xem bên dưới)**
 {% endhint %}
 
-{% file src="../../.gitbook/assets/Quy che tuyen sinh.pdf" %}
+> <mark style="color:red;">**Đọc khu vực ưu tiên - Đối tượng ưu tiên ở bên dưới (ấn chọn)**</mark>
+
+{% content-ref url="../quy-che-tuyen-sinh/khu-vuc-uu-tien.md" %}
+[khu-vuc-uu-tien.md](../quy-che-tuyen-sinh/khu-vuc-uu-tien.md)
+{% endcontent-ref %}
+
+{% content-ref url="../quy-che-tuyen-sinh/doi-tuong-uu-tien.md" %}
+[doi-tuong-uu-tien.md](../quy-che-tuyen-sinh/doi-tuong-uu-tien.md)
+{% endcontent-ref %}
 
 ![Bước 4: điền thông tin trường (3 năm học cấp 3), sau đó điền năm tốt nghiệp và đối tượng ưu tiên](<../../.gitbook/assets/c4 hsg.PNG>)
 
 {% hint style="info" %}
-**Lưu ý:** đọc quy định thay đổi khu vực ưu tiên **(file ở bên trên, đọc trang 10)** sau đó nếu thấy xét theo hộ gia đình có lợi hơn thì ấn tick chọn rồi nhập các thông tin như bên dưới (chụp toàn bộ ảnh hộ khẩu), nếu không thì bỏ tick chọn và ấn tiếp tục.
+**Lưu ý:** đọc quy định thay đổi khu vực ưu tiên **(bên dưới)** sau đó nếu thấy hộ gia đình thuộc dạng được đề cập trong quy chế thì ấn tick chọn rồi nhập các thông tin như bên dưới <mark style="color:red;">(</mark><mark style="color:red;">**chụp toàn bộ ảnh hộ khẩu**</mark><mark style="color:red;">)</mark>, nếu không thì bỏ tick chọn và ấn tiếp tục. <mark style="color:red;">**(Nếu tick chọn sai thì coi như từ chối nhập học)**</mark>
 {% endhint %}
+
+**Điều 7. Chính sách ưu tiên trong tuyển sinh**
+
+**Khoản 4: Chính sách ưu tiên theo khu vực**&#x20;
+
+{% hint style="info" %}
+**Điểm a (Khu vực theo trường):**&#x20;
+
+Thí sinh học liên tục và tốt nghiệp trung học tại khu vực nào thì hưởng ưu tiên theo khu vực đó. Nếu trong 3 năm học THPT (hoặc trong thời gian học trung cấp) có chuyển trường thì thời gian học ở khu vực nào lâu hơn được hưởng ưu tiên theo khu vực đó. Nếu mỗi năm học một trường thuộc các khu vực có mức ưu tiên khác nhau hoặc nửa thời gian học ở trường này, nửa thời gian học ở trường kia thì tốt nghiệp ở khu vực nào, hưởng ưu tiên theo khu vực đó. Quy định này áp dụng cho tất cả thí sinh, kể cả thí sinh đã tốt nghiệp từ trước năm tuyển sinh.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+**Điểm b - khu vực theo hộ gia đình (đọc kỹ điểm này để đưa ra quyết định có nên tick chọn vào ô thay đổi hay không - nếu tick sai coi như bạn điền sai thông tin -> đánh rớt)**
+
+Các trường hợp sau đây được hưởng ưu tiên khu vực theo hộ khẩu thường trú:
+
+* Học sinh các trường phổ thông dân tộc nội trú;
+* Học sinh các trường, lớp dự bị ĐH;
+* Học sinh các lớp tạo nguồn được mở theo quyết định của các Bộ, cơ quan ngang Bộ hoặc UBND cấp tỉnh;
+* Học sinh có hộ khẩu thường trú (trong thời gian học THPT hoặc trung cấp) trên **18 tháng tại các xã khu vực III và các xã có thôn đặc biệt khó khăn thuộc vùng dân tộc và miền núi** theo quy định của Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc; các xã đặc biệt khó khăn vùng bãi ngang ven biển và hải đảo; các xã đặc biệt khó khăn, xã biên giới, xã an toàn khu vào diện đầu tư của Chương trình 135 theo quy định của Thủ tướng Chính phủ nếu học THPT (hoặc trung cấp) tại địa điểm thuộc huyện, thị xã có ít nhất một trong các xã thuộc diện nói trên; **(download file phía dưới, Ctrl + F để tìm khu vực hoặc điểm trường của mình)**
+* Quân nhân; sĩ quan, hạ sĩ quan, chiến sĩ nghĩa vụ trong Công an nhân dân được cử đi dự thi, nếu đóng quân từ 18 tháng trở lên tại khu vực nào thì hưởng ưu tiên theo khu vực đó hoặc theo hộ khẩu thường trú trước khi nhập ngũ, tùy theo khu vực nào có mức ưu tiên cao hơn; nếu dưới 18 tháng thì hưởng ưu tiên khu vực theo hộ khẩu thường trú trước khi nhập ngũ.
+{% endhint %}
+
+{% file src="../../.gitbook/assets/quyet-dinh-861-qd-ttg-danh-sach-cac-xa-khu-vuc-iii-ii-i-2021-2025.pdf" %}
+nh mục xã khó khăn
+{% endfile %}
+
+{% file src="../../.gitbook/assets/danh muc diem truong thpt.pdf" %}
+danh sách khu vực ưu tiên điểm trường thpt
+{% endfile %}
 
 ![](<../../.gitbook/assets/c5 hsg.PNG>)
 
@@ -93,10 +144,10 @@ coverY: 335.29411764705884
 ![Bước 6: Kiểm tra thông tin, sau đó ấn lưu và nộp hồ sơ](<../../.gitbook/assets/c7 hsg.PNG>)
 
 {% hint style="info" %}
-**Hồ sơ gửi thành công, vào thư đến hoặc thư rác (spam) để kiểm tra, nếu không có thì vào web đăng ký và ấn nút gửi lại mail**
+**Hồ sơ gửi thành công, vào thư đến hoặc thư rác (spam) để kiểm tra**
 {% endhint %}
 
-![](<../../.gitbook/assets/c8 hsg.PNG>)
+![Hồ sơ gửi thành công, vào thư đến hoặc thư rác (spam) để kiểm tra](<../../.gitbook/assets/c8 hsg.PNG>)
 
 {% hint style="info" %}
 **Thông tin đăng ký thành công**
@@ -113,19 +164,19 @@ coverY: 335.29411764705884
 ![Chỉnh sửa và ấn lưu, khi có thông báo bên dưới là đã thành công](<../../.gitbook/assets/c11 ccnn (1).PNG>)
 
 {% hint style="info" %}
-**Khi không có email đến, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại email**
+**Khi không có email đến, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại email cho đến khi nhận được**
 {% endhint %}
 
 ![Khi không có email đến, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại email](<../../.gitbook/assets/re send.PNG>)
 
 {% hint style="danger" %}
-Trong trường hợp chọn sai phương thức xét tuyển, muốn chuyển phương thức xét tuyển thì làm theo các bước dưới đây
+**Trong trường hợp chọn sai phương thức xét tuyển, muốn chuyển phương thức xét tuyển thì làm theo các bước dưới đây**
 {% endhint %}
 
 **Bước 1: tìm đến mail đăng ký thành công, ấn nút chuyển tiếp (forward)**
 
-![](<../../.gitbook/assets/b1 sua pt xet tuyen.PNG>)
+![Bước 1: tìm đến mail đăng ký thành công, ấn nút chuyển tiếp (forward)](<../../.gitbook/assets/b1 sua pt xet tuyen.PNG>)
 
 **Bước 2: lấy email đăng ký xét online, gửi mail đến **_<mark style="color:red;">**duy.nhv@ou.edu.vn**</mark>_** với nội dung như trong hình**
 
-![](<../../.gitbook/assets/b2 sua pt xet tuyen.PNG>)
+![Bước 2: lấy email đăng ký xét online, gửi mail đến duy.nhv@ou.edu.vn với nội dung như trong hình](<../../.gitbook/assets/b2 sua pt xet tuyen.PNG>)
