@@ -6,29 +6,37 @@ coverY: 0
 
 # Tuyển sinh học bạ 2022
 
+{% hint style="danger" %}
+**Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
+{% endhint %}
+
 📞 **Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
 
 **🌐 Website tuyển sinh chính thức:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
 
-🔗 **Thông tin tuyển sinh Đại học chính quy năm 2022:** [http://tuyensinh.ou.edu.vn/thong-tin-tuyen-sinh-dai-hoc-he-chinh-quy-nam-2022](http://tuyensinh.ou.edu.vn/thong-tin-tuyen-sinh-dai-hoc-he-chinh-quy-nam-2022)
+🔗 **Thông tin tuyển sinh Đại học chính quy năm 2022:** [**http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-**](http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-)****
 
 **🌐** **Website tính điểm xét tuyển (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html](https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html)
 
 **🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/](https://namnguyenthanhwork.github.io/oulink/)
 
-
-
-### **Thông tin tuyển sinh Đại học chính quy năm 202**
+### **Thông tin tuyển sinh Đại học chính quy năm 2022**
 
 > Chỉ tiêu dự kiến: 4.900
 
 > Mã trường: MBS
 
-Thời gian xét tuyển (dự kiến): vui lòng theo dõi thường xuyên trên fanpage [Trường Đại học Mở TP. HCM - Tư vấn tuyển sinh](https://www.facebook.com/tuyensinh.ou.edu.vn/?\_\_cft\_\_\[0]=AZVXsYuP-rbM7oBEuBWHgL1GYH6ZekvRwjYrbrFf2GaaMQqxKug7\_NUyIWfIB87rqJIMNI1dVnI9hooIA\_xypEuvCdOUOLE9qQPn79C\_\_Z0xxJi18FRNiYvJOxZL3f1f40cZDd3Vu8Hft6YElq2\_Ralm&\_\_tn\_\_=kK-R)
+🔗**Link đăng ký xét tuyển học bạ 2022:** [https://xettuyen.ou.edu.vn/hb2022d1/vi](https://xettuyen.ou.edu.vn/hb2022d1/vi)
+
+**⌚ Thời gian xét tuyển:** Từ 09g00 ngày 04/04/2022 đến 17g00 ngày 30/05/2022&#x20;
+
+**📌 Hình thức xét:** online (chỉ nhận hồ sơ khi có kết quả trúng tuyển)
 
 ### **1. Đối tượng tuyển sinh**
 
 Thí sinh đã tốt nghiệp chương trình THPT của Việt Nam (hình thức giáo dục chính quy hoặc giáo dục thường xuyên) hoặc đã tốt nghiệp trình độ trung cấp (trong đó, người tốt nghiệp trình độ trung cấp nhưng chưa có bằng tốt nghiệp THPT phải học và thi đạt yêu cầu đủ khối lượng kiến thức văn hóa THPT theo quy định của Luật Giáo dục và các văn bản hướng dẫn thi hành) hoặc đã tốt nghiệp chương trình THPT của nước ngoài (đã được nước sở tại cho phép thực hiện, đạt trình độ tương đương trình độ THPT của Việt Nam) nước ngoài hoặc ở Việt Nam (sau đây gọi chung là tốt nghiệp THPT).
+
+Các thí sinh đã tốt nghiệp hoặc thí sinh tự do đều có thể xét.
 
 ### **2. Phạm vi tuyển sinh**
 
@@ -46,7 +54,7 @@ Trường Đại học Mở Tp.HCM tuyển sinh trên cả nước và quốc t�
 * **Phương thức 5:** Ưu tiên xét tuyển học bạ có chứng chỉ ngoại ngữ;
 * **Phương thức 6:** Xét tuyển kết quả học tập THPT (Học bạ).
 
-Thông tin chi tiết xem tại: [http://tuyensinh.ou.edu.vn/thong-tin-tuyen-sinh-dai-hoc...](http://tuyensinh.ou.edu.vn/thong-tin-tuyen-sinh-dai-hoc-he-chinh-quy-nam-2022?fbclid=IwAR01iKGncTimRMaZHFeX4Qg1wy4L329T5SfyAZH83uz9deU5w9KmE-hlpbw)
+**Thông tin chi tiết xem tại:** [http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-](http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-)
 
 ![Thông tin tuyển sinh đại học 2022](<../.gitbook/assets/image (5) (1).png>)
 

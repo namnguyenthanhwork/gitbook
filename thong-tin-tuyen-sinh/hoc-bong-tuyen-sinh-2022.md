@@ -6,17 +6,19 @@ coverY: 0
 
 # Học bổng tuyển sinh 2022
 
+{% hint style="danger" %}
+**Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
+{% endhint %}
+
 📞 **Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
 
 **🌐 Website tuyển sinh chính thức:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
 
-🔗 **Thông tin tuyển sinh Đại học chính quy năm 2022:** [http://tuyensinh.ou.edu.vn/thong-tin-tuyen-sinh-dai-hoc-he-chinh-quy-nam-2022](http://tuyensinh.ou.edu.vn/thong-tin-tuyen-sinh-dai-hoc-he-chinh-quy-nam-2022)
+🔗 **Thông tin tuyển sinh Đại học chính quy năm 2022:** [**http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-**](http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-)****
 
 **🌐** **Website tính điểm xét tuyển (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html](https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html)
 
 **🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/](https://namnguyenthanhwork.github.io/oulink/)
-
-
 
 {% hint style="success" %}
 **HỌC BỔNG TUYỂN SINH NĂM 2022**
@@ -40,6 +42,8 @@ coverY: 0
 
 * Trường hợp sinh viên đủ điều kiện nhận nhiều loại học bổng của Trường; Sinh viên chỉ được nhận mức học bổng cao nhất trong các loại học bổng nêu trên.
 * Sinh viên sẽ được nhận thêm một loại học bổng khác ngoài học bổng Khuyến khích nâng cao năng lực tiếng Nhật khi đã đạt học bổng này
+
+![học bổng 2022](<../.gitbook/assets/Hoc bong 2022\_v1\_page-0001.jpg>)
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Tham gia group để cập nhật thông tin tuyển sinh mới nhất

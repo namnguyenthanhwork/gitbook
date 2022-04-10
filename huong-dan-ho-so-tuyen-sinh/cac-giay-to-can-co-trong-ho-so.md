@@ -8,6 +8,16 @@ coverY: 0
 
 # Các giấy tờ cần có trong hồ sơ
 
+{% hint style="danger" %}
+**Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
+{% endhint %}
+
+🔗**Link đăng ký xét tuyển học bạ 2022:** [https://xettuyen.ou.edu.vn/hb2022d1/vi](https://xettuyen.ou.edu.vn/hb2022d1/vi)
+
+**⌚ Thời gian xét tuyển:** Từ 09g00 ngày 04/04/2022 đến 17g00 ngày 30/05/2022&#x20;
+
+**📌 Hình thức xét:** online (chỉ nhận hồ sơ khi có kết quả trúng tuyển)
+
 📞 **Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
 
 **🌐 Website tuyển sinh chính thức:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
@@ -18,9 +28,9 @@ coverY: 0
 
 **🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/](https://namnguyenthanhwork.github.io/oulink/)
 
-
-
+{% hint style="info" %}
 **Gửi về địa chỉ:** Phòng Quản lý Đào tạo - Trường Đại học Mở Thành phố Hồ Chí Minh, số 97 Võ Văn Tần, Phường Võ Thị Sáu (or phường 6), Quận 3, Thành phố Hồ Chí Minh.
+{% endhint %}
 
 > **Lưu ý nhỏ:**
 

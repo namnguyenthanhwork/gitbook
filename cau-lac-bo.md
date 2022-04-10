@@ -6,6 +6,10 @@ coverY: 193.97905759162305
 
 # Câu lạc bộ
 
+{% hint style="danger" %}
+**Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
+{% endhint %}
+
 📞 **Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
 
 **🌐 Website tuyển sinh chính thức:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
@@ -113,8 +117,7 @@ coverY: 193.97905759162305
 
 {% hint style="info" %}
 * Open book: [https://www.facebook.com/openbook.ou/](https://www.facebook.com/openbook.ou/)
-* Book & friend: [https://www.facebook.com/BooksAndFriendsOU/](https://www.facebook.com/BooksAndFriendsOU/)\
-
+* Book & friend: [https://www.facebook.com/BooksAndFriendsOU/](https://www.facebook.com/BooksAndFriendsOU/)
 {% endhint %}
 
 {% embed url="https://www.facebook.com/groups/oumembers" %}

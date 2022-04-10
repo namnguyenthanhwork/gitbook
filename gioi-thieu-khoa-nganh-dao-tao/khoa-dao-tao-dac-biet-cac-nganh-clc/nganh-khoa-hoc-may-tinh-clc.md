@@ -1,16 +1,20 @@
 ---
 description: Giới thiệu Ngành Khoa Học Máy Tính CLC
 cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 0
+coverY: 394.61538461538464
 ---
 
 # Ngành Khoa Học Máy Tính CLC
 
+{% hint style="danger" %}
+**Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
+{% endhint %}
+
+> **ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
+
 {% embed url="https://youtu.be/cfH5H6cnpfQ?t=385" %}
 Giới thiệu Ngành Khoa Học Máy Tính CLC
 {% endembed %}
-
-> **ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
 
 Chương trình đào tạo ngành Khoa Học Máy Tính được thiết kế bao gồm 141 tín chỉ. Sinh viên tốt nghiệp bằng Cử Nhân sau 4 năm học tập.
 

@@ -6,11 +6,13 @@ coverY: 335.29411764705884
 
 # Phương thức ưu tiên xét học sinh giỏi
 
+{% hint style="danger" %}
+**Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
+{% endhint %}
+
 🔗**Link đăng ký xét tuyển học bạ 2022:** [https://xettuyen.ou.edu.vn/hb2022d1/vi](https://xettuyen.ou.edu.vn/hb2022d1/vi)
 
 **⌚ Thời gian xét tuyển:** Từ 09g00 ngày 04/04/2022 đến 17g00 ngày 30/05/2022&#x20;
-
-**📌 Hình thức xét:** online (chỉ nhận hồ sơ khi có kết quả trúng tuyển)
 
 ### **Bước 1: Chọn mục xét tuyển ưu tiên xét học sinh giỏi**
 
@@ -163,7 +165,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 **Lưu ý:** in kết quả đăng ký khi có thông báo trúng tuyển, nếu bạn có điền sai thông tin thì ấn chọn **sửa kết quả đăng ký xét tuyển**
 {% endhint %}
 
-![in kết quả đăng ký khi có thông báo trúng tuyển, nếu bạn có điền sai thông tin thì ấn chọn sửa kết quả đăng ký xét tuyển](<../../.gitbook/assets/c9 hsg.PNG>)
+![in kết quả đăng ký khi có thông báo trúng tuyển, nếu bạn có điền sai thông tin thì ấn chọn sửa kết quả đăng ký xét tuyển](<../../.gitbook/assets/c9 hsg fix.jpg>)
 
 {% hint style="info" %}
 **Chỉnh sửa và ấn lưu, khi có thông báo bên dưới là đã thành công**

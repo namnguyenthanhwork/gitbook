@@ -6,19 +6,21 @@ coverY: 0
 
 # Xác nhận nhập học
 
+{% hint style="danger" %}
+**Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
+{% endhint %}
+
 📞 **Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
 
 **🌐 Website tuyển sinh chính thức:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
 
-🔗 **Thông tin tuyển sinh Đại học chính quy năm 2022:** [http://tuyensinh.ou.edu.vn/thong-tin-tuyen-sinh-dai-hoc-he-chinh-quy-nam-2022](http://tuyensinh.ou.edu.vn/thong-tin-tuyen-sinh-dai-hoc-he-chinh-quy-nam-2022)
+🔗 **Thông tin tuyển sinh Đại học chính quy năm 2022:** [**http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-**](http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-)****
 
 **🌐** **Website tính điểm xét tuyển (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html](https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html)
 
 **🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/](https://namnguyenthanhwork.github.io/oulink/)
 
-
-
-Trong những năm gần đây, thí sinh xét tuyển được lựa chọn nhiều hình thức xét tuyển như xét tuyển bằng học bạ, điểm kì thi ĐGNL, UTXT, điểm thi kì thi THPTQG,... và một số hình thức khác. Tuy nhiên, thời gian nhập học của các phương thức trên đều có trước kết quả trúng tuyển bằng hình thức xét tuyển điểm thi THPTQ
+**Trong những năm gần đây, thí sinh xét tuyển được lựa chọn nhiều hình thức xét tuyển như xét tuyển bằng học bạ, điểm kì thi ĐGNL, UTXT, điểm thi kì thi THPTQG,... và một số hình thức khác. Tuy nhiên, thời gian nhập học của các phương thức trên đều có trước kết quả trúng tuyển bằng hình thức xét tuyển điểm thi THPTQ**
 
 ### **1. Xác nhận nhập học là gì ?**
 

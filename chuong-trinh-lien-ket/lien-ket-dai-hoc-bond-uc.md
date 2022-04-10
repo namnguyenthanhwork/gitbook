@@ -5,6 +5,12 @@ coverY: 56.742081447963805
 
 # Liên kết Đại học Bond, Úc
 
+{% hint style="danger" %}
+**Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
+{% endhint %}
+
+**Nếu bạn có thắc mắc hoặc hỗ trợ đăng ký chương trình liên kết quốc tế, vui lòng liên hệ mình để được giải đáp nhé:**&#x20;
+
 **Messenger:** [**https://www.messenger.com/t/100010636239565**](https://www.messenger.com/t/100010636239565)****
 
 **Facebook:** [**https://www.facebook.com/NguyenThanhNam1601**](https://www.facebook.com/NguyenThanhNam1601)****
