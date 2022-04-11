@@ -110,8 +110,8 @@ coverY: 203.7556561085973
 [nganh-du-lich.md](../gioi-thieu-khoa-nganh-dao-tao/khoa-quan-tri-kinh-doanh/nganh-du-lich.md)
 {% endcontent-ref %}
 
-{% content-ref url="../gioi-thieu-khoa-nganh-dao-tao/khoa-quan-tri-kinh-doanh/nganh-du-lich.md" %}
-[nganh-du-lich.md](../gioi-thieu-khoa-nganh-dao-tao/khoa-quan-tri-kinh-doanh/nganh-du-lich.md)
+{% content-ref url="../gioi-thieu-khoa-nganh-dao-tao/khoa-quan-tri-kinh-doanh/nganh-logistics-and-quan-ly-chuoi-cung-ung.md" %}
+[nganh-logistics-and-quan-ly-chuoi-cung-ung.md](../gioi-thieu-khoa-nganh-dao-tao/khoa-quan-tri-kinh-doanh/nganh-logistics-and-quan-ly-chuoi-cung-ung.md)
 {% endcontent-ref %}
 
 ### KHOA CÔNG NGHỆ SINH HỌC
