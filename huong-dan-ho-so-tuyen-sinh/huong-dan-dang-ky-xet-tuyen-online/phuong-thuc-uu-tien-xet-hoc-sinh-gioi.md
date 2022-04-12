@@ -181,6 +181,10 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Khi không có email đến, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại email](<../../.gitbook/assets/re send.PNG>)
 
+### Đổi mail đăng ký xét tuyển khi ghi sai địa chỉ mail
+
+![Đổi mail đăng ký xét tuyển khi ghi sai địa chỉ mail](<../../.gitbook/assets/chinh email.PNG>)
+
 ### Chỉnh sửa - đổi phương thức xét tuyển
 
 {% hint style="danger" %}
