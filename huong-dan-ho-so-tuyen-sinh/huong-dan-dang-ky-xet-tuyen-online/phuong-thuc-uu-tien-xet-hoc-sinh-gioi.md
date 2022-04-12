@@ -138,7 +138,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 **Các nguyện vọng 2 và 3 tương tự**
 
-**Lưu ý: khi xét học sinh giỏi, các môn trong tổ hợp xét tuyển phải >= 7đ**
+**Lưu ý: khi xét học sinh giỏi, các môn trong tổ hợp xét tuyển có thể không >= 7 nhưng nếu các môn đó (cả năm 10 + cả năm 11 + hk1 năm 12)/3 >= 7 (cột điểm trung bình 3 năm THPT) thì vẫn có thể xét phương thức học sinh giỏi.**
 {% endhint %}
 
 ![Bước 5: Đăng ký nguyện vọng](<../../.gitbook/assets/c6 hsg.PNG>)
