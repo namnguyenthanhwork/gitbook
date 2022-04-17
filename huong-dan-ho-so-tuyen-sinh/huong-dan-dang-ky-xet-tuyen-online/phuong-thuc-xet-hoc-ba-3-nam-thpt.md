@@ -142,7 +142,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Bước 5: Đăng ký nguyện vọng](<../../.gitbook/assets/c5 hb.PNG>)
 
-**Lưu ý:** điểm trung bình ở trên là điểm trung bình của cả năm 10 11 và hk1 năm 12. Tổng điểm chỉ là tổng điểm trung bình của 3 môn đó **(chưa áp dụng công thức, chưa nhân hệ số và chưa cộng điểm ưu tiên)**
+**Lưu ý:** điểm trung bình ở trên là điểm trung bình của cả năm 10 11 và hk1 năm 12. Tổng điểm chỉ là tổng điểm trung bình của 3 môn đó **(chưa áp dụng công thức, chưa nhân hệ số và chưa cộng điểm ưu tiên). Khi có kết quả trúng tuyển thì mới áp dụng công thức.**
 
 ### **Bước 6: Kiểm tra thông tin, sau đó ấn lưu và nộp hồ sơ**
 

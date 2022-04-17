@@ -150,6 +150,8 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Nếu chọn ưu tiên chứng chỉ tiếng nhật thì chọn tổ hợp chứa tiếng nhật, sau đó chọn chứng chỉ và điền điểm, sau đó điền điểm 2 môn còn lại](<../../.gitbook/assets/c8 ccnn.PNG>)
 
+**Lưu ý:** điểm trung bình ở trên là điểm trung bình của cả năm 10 11 và hk1 năm 12. Tổng điểm chỉ là tổng điểm trung bình của 3 môn đó **(chưa áp dụng công thức, chưa nhân hệ số và chưa cộng điểm ưu tiên). Khi có kết quả trúng tuyển thì mới áp dụng công thức.**
+
 {% hint style="danger" %}
 **Lưu ý:** nếu gặp lỗi như bên dưới, hoặc khi chỉnh sửa lại mà báo lỗi như hình thì vui lòng đăng ký phương thức xét học bạ thông thường chọn mục chứng chỉ ưu tiên. Nó sẽ thay thế phương thức này, vẫn xét ưu tiên theo diện có chứng chỉ ngoại ngữ
 {% endhint %}
