@@ -34,7 +34,7 @@ Mục tiêu đào tạo quốc tế hướng đến việc nâng cao chất lư�
 
 Chương trình liên kết Rouen tuyển 3 đối tượng tuyển sinh như sau:
 
-* **Đối tượng 1**: học sinh tốt nghiệp PTTH là đối tượng tuyển sinh vào học chương trình học 3 năm, bao gồm 2 giai đoạn (8 học kỳ);
+* **Đối tượng 1**: học sinh tốt nghiệp THPT là đối tượng tuyển sinh vào học chương trình học 3 năm, bao gồm 2 giai đoạn (8 học kỳ);
 * **Đối tượng 2**: sinh viên học hết năm 3 hoặc năm 4 tại các trường đại học (khối ngành kinh tế, QTKD) trong cả nước  và là đối tượng tuyển sinh vào học chương trình học 1 năm, giai đoạn 2 (2 học kỳ);
 * **Đối tượng 3:** Người tốt nghiệp chương trình THPT của nước ngoài đã được nước sở tại cho phép thực hiện, đạt chương trình tương đương trình độ THPT của Việt Nam, ở nước ngoài học ở Việt Nam, có bằng IB tổng điểm 26 trở lên là đối tượng tuyển sinh vào học chương trình học 3 năm, bao gồm 2 giai đoạn (8 học kỳ).
 
