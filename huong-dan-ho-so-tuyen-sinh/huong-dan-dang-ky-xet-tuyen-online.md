@@ -46,7 +46,7 @@ _Điều kiện đăng ký xét tuyển_:
 1. Học sinh tốt nghiệp THPT năm 2022;
 2. Có hạnh kiểm tốt 02 năm lớp 10, lớp 11 và học kỳ 1 lớp 12;
 3. Kết quả học lực 02 năm lớp 10, lớp 11 và học kỳ 1 năm lớp 12 đạt loại giỏi.
-4. Điểm trung bình các môn học trong tổ hợp xét tuyển của cả năm lớp 10, lớp 11 và học kỳ 1 năm lớp 12 phải từ 7,0.
+4. Điểm trung bình chung các môn học trong tổ hợp xét tuyển của cả năm lớp 10, lớp 11 và học kỳ 1 năm lớp 12 phải từ 7,0.
 {% endhint %}
 
 ### **Phương thức 5:** Ưu tiên xét tuyển học bạ có chứng chỉ ngoại ngữ quốc tế
