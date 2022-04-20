@@ -45,6 +45,10 @@ coverY: 0
 
 ![học bổng 2022](<../.gitbook/assets/Hoc bong 2022\_v1\_page-0001.jpg>)
 
+### Ngoài ra còn có các loại học bổng như Tiếp sức tài năng, tiếp sức đến trường, miễn giảm học phí
+
+**Tham khảo tại link sau**: [http://tuyensinh.ou.edu.vn/huong-dan-nop-ho-so-hoc-bong-che-do-chinh-sach-khoa-2021](http://tuyensinh.ou.edu.vn/huong-dan-nop-ho-so-hoc-bong-che-do-chinh-sach-khoa-2021)
+
 {% embed url="https://www.facebook.com/groups/oumembers" %}
 Tham gia group để cập nhật thông tin tuyển sinh mới nhất
 {% endembed %}
