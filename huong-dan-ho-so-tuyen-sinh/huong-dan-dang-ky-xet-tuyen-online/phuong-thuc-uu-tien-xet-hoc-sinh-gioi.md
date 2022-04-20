@@ -142,7 +142,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 1. Học sinh tốt nghiệp THPT năm 2022;
 2. Có hạnh kiểm tốt 02 năm lớp 10, lớp 11 và học kỳ 1 lớp 12;
-3. Kết quả học lực 02 năm lớp 10, lớp 11 và học kỳ 1 năm lớp 12 đạt loại giỏi.
+3. Kết quả học lực 02 năm (Cột cả năm) lớp 10, lớp 11 và học kỳ 1 năm lớp 12 đạt loại giỏi.
 4. Khi xét học sinh giỏi, các môn trong tổ hợp xét tuyển có thể không >= 7 (nghĩa là hk1 hk2 của năm 10, 11 hoặc hk1 12 có môn dưới 7) nhưng nếu các môn đó (cả năm 10 + cả năm 11 + hk1 năm 12)/3 >= 7 (cột điểm trung bình 3 năm THPT - 5 học kỳ) thì vẫn có thể xét phương thức học sinh giỏi.
 {% endhint %}
 
