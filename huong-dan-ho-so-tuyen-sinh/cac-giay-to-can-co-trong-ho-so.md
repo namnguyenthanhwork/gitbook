@@ -38,6 +38,10 @@ coverY: 0
 * Bên trong thì phải **sắp xếp các giấy tờ theo đúng thứ tự** từ 1 -> 12, không được xếp lung tung.
 * Các trường hợp chuẩn bị thiếu 1 số giấy tờ **vui lòng liên hệ ban tuyển sinh, phòng quản lý đào tạo** (cách thức liên lạc tui để bên dưới)
 
+{% hint style="danger" %}
+**Các bước chỉ thực hiện khi đã trúng tuyển và đã nhập hồ sơ tuyển sinh trực tuyến**
+{% endhint %}
+
 ## **C**ác giấy tờ cần chuẩn bị
 
 ### 1. Giấy chứng nhận kết quả thi THPT năm 2022 (**bản chính - Bắt buộc đối với thí sinh tham gia kỳ thi Tốt nghiệp THPT 2022, bao gồm thí sinh tự do có đăng ký tham dự kỳ thi năm nay**)
