@@ -32,6 +32,8 @@ coverY: 0
 
 ![Cách sử dụng](../.gitbook/assets/5.png)
 
+**🌐** **Website tính điểm xét tuyển:** [https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html](https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html)
+
 ![Cách sử dụng](<../.gitbook/assets/6 (1).png>)
 
 ![Cách sử dụng](../.gitbook/assets/7.png)
