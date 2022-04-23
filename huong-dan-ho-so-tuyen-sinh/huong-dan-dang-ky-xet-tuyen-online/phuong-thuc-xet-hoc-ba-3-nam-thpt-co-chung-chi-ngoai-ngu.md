@@ -16,6 +16,8 @@ coverY: 162.48868778280544
 
 **📌 Hình thức xét:** online (chỉ nhận hồ sơ khi có kết quả trúng tuyển)
 
+**📌 Lệ phí xét tuyển:** miễn phí
+
 ### **Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ) có chứng chỉ ngoại ngữ**
 
 ![Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ)](<../../.gitbook/assets/c1 (1).PNG>)

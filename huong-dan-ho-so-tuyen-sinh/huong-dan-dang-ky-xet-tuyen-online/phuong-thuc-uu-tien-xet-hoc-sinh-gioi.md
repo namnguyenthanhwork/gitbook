@@ -14,6 +14,10 @@ coverY: 335.29411764705884
 
 **⌚ Thời gian xét tuyển:** Từ 09g00 ngày 04/04/2022 đến 17g00 ngày 30/05/2022&#x20;
 
+**📌 Hình thức xét:** online (chỉ nhận hồ sơ khi có kết quả trúng tuyển)
+
+**📌 Lệ phí xét tuyển:** miễn phí
+
 ### **Bước 1: Chọn mục xét tuyển ưu tiên xét học sinh giỏi**
 
 ![Bước 1: Chọn mục xét tuyển ưu tiên xét học sinh giỏi](<../../.gitbook/assets/c1 (1).PNG>)

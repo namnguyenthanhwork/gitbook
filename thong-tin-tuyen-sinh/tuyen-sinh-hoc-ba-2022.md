@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/Tuyển sinh học bạ 2022.png
 coverY: 0
 ---
 
-# Tuyển sinh học bạ 2022
+# 📖 Tuyển sinh học bạ 2022
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -31,6 +31,8 @@ coverY: 0
 **⌚ Thời gian xét tuyển:** Từ 09g00 ngày 04/04/2022 đến 17g00 ngày 30/05/2022&#x20;
 
 **📌 Hình thức xét:** online (chỉ nhận hồ sơ khi có kết quả trúng tuyển)
+
+**📌 Lệ phí xét tuyển:** miễn phí
 
 ### **1. Đối tượng tuyển sinh**
 
