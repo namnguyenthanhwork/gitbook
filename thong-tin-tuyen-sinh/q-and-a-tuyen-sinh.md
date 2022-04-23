@@ -24,7 +24,7 @@ coverY: 386.8778280542987
 
 **📌 Lệ phí xét tuyển:** miễn phí
 
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen](https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html)
+**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen](https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen)
 
 **🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/index](https://namnguyenthanhwork.github.io/oulink/index)
 
