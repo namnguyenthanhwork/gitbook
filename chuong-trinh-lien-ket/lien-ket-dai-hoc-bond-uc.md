@@ -1,4 +1,5 @@
 ---
+description: Giới thiệu chương trình liên kết Đại học Bond, Úc
 cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
 coverY: 56.742081447963805
 ---
@@ -23,7 +24,7 @@ coverY: 56.742081447963805
 
 Trường Đại học Mở Thành phố Hồ Chí Minh thông báo tuyển sinh Chương trình liên kết quốc tế Đại học Bond, Úc khóa 2 - năm 2022 với các thông tin chi tiết như sau:
 
-### **1. NGÀNH TUYỂN SINH**
+### **1. Ngành tuyển sinh**
 
 **a)  Cử nhân kinh doanh**: Các chuyên ngành đào tạo:
 
@@ -44,15 +45,15 @@ Chương trình đào tạo Cử nhân Kinh Doanh - Thương mại
 
 ![Chương trình đào tạo Cử nhân Kinh Doanh - Thương mại](<../.gitbook/assets/bond 0003.jpg>)
 
-### **2. VĂN BẰNG TỐT NGHIỆP**
+### **2. Văn bằng tốt nghiệp**
 
 Bằng tốt nghiệp Cử nhân Kinh doanh (Bachelor of Business), Cử nhân Thương mại (Bachelor of Commerce), do Đại học Bond cấp sau khi sinh viên hoàn thành giai đoạn 2 tại Đại học Bond.
 
-### **3. HÌNH THỨC ĐÀO TẠO**
+### **3. Hình thức đào tạo**
 
 Chính quy
 
-### **4. THỜI GIAN & CHƯƠNG TRÌNH ĐÀO TẠO**
+### **4. Thời gian & Chương trình đào tạo**
 
 Chương trình chia làm hai giai đoạn:
 
@@ -61,7 +62,7 @@ Chương trình chia làm hai giai đoạn:
 
 Thí sinh tiếp tục theo học giai đoạn 2 sau khi hoàn tất chương trình giai đoạn 1, đạt chứng chỉ tiếng Anh IELTS 6.5 (trong đó không có kỹ năng nào dưới 6.0) và đạt yêu cầu visa của lãnh sự quán Úc.
 
-### **5.  ĐỐI TƯỢNG TUYỂN SINH**
+### **5.  Đối tượng tuyển sinh**
 
 Những người có đủ sức khỏe để học tập, không trong thời gian thi hành án và đảm bảo một trong các điều kiện dưới đây được tham gia xét tuyển:
 
@@ -77,11 +78,11 @@ d) Có Chứng chỉ quốc tế A-Level của Trung tâm Khảo thí Đại h�
 
 e) Có kết quả trong kỳ thi chuẩn hóa SAT (Scholastic Assessment Test, Hoa Kỳ) đạt điểm từ 1100/1600.
 
-### **6. PHẠM VI TUYỂN SINH**
+### **6. Phạm vi tuyển sinh**
 
 Toàn quốc và quốc tế.
 
-### **7.  PHƯƠNG THỨC TUYỂN SINH**
+### **7.  Phương thức tuyển sinh**
 
 Xét tuyển.
 
@@ -106,7 +107,7 @@ Thí sinh có chứng chỉ tiếng Anh quốc tế IELTS từ 4.5 trở lên ho
 
 * Đạt yêu cầu về visa của Lãnh sự quán Úc.
 
-### **8.  KIỂM TRA TIẾNG ANH ĐẦU VÀO**
+### **8.  Kiểm tra tiếng anh đầu vào**
 
 Các thí sinh không có chứng chỉ tiếng Anh quốc tế phải tham dự kỳ kiểm tra tiếng Anh đầu vào tương đương trình độ B1.
 
@@ -121,13 +122,13 @@ Các thí sinh không có chứng chỉ tiếng Anh quốc tế phải tham dự
 
 **c) Thang điểm và điểm đạt:** Bài kiểm tra được chấm theo thang điểm 10; điểm 5,0 là điểm đạt.
 
-### **9. ĐỊA ĐIỂM HỌC TẬP**
+### **9. Địa điểm học tập**
 
 **a) Giai đoạn 1:** Học tại Trường Đại học Mở Thành phố Hồ Chí Minh (cơ sở 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh).
 
 **b) Giai đoạn 2:** Học tại Đại học Bond, Úc.
 
-### **10. HỌC PHÍ – PHƯƠNG THỨC ĐÓNG**
+### **10. Học phí - Phương thức đóng**
 
 **a) Học phí**
 
@@ -136,7 +137,7 @@ Học phí giai đoạn 1:
 * Đối với sinh viên Việt Nam:  19 triệu đồng/học kỳ. Tổng học phí cho giai đoạn 1: 5 học kỳ: 95 triệu đồng.
 * Đối với sinh viên quốc tế:  38 triệu đồng/học kỳ. Tổng học phí cho giai đoạn 1: 5 học kỳ: 190 triệu đồng.
 
-Học phí giai đoạn 2: theo chính sách của Đại học Bond.
+Học phí giai đoạn 2: dự kiến 60000 AUD cho giai đoạn 2
 
 **b) Phương thức đóng học phí (giai đoạn 1)**
 
@@ -152,7 +153,44 @@ Sinh viên nộp tiền mặt trực tiếp cho Trường hoặc chuyển khoả
 
 **Tại Ngân hàng:** Nông nghiệp và Phát triển nông thôn, chi nhánh Trung tâm Sài Gòn.
 
-### 11. **LỊCH TUYỂN SINH**
+### 11. Hồ sơ tuyển sinh
+
+(1) Phiếu thông tin cá nhân (theo mẫu bên dưới và tải file về điền thông tin);
+
+(2) **** Chứng chỉ ngoại ngữ (nếu có);
+
+(3) Học bạ;
+
+(4) Giấy chứng nhận tốt nghiệp trung phổ thông học tạm thời đối _đối với thí sinh tốt nghiệp THPT năm 2022_ hoặc Bằng tốt nghiệp THPT đối với thí sinh đã tốt nghiệp các năm trước. _Thí sinh_ _nộp Giấy chứng nhận tốt nghiệp tạm thời, đầu năm học sau phải_ _nộp bổ sung Bằng tốt nghiệp THPT._
+
+Đối với sinh viên học từ giai đoạn 2 (chương trình 1 năm): Nộp bảng điểm các năm đã học ở trường đại học cũ có dấu xác nhận của Trường.
+
+(5) Giấy khai sinh;
+
+(6) 02 ảnh màu ghi rõ thông tin cá nhân sau ảnh (_ảnh chụp không quá 06 tháng_)
+
+(7) Bản sao giấy chứng nhận đăng ký nghĩa vụ quân sự do Ban chỉ huy quân sự cấp huyện cấp, giấy xác nhận đăng ký vắng mặt do Ban chỉ huy quân sự cấp xã nơi cư trú cấp (đối với Tân sinh viên là nam);
+
+(8) Bản photo Thẻ bảo hiểm y tế (nếu có).
+
+_**Lưu ý**_:
+
+* **Các loại giấy tờ tại (3), (4), (5) là bản sao công chứng hoặc mang bản chính đối chiếu**
+* **Tất cả hồ sơ sinh viên nộp cho nhà Trường là bản sao y chứng thực HOẶC bản photo có kèm bản chính để đối chiếu, yêu cầu sinh viên mang theo bản chính để kiểm tra, đối chiếu.  Nhà Trường không nhận hồ sơ bản chính**
+
+**Phiếu thông tin cá nhân**
+
+![Phieu-thong-tin-SV-Bond-2022 - trang 1](<../.gitbook/assets/Phieu-thong-tin-SV-Bond-2022 - page 1.png>)
+
+![Phieu-thong-tin-SV-Bond-2022 - trang 2](<../.gitbook/assets/Phieu-thong-tin-SV-Bond-2022 - page 2.png>)
+
+**File phiếu thông tin cá nhân**
+
+{% file src="../.gitbook/assets/Phieu thong tin SV Bond 2022.docx" %}
+Phieu-thong-tin-SV-Bond-2022
+{% endfile %}
+
+### 11. **Lịch tuyển sinh**
 
 a) Ngày bắt đầu nhận hồ sơ đăng ký: 05/04/2022.
 
