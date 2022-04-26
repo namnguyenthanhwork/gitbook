@@ -145,6 +145,4 @@ _**Lưu ý**_:&#x20;
 
 **Facebook:** [**https://www.facebook.com/NguyenThanhNam1601**](https://www.facebook.com/NguyenThanhNam1601)****
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-LinkTham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

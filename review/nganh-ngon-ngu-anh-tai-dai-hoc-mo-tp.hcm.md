@@ -51,8 +51,4 @@ NNA CLC học ở 97 Võ Văn Tần (tiếc cho các bạn là không được t
 
 Do mình không chơi hệ CLB nên không biết nhiều nhưng mà trường O lắm CLB nên các bạn thích thì có thể tham gia tất cả nha, chỉ sợ các bạn không có thời gian thôi vì học mấy cái kĩ năng hai năm đầu mệt lắm đối với các bạn không có nền tảng vững.Chú ý nha, đặc biệt giờ chưa lên ĐH thì học chắc Ngữ pháp nha các bạn =)) vì đó là xương sống cho ngành của các bạn đó ạ. Chúc các bạn thi ĐH điểm cao và vui vẻ vượt qua dịch bệnh nhé!
 
-Nguồn: [https://www.facebook.com/groups/oumembers/posts/1263937307356208/](https://www.facebook.com/groups/oumembers/posts/1263937307356208/)
-
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

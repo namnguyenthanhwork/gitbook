@@ -10,10 +10,10 @@ coverY: 95.42986425339366
 **Tổng hợp các bài review quân sự của sinh viên OU**
 {% endhint %}
 
-**Bài viết 1 (Tác giả:** Nam Thành**) :** [https://www.facebook.com/groups/oumembers/posts/1191871581229448/](https://www.facebook.com/groups/oumembers/posts/1191871581229448/)
+**Bài viết 1 (Tác giả:** Nam Thành**) :** [**https://www.facebook.com/groups/ou.community/posts/547369573607793/**](https://www.facebook.com/groups/ou.community/posts/547369573607793/?\_\_cft\_\_\[0]=AZXHq4UTtaEdE5anKAxf1NQjgwbSs9Sf3Qg3-jfpTyE9ZVnIXAsjJDNmP92le2re72GDUQKsuHFJGbnFgDwtWBLKiDmNnhdNCTy0sd4eQbgtR-o3DEbQ6w7ORYoXFbmfGVv8oLL2mig-x6NfSuSMpbKH&\_\_tn\_\_=%2CO%2CP-R)****
 
-**Bài viết 2 (Tác giả:** Võ Minh Đoàn**):** [https://www.facebook.com/groups/oumembers/posts/1215120692237870/](https://www.facebook.com/groups/oumembers/posts/1215120692237870/?\_\_cft\_\_\[0]=AZXiASax8\_DrqB8dSLXokCNrBh5c7tOO-lx8hGjS6JGo5F2G9UMRmCfkwYfBpOePQ9mNMmyAuGBgBhji0U10u\_PQ1D7ahUB4H7a0AKR6TZtpZcM9447twDZcjdCmgw8pib3vmg\_DZsgZHesG2hGScwp9RGWAUzszun-033BimMg-hwSPOF5OiTops27P8TDGUuE&\_\_tn\_\_=%2CO%2CP-R)
+**Bài viết 2 (Tác giả:** Võ Minh Đoàn**):** [**https://www.facebook.com/groups/ou.community/posts/547370950274322/**](https://www.facebook.com/groups/ou.community/posts/547370950274322/?\_\_cft\_\_\[0]=AZXuAryptS7AmrvYNdoAYYWYnvoM6LevtRN1Z2cwXzloGXhnlZ31IVGX28-3u0zj5eSL5ZuRimAiH6C7cX4lKABMVPlrOESMvs8zDiKCn1QQ2enZEiKs21wLXAiFUe3ErbVyuLYpvkLguzfPZ745iVMK&\_\_tn\_\_=%2CO%2CP-R)****
 
-**Bài viết 3 (Tác giả:** Trịnh Ngọc Thảo Vy**):** [https://www.facebook.com/groups/oumembers/posts/1452221751861095/](https://www.facebook.com/groups/oumembers/posts/1452221751861095/?\_\_cft\_\_\[0]=AZURpwIK4C5\_ZEJySSoBUMIa\_E6fl1nPvJ3iJOEvAlwkFIo\_jij4kNmxOuaIH4CKqWwyS-kO3crpgSftOjAEDL7YwVW67Wdg3YFckssETQGfVzboum5xY4kkaHwULebOslKurbNWALCeM-fO939VC9\_7-cPd2AN6cvfB9W2Ma-nuDwYgCALJg6IRkFgSHgFs2ew&\_\_tn\_\_=%2CO%2CP-R)
+**Bài viết 3 (Tác giả:** Trịnh Ngọc Thảo Vy**):** [**https://www.facebook.com/groups/ou.community/posts/547370226941061/**](https://www.facebook.com/groups/ou.community/posts/547370226941061/?\_\_cft\_\_\[0]=AZUjYIMgE7w6o9ctASyDOHcxBNp\_HLhZPoULv0Pk23vR9A2WpPnjtv\_akqZuipaQyBK-FASBqX\_MAXyRp5mLe1nL-3IwAeKzElYfWJk\_m6JqNPouYuluXKyU7zHbf1lwRTg&\_\_tn\_\_=%2CO%2CP-R)****
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

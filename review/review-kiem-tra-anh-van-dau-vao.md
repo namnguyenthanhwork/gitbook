@@ -36,8 +36,4 @@ Test 2: 60 câu/30 phút
 * Adj + ing/ed ( phần này mình ôn chưa kỹ, có khoảng tầm 2 câu trải dài 3 test
 * Giới từ : in , on , at , between, in front of Test 3,4 (60 phút mỗi test) là mở rộng thêm tí của test 2
 
-Nguồn: [https://www.facebook.com/groups/oumembers/posts/1080016299081644/](https://www.facebook.com/groups/oumembers/posts/1080016299081644/)
-
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

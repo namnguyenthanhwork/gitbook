@@ -66,8 +66,4 @@ Coi kĩ hợp đồng, coi kĩ hợp đồng – điều quan trọng nhắc l�
 
 CHÚC CÁC BẠN MAY MẮN VÀ THÀNH CÔNG ![❤️](https://static.xx.fbcdn.net/images/emoji.php/v9/tf3/1.5/16/2764.png)
 
-Nguồn: [https://www.facebook.com/groups/oumembers/posts/1078602749222999/](https://www.facebook.com/groups/oumembers/posts/1078602749222999/)
-
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

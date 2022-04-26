@@ -52,10 +52,6 @@ Vậy nên gặp được những người bạn này, chị và các bạn đư
 
 Về khoản người yêu thì chị tin là lên ĐH sẽ được phát người yêu, tại vô năm nhất tự dưng có trong khi trước đó chưa bao giờ nghĩ tới việc quen ai :))) Tình yêu thời sinh viên rất đẹp và sẽ giúp các bạn trưởng thành hơn nếu bạn gặp đúng người giúp mình hoàn thiện hơn. Ở ĐH sẽ có các mối quan hệ mới, nhưng hãy nhớ luôn **bảo vệ sức khỏe của bản thân và đối phương** nha. Mỗi năm trường đều có các hội thảo về tình yêu và sức khỏe tình dục, cũng có các cách chăm sóc tâm lý và thể chất cho bản thân nữa. Các bạn nên tham gia, không kể nam hay nữ, để bổ sung kiến thức cơ bản và cần thiết để xây dựng mối quan hệ lành mạnh và chăm sóc sức khỏe bản thân. Ngoài ra cũng có những phần quà nho nhỏ có ích lắm, có ĐRL nữa í.
 
-Vậy là hết bài post rồi ớ, cảm ơn các bạn đã đọc tới đây. Các bạn có bổ sung, hay thắc mắc gì cứ inbox chị nha đừng ngại (hãy comment trước vì chị não cá vàng, hay sót tin nhắn). Nếu các bạn thấy mình còn hoang mang, lo lắng và thắc mắc nhiều thì đã giỏi hơn chị hồi xưa rồi, vì các bạn nhận thức được mình chưa biết. Lúc năm nhất chị còn không mảy may gì, cũng không biết là mình cần nắm những thông tin cơ bản này nên chị tiếc năm nhất không tận dụng được quỹ thời gian của mình :((( Có thắc mắc cứ hỏi nha, và nhớ like page TEDx HCMCOU ủng hộ Khoa và trường mình nghen..
+Vậy là hết bài post rồi ớ, cảm ơn các bạn đã đọc tới đây. Các bạn có bổ sung, hay thắc mắc gì cứ inbox chị nha đừng ngại (hãy comment trước vì chị não cá vàng, hay sót tin nhắn). Nếu các bạn thấy mình còn hoang mang, lo lắng và thắc mắc nhiều thì đã giỏi hơn chị hồi xưa rồi, vì các bạn nhận thức được mình chưa biết. Lúc năm nhất chị còn không mảy may gì, cũng không biết là mình cần nắm những thông tin cơ bản này nên chị tiếc năm nhất không tận dụng được quỹ thời gian của mình :((( Có thắc mắc cứ hỏi nha, và nhớ like page TEDx HCMCOU ủng hộ Khoa và trường mình nghen.
 
-Nguồn: [https://www.facebook.com/groups/oumembers/posts/1268858743530731/](https://www.facebook.com/groups/oumembers/posts/1268858743530731/)
-
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

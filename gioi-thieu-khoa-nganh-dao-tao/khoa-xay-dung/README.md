@@ -59,6 +59,4 @@ Quy mô đào tạo hơn 900 sinh viên hệ chính quy, mỗi năm tuyển sinh
 **Fanpage:** [https://www.facebook.com/xaydungtruongdaihocMo/](https://www.facebook.com/xaydungtruongdaihocMo/)
 {% endhint %}
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

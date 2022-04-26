@@ -97,8 +97,4 @@ Ai đọc tới đây xứng đáng nhận 10 kỳ học bổng ![👉](https://
 
 ![](https://scontent.fsgn5-1.fna.fbcdn.net/v/t39.30808-6/244302856\_2494488867362257\_5850846087759839326\_n.jpg?\_nc\_cat=101\&ccb=1-5&\_nc\_sid=825194&\_nc\_ohc=wuTXo9grZfkAX8kEeo2&\_nc\_ht=scontent.fsgn5-1.fna\&oh=00\_AT8NcRkw9KuMA14ukg4Y0zdFbSGEJMLAoSa3s2qgATAADQ\&oe=622C070F)
 
-Nguồn: [https://www.facebook.com/groups/oumembers/posts/1335854933497778/](https://www.facebook.com/groups/oumembers/posts/1335854933497778/)
-
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

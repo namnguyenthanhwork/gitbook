@@ -56,6 +56,4 @@ Phòng 602, số 35 - 37, đường Hồ Hảo Hớn, phường Cô Giang, quậ
 **Fanpage Đoàn hội:** [https://www.facebook.com/doanhoibio.ou](https://www.facebook.com/doanhoibio.ou)
 {% endhint %}
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

@@ -35,8 +35,4 @@ Cách đăng ký
 
 Zậy là xong nhá!
 
-Nguồn: [https://www.facebook.com/groups/oumembers/posts/1343930692690202/](https://www.facebook.com/groups/oumembers/posts/1343930692690202/)
-
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

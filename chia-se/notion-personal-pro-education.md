@@ -59,8 +59,4 @@ Vậy là nhờ có chiếc mail trường mà bây giờ bạn có thể thoả
 
 ![](<../.gitbook/assets/image (12).png>)
 
-Nguồn: [https://www.facebook.com/groups/oumembers/posts/1337789979970940/](https://www.facebook.com/groups/oumembers/posts/1337789979970940/)
-
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

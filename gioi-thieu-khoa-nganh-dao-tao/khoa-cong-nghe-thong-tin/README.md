@@ -50,6 +50,4 @@ Phòng 604, số 35 - 37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1, Tp.HCM
 **Fanpage:** [https://www.facebook.com/tinhocmo](https://www.facebook.com/tinhocmo)
 {% endhint %}
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

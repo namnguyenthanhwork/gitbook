@@ -27,8 +27,4 @@ coverY: 95.42986425339366
 
 ![](<../.gitbook/assets/image (17).png>)
 
-Nguồn: [https://www.facebook.com/groups/oumembers/posts/1292592317824040/](https://www.facebook.com/groups/oumembers/posts/1292592317824040/)
-
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

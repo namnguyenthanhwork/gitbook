@@ -120,6 +120,4 @@ Sinh viên được trang bị các khối kiến thức:
 **Fanpage:** [https://www.facebook.com/xaydungtruongdaihocMo/](https://www.facebook.com/xaydungtruongdaihocMo/)
 {% endhint %}
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

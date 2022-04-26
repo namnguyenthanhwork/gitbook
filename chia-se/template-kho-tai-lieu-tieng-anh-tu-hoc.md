@@ -44,8 +44,4 @@ Truy cập template để đọc hướng dẫn chi tiết
 
 Link bio: [https://biolink.com.vn/thanhnamnguyen](https://biolink.com.vn/thanhnamnguyen?fbclid=IwAR0airOzgu28GaXPjvS10NRYhHyQesAeYS\_\_eVLGRtAMXSUHB-B1v2bsm2M)
 
-Nguồn: [https://www.facebook.com/groups/oumembers/posts/1311843205898951/](https://www.facebook.com/groups/oumembers/posts/1311843205898951/)
-
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}
