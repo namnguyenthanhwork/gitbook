@@ -211,3 +211,5 @@ danh sách khu vực ưu tiên điểm trường thpt
 {% hint style="info" %}
 **Sau khi gửi xong, bạn đợi ban tuyển sinh phản hồi lại, khi có phản hồi thành công thì bạn có thể thực hiện đăng ký xét tuyển online lại như ban đầu (Đọc lại hướng dẫn này để đăng ký cho chính xác nhé)**
 {% endhint %}
+
+{% embed url="https://www.facebook.com/groups/ou.community" %}

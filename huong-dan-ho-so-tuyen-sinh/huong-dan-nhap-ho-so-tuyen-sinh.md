@@ -37,8 +37,4 @@ Tham khảo đăng ký nhập học khoá 2021
 
 Trong quá trình có bước tạo ảnh thẻ 3x4 để upload: xem hướng dẫn [tại đây](tao-anh-3x4-upload-ho-so.md)
 
-**Hoặc tham khảo link:** [**https://www.facebook.com/groups/1021019474981327/posts/1285563878526884**](https://www.facebook.com/groups/1021019474981327/posts/1285563878526884)****
-
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

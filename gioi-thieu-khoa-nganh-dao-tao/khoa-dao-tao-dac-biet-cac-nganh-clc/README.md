@@ -115,8 +115,6 @@ Chương trình chất lượng cao học tại trụ sở chính của trườn
 
 ![](<../../.gitbook/assets/48 - học phí.png>)
 
-
-
 ## Thông tin liên hệ
 
 {% hint style="info" %}
@@ -137,6 +135,4 @@ Phòng 007, 97 Võ Văn Tần, Quận 3, TP. Hồ Chí Minh
 **Fanpage:** [https://www.facebook.com/KhoaDaotaodacbiet](https://www.facebook.com/KhoaDaotaodacbiet)
 {% endhint %}
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

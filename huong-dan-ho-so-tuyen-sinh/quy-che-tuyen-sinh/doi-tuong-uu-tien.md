@@ -77,6 +77,4 @@ c) Những đối tượng ưu tiên khác đã được quy định trong các 
 d) Người có nhiều diện ưu tiên theo đối tượng chỉ được hưởng một diện ưu tiên cao nhất.
 {% endhint %}
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

@@ -54,6 +54,4 @@ coverY: 0
 
 ![Tham khảo thêm](../.gitbook/assets/11.png)
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

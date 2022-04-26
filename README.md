@@ -123,6 +123,4 @@ Bài viết khác (1): [https://www.facebook.com/groups/oumembers/posts/14298746
 Bài viết khác (2): [https://www.facebook.com/groups/oumembers/posts/1442544796162124/](https://www.facebook.com/groups/oumembers/posts/1442544796162124/)
 {% endhint %}
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

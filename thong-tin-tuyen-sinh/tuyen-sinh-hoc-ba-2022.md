@@ -68,6 +68,4 @@ Trường Đại học Mở Tp.HCM tuyển sinh trên cả nước và quốc t�
 
 ![Thông tin tuyển sinh đại học 2022](<../.gitbook/assets/image (5) (1).png>)
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

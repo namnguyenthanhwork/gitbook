@@ -57,6 +57,4 @@ coverY: 0
 
 **Tham khảo tại link sau**: [http://tuyensinh.ou.edu.vn/huong-dan-nop-ho-so-hoc-bong-che-do-chinh-sach-khoa-2021](http://tuyensinh.ou.edu.vn/huong-dan-nop-ho-so-hoc-bong-che-do-chinh-sach-khoa-2021)
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

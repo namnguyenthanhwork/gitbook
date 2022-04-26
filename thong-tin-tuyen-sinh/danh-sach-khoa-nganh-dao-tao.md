@@ -218,6 +218,4 @@ coverY: 203.7556561085973
 
 🌐 Website tuyển sinh chính thức: [http://tuyensinh.ou.edu.vn](http://tuyensinh.ou.edu.vn)
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

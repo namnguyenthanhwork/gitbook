@@ -60,6 +60,4 @@ Tùy trường mà sẽ có cách thức nhập học khác nhau. Các bạn nê
 Hãy suy nghĩ thật kĩ về vấn đề mình thích gì và mình muốn gì trước khi xác nhận nhập học nhé!Nên nhớ rằng, xét tuyển bằng điểm thi THPT sẽ là cơ hội cuối cùng của tất cả các nguyện vọng. Vì vậy, đừng để một phút đánh liều của bản thân mà để lại tiếc nuốiChúng ta 18 tuổi rồi, đủ trưởng thành và chính chắn để nghiêm túc suy nghĩ về tương lai của chính chúng ta! Hy vọng mọi người sẽ đưa ra quyết định tốt nhất cho chính mình
 {% endhint %}
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

@@ -60,6 +60,4 @@ coverY: 0
 
 ![Học phí Khoa Đào tạo đặc biệt (Chất lượng cao)](<../.gitbook/assets/hp clc 2020.PNG>)
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

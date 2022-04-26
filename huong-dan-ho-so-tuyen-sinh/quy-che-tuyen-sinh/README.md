@@ -18,6 +18,4 @@ Vui lòng chọn các mục dưới đây để tìm hiểu về khu vực ưu t
 [doi-tuong-uu-tien.md](doi-tuong-uu-tien.md)
 {% endcontent-ref %}
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}

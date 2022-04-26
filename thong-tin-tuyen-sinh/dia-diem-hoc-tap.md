@@ -42,6 +42,4 @@ coverY: 322.3981900452489
 * Phường Long Bình Tân, Tp. Biên Hòa, Tỉnh Đồng Nai: HỌC QUỐC PHÒNG TẬP TRUNG.
 {% endhint %}
 
-{% embed url="https://www.facebook.com/groups/oumembers" %}
-Tham gia group để cập nhật thông tin tuyển sinh mới nhất
-{% endembed %}
+{% embed url="https://www.facebook.com/groups/ou.community" %}
