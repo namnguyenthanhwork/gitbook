@@ -99,3 +99,7 @@
 * [Review kiểm tra anh văn đầu vào](review/review-kiem-tra-anh-van-dau-vao.md)
 * [Review quân sự](review/review-quan-su.md)
 * [Mẹo thuê phòng trọ](review/meo-thue-phong-tro.md)
+
+## THÔNG BÁO
+
+* [\[Hướng dẫn\] Thí sinh tự do xét tuyển học bạ phải đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT](thong-bao/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-phai-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt.md)
