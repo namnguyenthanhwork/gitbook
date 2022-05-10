@@ -1,7 +1,7 @@
 ---
 description: Hỗ trợ tạo ảnh để upload hồ sơ nhập học online
 cover: ../.gitbook/assets/Tạo ảnh 3x4 upload hồ sơ.png
-coverY: 0
+coverY: -188.28054298642536
 ---
 
 # Tạo ảnh 3x4 upload hồ sơ

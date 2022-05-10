@@ -3,7 +3,7 @@ description: >-
   Bước này chỉ thực hiện khi đã trúng tuyển và đã nhập hồ sơ tuyển sinh trực
   tuyến
 cover: ../.gitbook/assets/Các giấy tờ cần có trong hồ sơ.png
-coverY: 0
+coverY: -185.70135746606334
 ---
 
 # Các giấy tờ cần có trong hồ sơ

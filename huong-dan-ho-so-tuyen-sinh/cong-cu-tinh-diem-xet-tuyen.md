@@ -3,7 +3,7 @@ description: >-
   Lưu ý: điểm sau khi tính chính là điểm của bạn đã khai báo lúc đầu, không phải
   điểm chuẩn của ngành đó
 cover: ../.gitbook/assets/Công cụ tính điểm xét tuyển.png
-coverY: 0
+coverY: -348.1900452488688
 ---
 
 # Công cụ tính điểm xét tuyển

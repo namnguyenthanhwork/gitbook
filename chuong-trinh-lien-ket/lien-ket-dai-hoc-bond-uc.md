@@ -1,7 +1,7 @@
 ---
 description: Giới thiệu chương trình liên kết Đại học Bond, Úc
 cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 56.742081447963805
+coverY: -177.96380090497738
 ---
 
 # Liên kết Đại học Bond, Úc

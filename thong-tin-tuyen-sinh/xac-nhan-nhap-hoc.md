@@ -1,7 +1,7 @@
 ---
 description: XÁC NHẬN NHẬP HỌC - Hiểu đúng về cụm từ này
 cover: ../.gitbook/assets/Xác nhận nhập học.png
-coverY: 0
+coverY: -306.92307692307696
 ---
 
 # ❓ Xác nhận nhập học

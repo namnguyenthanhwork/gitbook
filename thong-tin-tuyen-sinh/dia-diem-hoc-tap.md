@@ -1,7 +1,7 @@
 ---
 description: Cơ sở học tập các ngành ở Trường ĐH Mở Tp.HCM
 cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 322.3981900452489
+coverY: -196.01809954751133
 ---
 
 # 🌎 Địa điểm học tập

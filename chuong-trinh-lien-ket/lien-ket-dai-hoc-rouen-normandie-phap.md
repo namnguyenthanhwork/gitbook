@@ -1,7 +1,7 @@
 ---
 description: Giới thiệu chương trình liên kết Đại học Rouen Normandie, Pháp
 cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 33.529411764705884
+coverY: -167.64705882352942
 ---
 
 # Liên kết Đại học Rouen Normandie, Pháp

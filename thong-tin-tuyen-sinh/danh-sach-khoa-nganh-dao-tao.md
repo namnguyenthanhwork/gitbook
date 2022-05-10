@@ -1,7 +1,7 @@
 ---
 description: Danh sách khoa - ngành đào tạo ở Trường Đại học Mở Tp.HCM
 cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 203.7556561085973
+coverY: -206.3348416289593
 ---
 
 # 🗒 Danh sách khoa - ngành đào tạo

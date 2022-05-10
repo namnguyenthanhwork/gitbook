@@ -1,7 +1,7 @@
 ---
 description: Quy chế tuyển sinh đại học 2022
 cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 278.552036199095
+coverY: -30.950226244343924
 ---
 
 # Quy chế tuyển sinh

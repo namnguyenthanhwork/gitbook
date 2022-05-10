@@ -1,7 +1,7 @@
 ---
 description: Hướng dẫn đăng ký Phương thức xét học bạ 3 năm THPT có chứng chỉ ngoại ngữ
 cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 162.48868778280544
+coverY: -77.37556561085972
 ---
 
 # Phương thức xét học bạ 3 năm THPT có chứng chỉ ngoại ngữ

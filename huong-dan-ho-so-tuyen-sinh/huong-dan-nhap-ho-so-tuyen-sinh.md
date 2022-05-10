@@ -4,7 +4,7 @@ description: >-
   học, trong thời gian mở cổng nhập hồ sơ, nếu bạn không nhập và để hết hạn thì
   đồng nghĩa việc bạn "từ chối nhập học"
 cover: ../.gitbook/assets/Hướng dẫn nhập hồ sơ tuyển sinh.png
-coverY: 0
+coverY: -216.65158371040724
 ---
 
 # Hướng dẫn nhập hồ sơ tuyển sinh

@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 95.42986425339366
+coverY: -126.38009049773758
 ---
 
 # Template kho tài liệu tiếng anh tự học

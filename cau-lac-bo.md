@@ -1,7 +1,7 @@
 ---
 description: Các câu lạc bộ trong trường Đại học Mở Tp.HCM
 cover: .gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 193.97905759162305
+coverY: -172.26528629977966
 ---
 
 # 🤾 Câu lạc bộ

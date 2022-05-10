@@ -1,7 +1,7 @@
 ---
 description: Tìm hiểu về khu vực ưu tiên
 cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 278.552036199095
+coverY: -134.11764705882354
 ---
 
 # Khu vực ưu tiên

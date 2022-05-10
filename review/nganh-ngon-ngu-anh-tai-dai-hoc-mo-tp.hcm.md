@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 95.42986425339366
+coverY: -157.33031674208144
 ---
 
 # Ngành ngôn ngữ anh tại đại học Mở tp.HCM

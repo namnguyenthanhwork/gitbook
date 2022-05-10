@@ -1,7 +1,7 @@
 ---
 description: Tìm hiểu về Đối tượng ưu tiên
 cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 278.552036199095
+coverY: 72.21719457013575
 ---
 
 # Đối tượng ưu tiên

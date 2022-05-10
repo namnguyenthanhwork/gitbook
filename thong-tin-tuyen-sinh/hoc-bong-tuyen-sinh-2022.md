@@ -1,7 +1,7 @@
 ---
 description: 'Tham khảo học bổng khác tại: https://ou.edu.vn/hoc-bong'
 cover: ../.gitbook/assets/Học bổng tuyển sinh 2022.png
-coverY: 0
+coverY: -407.5113122171946
 ---
 
 # 💰 Học bổng tuyển sinh 2022

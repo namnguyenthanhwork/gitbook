@@ -1,7 +1,7 @@
 ---
 description: Hướng dẫn đăng ký Phương thức xét học bạ 3 năm THPT
 cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 64.47963800904978
+coverY: -180.54298642533936
 ---
 
 # Phương thức xét học bạ 3 năm THPT

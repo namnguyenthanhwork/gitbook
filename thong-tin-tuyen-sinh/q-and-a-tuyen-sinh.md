@@ -1,7 +1,7 @@
 ---
 description: Giải đáp câu hỏi của học sinh về tuyển sinh
 cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 386.8778280542987
+coverY: -232.1266968325792
 ---
 
 # ❓ Q\&A tuyển sinh

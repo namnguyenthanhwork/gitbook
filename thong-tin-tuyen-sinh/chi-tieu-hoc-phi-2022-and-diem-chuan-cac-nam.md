@@ -1,7 +1,7 @@
 ---
 description: Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm
 cover: ../.gitbook/assets/Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm.png
-coverY: 0
+coverY: -322.3981900452489
 ---
 
 # ℹ Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm

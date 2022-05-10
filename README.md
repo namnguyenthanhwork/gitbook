@@ -1,7 +1,7 @@
 ---
 description: Thông tin tuyển sinh được tổng hợp bởi "ThanhNamNguyen"
-cover: .gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 193.97905759162305
+cover: .gitbook/assets/Template gitbook (3420 × 750 px).png
+coverY: -77.3755656108597
 ---
 
 # 📙 Sổ tay hướng dẫn tuyển sinh

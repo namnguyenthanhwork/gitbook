@@ -1,7 +1,7 @@
 ---
 description: Hướng dẫn đăng ký Phương thức ưu tiên xét học sinh giỏi
 cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 335.29411764705884
+coverY: -239.86425339366517
 ---
 
 # Phương thức ưu tiên xét học sinh giỏi

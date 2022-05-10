@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 95.42986425339366
+coverY: -121.22171945701358
 ---
 
 # Một số kinh nghiệm đạt học bổng khuyến khích học tập

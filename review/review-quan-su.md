@@ -1,7 +1,7 @@
 ---
 description: Review quân sự (Lobita land OU)
 cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 95.42986425339366
+coverY: -136.69683257918552
 ---
 
 # Review quân sự

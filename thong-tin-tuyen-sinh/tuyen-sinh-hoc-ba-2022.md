@@ -1,7 +1,7 @@
 ---
 description: 'Tham khảo: http://tuyensinh.ou.edu.vn/'
 cover: ../.gitbook/assets/Tuyển sinh học bạ 2022.png
-coverY: 0
+coverY: -242.44343891402715
 ---
 
 # 📖 Tuyển sinh học bạ 2022
