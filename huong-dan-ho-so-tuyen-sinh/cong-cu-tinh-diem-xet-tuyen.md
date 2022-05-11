@@ -2,11 +2,11 @@
 description: >-
   Lưu ý: điểm sau khi tính chính là điểm của bạn đã khai báo lúc đầu, không phải
   điểm chuẩn của ngành đó
-cover: ../.gitbook/assets/Công cụ tính điểm xét tuyển.png
-coverY: -348.1900452488688
+cover: ../.gitbook/assets/banner mẫu 7.png
+coverY: 446.1990950226245
 ---
 
-# Công cụ tính điểm xét tuyển
+# 📱 Công cụ tính điểm xét tuyển
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -55,3 +55,5 @@ coverY: -348.1900452488688
 ![Tham khảo thêm](../.gitbook/assets/11.png)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

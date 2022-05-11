@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -154.75113122171945
+cover: ../.gitbook/assets/banner mẫu 4.png
+coverY: 330.13574660633486
 ---
 
-# Mẹo thuê phòng trọ
+# 📑 Mẹo thuê phòng trọ
 
 Nhân vô học, bất chi tồn
 
@@ -67,3 +67,5 @@ Coi kĩ hợp đồng, coi kĩ hợp đồng – điều quan trọng nhắc l�
 CHÚC CÁC BẠN MAY MẮN VÀ THÀNH CÔNG ![❤️](https://static.xx.fbcdn.net/images/emoji.php/v9/tf3/1.5/16/2764.png)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

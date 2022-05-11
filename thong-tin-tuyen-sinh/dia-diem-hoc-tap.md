@@ -1,7 +1,7 @@
 ---
-description: Cơ sở học tập các ngành ở Trường ĐH Mở Tp.HCM
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -196.01809954751133
+description: Cơ sở học tập các ngành ở Trường Đại học Mở Tp.HCM
+cover: ../.gitbook/assets/banner mẫu 8.png
+coverY: 410.0904977375566
 ---
 
 # 🌎 Địa điểm học tập
@@ -35,11 +35,34 @@ coverY: -196.01809954751133
 {% hint style="info" %}
 **Ghi chú:** CÁC CƠ SỞ HỌC CỦA TRƯỜNG THEO NGÀNH ĐÀO TẠO:&#x20;
 
-* 97 Võ Văn Tần P6 Q3: Các ngành hệ CHẤT LƯỢNG CAO&#x20;
-* 02 Mai Thị Lựu, phường Đa Kao, Q1: QTKD, MARKETING, DU LỊCH, LOGISTIC, KINH DOANH QUỐC TẾ, QUẢN TRỊ NHÂN LỰC, KINH TẾ, QUẢN LÝ CÔNG&#x20;
-* 371 Nguyễn Kiệm, P3, Quận Gò Vấp: TẤT CẢ CÁC NGÀNH ĐẠI TRÀ: CÔNG NGHỆ THÔNG TIN, KHOA HỌC MÁY TÍNH, HỆ THỐNG THÔNG TIN QUẢN LÝ, CÁC NGÀNH NGÔN NGỮ ANH-NHẬT-TRUNG, KẾ TOÁN KIỂM TOÁN, TÀI CHÍNH NGÂN HÀNG, QUẢN LÝ XD, CNKTCT XÂY DỰNG, XÃ HỘI HỌC, CÔNG TÁC XÃ HỘI, ĐÔNG NAM Á, LUẬT, LUẬT KINH TẾ. CÔNG NGHỆ SINH HỌC&#x20;
+* 97 Võ Văn Tần P6 Q3: Các ngành CHẤT LƯỢNG CAO&#x20;
+* 02 Mai Thị Lựu, phường Đa Kao, Q1:&#x20;
+  * QTKD, MARKETING
+  * DU LỊCH
+  * LOGISTIC
+  * KINH DOANH QUỐC TẾ
+  * QUẢN TRỊ NHÂN LỰC
+  * KINH TẾ
+  * QUẢN LÝ CÔNG&#x20;
+* 371 Nguyễn Kiệm, P3, Quận Gò Vấp: TẤT CẢ CÁC NGÀNH ĐẠI TRÀ
+  * CÔNG NGHỆ THÔNG TIN
+  * KHOA HỌC MÁY TÍNH
+  * HỆ THỐNG THÔNG TIN QUẢN LÝ
+  * CÁC NGÀNH NGÔN NGỮ ANH-NHẬT-TRUNG
+  * KẾ TOÁN - KIỂM TOÁN
+  * TÀI CHÍNH NGÂN HÀNG
+  * QUẢN LÝ XD
+  * CNKTCT XÂY DỰNG
+  * XÃ HỘI HỌC
+  * CÔNG TÁC XÃ HỘI
+  * ĐÔNG NAM Á
+  * LUẬT - LUẬT KINH TẾ
+  * CÔNG NGHỆ SINH HỌC
+  * CÔNG NGHỆ THỰC PHẨM&#x20;
 * 68 Lê Thị Trung, Tp.Thủ Dầu Một, Tỉnh Bình Dương: NGÀNH CÔNG NGHỆ SINH HỌC (HỌC THỰC HÀNH)&#x20;
 * Phường Long Bình Tân, Tp. Biên Hòa, Tỉnh Đồng Nai: HỌC QUỐC PHÒNG TẬP TRUNG.
 {% endhint %}
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

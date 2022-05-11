@@ -1,7 +1,7 @@
 ---
 description: XÁC NHẬN NHẬP HỌC - Hiểu đúng về cụm từ này
-cover: ../.gitbook/assets/Xác nhận nhập học.png
-coverY: -306.92307692307696
+cover: ../.gitbook/assets/banner mẫu 5.png
+coverY: 309.50226244343895
 ---
 
 # ❓ Xác nhận nhập học
@@ -61,3 +61,5 @@ Hãy suy nghĩ thật kĩ về vấn đề mình thích gì và mình muốn gì
 {% endhint %}
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

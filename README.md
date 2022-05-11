@@ -1,7 +1,7 @@
 ---
 description: Thông tin tuyển sinh được tổng hợp bởi "ThanhNamNguyen"
-cover: .gitbook/assets/Template gitbook (3420 × 750 px).png
-coverY: -77.3755656108597
+cover: .gitbook/assets/banner mẫu 2.png
+coverY: 219.23076923076923
 ---
 
 # 📙 Sổ tay hướng dẫn tuyển sinh
@@ -113,14 +113,8 @@ Và 1001 câu "lời đồn" khác nữa, nhưng mà mình vẫn tự tin với 
 
 Cuối cùng, hy vọng các bạn có lựa chọn vào OU muốn có những cái nhìn sâu sắc nhất thì hãy hỏi sinh viên OU chứ đừng đi hỏi sinh viên trường A, trường B,... Do những bạn sinh viên đó không học OU thì sao họ có thể nói chính xác về OU được kia chứ.
 
-> Bài viết này không nhằm công kích bất kỳ cá nhân hay tổ chức nào.
-
-{% hint style="info" %}
-Bài viết khác (1): [https://www.facebook.com/groups/oumembers/posts/1429874620762475/](https://www.facebook.com/groups/oumembers/posts/1429874620762475/?\_\_cft\_\_\[0]=AZXkW7fm-nu0f0FaWcbPxmyDiDuFRSeHEJIHgyPnim-NGh3t\_5Fgc7XaxLPlORWdVHX8XcfJvEMOlrzm-Bz4SHhCItkB8biGjUaqgAtIztXo2\_SVovgVi-oOIUNtBD4Qmgo&\_\_tn\_\_=%2CO%2CP-R)
-{% endhint %}
-
-{% hint style="info" %}
-Bài viết khác (2): [https://www.facebook.com/groups/oumembers/posts/1442544796162124/](https://www.facebook.com/groups/oumembers/posts/1442544796162124/)
-{% endhint %}
+> Bài viết này không nhằm công kích bất kỳ cá nhân hay tổ chức nà
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

@@ -1,10 +1,10 @@
 ---
 description: Review quân sự (Lobita land OU)
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -136.69683257918552
+cover: ../.gitbook/assets/banner mẫu 5.png
+coverY: 278.552036199095
 ---
 
-# Review quân sự
+# 🔖 Review quân sự
 
 {% hint style="info" %}
 **Tổng hợp các bài review quân sự của sinh viên OU**
@@ -17,3 +17,5 @@ coverY: -136.69683257918552
 **Bài viết 3 (Tác giả:** Trịnh Ngọc Thảo Vy**):** [**https://www.facebook.com/groups/ou.community/posts/547370226941061/**](https://www.facebook.com/groups/ou.community/posts/547370226941061/?\_\_cft\_\_\[0]=AZUjYIMgE7w6o9ctASyDOHcxBNp\_HLhZPoULv0Pk23vR9A2WpPnjtv\_akqZuipaQyBK-FASBqX\_MAXyRp5mLe1nL-3IwAeKzElYfWJk\_m6JqNPouYuluXKyU7zHbf1lwRTg&\_\_tn\_\_=%2CO%2CP-R)****
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

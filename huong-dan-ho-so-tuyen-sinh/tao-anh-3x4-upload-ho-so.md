@@ -1,10 +1,12 @@
 ---
 description: Hỗ trợ tạo ảnh để upload hồ sơ nhập học online
-cover: ../.gitbook/assets/Tạo ảnh 3x4 upload hồ sơ.png
-coverY: -188.28054298642536
+cover: ../.gitbook/assets/banner mẫu 1.png
+coverY: 381.7194570135747
 ---
 
-# Tạo ảnh 3x4 upload hồ sơ
+# 📸 Tạo ảnh 3x4 upload hồ sơ
+
+
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -33,3 +35,5 @@ Hướng dẫn tạo ảnh 3x4
 {% endembed %}
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

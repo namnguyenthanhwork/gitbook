@@ -1,10 +1,10 @@
 ---
 description: Hướng dẫn đăng ký Phương thức xét học bạ 3 năm THPT
-cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -180.54298642533936
+cover: ../../.gitbook/assets/banner mẫu 5.png
+coverY: 283.710407239819
 ---
 
-# Phương thức xét học bạ 3 năm THPT
+# ✏ Phương thức xét học bạ 3 năm THPT
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -17,6 +17,8 @@ coverY: -180.54298642533936
 **📌 Hình thức xét:** online (chỉ nhận hồ sơ khi có kết quả trúng tuyển)
 
 **📌 Lệ phí xét tuyển:** miễn phí
+
+
 
 ### **Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ)**
 
@@ -207,3 +209,5 @@ danh sách khu vực ưu tiên điểm trường thpt
 {% endhint %}
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

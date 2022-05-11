@@ -1,9 +1,10 @@
 ---
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -126.38009049773758
+description: '[Chia sẻ] Template kho tài liệu tiếng anh tự học'
+cover: ../.gitbook/assets/banner mẫu 9.png
+coverY: 379.1402714932127
 ---
 
-# Template kho tài liệu tiếng anh tự học
+# 🤩 Template kho tài liệu tiếng anh tự học
 
 > Template này là 1 bộ sưu tập tài liệu anh văn tự học như toeic, ielts, ngữ pháp, phát âm, truyện tranh song ngữ, giao tiếp, bài báo...
 
@@ -44,4 +45,12 @@ Truy cập template để đọc hướng dẫn chi tiết
 
 Link bio: [https://biolink.com.vn/thanhnamnguyen](https://biolink.com.vn/thanhnamnguyen?fbclid=IwAR0airOzgu28GaXPjvS10NRYhHyQesAeYS\_\_eVLGRtAMXSUHB-B1v2bsm2M)
 
+![](../.gitbook/assets/av1.jpg)
+
+![](../.gitbook/assets/av2.jpg)
+
+![](../.gitbook/assets/av3.jpg)
+
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

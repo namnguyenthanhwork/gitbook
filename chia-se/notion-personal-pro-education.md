@@ -1,9 +1,10 @@
 ---
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -211.49321266968332
+description: '[Chia sẻ] Notion personal pro (Education)'
+cover: ../.gitbook/assets/banner mẫu 4.png
+coverY: 265.6561085972851
 ---
 
-# Notion personal pro (Education)
+# 🗒 Notion personal pro (Education)
 
 Mình bây giờ đã bước sang năm cuối mới nhận ra điều này ạ ![😃](https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f603.png) Nếu bạn muốn xài bản cá nhân pro miễn phí thì hãy đăng ký notion bằng mail ou.edu.vn nha.
 
@@ -60,3 +61,5 @@ Vậy là nhờ có chiếc mail trường mà bây giờ bạn có thể thoả
 ![](<../.gitbook/assets/image (12).png>)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

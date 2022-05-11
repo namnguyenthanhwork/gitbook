@@ -1,7 +1,7 @@
 ---
 description: 'Tham khảo: http://tuyensinh.ou.edu.vn/'
-cover: ../.gitbook/assets/Tuyển sinh học bạ 2022.png
-coverY: -242.44343891402715
+cover: ../.gitbook/assets/banner mẫu 3.png
+coverY: 278.552036199095
 ---
 
 # 📖 Tuyển sinh học bạ 2022
@@ -69,3 +69,5 @@ Trường Đại học Mở Tp.HCM tuyển sinh trên cả nước và quốc t�
 ![Thông tin tuyển sinh đại học 2022](<../.gitbook/assets/image (5) (1).png>)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

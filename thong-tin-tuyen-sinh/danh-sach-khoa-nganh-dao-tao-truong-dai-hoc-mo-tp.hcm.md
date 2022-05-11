@@ -1,10 +1,10 @@
 ---
 description: Danh sách khoa - ngành đào tạo ở Trường Đại học Mở Tp.HCM
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -206.3348416289593
+cover: ../.gitbook/assets/banner mẫu 9.png
+coverY: 242.44343891402715
 ---
 
-# 🗒 Danh sách khoa - ngành đào tạo
+# 🗒 Danh sách khoa - ngành đào tạo Trường Đại học Mở Tp.HCM
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -219,3 +219,5 @@ coverY: -206.3348416289593
 🌐 Website tuyển sinh chính thức: [http://tuyensinh.ou.edu.vn](http://tuyensinh.ou.edu.vn)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

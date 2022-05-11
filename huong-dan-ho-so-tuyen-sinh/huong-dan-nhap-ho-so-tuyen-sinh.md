@@ -3,11 +3,11 @@ description: >-
   Lưu ý: sau khi có kết quả trúng tuyển thì mới được phép đăng ký hồ sơ nhập
   học, trong thời gian mở cổng nhập hồ sơ, nếu bạn không nhập và để hết hạn thì
   đồng nghĩa việc bạn "từ chối nhập học"
-cover: ../.gitbook/assets/Hướng dẫn nhập hồ sơ tuyển sinh.png
-coverY: -216.65158371040724
+cover: ../.gitbook/assets/banner mẫu 2.png
+coverY: 461.6742081447964
 ---
 
-# Hướng dẫn nhập hồ sơ tuyển sinh
+# 📘 Hướng dẫn nhập hồ sơ tuyển sinh
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -38,3 +38,5 @@ Tham khảo đăng ký nhập học khoá 2021
 Trong quá trình có bước tạo ảnh thẻ 3x4 để upload: xem hướng dẫn [tại đây](tao-anh-3x4-upload-ho-so.md)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

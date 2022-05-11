@@ -1,9 +1,10 @@
 ---
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -121.22171945701358
+description: '[Chia sẻ] Một số kinh nghiệm đạt học bổng khuyến khích học tập'
+cover: ../.gitbook/assets/banner mẫu 4.png
+coverY: 268.2352941176471
 ---
 
-# Một số kinh nghiệm đạt học bổng khuyến khích học tập
+# 💯 Một số kinh nghiệm đạt học bổng khuyến khích học tập
 
 _Chào các thành viên của đại gia đình Mở :> Nay là ngày Sài Gòn mở cửa lại rồi. Ngẫm nghĩ trong 4 tháng qua, chủ thớt bài post này trụ nổi tài chính cũng nhờ một phần từ học bổng của trường í. Ngoài số tiền rủng rỉnh mà học bổng mang tới, sinh viên chúng mình sẽ có động lực học tập ở từng kỳ và cơ hội trau chuốt điểm trung bình tích lũy (GPA) hơn. Bài post này viết chủ yếu chia sẻ đến các bạn K21, song đó là K20, 19 và 18 có thể tham khảo, nên tớ (K17) xin phép được xưng “chị” cho gần gũi với các bạn nhé._
 
@@ -95,6 +96,6 @@ Nếu kỳ này chưa nhận được học bổng, còn các kỳ sau để em 
 
 Ai đọc tới đây xứng đáng nhận 10 kỳ học bổng ![👉](https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f449.png)![👈](https://static.xx.fbcdn.net/images/emoji.php/v9/t29/1.5/16/1f448.png) Hổng share được thì bên tường nhà chị có nhen.
 
-![](https://scontent.fsgn5-1.fna.fbcdn.net/v/t39.30808-6/244302856\_2494488867362257\_5850846087759839326\_n.jpg?\_nc\_cat=101\&ccb=1-5&\_nc\_sid=825194&\_nc\_ohc=wuTXo9grZfkAX8kEeo2&\_nc\_ht=scontent.fsgn5-1.fna\&oh=00\_AT8NcRkw9KuMA14ukg4Y0zdFbSGEJMLAoSa3s2qgATAADQ\&oe=622C070F)
-
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

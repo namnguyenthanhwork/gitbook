@@ -2,11 +2,11 @@
 description: >-
   Lưu ý: sau khi đăng ký online xong, nếu bạn có kết quả trúng tuyển thì mới
   tiến hành nộp hồ sơ
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 116.06334841628956
+cover: ../.gitbook/assets/banner mẫu 6.png
+coverY: 348.1900452488688
 ---
 
-# Hướng dẫn đăng ký xét tuyển online
+# 📋 Hướng dẫn đăng ký xét tuyển online
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -107,3 +107,5 @@ Nếu thấy công thức khó khăn, vui lòng vào[ "Công cụ tính điểm 
 {% endcontent-ref %}
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

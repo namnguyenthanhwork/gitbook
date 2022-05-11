@@ -1,9 +1,10 @@
 ---
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -95.42986425339369
+description: Ngôn ngữ Anh năm nhất cần chuẩn bị gì ?
+cover: ../.gitbook/assets/banner mẫu 10.png
+coverY: 428.1447963800905
 ---
 
-# Ngôn ngữ Anh năm nhất cần chuẩn bị gì ?
+# ❓ Ngôn ngữ Anh năm nhất cần chuẩn bị gì ?
 
 **Quả post này dành cho các bạn tân sinh viên ngành Ngôn Ngữ Anh đại trà nói riêng và các thành viên mới của ĐH Mở nói chung** ![:3](https://static.xx.fbcdn.net/images/emoji.php/v9/ee6/1.5/20/FACE\_WITH\_COLON\_THREE.png)
 
@@ -55,3 +56,5 @@ Về khoản người yêu thì chị tin là lên ĐH sẽ được phát ngư�
 Vậy là hết bài post rồi ớ, cảm ơn các bạn đã đọc tới đây. Các bạn có bổ sung, hay thắc mắc gì cứ inbox chị nha đừng ngại (hãy comment trước vì chị não cá vàng, hay sót tin nhắn). Nếu các bạn thấy mình còn hoang mang, lo lắng và thắc mắc nhiều thì đã giỏi hơn chị hồi xưa rồi, vì các bạn nhận thức được mình chưa biết. Lúc năm nhất chị còn không mảy may gì, cũng không biết là mình cần nắm những thông tin cơ bản này nên chị tiếc năm nhất không tận dụng được quỹ thời gian của mình :((( Có thắc mắc cứ hỏi nha, và nhớ like page TEDx HCMCOU ủng hộ Khoa và trường mình nghen.
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham vào nhóm đê ^\_^
+{% endembed %}

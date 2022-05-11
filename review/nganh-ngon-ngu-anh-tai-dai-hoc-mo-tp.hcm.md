@@ -1,9 +1,10 @@
 ---
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -157.33031674208144
+description: '[Cảm nhận] Ngành ngôn ngữ anh tại đại học Mở tp.HCM'
+cover: ../.gitbook/assets/banner mẫu 6.png
+coverY: 327.5565610859729
 ---
 
-# Ngành ngôn ngữ anh tại đại học Mở tp.HCM
+# 😆 Ngành ngôn ngữ anh tại đại học Mở tp.HCM
 
 > _Hey hey xin chào mọi người, đặc biệt là các bạn đã chính thức trở thành sinh viên ngành Ngôn ngữ Anh của trường O. Do đang rảnh nên sinh viên NNA K18 như mình sẽ viết sơ qua về ngành này cho các bạn K21 đỡ bỡ ngỡ. Mình không nhận tiền từ đơn vị nào đâu nên các bạn có thể hoàn toàn tin tưởng về bài viết này nhé._
 
@@ -52,3 +53,5 @@ NNA CLC học ở 97 Võ Văn Tần (tiếc cho các bạn là không được t
 Do mình không chơi hệ CLB nên không biết nhiều nhưng mà trường O lắm CLB nên các bạn thích thì có thể tham gia tất cả nha, chỉ sợ các bạn không có thời gian thôi vì học mấy cái kĩ năng hai năm đầu mệt lắm đối với các bạn không có nền tảng vững.Chú ý nha, đặc biệt giờ chưa lên ĐH thì học chắc Ngữ pháp nha các bạn =)) vì đó là xương sống cho ngành của các bạn đó ạ. Chúc các bạn thi ĐH điểm cao và vui vẻ vượt qua dịch bệnh nhé!
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham vào nhóm đê ^\_^
+{% endembed %}

@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
 coverY: -121.22171945701356
 ---
 
-# \[Hướng dẫn] Thí sinh tự do xét tuyển học bạ phải đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT
+# 📑 \[Hướng dẫn] Thí sinh tự do xét tuyển học bạ phải đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT
 
 ❗ **** Để thuận tiện trong công tác xét tuyển sinh, các em nên tạo tài khoản xét tuyển <mark style="color:red;">**(không bắt buộc)**</mark>** ** trên hệ thống của Bộ GD&ĐT bằng cách nộp hồ sơ. **Nếu đã qua ngày 13/05** thì sẽ có hướng dẫn khác nên các bạn đăng ký trễ cũng đừng quá lo lắng. **Các bạn chỉ cần xét tuyển online trên hệ thống của trường và chờ thông báo mới nhé !**
 

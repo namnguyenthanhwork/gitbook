@@ -1,9 +1,10 @@
 ---
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -100.58823529411767
+description: Review kiểm tra anh văn đầu vào
+cover: ../.gitbook/assets/banner mẫu 6.png
+coverY: 345.6108597285068
 ---
 
-# Review kiểm tra anh văn đầu vào
+# 📃 Review kiểm tra anh văn đầu vào
 
 Post này là để truyền lại kinh nghiệm thi tiếng Anh đầu vào cho các ca sau 7h sáng nay (Thi này để giúp vô năm xếp lớp Tiếng Anh, có 10 lớp là từ cơ bản 1 đến cơ bản 5, và nâng cao 1 đến nâng cao 5, cứ 1 lớp vậy là 1tr5, nên bạn thi tốt thì sẽ được xếp ở lớp nâng cao 4,5 chỉ đóng 3tr cho cả 4 năm học). Với bài làm 4 test của mình lần lượt là&#x20;
 
@@ -37,3 +38,5 @@ Test 2: 60 câu/30 phút
 * Giới từ : in , on , at , between, in front of Test 3,4 (60 phút mỗi test) là mở rộng thêm tí của test 2
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

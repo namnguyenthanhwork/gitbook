@@ -1,10 +1,10 @@
 ---
 description: Quy chế tuyển sinh đại học 2022
-cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -30.950226244343924
+cover: ../../.gitbook/assets/banner mẫu 10.png
+coverY: 348.1900452488688
 ---
 
-# Quy chế tuyển sinh
+# 📒 Quy chế tuyển sinh
 
 {% hint style="info" %}
 Vui lòng chọn các mục dưới đây để tìm hiểu về khu vực ưu tiên và đối tượng ưu tiên
@@ -19,3 +19,5 @@ Vui lòng chọn các mục dưới đây để tìm hiểu về khu vực ưu t
 {% endcontent-ref %}
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

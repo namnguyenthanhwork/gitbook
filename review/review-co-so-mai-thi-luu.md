@@ -1,9 +1,10 @@
 ---
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -134.11764705882354
+description: Review cơ sở Mai Thị Lựu
+cover: ../.gitbook/assets/banner mẫu 7.png
+coverY: 371.4027149321267
 ---
 
-# Review cơ sở Mai Thị Lựu
+# 📚 Review cơ sở Mai Thị Lựu
 
 ![✌️](https://static.xx.fbcdn.net/images/emoji.php/v9/te8/1.5/16/270c.png) Xin chào các bạn sinh viên K21 Khoa Quản Trị Kinh Doanh Đại Học Mở TP. HCM️!
 
@@ -28,3 +29,5 @@ coverY: -134.11764705882354
 ![](<../.gitbook/assets/image (17).png>)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

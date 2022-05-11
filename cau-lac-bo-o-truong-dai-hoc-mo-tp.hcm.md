@@ -1,10 +1,10 @@
 ---
-description: Các câu lạc bộ trong trường Đại học Mở Tp.HCM
-cover: .gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -172.26528629977966
+description: '[Giới thiệu] Các câu lạc bộ trong trường Đại học Mở Tp.HCM'
+cover: .gitbook/assets/banner mẫu 1.png
+coverY: 299.18552036199094
 ---
 
-# 🤾 Câu lạc bộ
+# 🤾 Câu lạc bộ ở Trường Đại học Mở Tp.HCM
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -129,3 +129,5 @@ coverY: -172.26528629977966
 {% endhint %}
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

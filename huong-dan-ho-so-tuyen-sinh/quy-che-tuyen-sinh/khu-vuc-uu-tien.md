@@ -1,10 +1,10 @@
 ---
 description: Tìm hiểu về khu vực ưu tiên
-cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -134.11764705882354
+cover: ../../.gitbook/assets/banner mẫu 9.png
+coverY: 288.868778280543
 ---
 
-# Khu vực ưu tiên
+# 🗒 Khu vực ưu tiên
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -273,3 +273,5 @@ Các quận nội thành của thành phố trực thuộc Trung ương. Thí si
 | 64      | Hậu Giang                   | KV3     | <p>Không có<br></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📙 Sổ tay hướng dẫn tuyển sinh](README.md)
-* [🤾 Câu lạc bộ](cau-lac-bo.md)
+* [🤾 Câu lạc bộ ở Trường Đại học Mở Tp.HCM](cau-lac-bo-o-truong-dai-hoc-mo-tp.hcm.md)
 
 ## Thông tin tuyển sinh
 
@@ -11,21 +11,21 @@
 * [❓ Q\&A tuyển sinh](thong-tin-tuyen-sinh/q-and-a-tuyen-sinh.md)
 * [ℹ Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm](thong-tin-tuyen-sinh/chi-tieu-hoc-phi-2022-and-diem-chuan-cac-nam.md)
 * [🌎 Địa điểm học tập](thong-tin-tuyen-sinh/dia-diem-hoc-tap.md)
-* [🗒 Danh sách khoa - ngành đào tạo](thong-tin-tuyen-sinh/danh-sach-khoa-nganh-dao-tao.md)
+* [🗒 Danh sách khoa - ngành đào tạo Trường Đại học Mở Tp.HCM](thong-tin-tuyen-sinh/danh-sach-khoa-nganh-dao-tao-truong-dai-hoc-mo-tp.hcm.md)
 
 ## Hướng dẫn hồ sơ tuyển sinh
 
-* [Quy chế tuyển sinh](huong-dan-ho-so-tuyen-sinh/quy-che-tuyen-sinh/README.md)
-  * [Khu vực ưu tiên](huong-dan-ho-so-tuyen-sinh/quy-che-tuyen-sinh/khu-vuc-uu-tien.md)
-  * [Đối tượng ưu tiên](huong-dan-ho-so-tuyen-sinh/quy-che-tuyen-sinh/doi-tuong-uu-tien.md)
-* [Công cụ tính điểm xét tuyển](huong-dan-ho-so-tuyen-sinh/cong-cu-tinh-diem-xet-tuyen.md)
-* [Hướng dẫn đăng ký xét tuyển online](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online.md)
-  * [Phương thức xét học bạ 3 năm THPT](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt.md)
-  * [Phương thức xét học bạ 3 năm THPT có chứng chỉ ngoại ngữ](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt-co-chung-chi-ngoai-ngu.md)
-  * [Phương thức ưu tiên xét học sinh giỏi](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-uu-tien-xet-hoc-sinh-gioi.md)
-* [Hướng dẫn nhập hồ sơ tuyển sinh](huong-dan-ho-so-tuyen-sinh/huong-dan-nhap-ho-so-tuyen-sinh.md)
-* [Tạo ảnh 3x4 upload hồ sơ](huong-dan-ho-so-tuyen-sinh/tao-anh-3x4-upload-ho-so.md)
-* [Các giấy tờ cần có trong hồ sơ](huong-dan-ho-so-tuyen-sinh/cac-giay-to-can-co-trong-ho-so.md)
+* [📒 Quy chế tuyển sinh](huong-dan-ho-so-tuyen-sinh/quy-che-tuyen-sinh/README.md)
+  * [🗒 Khu vực ưu tiên](huong-dan-ho-so-tuyen-sinh/quy-che-tuyen-sinh/khu-vuc-uu-tien.md)
+  * [🗒 Đối tượng ưu tiên](huong-dan-ho-so-tuyen-sinh/quy-che-tuyen-sinh/doi-tuong-uu-tien.md)
+* [📱 Công cụ tính điểm xét tuyển](huong-dan-ho-so-tuyen-sinh/cong-cu-tinh-diem-xet-tuyen.md)
+* [📋 Hướng dẫn đăng ký xét tuyển online](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online.md)
+  * [✏ Phương thức xét học bạ 3 năm THPT](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt.md)
+  * [✏ Phương thức xét học bạ 3 năm THPT có chứng chỉ ngoại ngữ](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt-co-chung-chi-ngoai-ngu.md)
+  * [✏ Phương thức ưu tiên xét học sinh giỏi](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-uu-tien-xet-hoc-sinh-gioi.md)
+* [📘 Hướng dẫn nhập hồ sơ tuyển sinh](huong-dan-ho-so-tuyen-sinh/huong-dan-nhap-ho-so-tuyen-sinh.md)
+* [📸 Tạo ảnh 3x4 upload hồ sơ](huong-dan-ho-so-tuyen-sinh/tao-anh-3x4-upload-ho-so.md)
+* [🗒 Các giấy tờ cần có trong hồ sơ](huong-dan-ho-so-tuyen-sinh/cac-giay-to-can-co-trong-ho-so.md)
 
 ## Giới thiệu khoa - ngành đào tạo
 
@@ -79,27 +79,27 @@
 
 ## CHƯƠNG TRÌNH LIÊN KẾT
 
-* [Liên kết Đại học Rouen Normandie, Pháp](chuong-trinh-lien-ket/lien-ket-dai-hoc-rouen-normandie-phap.md)
-* [Liên kết Đại học Bond, Úc](chuong-trinh-lien-ket/lien-ket-dai-hoc-bond-uc.md)
-* [Liên kết Đại học Flinders, Úc](chuong-trinh-lien-ket/lien-ket-dai-hoc-flinders-uc.md)
+* [📔 Liên kết Đại học Rouen Normandie, Pháp](chuong-trinh-lien-ket/lien-ket-dai-hoc-rouen-normandie-phap.md)
+* [📑 Liên kết Đại học Bond, Úc](chuong-trinh-lien-ket/lien-ket-dai-hoc-bond-uc.md)
+* [📙 Liên kết Đại học Flinders, Úc](chuong-trinh-lien-ket/lien-ket-dai-hoc-flinders-uc.md)
 
 ## Chia sẻ
 
-* [Canva Education](chia-se/canva-education.md)
-* [Notion personal pro (Education)](chia-se/notion-personal-pro-education.md)
-* [Một số kinh nghiệm đạt học bổng khuyến khích học tập](chia-se/mot-so-kinh-nghiem-dat-hoc-bong-khuyen-khich-hoc-tap.md)
-* [Template kho tài liệu tiếng anh tự học](chia-se/template-kho-tai-lieu-tieng-anh-tu-hoc.md)
+* [📒 Canva Education](chia-se/canva-education.md)
+* [🗒 Notion personal pro (Education)](chia-se/notion-personal-pro-education.md)
+* [💯 Một số kinh nghiệm đạt học bổng khuyến khích học tập](chia-se/mot-so-kinh-nghiem-dat-hoc-bong-khuyen-khich-hoc-tap.md)
+* [🤩 Template kho tài liệu tiếng anh tự học](chia-se/template-kho-tai-lieu-tieng-anh-tu-hoc.md)
 
 ## Review
 
-* [Ngành ngôn ngữ anh tại đại học Mở tp.HCM](review/nganh-ngon-ngu-anh-tai-dai-hoc-mo-tp.hcm.md)
-* [Review cơ sở 371 Nguyễn Kiệm](review/review-co-so-371-nguyen-kiem.md)
-* [Ngôn ngữ Anh năm nhất cần chuẩn bị gì ?](review/ngon-ngu-anh-nam-nhat-can-chuan-bi-gi.md)
-* [Review cơ sở Mai Thị Lựu](review/review-co-so-mai-thi-luu.md)
-* [Review kiểm tra anh văn đầu vào](review/review-kiem-tra-anh-van-dau-vao.md)
-* [Review quân sự](review/review-quan-su.md)
-* [Mẹo thuê phòng trọ](review/meo-thue-phong-tro.md)
+* [😆 Ngành ngôn ngữ anh tại đại học Mở tp.HCM](review/nganh-ngon-ngu-anh-tai-dai-hoc-mo-tp.hcm.md)
+* [📖 Review cơ sở 371 Nguyễn Kiệm](review/review-co-so-371-nguyen-kiem.md)
+* [❓ Ngôn ngữ Anh năm nhất cần chuẩn bị gì ?](review/ngon-ngu-anh-nam-nhat-can-chuan-bi-gi.md)
+* [📚 Review cơ sở Mai Thị Lựu](review/review-co-so-mai-thi-luu.md)
+* [📃 Review kiểm tra anh văn đầu vào](review/review-kiem-tra-anh-van-dau-vao.md)
+* [📑 Mẹo thuê phòng trọ](review/meo-thue-phong-tro.md)
+* [🔖 Review quân sự](review/review-quan-su.md)
 
 ## THÔNG BÁO
 
-* [\[Hướng dẫn\] Thí sinh tự do xét tuyển học bạ phải đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT](thong-bao/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-phai-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt.md)
+* [📑 \[Hướng dẫn\] Thí sinh tự do xét tuyển học bạ phải đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT](thong-bao/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-phai-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt.md)

@@ -1,7 +1,7 @@
 ---
-description: Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm
-cover: ../.gitbook/assets/Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm.png
-coverY: -322.3981900452489
+description: Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm ở Trường Đại học Mở Tp.HCM
+cover: ../.gitbook/assets/banner mẫu 7.png
+coverY: 330.13574660633486
 ---
 
 # ℹ Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm
@@ -40,13 +40,13 @@ coverY: -322.3981900452489
 
 ![Điểm chuẩn THPT các năm](../.gitbook/assets/4.png)
 
+![Điểm chuẩn học bạ các năm](<../.gitbook/assets/5 (1).png>)
+
 <mark style="color:yellow;">**Lưu ý:**</mark>
 
 1. Chỉ có cột điểm học bạ là <mark style="color:red;">học sinh giỏi & học sinh khá có thể xét</mark>
 2. Chỉ có cột điểm học sinh giỏi là <mark style="color:red;">học sinh giỏi mới được xét, học sinh khá không được xét</mark>
 3. Nếu cột học sinh giỏi không có ghi, cột học bạ điền dấu "x" hoặc không điền gì, <mark style="color:red;">nghĩa là tuyển thẳng học sinh giỏi</mark>
-
-![Điểm chuẩn học bạ các năm](<../.gitbook/assets/5 (1).png>)
 
 ### Học phí 1 năm (dự kiến)
 
@@ -61,3 +61,5 @@ coverY: -322.3981900452489
 ![Học phí Khoa Đào tạo đặc biệt (Chất lượng cao)](<../.gitbook/assets/hp clc 2020.PNG>)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

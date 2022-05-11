@@ -1,10 +1,10 @@
 ---
 description: Giới thiệu chương trình liên kết Đại học Rouen Normandie, Pháp
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -167.64705882352942
+cover: ../.gitbook/assets/banner mẫu 6.png
+coverY: 239.86425339366517
 ---
 
-# Liên kết Đại học Rouen Normandie, Pháp
+# 📔 Liên kết Đại học Rouen Normandie, Pháp
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -146,3 +146,5 @@ _**Lưu ý**_:&#x20;
 **Facebook:** [**https://www.facebook.com/NguyenThanhNam1601**](https://www.facebook.com/NguyenThanhNam1601)****
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

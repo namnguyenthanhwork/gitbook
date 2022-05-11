@@ -2,11 +2,11 @@
 description: >-
   Bước này chỉ thực hiện khi đã trúng tuyển và đã nhập hồ sơ tuyển sinh trực
   tuyến
-cover: ../.gitbook/assets/Các giấy tờ cần có trong hồ sơ.png
-coverY: -185.70135746606334
+cover: ../.gitbook/assets/banner mẫu 4.png
+coverY: 330.13574660633486
 ---
 
-# Các giấy tờ cần có trong hồ sơ
+# 🗒 Các giấy tờ cần có trong hồ sơ
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -123,3 +123,5 @@ Link tham khảo: [http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet...]
 **Thời gian làm việc:** từ thứ 2 - thứ 6 (8h - 17h)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

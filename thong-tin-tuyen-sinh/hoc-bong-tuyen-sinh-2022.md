@@ -1,7 +1,7 @@
 ---
 description: 'Tham khảo học bổng khác tại: https://ou.edu.vn/hoc-bong'
-cover: ../.gitbook/assets/Học bổng tuyển sinh 2022.png
-coverY: -407.5113122171946
+cover: ../.gitbook/assets/banner mẫu 4.png
+coverY: 322.3981900452489
 ---
 
 # 💰 Học bổng tuyển sinh 2022
@@ -58,3 +58,5 @@ coverY: -407.5113122171946
 **Tham khảo tại link sau**: [http://tuyensinh.ou.edu.vn/huong-dan-nop-ho-so-hoc-bong-che-do-chinh-sach-khoa-2021](http://tuyensinh.ou.edu.vn/huong-dan-nop-ho-so-hoc-bong-che-do-chinh-sach-khoa-2021)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

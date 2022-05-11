@@ -1,7 +1,7 @@
 ---
 description: Giải đáp câu hỏi của học sinh về tuyển sinh
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -232.1266968325792
+cover: ../.gitbook/assets/banner mẫu 6.png
+coverY: 299.18552036199094
 ---
 
 # ❓ Q\&A tuyển sinh
@@ -31,7 +31,7 @@ coverY: -232.1266968325792
 {% hint style="info" %}
 **CHUYÊN MỤC Q\&A ĐỂ GIẢI ĐÁP CÁC THẮC MẮC CỦA CÁC BẠN**
 
-Sau đây là 1 số câu thắc mắc cơ bản của các bạn suốt đêm qua (mess của tui bị khủng bố :>) Các b có thể check điểm của mình tại [https://xettuyen.ou.edu.vn/hb2021d1/vi/ketqua](https://xettuyen.ou.edu.vn/hb2021d1/vi/ketqua?fbclid=IwAR07EGsfk8\_7IQR6zbxW7i5bv51lUXY1RWKde1qt5h8d4UdTbtGLa4-OL\_w)
+Sau đây là 1 số câu thắc mắc cơ bản của các bạn. Các b có thể check điểm của mình tại [https://xettuyen.ou.edu.vn/hb2021d1/vi/ketqua](https://xettuyen.ou.edu.vn/hb2021d1/vi/ketqua?fbclid=IwAR07EGsfk8\_7IQR6zbxW7i5bv51lUXY1RWKde1qt5h8d4UdTbtGLa4-OL\_w)
 
 1. **Xác nhận nhập học** bằng hình thức **Đăng ký nhập học trực tuyến (dự kiến) từ ngày 20/7 đến hết ngày 03/8/2021**. Xác nhận nhập học nhằm chắc chắn b đã là sv ou, nếu trong thời gian này b k xác nhận tức là b chấp nhận rớt ou **(Lưu ý đây chỉ là thời gian dự kiến, có thể thay đổi trong tương lai)**
 2. Thí sinh **Nhập học chính thức (dự kiến) từ ngày 02/8 đến hết ngày 04/8 tại cơ sở 97 Võ Văn Tần, P.VTS, Q.3, Tp.HCM** hoặc có thể **nộp hồ sơ qua đường Bưu điện**. Sau khi xác nhận nhập học r thì trong khoảng thời gian ở mục 2 sẽ lên trường trực tiếp tiếp nhận hồ sơ + đóng học phí + tư vấn giải đáp thắc mắc + khám sức khoẻ. Nếu nhà xa thì có thể tự canh thời gian để đi or gửi hồ sơ về bưu điện. **Thời gian trên là dự kiến như mục 1**
@@ -47,7 +47,7 @@ Sau đây là 1 số câu thắc mắc cơ bản của các bạn suốt đêm q
 10. Khi có 1 số thông tin sai sót "ngoại trừ điểm số, đổi nv, đổi ngành" các bạn có thể viết đơn gửi mail qua ban tuyển sinh để chỉnh sửa (mail: tuyensinh@ou.edu.vn)
 11. **Lưu ý to đùng**: hiện tại **nghiêm cấm mọi hình thức show mã số sinh viên** (mssv - id) của mình, nếu ai đã show thì lập tức xoá đi nha sau khi nhập học xong thì show thoải mái, biết v là đc r, đừng nên thắc mắc nhiều.
 12. Sau khi đậu sẽ có kiểm tra **tin học + av đầu vào** nhé (sv khoa cntt đc miễn tin học, sv ngành ngôn ngữ đc miễn av - cái này mình k rõ, có thể sai or đúng, cần ng xác nhận ở dưới :)). Nếu b rớt av đầu vào thì auto học căn bản 1, rớt tin thì đóng tiền thi lại học lại :))
-13. Kiểm tra av đầu vào có thể tham khảo tại [https://www.facebook.com/groups/ou.community/posts/547354753609275/](https://www.facebook.com/groups/ou.community/posts/547354753609275/?\_\_cft\_\_\[0]=AZWeGTgfS4iw8GSMwdQGuERk3UHPPBI6Af7z-kfmecbOvAXFV6MwWkZvD1HZoJJOd1rrF\_ivqV1gBkVgSWmtNXcScewsDCVttXwi1m3UGcYvyi2Rr9qS2VELMLvG-kg1LvI\_pI4\_Ziz5V8Ye0bPn49wvNZevCMJtdGGD32GEuAm924a0izBnxT2hynLJcytZcj8&\_\_tn\_\_=%2CO%2CP-R)
+13. Kiểm tra av đầu vào có thể tham khảo tại [https://www.facebook.com/groups/ou.community/permalink/547354753609275/](https://www.facebook.com/groups/ou.community/permalink/547354753609275/)
 14. Về tin học đầu vào (dễ ẹc à, nhớ câu của thầy Huấn râu xì là đc)\
     Kiểm tra trình độ, xếp lớp Tin học không chuyên\
     **a. Đối tượng:** Sinh viên chương trình đại trà và chương trình chất lượng cao tất cả các ngành (trừ ngành Công nghệ thông tin, Khoa học máy tính, Hệ thống thông tin quản lý).\
@@ -65,7 +65,7 @@ Sau đây là 1 số câu thắc mắc cơ bản của các bạn suốt đêm q
 18. Trường có nhiều CLB + Event nên cứ tham gia thoải mái
 19. **Trường có hệ thống điểm rèn luyện (đrl),** kiếm dễ ẹc à, tham gia event, mini game fb là đc (từ h nhớ phò low mấy cái fanpage của khoa, trường, clb đi để kiếm đrl)
 20. **Hệ thống đăng ký môn học (Đkmh)** nơi tàn khốc để đăng ký môn học tiếp theo của học kỳ tới, từ hk2 năm 1 sẽ đc trải nghiệm (**nó lag như hqua tụi bay check kq v đó**) ngoài ra còn cộng thêm **combo bugs như lỗi k hiện môn, lỗi chưa học môn tiên quyết, lỗi đăng ký r nhưng học phí giá 0đ.**.. trải nghiệm đi cho quen cái mùi...ngồi vài tiếng chỉ để đkmh...trò chơi nhân phẩm
-21. Tuỳ khoa sẽ có kỳ quân sự theo thời gian, ai muốn xem review qs thì xem tại [https://www.facebook.com/.../permalink/1191871581229448/](https://www.facebook.com/groups/oumembers/permalink/1191871581229448/?\_\_cft\_\_\[0]=AZWFGHw9N5oVPz\_hGgAEehH0k9QfvIoGxe\_hZmieiBWfZNwB1sXoEL6Kt\_gnvtqzglKEs1i989b\_85AZDGj404Q\_OmP-c9Wt1S7kYclvq9Y30e69RSvl-F6RH3OjzYeobEM&\_\_tn\_\_=-UK-R)\
+21. Tuỳ khoa sẽ có kỳ quân sự theo thời gian, ai muốn xem review qs thì xem tại [https://www.facebook.com/groups/ou.community/posts/547369573607793/](https://www.facebook.com/groups/ou.community/posts/547369573607793/)\
     post sương sương thôi để biết, tự mà trải nghiệm, kể toẹt ra thì còn gì zui :))
 22. Tuỳ tình hình dịch mà có thể có khai giảng **(The Open day)** hay không, không có thì tiếc lắm, tại nơi đó giao lưu + kết bạn, nơi hội tụ anh tài, gáy to, gặp idol như Đen Zâu, Jack (nếu đủ tiền :))
 23. Lâu lâu có drama hít hà cũng vui, có cfs tự lập có thể vào đó nghe câu chuyện cơm chó or thổ lộ các kiểu :))
@@ -73,3 +73,5 @@ Sau đây là 1 số câu thắc mắc cơ bản của các bạn suốt đêm q
 {% endhint %}
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}

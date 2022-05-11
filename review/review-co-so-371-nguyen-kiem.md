@@ -1,10 +1,10 @@
 ---
 description: Cơ sở 371 Nguyễn Kiệm (đại trà) có gì hot !!!
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -126.38009049773758
+cover: ../.gitbook/assets/banner mẫu 7.png
+coverY: 257.9185520361991
 ---
 
-# Review cơ sở 371 Nguyễn Kiệm
+# 📖 Review cơ sở 371 Nguyễn Kiệm
 
 ![1](../.gitbook/assets/1.jpg)
 
@@ -29,3 +29,5 @@ coverY: -126.38009049773758
 ![11](../.gitbook/assets/11.jpg)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham vào nhóm đê ^\_^
+{% endembed %}

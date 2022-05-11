@@ -1,9 +1,10 @@
 ---
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -41.266968325791865
+description: '[Chia sẻ] Canva Education'
+cover: ../.gitbook/assets/banner mẫu 5.png
+coverY: 371.4027149321267
 ---
 
-# Canva Education
+# 📒 Canva Education
 
 {% hint style="info" %}
 Canva là gì?
@@ -36,3 +37,5 @@ Cách đăng ký
 Zậy là xong nhá!
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
+Tham gia vào nhóm đê ^\_^
+{% endembed %}
