@@ -1,10 +1,10 @@
 ---
 description: Giới thiệu khoa Quản trị kinh doanh
-cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 340.4524886877828
+cover: ../../.gitbook/assets/banner mẫu 3.png
+coverY: 317.2398190045249
 ---
 
-# Khoa Quản trị kinh doanh
+# 👉 Khoa Quản trị kinh doanh
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -63,7 +63,7 @@ Phòng 403, Hồ Hảo Hớn, Quận 1, Thành phố Hồ Chí Minh
 
 **Email:** [fba@ou.edu.vn](mailto:fba@ou.edu.vn)**;** qtkd@ou.edu.vn
 
-**Website:** [http://kqtkd.ou.edu.vn/](http://kqtkd.ou.edu.vn)
+**Website:** [http://kqtkd.ou.edu.vn/](http://kqtkd.ou.edu.vn/)
 
 **Fanpage:** [https://www.facebook.com/qtkd212](https://www.facebook.com/qtkd212)
 {% endhint %}

@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/banner mẫu 6.png
 coverY: 327.5565610859729
 ---
 
-# 😆 Ngành ngôn ngữ anh tại đại học Mở tp.HCM
+# 📖 Ngành ngôn ngữ anh tại đại học Mở tp.HCM
 
 > _Hey hey xin chào mọi người, đặc biệt là các bạn đã chính thức trở thành sinh viên ngành Ngôn ngữ Anh của trường O. Do đang rảnh nên sinh viên NNA K18 như mình sẽ viết sơ qua về ngành này cho các bạn K21 đỡ bỡ ngỡ. Mình không nhận tiền từ đơn vị nào đâu nên các bạn có thể hoàn toàn tin tưởng về bài viết này nhé._
 

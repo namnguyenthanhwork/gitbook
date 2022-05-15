@@ -1,10 +1,10 @@
 ---
 description: Giới thiệu ngành Công Nghệ Kỹ Thuật Công trình xây dựng
-cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 410.0904977375566
+cover: ../../.gitbook/assets/banner mẫu 8.png
+coverY: 172.8054298642534
 ---
 
-# Ngành Công Nghệ Kỹ Thuật Công trình xây dựng
+# 📋 Ngành Công Nghệ Kỹ Thuật Công trình xây dựng
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -119,7 +119,7 @@ Sinh viên được trang bị các khối kiến thức:
 
 **Email:** xaydung@ou.edu.vn
 
-**Website:** [ce.ou.edu.vn](http://ce.ou.edu.vn)
+**Website:** [ce.ou.edu.vn](http://ce.ou.edu.vn/)
 
 **Fanpage:** [https://www.facebook.com/xaydungtruongdaihocMo/](https://www.facebook.com/xaydungtruongdaihocMo/)
 {% endhint %}

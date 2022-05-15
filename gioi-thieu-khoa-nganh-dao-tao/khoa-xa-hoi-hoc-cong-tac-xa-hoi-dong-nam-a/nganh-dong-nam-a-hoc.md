@@ -1,10 +1,10 @@
 ---
 description: Giới thiệu ngành Đông nam á học
-cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 201.1764705882353
+cover: ../../.gitbook/assets/banner mẫu 10.png
+coverY: 224.38914027149323
 ---
 
-# Ngành Đông nam á học
+# 📋 Ngành Đông nam á học
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!

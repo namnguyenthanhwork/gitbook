@@ -1,10 +1,10 @@
 ---
 description: Giới thiệu khoa Tài chính ngân hàng
-cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 278.552036199095
+cover: ../../.gitbook/assets/banner mẫu 4.png
+coverY: 363.6651583710407
 ---
 
-# Khoa Tài chính ngân hàng
+# 👉 Khoa Tài chính ngân hàng
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -50,7 +50,7 @@ Phòng 402, số 35 - 37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1, Tp.HCM
 
 **Điện thoại:** 028 3838 6605
 
-**Website:** [http://tcnh.ou.edu.vn/](http://tcnh.ou.edu.vn)
+**Website:** [http://tcnh.ou.edu.vn/](http://tcnh.ou.edu.vn/)
 
 **Email:** [tcnh@ou.edu.vn](mailto:doanhoicntt@ou.edu.vn)
 

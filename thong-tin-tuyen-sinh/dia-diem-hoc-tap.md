@@ -12,7 +12,7 @@ coverY: 410.0904977375566
 
 📞 **Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
 
-**🌐 Website tuyển sinh chính thức:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn)
+**🌐 Website tuyển sinh chính thức:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn/)
 
 🔗 **Thông tin tuyển sinh Đại học chính quy năm 2022:** [http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-](http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-)
 
@@ -35,8 +35,8 @@ coverY: 410.0904977375566
 {% hint style="info" %}
 **Ghi chú:** CÁC CƠ SỞ HỌC CỦA TRƯỜNG THEO NGÀNH ĐÀO TẠO:&#x20;
 
-* 97 Võ Văn Tần P6 Q3: Các ngành CHẤT LƯỢNG CAO&#x20;
-* 02 Mai Thị Lựu, phường Đa Kao, Q1:&#x20;
+* <mark style="color:red;">**97 Võ Văn Tần P6 Q3:**</mark> Các ngành CHẤT LƯỢNG CAO&#x20;
+* <mark style="color:red;">**02 Mai Thị Lựu, phường Đa Kao, Q1:**</mark>&#x20;
   * QTKD, MARKETING
   * DU LỊCH
   * LOGISTIC
@@ -44,7 +44,7 @@ coverY: 410.0904977375566
   * QUẢN TRỊ NHÂN LỰC
   * KINH TẾ
   * QUẢN LÝ CÔNG&#x20;
-* 371 Nguyễn Kiệm, P3, Quận Gò Vấp: TẤT CẢ CÁC NGÀNH ĐẠI TRÀ
+* <mark style="color:red;">**371 Nguyễn Kiệm, P3, Quận Gò Vấp: TẤT CẢ CÁC NGÀNH ĐẠI TRÀ**</mark>
   * CÔNG NGHỆ THÔNG TIN
   * KHOA HỌC MÁY TÍNH
   * HỆ THỐNG THÔNG TIN QUẢN LÝ
@@ -59,8 +59,8 @@ coverY: 410.0904977375566
   * LUẬT - LUẬT KINH TẾ
   * CÔNG NGHỆ SINH HỌC
   * CÔNG NGHỆ THỰC PHẨM&#x20;
-* 68 Lê Thị Trung, Tp.Thủ Dầu Một, Tỉnh Bình Dương: NGÀNH CÔNG NGHỆ SINH HỌC (HỌC THỰC HÀNH)&#x20;
-* Phường Long Bình Tân, Tp. Biên Hòa, Tỉnh Đồng Nai: HỌC QUỐC PHÒNG TẬP TRUNG.
+* <mark style="color:red;">**68 Lê Thị Trung, Tp.Thủ Dầu Một, Tỉnh Bình Dương:**</mark> NGÀNH CÔNG NGHỆ SINH HỌC (HỌC THỰC HÀNH)&#x20;
+* <mark style="color:red;">**Phường Long Bình Tân, Tp. Biên Hòa, Tỉnh Đồng Nai:**</mark> HỌC QUỐC PHÒNG TẬP TRUNG.
 {% endhint %}
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}

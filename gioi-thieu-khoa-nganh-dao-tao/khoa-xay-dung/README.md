@@ -1,10 +1,10 @@
 ---
 description: Giới thiệu khoa Xây dựng
-cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 397.19457013574663
+cover: ../../.gitbook/assets/banner mẫu 4.png
+coverY: 188.28054298642536
 ---
 
-# Khoa Xây dựng
+# 👉 Khoa Xây dựng
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
@@ -54,7 +54,7 @@ Quy mô đào tạo hơn 900 sinh viên hệ chính quy, mỗi năm tuyển sinh
 
 **Email:** xaydung@ou.edu.vn
 
-**Website:** [ce.ou.edu.vn](http://ce.ou.edu.vn)
+**Website:** [ce.ou.edu.vn](http://ce.ou.edu.vn/)
 
 **Fanpage:** [https://www.facebook.com/xaydungtruongdaihocMo/](https://www.facebook.com/xaydungtruongdaihocMo/)
 {% endhint %}

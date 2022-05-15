@@ -1,10 +1,10 @@
 ---
 description: Giới thiệu ngành Xã hội học
-cover: ../../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: 255.33936651583713
+cover: ../../.gitbook/assets/banner mẫu 9.png
+coverY: 190.85972850678735
 ---
 
-# Ngành Xã hội học
+# 📋 Ngành Xã hội học
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!

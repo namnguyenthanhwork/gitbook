@@ -1,10 +1,10 @@
 ---
 description: Review cơ sở Mai Thị Lựu
-cover: ../.gitbook/assets/banner mẫu 7.png
-coverY: 371.4027149321267
+cover: ../../.gitbook/assets/banner mẫu 6.png
+coverY: 312.08144796380094
 ---
 
-# 📚 Review cơ sở Mai Thị Lựu
+# 🥰 Review cơ sở Mai Thị Lựu
 
 ![✌️](https://static.xx.fbcdn.net/images/emoji.php/v9/te8/1.5/16/270c.png) Xin chào các bạn sinh viên K21 Khoa Quản Trị Kinh Doanh Đại Học Mở TP. HCM️!
 
@@ -22,11 +22,11 @@ coverY: 371.4027149321267
 
 ![🍴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc1/1.5/16/1f374.png) Căn tin là nơi giúp chiếc bụng đói của bạn hạnh phúc hơn, ở đây có các món nước như bún bò, hủ tiếu, bánh canh, các món cơm như cơm sườn, cơm gà, và các món ăn phong phú đa dạng thay đổi theo ngày, giá các món ăn được dao động từ 20k – 35k. Nước uống cũng khá đa dạng, có các loại nước giải khát và còn có cả sữa tươi, mua nước thì tốn tiền nhưng mà tẩy đá thì free nha, các cô bán hàng ở đây khá dễ thương và nhiệt tình. Nhưng mà hầu như căn tin là nơi học sinh trường bạn đến thôi, sinh viên tụi mình đa số thích những món ăn nước uống trước cổng trường hơn.![🍴](https://static.xx.fbcdn.net/images/emoji.php/v9/tc1/1.5/16/1f374.png) Trước cổng trường chính là một thiên đường ẩm thực với những món ăn đa dạng như: há cảo, cơm chiên, mì xào, nui xào, xôi mặn,…. Ăn vặt thì có: chè, bánh tráng trộn, bánh tráng nướng, trái cây tự chọn, xiên que chiên, cà phê, cam ép, trà đào, trà sữa … Giá giao động từ 10k – 30k, hợp với giá tiền sinh viên như chúng mình. Gần trường còn có cửa hàng tiện lợi như Ministop, GS25 cũng là những địa điểm lý tưởng cho sinh viên MTL.Điều khiến MTL trở nên đặc biệt hơn chính là màu áo xanh BA và tinh thần nhiệt huyết của các bạn sinh viên BAOU không lẫn vào đâu được![💚](https://static.xx.fbcdn.net/images/emoji.php/v9/ted/1.5/16/1f49a.png)![💌](https://static.xx.fbcdn.net/images/emoji.php/v9/t50/1.5/16/1f48c.png) Review sương sương vậy thôi, MTL rất tuyệt mà đúng không? Hãy thử trải nghiệm cuộc sống ở MTL, bạn sẽ yêu nó đấy ![:v](https://static.xx.fbcdn.net/images/emoji.php/v9/ef8/1.5/16/PACMAN.png)
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^
