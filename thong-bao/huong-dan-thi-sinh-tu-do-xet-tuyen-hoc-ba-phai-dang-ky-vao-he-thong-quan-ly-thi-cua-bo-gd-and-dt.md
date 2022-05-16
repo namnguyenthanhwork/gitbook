@@ -8,7 +8,7 @@ coverY: 245.02262443438914
 
 # 📑 \[Hướng dẫn] Thí sinh tự do xét tuyển học bạ phải đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT
 
-❗ **** Để thuận tiện trong công tác xét tuyển sinh, các em nên tạo tài khoản xét tuyển <mark style="color:red;">**(không bắt buộc)**</mark>** ** trên hệ thống của Bộ GD&ĐT bằng cách nộp hồ sơ. **Nếu đã qua ngày 13/05** thì sẽ có hướng dẫn khác nên các bạn đăng ký trễ cũng đừng quá lo lắng. **Các bạn chỉ cần xét tuyển online trên hệ thống của trường và chờ thông báo mới nhé !**
+❗ **** Để thuận tiện trong công tác xét tuyển sinh, các bạn nên tạo tài khoản xét tuyển <mark style="color:red;">**(không bắt buộc)**</mark>** ** trên hệ thống của Bộ GD&ĐT bằng cách nộp hồ sơ. **Nếu đã qua ngày 13/05** thì sẽ có hướng dẫn khác nên các bạn đăng ký trễ cũng đừng quá lo lắng. **Các bạn chỉ cần xét tuyển online trên hệ thống của trường và chờ thông báo mới nhé !**
 
 {% hint style="info" %}
 ![⚡](https://static.xx.fbcdn.net/images/emoji.php/v9/te4/1.5/16/26a1.png) **Cách thức nộp hồ sơ**

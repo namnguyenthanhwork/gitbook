@@ -7,8 +7,12 @@ coverY: 306.92307692307696
 # ✏ Phương thức xét học bạ 3 năm THPT có chứng chỉ ngoại ngữ
 
 {% hint style="danger" %}
-**Lưu ý:** để thông tin sổ tay bạn nắm được luôn ở trạng thái mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). Xin cảm ơn !!!
+**Lưu ý:** để thông tin sổ tay bạn nắm được luôn mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). <mark style="color:red;">**Bạn có thể đọc hướng dẫn cách tải lại trang web ở bên dưới.**</mark> Xin cảm ơn !!!
 {% endhint %}
+
+{% content-ref url="../../huong-dan-khac/huong-dan-tai-lai-trang-so-tay-sinh-vien-ou.md" %}
+[huong-dan-tai-lai-trang-so-tay-sinh-vien-ou.md](../../huong-dan-khac/huong-dan-tai-lai-trang-so-tay-sinh-vien-ou.md)
+{% endcontent-ref %}
 
 🔗**Link đăng ký xét tuyển học bạ 2022:** [https://xettuyen.ou.edu.vn/hb2022d1/vi](https://xettuyen.ou.edu.vn/hb2022d1/vi)
 
