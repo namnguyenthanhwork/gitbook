@@ -105,3 +105,7 @@
 ## THÔNG BÁO
 
 * [📑 \[Hướng dẫn\] Thí sinh tự do xét tuyển học bạ phải đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT](thong-bao/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-phai-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt.md)
+
+## Hướng dẫn khác
+
+* [📑 Hướng dẫn tải lại trang sổ tay sinh viên OU](huong-dan-khac/huong-dan-tai-lai-trang-so-tay-sinh-vien-ou.md)

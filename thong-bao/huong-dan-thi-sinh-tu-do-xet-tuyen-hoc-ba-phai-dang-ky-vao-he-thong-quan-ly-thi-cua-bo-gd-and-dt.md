@@ -2,8 +2,8 @@
 description: >-
   [Hướng dẫn] Thí sinh tự do xét tuyển học bạ phải đăng ký vào hệ thống quản lý
   thi của Bộ GD&ĐT
-cover: ../.gitbook/assets/Banner gitbook (3420 × 750 px).png
-coverY: -121.22171945701356
+cover: ../.gitbook/assets/banner mẫu 4.png
+coverY: 245.02262443438914
 ---
 
 # 📑 \[Hướng dẫn] Thí sinh tự do xét tuyển học bạ phải đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT
