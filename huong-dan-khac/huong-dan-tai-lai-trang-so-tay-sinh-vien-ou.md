@@ -24,15 +24,17 @@ coverY: 288.868778280543
 
 ![](<../.gitbook/assets/reload fb link (1).jpg>)
 
-Hướng dẫn trên điện thoại đang sử dụng trình duyệt chrome, nếu các bạn sài khác trình duyệt này thì có thể tìm và ấn nút tương tự
+**Hướng dẫn trên điện thoại đang sử dụng trình duyệt chrome, nếu các bạn sài khác trình duyệt này thì có thể tìm và ấn nút tương tự**
 
-Bước 1:
+**Bước 1:**
 
 ![](<../.gitbook/assets/reload mb1.jpg>)
 
-Bước 2:
+**Bước 2:**
 
 ![](<../.gitbook/assets/reload mb2.jpg>)
+
+**Vậy là các bạn đã cập nhật thành công.**
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia group đê

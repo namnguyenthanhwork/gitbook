@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/banner mẫu 4.png
 coverY: 234.7058823529412
 ---
 
-# 😍 Review cơ sở Võ Văn Tần
+# 😍 Review cơ sở 97 Võ Văn Tần
 
 {% embed url="https://youtube.com/shorts/utBZfJf9QfQ?feature=share" %}
 Review cơ sở Võ Văn Tần

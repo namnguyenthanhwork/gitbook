@@ -12,12 +12,12 @@ Review 3 cơ sở học tập chính ở Trường Đại học Mở - Tp.HCM
 [review-co-so-371-nguyen-kiem.md](../../review/review-co-so-371-nguyen-kiem.md)
 {% endcontent-ref %}
 
-{% content-ref url="review-co-so-97-vo-van-tan.md" %}
-[review-co-so-97-vo-van-tan.md](review-co-so-97-vo-van-tan.md)
+{% content-ref url="review-co-so-vo-van-tan.md" %}
+[review-co-so-vo-van-tan.md](review-co-so-vo-van-tan.md)
 {% endcontent-ref %}
 
-{% content-ref url="review-co-so-02-mai-thi-luu.md" %}
-[review-co-so-02-mai-thi-luu.md](review-co-so-02-mai-thi-luu.md)
+{% content-ref url="../../review/review-co-so-mai-thi-luu.md" %}
+[review-co-so-mai-thi-luu.md](../../review/review-co-so-mai-thi-luu.md)
 {% endcontent-ref %}
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}

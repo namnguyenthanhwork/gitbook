@@ -13,8 +13,8 @@
 * [🌎 Địa điểm học tập](thong-tin-tuyen-sinh/dia-diem-hoc-tap.md)
 * [📋 Review cơ sở học tập](thong-tin-tuyen-sinh/review-co-so-hoc-tap/README.md)
   * [☺ Review cơ sở 371 Nguyễn Kiệm](review/review-co-so-371-nguyen-kiem.md)
-  * [🥰 Review cơ sở 02 Mai Thị Lựu](thong-tin-tuyen-sinh/review-co-so-hoc-tap/review-co-so-02-mai-thi-luu.md)
-  * [😍 Review cơ sở 97 Võ Văn Tần](thong-tin-tuyen-sinh/review-co-so-hoc-tap/review-co-so-97-vo-van-tan.md)
+  * [🥰 Review cơ sở 02 Mai Thị Lựu](review/review-co-so-mai-thi-luu.md)
+  * [😍 Review cơ sở 97 Võ Văn Tần](thong-tin-tuyen-sinh/review-co-so-hoc-tap/review-co-so-vo-van-tan.md)
 * [🗒 Danh sách khoa - ngành đào tạo Trường Đại học Mở Tp.HCM](thong-tin-tuyen-sinh/danh-sach-khoa-nganh-dao-tao-truong-dai-hoc-mo-tp.hcm.md)
 
 ## Hướng dẫn hồ sơ tuyển sinh
