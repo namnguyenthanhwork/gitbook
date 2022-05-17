@@ -1,10 +1,10 @@
 ---
-description: Danh sách khoa - ngành đào tạo ở Trường Đại học Mở Tp.HCM
+description: '[Giới thiệu] các ngành đào tạo ở Trường Đại học Mở Tp.HCM'
 cover: ../.gitbook/assets/banner mẫu 9.png
 coverY: 242.44343891402715
 ---
 
-# 🗒 Danh sách khoa - ngành đào tạo Trường Đại học Mở Tp.HCM
+# 🗒 Giới thiệu ngành đào tạo Trường Đại học Mở Tp.HCM
 
 {% hint style="danger" %}
 **Lưu ý:** để thông tin sổ tay bạn nắm được luôn mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). <mark style="color:red;">**Bạn có thể đọc hướng dẫn cách tải lại trang web ở bên dưới.**</mark> Xin cảm ơn !!!
