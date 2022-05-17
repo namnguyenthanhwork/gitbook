@@ -15,7 +15,7 @@
   * [☺ Review cơ sở 371 Nguyễn Kiệm](review/review-co-so-371-nguyen-kiem.md)
   * [🥰 Review cơ sở 02 Mai Thị Lựu](review/review-co-so-mai-thi-luu.md)
   * [😍 Review cơ sở 97 Võ Văn Tần](thong-tin-tuyen-sinh/review-co-so-hoc-tap/review-co-so-vo-van-tan.md)
-* [🗒 Giới thiệu ngành đào tạo Trường Đại học Mở Tp.HCM](thong-tin-tuyen-sinh/gioi-thieu-nganh-dao-tao-truong-dai-hoc-mo-tp.hcm.md)
+* [🗒 Giới thiệu ngành đào tạo Trường Đại học Mở Tp.HCM](thong-tin-tuyen-sinh/danh-sach-khoa-nganh-dao-tao-truong-dai-hoc-mo-tp.hcm.md)
 
 ## Hướng dẫn hồ sơ tuyển sinh
 
@@ -27,6 +27,7 @@
   * [✏ Phương thức xét học bạ 3 năm THPT](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt.md)
   * [✏ Phương thức xét học bạ 3 năm THPT có chứng chỉ ngoại ngữ](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt-co-chung-chi-ngoai-ngu.md)
   * [✏ Phương thức ưu tiên xét học sinh giỏi](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-uu-tien-xet-hoc-sinh-gioi.md)
+  * [✏ Hướng dẫn chỉnh sửa - khắc phục lỗi khi đăng ký xét tuyển online](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/huong-dan-chinh-sua-khac-phuc-loi-khi-dang-ky-xet-tuyen-online.md)
 * [📘 Hướng dẫn nhập hồ sơ tuyển sinh](huong-dan-ho-so-tuyen-sinh/huong-dan-nhap-ho-so-tuyen-sinh.md)
 * [📸 Tạo ảnh 3x4 upload hồ sơ](huong-dan-ho-so-tuyen-sinh/tao-anh-3x4-upload-ho-so.md)
 * [🗒 Các giấy tờ cần có trong hồ sơ](huong-dan-ho-so-tuyen-sinh/cac-giay-to-can-co-trong-ho-so.md)
@@ -104,7 +105,7 @@
 
 ## THÔNG BÁO
 
-* [📑 \[Hướng dẫn\] Thí sinh tự do xét tuyển học bạ phải đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT](thong-bao/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-phai-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt.md)
+* [📑 \[Hướng dẫn\] Thí sinh tự do xét tuyển học bạ đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT](thong-bao/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt.md)
 
 ## Hướng dẫn khác
 

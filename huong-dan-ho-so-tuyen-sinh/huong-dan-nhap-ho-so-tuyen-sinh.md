@@ -35,6 +35,10 @@ coverY: 461.6742081447964
 
 **🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/index](https://namnguyenthanhwork.github.io/oulink/index)
 
+
+
+**Xem video hướng dẫn dưới đây:**
+
 {% embed url="https://www.youtube.com/watch?v=TcybXHbd540" %}
 Tham khảo đăng ký nhập học khoá 2021
 {% endembed %}

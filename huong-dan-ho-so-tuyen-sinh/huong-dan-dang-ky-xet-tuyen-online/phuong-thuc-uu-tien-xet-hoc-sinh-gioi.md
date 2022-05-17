@@ -22,9 +22,7 @@ coverY: 136.69683257918555
 
 **📌 Lệ phí xét tuyển:** miễn phí
 
-
-
-### **Bước 1: Chọn mục xét tuyển ưu tiên xét học sinh giỏi**
+## **Bước 1: Chọn mục xét tuyển ưu tiên xét học sinh giỏi**
 
 ![Bước 1: Chọn mục xét tuyển ưu tiên xét học sinh giỏi](<../../.gitbook/assets/c1 (1).PNG>)
 
@@ -34,7 +32,7 @@ coverY: 136.69683257918555
 
 ![1 bảng thông báo giới thiệu sẽ hiện ra, nhìn và đọc kỹ rồi hãy ấn tiếp tục](<../../.gitbook/assets/1 hsg.PNG>)
 
-### **Bước 2: Điền thông tin**
+## **Bước 2: Điền thông tin**
 
 {% hint style="info" %}
 **Điền thông tin**
@@ -46,7 +44,7 @@ coverY: 136.69683257918555
 
 ![Bước 2: Điền thông tin](<../../.gitbook/assets/c2 hb.PNG>)
 
-### **Bước 3: Điền thông tin cá nhân**&#x20;
+## **Bước 3: Điền thông tin cá nhân**&#x20;
 
 {% hint style="info" %}
 **Điền thông tin cá nhân gồm:**
@@ -62,7 +60,7 @@ coverY: 136.69683257918555
 
 ![Bước 3: Điền thông tin cá nhân ](<../../.gitbook/assets/c3 hsg.PNG>)
 
-### **Bước 4: điền thông tin trường**
+## **Bước 4: điền thông tin trường**
 
 {% hint style="info" %}
 **Điền thông tin trường (3 năm học cấp 3)**
@@ -136,7 +134,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![thay đổi khu vực ưu tiên](<../../.gitbook/assets/c5 hsg.PNG>)
 
-### **Bước 5: Đăng ký nguyện vọng**
+## **Bước 5: Đăng ký nguyện vọng**
 
 {% hint style="info" %}
 **Đăng ký nguyện vọng**
@@ -172,7 +170,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Hồ sơ gửi thành công, vào thư đến hoặc thư rác (spam) để kiểm tra](<../../.gitbook/assets/c8 hsg.PNG>)
 
-### Chỉnh sửa thông tin đăng ký xét học bạ
+## Chỉnh sửa thông tin đăng ký xét học bạ
 
 {% hint style="info" %}
 **Thông tin đăng ký thành công**
@@ -188,7 +186,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Chỉnh sửa và ấn lưu, khi có thông báo bên dưới là đã thành công](<../../.gitbook/assets/c11 ccnn (1).PNG>)
 
-### Khắc phục lỗi khi mail không đến sau khi đăng ký hoàn tất
+## Khắc phục lỗi khi mail không đến sau khi đăng ký hoàn tất
 
 {% hint style="info" %}
 **Khi không có email đến, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại email cho đến khi nhận được**
@@ -196,11 +194,11 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Khi không có email đến, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại email](<../../.gitbook/assets/re send.PNG>)
 
-### Đổi mail đăng ký xét tuyển khi ghi sai địa chỉ mail
+## Đổi mail đăng ký xét tuyển khi ghi sai địa chỉ mail
 
 ![Đổi mail đăng ký xét tuyển khi ghi sai địa chỉ mail](<../../.gitbook/assets/chinh email.PNG>)
 
-### Chỉnh sửa - đổi phương thức xét tuyển
+## Chỉnh sửa - đổi phương thức xét tuyển
 
 {% hint style="danger" %}
 **Trong trường hợp chọn sai phương thức xét tuyển, muốn chuyển phương thức xét tuyển thì làm theo các bước dưới đây**

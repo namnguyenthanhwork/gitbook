@@ -22,9 +22,7 @@ coverY: 306.92307692307696
 
 **📌 Lệ phí xét tuyển:** miễn phí
 
-
-
-### **Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ) có chứng chỉ ngoại ngữ**
+## **Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ) có chứng chỉ ngoại ngữ**
 
 ![Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ)](<../../.gitbook/assets/c1 (1).PNG>)
 
@@ -34,7 +32,7 @@ coverY: 306.92307692307696
 
 ![ bảng thông báo giới thiệu sẽ hiện ra, nhớ đọc kỹ rồi hãy ấn tiếp tục](../../.gitbook/assets/ccnn.PNG)
 
-### **Bước 2: Điền thông tin**
+## **Bước 2: Điền thông tin**
 
 {% hint style="info" %}
 * [x] 2.1. Điền CCCD/CMND hoặc mã định danh **(chỉ chọn 1 trong 3 thứ được đề cập)**
@@ -44,7 +42,7 @@ coverY: 306.92307692307696
 
 ![Bước 2: Điền thông tin](<../../.gitbook/assets/c2 hb.PNG>)
 
-### **Bước 3: Điền thông tin cá nhân**
+## **Bước 3: Điền thông tin cá nhân**
 
 {% hint style="info" %}
 **Điền thông tin cá nhân gồm:**
@@ -60,7 +58,7 @@ coverY: 306.92307692307696
 
 ![Bước 3: Điền thông tin cá nhân](<../../.gitbook/assets/c3 ccnn.PNG>)
 
-### **Bước 4: điền thông tin trường**
+## **Bước 4: điền thông tin trường**
 
 {% hint style="info" %}
 **Điền thông tin trường (3 năm học cấp 3)**
@@ -134,7 +132,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![thay đổi khu vực ưu tiên](<../../.gitbook/assets/c5 hsg.PNG>)
 
-### **Bước 5: Đăng ký nguyện vọng**
+## **Bước 5: Đăng ký nguyện vọng**
 
 {% hint style="info" %}
 **Đăng ký nguyện vọng**
@@ -166,7 +164,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![](<../../.gitbook/assets/fix ccnn.PNG>)
 
-### **Bước 6: Kiểm tra thông tin, sau đó ấn lưu và nộp hồ sơ**
+## **Bước 6: Kiểm tra thông tin, sau đó ấn lưu và nộp hồ sơ**
 
 {% hint style="info" %}
 **Kiểm tra thông tin, sau đó ấn lưu và nộp hồ sơ**
@@ -180,7 +178,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Hồ sơ gửi thành công, vào thư đến hoặc thư rác để kiểm tra](<../../.gitbook/assets/c9 ccnn.PNG>)
 
-### Chỉnh sửa thông tin đăng ký xét học bạ
+## Chỉnh sửa thông tin đăng ký xét học bạ
 
 {% hint style="info" %}
 **Thông tin đăng ký thành công**
@@ -196,7 +194,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Chỉnh sửa và ấn lưu, khi có thông báo bên dưới là đã thành công](<../../.gitbook/assets/c11 ccnn (1).PNG>)
 
-### Khắc phục lỗi khi mail không đến sau khi đăng ký hoàn tất
+## Khắc phục lỗi khi mail không đến sau khi đăng ký hoàn tất
 
 {% hint style="info" %}
 **Khi không có email đến, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại email cho đến khi nhận được**
@@ -204,11 +202,11 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Khi không có email đến, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại emailChin3hnh3 ](<../../.gitbook/assets/re send.PNG>)
 
-### Đổi mail đăng ký xét tuyển khi ghi sai địa chỉ mail
+## Đổi mail đăng ký xét tuyển khi ghi sai địa chỉ mail
 
 ![Đổi mail đăng ký xét tuyển khi ghi sai địa chỉ mail](<../../.gitbook/assets/chinh email.PNG>)
 
-### Chỉnh sửa - đổi phương thức xét tuyển
+## Chỉnh sửa - đổi phương thức xét tuyển
 
 {% hint style="danger" %}
 **Trong trường hợp chọn sai phương thức xét tuyển, muốn chuyển phương thức xét tuyển thì làm theo các bước dưới đây**

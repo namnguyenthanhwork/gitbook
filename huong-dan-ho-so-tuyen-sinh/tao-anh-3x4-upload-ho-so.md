@@ -32,6 +32,10 @@ coverY: 381.7194570135747
 
 **🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/index](https://namnguyenthanhwork.github.io/oulink/index)
 
+
+
+**Xem video hướng dẫn dưới đây:**
+
 {% embed url="https://www.youtube.com/watch?v=NQ5Pm7PPb6o" %}
 Hướng dẫn tạo ảnh 3x4
 {% endembed %}
