@@ -110,6 +110,14 @@ Nếu thấy công thức khó khăn, vui lòng vào[ "Công cụ tính điểm 
 [phuong-thuc-uu-tien-xet-hoc-sinh-gioi.md](huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-uu-tien-xet-hoc-sinh-gioi.md)
 {% endcontent-ref %}
 
+## Hướng dẫn chỉnh sửa - khắc phục lỗi khi đăng ký online
+
+**Ấn vào hướng dẫn bên dưới **<mark style="color:red;">**⬇**</mark>
+
+{% content-ref url="huong-dan-dang-ky-xet-tuyen-online/huong-dan-chinh-sua-khac-phuc-loi-khi-dang-ky-xet-tuyen-online.md" %}
+[huong-dan-chinh-sua-khac-phuc-loi-khi-dang-ky-xet-tuyen-online.md](huong-dan-dang-ky-xet-tuyen-online/huong-dan-chinh-sua-khac-phuc-loi-khi-dang-ky-xet-tuyen-online.md)
+{% endcontent-ref %}
+
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^
 {% endembed %}
