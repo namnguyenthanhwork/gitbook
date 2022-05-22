@@ -27,7 +27,7 @@ coverY: 136.69683257918555
 {% hint style="info" %}
 **Thông tin đăng ký thành công**
 
-**Lưu ý:** in kết quả đăng ký khi có thông báo trúng tuyển, nếu bạn có điền sai thông tin thì ấn chọn **sửa kết quả đăng ký xét tuyển**
+**Lưu ý:** in kết quả đăng ký khi có thông báo trúng tuyển, nếu bạn có điền sai thông tin, muốn chỉnh sửa hoặc thêm - bớt nguyện vọng thì ấn chọn **sửa kết quả đăng ký xét tuyển**
 {% endhint %}
 
 ![in kết quả đăng ký khi có thông báo trúng tuyển, nếu bạn có điền sai thông tin thì ấn chọn sửa kết quả đăng ký xét tuyển](<../../.gitbook/assets/c9 hsg fix.jpg>)
