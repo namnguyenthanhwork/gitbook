@@ -197,7 +197,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 ## Khắc phục lỗi khi mail không đến sau khi đăng ký hoàn tất
 
 {% hint style="info" %}
-**Khi không có email đến, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại email cho đến khi nhận được**
+**Khi không có email trường gửi sau khi bạn đã đăng ký online, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại email nhiều lần, kiểm tra lại hộp thư đến và thư rác (spam), ấn gửi cho đến khi nhận được thì dừng**
 {% endhint %}
 
 ![Khi không có email đến, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại emailChin3hnh3 ](<../../.gitbook/assets/re send.PNG>)
