@@ -30,9 +30,9 @@ coverY: 348.1900452488688
 
 🔗 **Thông tin tuyển sinh Đại học chính quy năm 2022:** [http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-](http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-)
 
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen](https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen)
+**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/tinh-diem-xet-tuyen](https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/tinh-diem-xet-tuyen)
 
-**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/index](https://namnguyenthanhwork.github.io/oulink/index)
+**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm](https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/)
 
 {% hint style="warning" %}
 Lưu ý: bạn nên chọn phương thức xét phù hợp để nâng cao tỷ lệ trúng tuyển

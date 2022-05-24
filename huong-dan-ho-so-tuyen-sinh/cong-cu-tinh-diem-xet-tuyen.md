@@ -30,9 +30,9 @@ coverY: 446.1990950226245
 
 **📌 Lệ phí xét tuyển:** miễn phí
 
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen](https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen)
+**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/tinh-diem-xet-tuyen](https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/tinh-diem-xet-tuyen)
 
-**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://namnguyenthanhwork.github.io/oulink/index](https://namnguyenthanhwork.github.io/oulink/index)
+**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm](https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/)
 
 ![Công cụ tính điểm xét tuyển (Xét học bạ & xét thi THPT)](<../.gitbook/assets/1 (1).png>)
 
@@ -42,9 +42,11 @@ coverY: 446.1990950226245
 
 ![Cách sử dụng](<../.gitbook/assets/4 (1).png>)
 
-![Cách sử dụng](../.gitbook/assets/5.png)
+**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/tinh-diem-xet-tuyen](https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/tinh-diem-xet-tuyen)
 
-**🌐** **Website tính điểm xét tuyển:** [https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html](https://namnguyenthanhwork.github.io/oulink/tinh-diem-xet-tuyen.html)
+**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm](https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/)
+
+![Cách sử dụng](../.gitbook/assets/5.png)
 
 ![Cách sử dụng](<../.gitbook/assets/6 (1).png>)
 

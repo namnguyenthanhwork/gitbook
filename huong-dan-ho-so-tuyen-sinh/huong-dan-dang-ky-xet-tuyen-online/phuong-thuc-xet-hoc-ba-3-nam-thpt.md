@@ -22,6 +22,10 @@ coverY: 283.710407239819
 
 **📌 Lệ phí xét tuyển:** miễn phí
 
+**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/tinh-diem-xet-tuyen](https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/tinh-diem-xet-tuyen)
+
+**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm](https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/)
+
 ## **Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ)**
 
 ![Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ)](<../../.gitbook/assets/c1 (1).PNG>)
