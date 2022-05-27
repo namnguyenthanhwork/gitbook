@@ -50,7 +50,7 @@ Vậy là nhờ có chiếc mail trường mà bây giờ bạn có thể thoả
 
 ![](<../.gitbook/assets/image (5).png>)
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 ![](<../.gitbook/assets/image (6).png>)
 

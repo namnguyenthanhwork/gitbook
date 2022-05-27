@@ -26,7 +26,15 @@ coverY: 283.710407239819
 
 **🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm](https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/)
 
-## **Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ)**
+## **Phương thức 6:** Xét tuyển theo kết quả học tập THPT
+
+{% hint style="success" %}
+_Điều kiện đăng ký hồ sơ:_
+
+Tổng Điểm trung bình môn học các môn trong tổ hợp xét tuyển (Điểm Đăng ký xét tuyển - không bao gồm điểm ưu tiên) phải đạt từ 18,00 điểm trở lên đối với các ngành Công nghệ sinh học (đại trà và chất lượng cao), Công tác xã hội, Xã hội học, Đông Nam Á học. Các ngành còn lại từ 20,00 điểm trở lên.
+{% endhint %}
+
+### **Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ)**
 
 ![Bước 1: Chọn mục xét tuyển theo kết quả học THPT (học bạ)](<../../.gitbook/assets/c1 (1).PNG>)
 
@@ -36,7 +44,7 @@ coverY: 283.710407239819
 
 ![1 bảng thông báo giới thiệu sẽ hiện ra, nhớ đọc kỹ rồi hãy ấn tiếp tục](../../.gitbook/assets/hb.PNG)
 
-## **Bước 2: Điền thông tin**
+### **Bước 2: Điền thông tin**
 
 {% hint style="info" %}
 **Điền thông tin**
@@ -48,7 +56,7 @@ coverY: 283.710407239819
 
 ![Bước 2: Điền thông tin](<../../.gitbook/assets/c2 hb.PNG>)
 
-## **Bước 3: Điền thông tin cá nhân**&#x20;
+### **Bước 3: Điền thông tin cá nhân**&#x20;
 
 {% hint style="info" %}
 **Điền thông tin cá nhân gồm:**
@@ -64,7 +72,7 @@ coverY: 283.710407239819
 
 ![Bước 3: Điền thông tin cá nhân](<../../.gitbook/assets/c3 hb.PNG>)
 
-## **Bước 4: điền thông tin trường**
+### **Bước 4: Điền thông tin trường**
 
 {% hint style="info" %}
 **Điền thông tin trường (3 năm học cấp 3)**
@@ -87,7 +95,7 @@ coverY: 283.710407239819
   2. **Nhóm ưu tiên 2 (UT2) gồm các đối tượng: Được cộng 1 điểm**
      * **Đối tượng 06**
      * **Đối tượng 07**
-* [x] Mục thay đổi khu vực ưu tiên theo hộ gia đình có nên tick hay không thì xin vui lòng đọc quy chế tuyển sinh được để bên dưới, **đọc kỹ Điều 7 khoản 4 điểm b của quy chế tuyển sinh (xem bên dưới)**
+* [x] Mục thay đổi khu vực ưu tiên theo hộ gia đình có nên tick hay không thì xin vui lòng đọc quy chế tuyển sinh được để bên dưới, **đọc kỹ Điều 7 khoản 4 điểm b của quy chế tuyển sinh (xem bên dưới). Nếu cảm thấy rắc rối thì nên chọn theo khu vực trường (hệ thống đã chọn sẵn) để chắc chắn không bị sai.**
 {% endhint %}
 
 > <mark style="color:red;">**Đọc khu vực ưu tiên - Đối tượng ưu tiên ở bên dưới (ấn chọn)**</mark>
@@ -138,7 +146,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![thay đổi khu vực ưu tiên theo hộ gia đình](<../../.gitbook/assets/c5 hsg.PNG>)
 
-## **Bước 5: Đăng ký nguyện vọng**
+### **Bước 5: Đăng ký nguyện vọng**
 
 {% hint style="info" %}
 **Đăng ký nguyện vọng**
@@ -154,7 +162,7 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 **Lưu ý:** điểm trung bình ở trên là điểm trung bình của cả năm 10 11 và hk1 năm 12. Tổng điểm chỉ là tổng điểm trung bình của 3 môn đó **(chưa áp dụng công thức, chưa nhân hệ số và chưa cộng điểm ưu tiên). Khi có kết quả trúng tuyển thì mới áp dụng công thức.**
 
-## **Bước 6: Kiểm tra thông tin, sau đó ấn lưu và nộp hồ sơ**
+### **Bước 6: Kiểm tra thông tin, sau đó ấn lưu và nộp hồ sơ**
 
 {% hint style="info" %}
 **Kiểm tra thông tin, sau đó ấn lưu và nộp hồ sơ**
@@ -168,7 +176,9 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Hồ sơ gửi thành công, vào thư đến hoặc thư rác để kiểm tra](<../../.gitbook/assets/c7 hb.PNG>)
 
-## Chỉnh sửa thông tin đăng ký xét học bạ
+## Hướng dẫn chỉnh sửa - khắc phục lỗi khi đăng ký online
+
+### 1. Chỉnh sửa thông tin đăng ký xét học bạ
 
 {% hint style="info" %}
 **Thông tin đăng ký thành công**
@@ -184,7 +194,13 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Chỉnh sửa và ấn lưu, khi có thông báo bên dưới là đã thành công](<../../.gitbook/assets/c11 ccnn (1).PNG>)
 
-## Khắc phục lỗi khi mail không đến sau khi đăng ký hoàn tất
+### 2. Xem lại ảnh CMND/CCCD sau khi upload lên website
+
+{% hint style="info" %}
+Khi bạn upload hình lên website thì hãy chắc chắn hình đó là hình CMND/CCCD. Vì hệ thống không cho bạn xem lại hình nhé.
+{% endhint %}
+
+### 3. Khắc phục lỗi khi mail không đến sau khi đăng ký hoàn tất
 
 {% hint style="info" %}
 **Khi không có email trường gửi sau khi bạn đã đăng ký online, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại email nhiều lần, kiểm tra lại hộp thư đến và thư rác (spam), ấn gửi cho đến khi nhận được thì dừng**
@@ -192,11 +208,11 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Khi không có email đến, kiểm tra không có, vui lòng vào lại web xét tuyển, ấn gửi lại email](<../../.gitbook/assets/re send.PNG>)
 
-## Đổi mail đăng ký xét tuyển khi ghi sai địa chỉ mail
+### 4. Đổi mail đăng ký xét tuyển khi ghi sai địa chỉ mail
 
 ![Đổi mail đăng ký xét tuyển khi ghi sai địa chỉ mail](<../../.gitbook/assets/chinh email.PNG>)
 
-## Chỉnh sửa - đổi phương thức xét tuyển
+### 5. Chỉnh sửa - đổi phương thức xét tuyển
 
 {% hint style="danger" %}
 **Trong trường hợp chọn sai phương thức xét tuyển, muốn chuyển phương thức xét tuyển thì làm theo các bước dưới đây**
@@ -210,9 +226,15 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Bước 2: lấy email đã đăng ký xét online, gửi mail đến duy.nhv@ou.edu.vn với nội dung như trong hình](<../../.gitbook/assets/b2 sua pt xet tuyen.PNG>)
 
+### 6. Chỉnh sửa - đổi CMND sang CCCD
+
 {% hint style="info" %}
-**Sau khi gửi xong, bạn đợi ban tuyển sinh phản hồi lại, khi có phản hồi thành công thì bạn có thể thực hiện đăng ký xét tuyển online lại như ban đầu (Đọc lại hướng dẫn này để đăng ký cho chính xác nhé)**
+**Làm các bước tương tự như cách đổi phương thức xét tuyển. Các bạn forward (chuyển tiếp) mail đăng ký thành công và chuyển tiếp đến **_<mark style="color:red;">**duy.nhv@ou.edu.vn**</mark>** hoặc **<mark style="color:red;">**tuyensinh@ou.edu.vn**</mark>_**. Đổi nội dung yêu cầu chỉnh sửa phương thức xét tuyển thành nội dung đổi từ cmnd sang cccd, viết lịch sự và phù hợp và gửi là hoàn tất.**
 {% endhint %}
+
+****
+
+> **Sau khi gửi xong, bạn đợi ban tuyển sinh phản hồi lại, khi có phản hồi thành công thì bạn có thể thực hiện đăng ký xét tuyển online lại như ban đầu (Đọc lại hướng dẫn này để đăng ký cho chính xác nhé)**
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^

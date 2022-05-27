@@ -94,7 +94,7 @@ coverY: 330.13574660633486
 
 ### **10. Bản photo CMND/CCCD** (bắt buộc);
 
-![Giấy CMND/CCCD](<../.gitbook/assets/image (15) (1).png>)
+![Giấy CMND/CCCD](<../.gitbook/assets/image (15) (1) (1).png>)
 
 ### **11. Biên lai đóng học phí học kỳ I,** năm học 2021 – 2022 (bản in hoặc photo);
 
