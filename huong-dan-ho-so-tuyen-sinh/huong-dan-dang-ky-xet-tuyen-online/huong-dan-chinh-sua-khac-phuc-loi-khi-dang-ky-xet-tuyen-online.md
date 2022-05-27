@@ -42,6 +42,10 @@ coverY: 136.69683257918555
 
 ![Chỉnh sửa và ấn lưu, khi có thông báo bên dưới là đã thành công](<../../.gitbook/assets/c11 ccnn (1).PNG>)
 
+## Xem lại ảnh CMND/CCCD sau khi upload lên website
+
+Khi bạn upload hình lên website thì hãy chắc chắn hình đó là hình CMND/CCCD. Vì hệ thống không cho bạn xem lại hình nhé.
+
 ## Khắc phục lỗi khi mail không đến sau khi đăng ký hoàn tất
 
 {% hint style="info" %}
@@ -68,9 +72,27 @@ coverY: 136.69683257918555
 
 ![Bước 2: lấy email đăng ký xét online, gửi mail đến duy.nhv@ou.edu.vn với nội dung như trong hình](<../../.gitbook/assets/b2 sua pt xet tuyen.PNG>)
 
+## Chỉnh sửa - đổi CMND sang CCCD
+
+**Làm các bước tương tự như cách đổi phương thức xét tuyển. Các bạn forward (chuyển tiếp) mail đăng ký thành công và chuyển tiếp đến **_<mark style="color:red;">**duy.nhv@ou.edu.vn**</mark>** hoặc **<mark style="color:red;">**tuyensinh@ou.edu.vn**</mark>_**. Đổi nội dung yêu cầu chỉnh sửa phương thức xét tuyển thành nội dung đổi từ cmnd sang cccd, viết lịch sự và phù hợp và gửi là hoàn tất.**
+
+**-------------------------------------**
+
 {% hint style="info" %}
-**Sau khi gửi xong, bạn đợi ban tuyển sinh phản hồi lại, khi có phản hồi thành công thì bạn có thể thực hiện đăng ký xét tuyển online lại như ban đầu (Đọc lại hướng dẫn này để đăng ký cho chính xác nhé)**
+**Sau khi gửi xong, bạn đợi ban tuyển sinh phản hồi lại, khi có phản hồi thành công thì bạn có thể thực hiện đăng ký xét tuyển online lại như ban đầu. Bạn tham khảo hướng dẫn đăng ký các phương thức dưới đây cho phù hợp nhé !**
 {% endhint %}
+
+{% content-ref url="phuong-thuc-xet-hoc-ba-3-nam-thpt.md" %}
+[phuong-thuc-xet-hoc-ba-3-nam-thpt.md](phuong-thuc-xet-hoc-ba-3-nam-thpt.md)
+{% endcontent-ref %}
+
+{% content-ref url="phuong-thuc-xet-hoc-ba-3-nam-thpt-co-chung-chi-ngoai-ngu.md" %}
+[phuong-thuc-xet-hoc-ba-3-nam-thpt-co-chung-chi-ngoai-ngu.md](phuong-thuc-xet-hoc-ba-3-nam-thpt-co-chung-chi-ngoai-ngu.md)
+{% endcontent-ref %}
+
+{% content-ref url="phuong-thuc-uu-tien-xet-hoc-sinh-gioi.md" %}
+[phuong-thuc-uu-tien-xet-hoc-sinh-gioi.md](phuong-thuc-uu-tien-xet-hoc-sinh-gioi.md)
+{% endcontent-ref %}
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^
