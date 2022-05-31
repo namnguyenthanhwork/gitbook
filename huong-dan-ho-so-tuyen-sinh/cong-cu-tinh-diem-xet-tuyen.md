@@ -30,9 +30,9 @@ coverY: 446.1990950226245
 
 **📌 Lệ phí xét tuyển:** miễn phí
 
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/tinh-diem-xet-tuyen](https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/tinh-diem-xet-tuyen)
+**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://ou-community.vercel.app/tinh-diem-xet-tuyen.html](https://ou-community.vercel.app/tinh-diem-xet-tuyen.html)
 
-**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm](https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/)
+**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://ou-community.vercel.app](https://ou-community.vercel.app/)
 
 ![Công cụ tính điểm xét tuyển (Xét học bạ & xét thi THPT)](<../.gitbook/assets/1 (1).png>)
 
@@ -42,9 +42,9 @@ coverY: 446.1990950226245
 
 ![Cách sử dụng](<../.gitbook/assets/4 (1).png>)
 
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/tinh-diem-xet-tuyen](https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/tinh-diem-xet-tuyen)
+**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://ou-community.vercel.app/tinh-diem-xet-tuyen.html](https://ou-community.vercel.app/tinh-diem-xet-tuyen.html)
 
-**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm](https://oucommunity.github.io/sinh-vien-dai-hoc-mo-tphcm/)
+**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://ou-community.vercel.app](https://ou-community.vercel.app/)
 
 ![Cách sử dụng](../.gitbook/assets/5.png)
 
