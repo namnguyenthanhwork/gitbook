@@ -30,9 +30,9 @@ coverY: 348.1900452488688
 
 🔗 **Thông tin tuyển sinh Đại học chính quy năm 2022:** [http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-](http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-)
 
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://ou-community.vercel.app/tinh-diem-xet-tuyen.html](https://ou-community.vercel.app/tinh-diem-xet-tuyen.html)
+**🌐** **Website tính điểm xét tuyển (tham khảo):** [**https://oucommunity.vercel.app/tinh-diem-xet-tuyen**](https://oucommunity.vercel.app/tinh-diem-xet-tuyen)****
 
-**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://ou-community.vercel.app](https://ou-community.vercel.app/)
+**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [**https://oucommunity.vercel.app/**](https://oucommunity.vercel.app/)****
 
 {% hint style="warning" %}
 Lưu ý: bạn nên chọn phương thức xét phù hợp để nâng cao tỷ lệ trúng tuyển

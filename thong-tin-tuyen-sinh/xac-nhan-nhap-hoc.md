@@ -28,9 +28,9 @@ coverY: 309.50226244343895
 
 **📌 Lệ phí xét tuyển:** miễn phí
 
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://ou-community.vercel.app/tinh-diem-xet-tuyen.html](https://ou-community.vercel.app/tinh-diem-xet-tuyen.html)
+**🌐** **Website tính điểm xét tuyển (tham khảo):** [**https://oucommunity.vercel.app/tinh-diem-xet-tuyen**](https://oucommunity.vercel.app/tinh-diem-xet-tuyen)****
 
-**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://ou-community.vercel.app](https://ou-community.vercel.app/)
+**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [**https://oucommunity.vercel.app/**](https://oucommunity.vercel.app/)****
 
 **Trong những năm gần đây, thí sinh xét tuyển được lựa chọn nhiều hình thức xét tuyển như xét tuyển bằng học bạ, điểm kì thi ĐGNL, UTXT, điểm thi kì thi THPTQG,... và một số hình thức khác. Tuy nhiên, thời gian nhập học của các phương thức trên đều có trước kết quả trúng tuyển bằng hình thức xét tuyển điểm thi THPTQ**
 

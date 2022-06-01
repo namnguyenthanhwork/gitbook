@@ -28,9 +28,9 @@ coverY: 278.552036199095
 
 **📌 Lệ phí xét tuyển:** miễn phí
 
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [https://ou-community.vercel.app/tinh-diem-xet-tuyen.html](https://ou-community.vercel.app/tinh-diem-xet-tuyen.html)
+**🌐** **Website tính điểm xét tuyển (tham khảo):** [**https://oucommunity.vercel.app/tinh-diem-xet-tuyen**](https://oucommunity.vercel.app/tinh-diem-xet-tuyen)****
 
-**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [https://ou-community.vercel.app](https://ou-community.vercel.app/)
+**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [**https://oucommunity.vercel.app/**](https://oucommunity.vercel.app/)****
 
 ### **Thông tin tuyển sinh Đại học chính quy năm 2022**
 
