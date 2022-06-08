@@ -50,7 +50,7 @@ coverY: 330.13574660633486
 
 ## **C**ác giấy tờ cần chuẩn bị
 
-### 1. Giấy chứng nhận kết quả thi THPT năm 2022 (**bản chính - Bắt buộc đối với thí sinh tham gia kỳ thi Tốt nghiệp THPT 2022, bao gồm thí sinh tự do có đăng ký tham dự kỳ thi năm nay**)
+### 1. Giấy chứng nhận kết quả thi THPT năm 2022 (<mark style="color:red;">**bản chính**</mark>** - Bắt buộc đối với thí sinh tham gia kỳ thi Tốt nghiệp THPT 2022, bao gồm thí sinh tự do có đăng ký tham dự kỳ thi năm nay**)
 
 ![Giấy chứng nhận kết quả thi THPT năm 2022](<../.gitbook/assets/image (16) (1).png>)
 
@@ -64,19 +64,19 @@ coverY: 330.13574660633486
 
 ![Giấy kết quả trúng tuyển & thanh toán](<../.gitbook/assets/image (7) (1).png>)
 
-### **4. Phiếu đăng ký xét tuyển/ưu tiên xét tuyển** (in ra từ thư xác nhận nộp hồ sơ xét tuyển của trường hoặc từ trang tra cứu: [http://xettuyen.ou.edu.vn/hb2021d1/ketqua](https://l.facebook.com/l.php?u=http%3A%2F%2Fxettuyen.ou.edu.vn%2Fhb2021d1%2Fketqua%3Ffbclid%3DIwAR0oP5YV1K0d4WGWtAOe6R32NBwPGVSiNUovkkrb2tJfnf-n-TQ-OrBGHUE\&h=AT14OJjxZFPIpzX4G6SJLRwt8w8vf\_MaGexXbtvIexcWvnCX-zPr47zAPv\_DODJepeL280a3OoJ77qyKphBhov3RZWFOSnOREM26X4lsY1zDTS4ivrUWYaz2w2EKpm6ED3Lw&\_\_tn\_\_=-UK-R\&c\[0]=AT03unkiNDxYd3IQ7nZtC6a\_p8BW1ZIf8cCA4KKNZazSAKb-I6F2bTENRb6moigkPXWWNDZ7ixUnBYYOoWLKIuTJx6bEh6miHF-fux4DTS7m72X1YeyMaV6tI71XLOQ7uHIHqDDoP0I68XBXIUPdZppaOVjCQjHX-sE)
+### **4. Phiếu đăng ký xét tuyển/ưu tiên xét tuyển** (in ra từ thư xác nhận nộp hồ sơ xét tuyển của trường hoặc từ trang tra cứu). <mark style="color:red;">Ký tên cuối phiếu</mark>
 
 ![Giấy xét tuyển](<../.gitbook/assets/image (11) (1) (1).png>)
 
-### **5. Học bạ** (3 bản - đầy đủ thông tin 3 năm học THPT);
+### **5. Học bạ** (<mark style="color:red;">3 bản sao công chứng</mark> - đầy đủ thông tin 3 năm học THPT - 6 học kỳ);
 
 ![Học bạ (công chứng)](<../.gitbook/assets/image (6) (1).png>)
 
-### **6. Giấy khai sinh** (1 bản);
+### **6. Giấy khai sinh** (<mark style="color:red;">1 bản sao công chứng</mark>)
 
 ![Giấy khai sinh (bản sao hoặc photo công chứng)](<../.gitbook/assets/image (13) (1).png>)
 
-### **7. Các minh chứng để được hưởng chế độ ưu tiên quy định trong văn bản hướng dẫn của Bộ Giáo dục và Đào tạo** (các giấy tờ xác nhận đối tượng và khu vực ưu tiên, hộ khẩu...). Link minh chứng: [http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu...](https://l.facebook.com/l.php?u=http%3A%2F%2Ftuyensinh.ou.edu.vn%2Fhd-chuan-bi-mc-huong-che-do-uu-tien-2021%3Ffbclid%3DIwAR2Cq06lqGz4Yk3qr2GUmEkCBbUnqFmPVX89kDGi663L3BlIWiM45XuDWMU\&h=AT1MQeqIYsUQm9u2kAgoZGgVhmYpAPtKngFAT5IPmqjMjVknX\_tHEI7D485iUdF9Z1qjS\_1H1Ijzx3Un3gNQXp5BA5g1gPhhEmUIbX1lvLPs3jZISqw--DRZtStwAS1jH5XB&\_\_tn\_\_=-UK-R\&c\[0]=AT03unkiNDxYd3IQ7nZtC6a\_p8BW1ZIf8cCA4KKNZazSAKb-I6F2bTENRb6moigkPXWWNDZ7ixUnBYYOoWLKIuTJx6bEh6miHF-fux4DTS7m72X1YeyMaV6tI71XLOQ7uHIHqDDoP0I68XBXIUPdZppaOVjCQjHX-sE)
+### **7. Các minh chứng để được hưởng chế độ ưu tiên quy định trong văn bản hướng dẫn của Bộ Giáo dục và Đào tạo** (các giấy tờ xác nhận đối tượng và khu vực ưu tiên, hộ khẩu...). <mark style="color:red;">Bản sao công chứng</mark> Link minh chứng: [http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu-tien-2021](http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu-tien-2021)
 
 {% hint style="info" %}
 **Lưu ý: Các giấy tờ tại mục 2, 5, 6, 7 là bản sao y chứng thực.**
@@ -100,9 +100,9 @@ coverY: 330.13574660633486
 
 ![Biên lai](<../.gitbook/assets/image (12) (1).png>)
 
-### **12. Bản sao công chứng chứng chỉ Ngoại ngữ/Tin học** đối với thí sinh được miễn thi Ngoại ngữ, Tin học;
+### **12. **<mark style="color:red;">**Bản sao công chứng**</mark>** chứng chỉ Ngoại ngữ/Tin học** đối với thí sinh được miễn thi Ngoại ngữ, Tin học;
 
-Link tham khảo: [http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet...](https://l.facebook.com/l.php?u=http%3A%2F%2Ftuyensinh.ou.edu.vn%2Fhuong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc%3Ffbclid%3DIwAR3y5kKWDHPukkbKPNcjXdokO1D1Jv5q1oSdp2LFR5v5m-KvHx21A6Pb4vo\&h=AT2MVExixw9\_MBmYqAeoy94wYgSNy7ZI7i\_QYWHvzoXXJCoxwpTgjTNZ7X4Oq4SG1YVY6KyNpZRUDzkwAT3Bb4jYpjE6SGDSFN9s9zAFMQPWaUOzylxhdMjpzXVRvNWcrpag&\_\_tn\_\_=-UK-R\&c\[0]=AT03unkiNDxYd3IQ7nZtC6a\_p8BW1ZIf8cCA4KKNZazSAKb-I6F2bTENRb6moigkPXWWNDZ7ixUnBYYOoWLKIuTJx6bEh6miHF-fux4DTS7m72X1YeyMaV6tI71XLOQ7uHIHqDDoP0I68XBXIUPdZppaOVjCQjHX-sE)
+Link tham khảo: [http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc](http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc)
 
 ![Chứng chỉ tin học văn phòng (minh hoạ)](<../.gitbook/assets/image (8).png>)
 
@@ -116,13 +116,7 @@ Link tham khảo: [http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet...]
 
 **Email phòng quản lý đào tạo:** quanlydaotao@ou.edu.vn
 
-**Sđt hotline:**
-
-* 1800 5858 84
-* (028).39207627
-* 08.39300072
-* 028.39207626
-* 028.39207639
+**Sđt hotline:** 1800 5858 84
 
 **Thời gian làm việc:** từ thứ 2 - thứ 6 (8h - 17h)
 
