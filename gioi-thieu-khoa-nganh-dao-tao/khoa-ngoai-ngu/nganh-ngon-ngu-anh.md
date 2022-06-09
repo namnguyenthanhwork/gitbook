@@ -47,7 +47,7 @@ trong 4 năm đối với thời lượng học trung bình. Tuy nhiên, với 3
 ## Cơ hội việc làm
 
 {% hint style="success" %}
-**Chuyên ngành Phương pháp giảng dạy:** Sinh viên tốt nghiệp làm việc tại các trường Đại học, cao đẳng, trung cấp, các trường Phổ thông trung học, các trung tâm ngoại ngữ, có đầy đủcác điều kiện để tham gia tuyển dụng tại các Sở giáo dục và đào tạo các tỉnh thành trong nước và các nước, trong khu vực Đông Nam Á, Châu Á.
+**Chuyên ngành Phương pháp giảng dạy:** Sinh viên tốt nghiệp làm việc tại các trường Đại học, cao đẳng, trung cấp, các trường Phổ thông trung học, các trung tâm ngoại ngữ, có đầy đủ các điều kiện để tham gia tuyển dụng tại các Sở giáo dục và đào tạo các tỉnh thành trong nước và các nước trong khu vực Đông Nam Á, Châu Á.
 
 * **Vị trí việc làm 1:** Giáo viên tiếng Anh trực tiếp giảng dạy (bậc trung học phổ thông, trung tâm Anh ngữ)
 * **Vị trí việc làm 2:** Trợ giảng (hệ thống trường THPT quốc tế và trung tâm Anh ngữ)
