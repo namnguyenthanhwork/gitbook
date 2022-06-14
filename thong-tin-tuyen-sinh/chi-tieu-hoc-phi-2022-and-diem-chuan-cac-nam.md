@@ -48,9 +48,13 @@ coverY: 330.13574660633486
 
 <mark style="color:yellow;">**Lưu ý:**</mark>
 
-1. Chỉ có cột điểm học bạ là <mark style="color:red;">học sinh giỏi & học sinh khá có thể xét</mark>
-2. Chỉ có cột điểm học sinh giỏi là <mark style="color:red;">học sinh giỏi mới được xét, học sinh khá không được xét</mark>
+1. Phương thức HSG (HSG 3 năm cấp 3) <mark style="color:red;">có thể xét tất cả các ngành (1 số ngành có cột điểm hsg là ngoài yêu cầu HSG thì phải đạt điểm chuẩn HSG trở lên)</mark>
+2. Thí sinh không được HSG và không có CCNN thì chỉ <mark style="color:red;">được phép đăng ký các ngành trừ những ngành có cột điểm HSG hoặc có ghi chú "chỉ nhận HSG & CCNN"</mark>
 3. Nếu cột học sinh giỏi không có ghi, cột học bạ điền dấu "x" hoặc không điền gì, <mark style="color:red;">nghĩa là tuyển thẳng học sinh giỏi</mark>
+4. Nếu HSG (cả năm 10 11 hk1 12) <mark style="color:red;">nên chọn phương thức 4</mark>
+5. Nếu có chứng chỉ ngoại ngữ <mark style="color:red;">nên chọn phương thức 5</mark>
+6. Nếu không được HSG hay không có CCNN <mark style="color:red;">nên chọn phương thức 6</mark>
+7. Nếu HSG mà có CCNN <mark style="color:red;">nên chọn phương thức 4 và điền thêm mục có CCNN</mark>
 
 ### Học phí 1 năm (dự kiến)
 
