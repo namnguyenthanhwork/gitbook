@@ -1,5 +1,5 @@
 ---
-description: Thông tin tuyển sinh được tổng hợp bởi "Thành Nam Nguyễn"
+description: 👉 Thiết kế và tổng hợp bởi "Thành Nam Nguyễn"
 cover: .gitbook/assets/banner mẫu 2.png
 coverY: 219.23076923076923
 ---
