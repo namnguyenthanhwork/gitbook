@@ -32,16 +32,16 @@ coverY: 299.18552036199094
 
 **🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [**https://oucommunity.vercel.app/**](https://oucommunity.vercel.app/)****
 
+****
+
 {% hint style="info" %}
 **CHUYÊN MỤC Q\&A ĐỂ GIẢI ĐÁP CÁC THẮC MẮC CỦA CÁC BẠN**
-
-Sau đây là 1 số câu thắc mắc cơ bản của các bạn. Các b có thể check điểm của mình tại [https://xettuyen.ou.edu.vn/hb2021d1/vi/ketqua](https://xettuyen.ou.edu.vn/hb2021d1/vi/ketqua?fbclid=IwAR07EGsfk8\_7IQR6zbxW7i5bv51lUXY1RWKde1qt5h8d4UdTbtGLa4-OL\_w)
 
 1. **Xác nhận nhập học** bằng hình thức **Đăng ký nhập học trực tuyến (dự kiến) từ ngày 20/7 đến hết ngày 03/8/2021**. Xác nhận nhập học nhằm chắc chắn b đã là sv ou, nếu trong thời gian này b k xác nhận tức là b chấp nhận rớt ou **(Lưu ý đây chỉ là thời gian dự kiến, có thể thay đổi trong tương lai)**
 2. Thí sinh **Nhập học chính thức (dự kiến) từ ngày 02/8 đến hết ngày 04/8 tại cơ sở 97 Võ Văn Tần, P.VTS, Q.3, Tp.HCM** hoặc có thể **nộp hồ sơ qua đường Bưu điện**. Sau khi xác nhận nhập học r thì trong khoảng thời gian ở mục 2 sẽ lên trường trực tiếp tiếp nhận hồ sơ + đóng học phí + tư vấn giải đáp thắc mắc + khám sức khoẻ. Nếu nhà xa thì có thể tự canh thời gian để đi or gửi hồ sơ về bưu điện. **Thời gian trên là dự kiến như mục 1**
 3. Sau khi điểm tra mình có đậu hay chưa bằng cmnd/cccd của các b, ở trên cột đạt lại có **"LOẠI HỌC BỔNG"** chúc mừng các bạn rơi vào ô **"LỤM TIỀN"** đó chính là học bổng mà các b sẽ được nhận vì điểm của các b đủ tiêu chuẩn. Có 6 lv học bổng **(50%, 70%, 100%, 1 năm, 4 năm, và thủ khoa ngành + bonus 150% học phí năm 1). Các b nên mở stk nam á (BẮT BUỘC, có thể đông á or agribank)** trước đi khi nhập học mình điền vào, sau 1 khoảng thời gian **"dàiiii để húp đc số tiền đó, khoảng vài tháng, xu thì nửa năm"** tiền sẽ tự động chuyển về bank. Lưu ý stk đứng tên của mình, khi các bạn nhận hbts thì các b sẽ k đc nhận hb khuyến khích hk1 năm 1 (loại 50, 70, 100%) vì nó ghi b đã nhận hbts r, còn loại 1,4 thủ khoa ngành thì có lẽ cũng y v, 1 năm thì trong năm 1 sẽ k đc nhận hbkk (_**mình đoán thế tại mình có hb loại đó đâu mà biết :))**_
 4. Tất cả Học sinh Giỏi và thí sinh ưu tiên xét tuyển chứng chỉ ngoại ngữ đủ điều kiện sẽ auto đậu không cần qt đến điểm số
-5. Ngành Marketing, Kinh doanh quốc tế, Logistics và Quản lý chuỗi cung ứng yêu cầu hsg + điểm sàn mới đc đậu
+5. Ngành Marketing, Kinh doanh quốc tế, Logistics và Quản lý chuỗi cung ứng yêu cầu hsg + điểm chuẩn mới đc đậu
 6. Đối với các ngành có điểm thành phần nhân hệ số: Điểm chuẩn được quy về hệ điểm 30. Điểm xét tuyển được xác định như sau (làm tròn 2 chữ số thập phân).
 7. Điểm trong phiếu in là điểm tổng cả 3 môn còn điểm trong kq trúng tuyển là điểm đã áp dụng công thức nên mới có sự chênh lệch chứ k phải sai sót nhé.
 8. Nếu các bạn muốn **chuyển ngành** thì phải đợi xong 1 học kỳ và phải đạt yêu cầu chuyển ngành\
