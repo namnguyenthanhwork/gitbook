@@ -8,6 +8,16 @@ coverY: 245.02262443438914
 
 # 📑 \[Hướng dẫn] Thí sinh tự do xét tuyển học bạ đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT
 
+{% hint style="danger" %}
+**Lưu ý:** để thông tin sổ tay bạn nắm được luôn mới nhất, **sau khi truy cập vào sổ tay này, bạn vui lòng ấn F5 hoặc nút tải lại trang để cập nhật thông tin mới nhất** (vì sổ tay thường xuyên chỉnh sửa nên yêu cầu phải refesh để cập nhật, nếu không thì bạn vẫn đang ở phiên bản cũ, khi đọc có thể sai sót). <mark style="color:red;">**Bạn có thể đọc hướng dẫn cách tải lại trang web ở bên dưới.**</mark> Xin cảm ơn !!!
+{% endhint %}
+
+{% content-ref url="../huong-dan-khac/huong-dan-tai-lai-trang-so-tay-sinh-vien-ou.md" %}
+[huong-dan-tai-lai-trang-so-tay-sinh-vien-ou.md](../huong-dan-khac/huong-dan-tai-lai-trang-so-tay-sinh-vien-ou.md)
+{% endcontent-ref %}
+
+
+
 ❗ **** Để thuận tiện trong công tác xét tuyển sinh, các bạn nên tạo tài khoản xét tuyển <mark style="color:red;">**(bắt buộc)**</mark>** ** trên hệ thống của Bộ GD&ĐT bằng cách nộp hồ sơ.&#x20;
 
 ![⌚](https://static.xx.fbcdn.net/images/emoji.php/v9/tfa/1/16/231a.png) **Thời gian mở đăng ký:** Từ ngày 12/07 đến ngày 18/07
@@ -29,23 +39,39 @@ coverY: 245.02262443438914
 ### ⚠ NHỮNG ĐIỂM CẦN LƯU Ý
 
 {% hint style="info" %}
-**1.**Trước khi khai phiếu đăng ký dự thi (ĐKDT), thí sinh phải đọc kỹ các mục và bản **HƯỚNG DẪN GHI PHIẾU**, những điểm nào chưa rõ thí sinh phải hỏi cán bộ tiếp nhận ĐKDT để được hướng dẫn đầy đủ. Thí sinh phải hoàn toàn chịu trách nhiệm về thông tin khai trong Phiếu ĐKDT.
+**1.**
+
+Trước khi khai phiếu đăng ký dự thi (ĐKDT), thí sinh phải đọc kỹ các mục và bản **HƯỚNG DẪN GHI PHIẾU**, những điểm nào chưa rõ thí sinh phải hỏi cán bộ tiếp nhận ĐKDT để được hướng dẫn đầy đủ. Thí sinh phải hoàn toàn chịu trách nhiệm về thông tin khai trong Phiếu ĐKDT.
 {% endhint %}
 
 {% hint style="info" %}
-**2. Thí sinh đang học lớp 12** thực hiện khai thông tin ĐKDT trực tuyến theo tài khoản được cấp trên Hệ thống phần mềm Quản lý thi. Sau khi hoàn thành rà soát và xác nhận theo thời hạn ĐKDT quy định, Trường THPT nơi thí sinh đang học in Phiếu ĐKDT, Phiếu số 1, Phiếu số 2 và ký tên, đóng một dấu có phần giáp lai lên ảnh của Phiếu ĐKDT để xác nhận nhân thân thính.
+**2.**&#x20;
+
+**Thí sinh đang học lớp 12** thực hiện khai thông tin ĐKDT trực tuyến theo tài khoản được cấp trên Hệ thống phần mềm Quản lý thi. Sau khi hoàn thành rà soát và xác nhận theo thời hạn ĐKDT quy định, Trường THPT nơi thí sinh đang học in Phiếu ĐKDT, Phiếu số 1, Phiếu số 2 và ký tên, đóng một dấu có phần giáp lai lên ảnh của Phiếu ĐKDT để xác nhận nhân thân thính.
 {% endhint %}
 
 {% hint style="info" %}
-**3. Thí sinh tự do** khai thông tin cần thiết trên bì đựng Phiếu ĐKDT, Phiếu số 1 và Phiếu số 2 **(thông tin phải giống nhau ở tất cả các mục tương ứng trên bì, Phiếu số 1 và Phiếu số 2)** rồi nộp cho nơi tiếp nhận đăng ký dự thi kèm theo bản sao (photocopy) 2 mặt CMNN/CCCD trên 1 mặt của tờ giấy A4 và 2 ảnh cỡ 4x6 kiểu chân dung, mới chụp trong vòng 6 tháng (có ghi rõ họ và tên, ngày, tháng, năm sinh, vào mặt sau tấm ảnh, 2 ảnh này đựng trong một phong bì nhỏ). Ngoài ra, phải dán thêm 1 ảnh vào vị trí đã xác định ở mặt trước túi đựng Phiếu ĐKDT. Công an xã phường nơi thí sinh tự do đang cư trú ký tên và đóng một dấu có phần giáp lai lên ảnh của Phiếu ĐKDT để xác nhận nhân thân thí sinh. Người đã có bằng tốt nghiệp THPT hoặc có bằng tốt nghiệp trung cấp dự thi để lấy kết quả thi tốt nghiệp THPT làm cơ sở để đăng ký xét tuyển sinh ĐH, CĐ phải điền tất cả các mục trên Phiếu. Người có bằng tốt nghiệp THPT hoặc có bằng tốt nghiệp trung cấp đăng ký nguyện vọng để xét tuyển bằng phương thức khác với phương thức xét tuyển bằng kết quả thi tốt nghiệp THPT phải khai từ mục 1 đến mục 11 và mục 13 trên Phiếu.
+**3.**&#x20;
+
+**Thí sinh tự do** khai thông tin cần thiết trên bì đựng Phiếu ĐKDT, Phiếu số 1 và Phiếu số 2 **(thông tin phải giống nhau ở tất cả các mục tương ứng trên bì, Phiếu số 1 và Phiếu số 2)** rồi nộp cho nơi tiếp nhận đăng ký dự thi kèm theo bản sao (photocopy) 2 mặt CMNN/CCCD trên 1 mặt của tờ giấy A4 và 2 ảnh cỡ 4x6 kiểu chân dung, mới chụp trong vòng 6 tháng (có ghi rõ họ và tên, ngày, tháng, năm sinh, vào mặt sau tấm ảnh, 2 ảnh này đựng trong một phong bì nhỏ).&#x20;
+
+Ngoài ra, phải dán thêm 1 ảnh vào vị trí đã xác định ở mặt trước túi đựng Phiếu ĐKDT. Công an xã phường nơi thí sinh tự do đang cư trú ký tên và đóng một dấu có phần giáp lai lên ảnh của Phiếu ĐKDT để xác nhận nhân thân thí sinh.&#x20;
+
+Người đã có bằng tốt nghiệp THPT hoặc có bằng tốt nghiệp trung cấp dự thi để lấy kết quả thi tốt nghiệp THPT làm cơ sở để đăng ký xét tuyển sinh ĐH, CĐ phải điền tất cả các mục trên Phiếu.&#x20;
+
+Người có bằng tốt nghiệp THPT hoặc có bằng tốt nghiệp trung cấp đăng ký nguyện vọng để xét tuyển bằng phương thức khác với phương thức xét tuyển bằng kết quả thi tốt nghiệp THPT phải khai từ mục 1 đến mục 11 và mục 13 trên Phiếu.
 {% endhint %}
 
 {% hint style="info" %}
-4\. Nơi tiếp nhận ĐKDT giữ lại bì đựng Phiếu ĐKDT, Phiếu số 1, bản sao (photocopy) CCCD/CMND và 2 ảnh, trả lại Phiếu số 2 cho thí sinh sau khi đã ký và đóng dấu xác nhận.
+4\.
+
+Nơi tiếp nhận ĐKDT giữ lại bì đựng Phiếu ĐKDT, Phiếu số 1, bản sao (photocopy) CCCD/CMND và 2 ảnh, trả lại Phiếu số 2 cho thí sinh sau khi đã ký và đóng dấu xác nhận.
 {% endhint %}
 
 {% hint style="info" %}
-**5. Thí sinh lưu giữ Phiếu số 2** này để nhận Giấy báo thi, Giấy chứng nhận kết quả thi. Trong trường hợp có những sai sót thông tin đăng ký dự thi hoặc bị thất lạc Giấy báo thi thí sinh đem Phiếu ĐKDT này trực tiếp tới Điểm thi đã đăng ký vào buổi tập trung phổ biến quy chế để đề nghị sửa chữa sai sót và làm thủ tục dự thi.
+**5.**
+
+**Thí sinh lưu giữ Phiếu số 2** này để nhận Giấy báo thi, Giấy chứng nhận kết quả thi. Trong trường hợp có những sai sót thông tin đăng ký dự thi hoặc bị thất lạc Giấy báo thi thí sinh đem Phiếu ĐKDT này trực tiếp tới Điểm thi đã đăng ký vào buổi tập trung phổ biến quy chế để đề nghị sửa chữa sai sót và làm thủ tục dự thi.
 {% endhint %}
 
 **Phiếu số 1**
@@ -166,7 +192,7 @@ Thí sinh chỉ được chọn các môn thi thành phần trong một bài thi
 {% hint style="info" %}
 **Mục 16:** Thí sinh đã dự thi THPT năm trước, nếu có những bài thi/môn thi đủ điều kiện bảo lưu theo quy định, thí sinh muốn bảo lưu điểm của bài thi/môn thi nào thì ghi điểm bài thi/môn thi đó vào ô tương ứng&#x20;
 
-(Lưu ý: Đối với bài thi tổ hợp, thí sinh được quyền bảo lưu kết quả của từng môn thi thành phần nếu đủ điều kiện, để bảo lưu điểm toàn bài của bài thi tổ hợp nào, thí sinh phải ghi điểm của tất cả các môn thi thành phần của bài thi tổ hợp đó). Đối với những bài thi/môn thi được bảo lưu, thí sinh vẫn có thể đăng ký dự thi (bài thi hoặc môn thi thành phần) ở **Mục 14** chỉ trong trường hợp có nguyện vọng sử dụng kết quả thi xét tuyển sinh đại học, cao đẳng.
+(**Lưu ý:** Đối với bài thi tổ hợp, thí sinh được quyền bảo lưu kết quả của từng môn thi thành phần nếu đủ điều kiện, để bảo lưu điểm toàn bài của bài thi tổ hợp nào, thí sinh phải ghi điểm của tất cả các môn thi thành phần của bài thi tổ hợp đó). Đối với những bài thi/môn thi được bảo lưu, thí sinh vẫn có thể đăng ký dự thi (bài thi hoặc môn thi thành phần) ở **Mục 14** chỉ trong trường hợp có nguyện vọng sử dụng kết quả thi xét tuyển sinh đại học, cao đẳng.
 {% endhint %}
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
