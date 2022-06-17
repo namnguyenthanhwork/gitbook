@@ -89,7 +89,7 @@ Nếu thấy công thức khó khăn, vui lòng vào[ "Công cụ tính điểm 
 {% hint style="info" %}
 **Chú ý:** thứ tự ưu tiên các phương thức&#x20;
 
-<mark style="color:yellow;">**Phương thức 4 > Phương thức 3 > Phương thức 5 > Phương thức 6**</mark>
+<mark style="color:blue;">**Phương thức 4 > Phương thức 3 > Phương thức 5 > Phương thức 6**</mark>
 {% endhint %}
 
 ## Hướng dẫn đăng ký online
