@@ -55,11 +55,11 @@ Trước khi khai phiếu đăng ký dự thi (ĐKDT), thí sinh phải đọc k
 
 **Thí sinh tự do** khai thông tin cần thiết trên bì đựng Phiếu ĐKDT, Phiếu số 1 và Phiếu số 2 **(thông tin phải giống nhau ở tất cả các mục tương ứng trên bì, Phiếu số 1 và Phiếu số 2)** rồi nộp cho nơi tiếp nhận đăng ký dự thi kèm theo bản sao (photocopy) 2 mặt CMNN/CCCD trên 1 mặt của tờ giấy A4 và 2 ảnh cỡ 4x6 kiểu chân dung, mới chụp trong vòng 6 tháng (có ghi rõ họ và tên, ngày, tháng, năm sinh, vào mặt sau tấm ảnh, 2 ảnh này đựng trong một phong bì nhỏ).&#x20;
 
-Ngoài ra, phải dán thêm 1 ảnh vào vị trí đã xác định ở mặt trước túi đựng Phiếu ĐKDT. Công an xã phường nơi thí sinh tự do đang cư trú ký tên và đóng một dấu có phần giáp lai lên ảnh của Phiếu ĐKDT để xác nhận nhân thân thí sinh.&#x20;
+Ngoài ra, **phải dán thêm 1 ảnh vào vị trí đã xác định ở mặt trước túi đựng Phiếu ĐKDT**. Công an xã phường nơi thí sinh tự do đang cư trú ký tên và đóng một dấu có phần giáp lai lên ảnh của Phiếu ĐKDT để xác nhận nhân thân thí sinh.&#x20;
 
-Người đã có bằng tốt nghiệp THPT hoặc có bằng tốt nghiệp trung cấp dự thi để lấy kết quả thi tốt nghiệp THPT làm cơ sở để đăng ký xét tuyển sinh ĐH, CĐ phải điền tất cả các mục trên Phiếu.&#x20;
+**Người đã có bằng tốt nghiệp THPT hoặc có bằng tốt nghiệp trung cấp dự thi để lấy kết quả thi tốt nghiệp THPT làm cơ sở để đăng ký xét tuyển sinh ĐH, CĐ phải điền tất cả các mục trên Phiếu.**&#x20;
 
-Người có bằng tốt nghiệp THPT hoặc có bằng tốt nghiệp trung cấp đăng ký nguyện vọng để xét tuyển bằng phương thức khác với phương thức xét tuyển bằng kết quả thi tốt nghiệp THPT phải khai từ mục 1 đến mục 11 và mục 13 trên Phiếu.
+**Người có bằng tốt nghiệp THPT hoặc có bằng tốt nghiệp trung cấp đăng ký nguyện vọng để xét tuyển bằng phương thức khác với phương thức xét tuyển bằng kết quả thi tốt nghiệp THPT phải khai từ mục 1 đến mục 11 và mục 13 trên Phiếu.**
 {% endhint %}
 
 {% hint style="info" %}
