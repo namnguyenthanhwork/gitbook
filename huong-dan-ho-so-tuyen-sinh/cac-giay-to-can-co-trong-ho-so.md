@@ -84,7 +84,7 @@ coverY: 330.13574660633486
 
 ### **8. 03 ảnh màu 3x4 chụp trong vòng 6 tháng ghi rõ thông tin cá nhân sau ảnh** (mã sinh viên, họ và tên);
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 ### **9. Giấy chứng nhận đăng ký nghĩa vụ quân sự** do Ban chỉ huy quân sự cấp Quận, Huyện cấp và **giấy xác nhận đăng ký vắng mặt** do Ban chỉ huy quân sự cấp Phường, Xã nơi cư trú cấp **(đối với nam sinh viên);**
 

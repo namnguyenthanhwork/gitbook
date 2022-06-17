@@ -101,7 +101,7 @@
 * [❓ Ngôn ngữ Anh năm nhất cần chuẩn bị gì ?](review/ngon-ngu-anh-nam-nhat-can-chuan-bi-gi.md)
 * [📃 Review kiểm tra anh văn đầu vào](review/review-kiem-tra-anh-van-dau-vao.md)
 * [📑 Mẹo thuê phòng trọ](review/meo-thue-phong-tro.md)
-* [🔖 Review quân sự](review/review-quan-su.md)
+* [🔖 Tổng hợp review quân sự ở Lobita Land](review/tong-hop-review-quan-su-o-lobita-land.md)
 
 ## THÔNG BÁO
 
