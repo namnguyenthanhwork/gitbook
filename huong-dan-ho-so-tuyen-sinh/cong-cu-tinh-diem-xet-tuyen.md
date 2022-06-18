@@ -44,9 +44,7 @@ coverY: 446.1990950226245
 
 **🌐** **Website tính điểm xét tuyển (tham khảo):** [**https://oucommunity.vercel.app/tinh-diem-xet-tuyen**](https://oucommunity.vercel.app/tinh-diem-xet-tuyen)****
 
-**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [**https://oucommunity.vercel.app/**](https://oucommunity.vercel.app/)****
-
-![Cách sử dụng](../.gitbook/assets/5.png)
+![](<../.gitbook/assets/CÔNG CỤ TÍNH ĐIỂM XÉT TUYỂN (XÉT HỌC BẠ & XÉT THI THPT).png>)
 
 ![Cách sử dụng](<../.gitbook/assets/6 (1).png>)
 
