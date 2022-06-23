@@ -24,13 +24,15 @@ coverY: 219.23076923076923
 
 **⌚ Thời gian xét tuyển:** Từ 09g00 ngày 04/04/2022 đến 17g00 ngày 30/05/2022&#x20;
 
-**📌 Hình thức xét:** online (chỉ nhận hồ sơ khi có kết quả trúng tuyển)
+**📌 Hình thức xét:** chỉ xét online (nhận hồ sơ khi có kết quả trúng tuyển và có thông báo gửi hồ sơ từ nhà trường)
 
 **📌 Lệ phí xét tuyển:** miễn phí
 
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [**https://oucommunity.vercel.app/tinh-diem-xet-tuyen**](https://oucommunity.vercel.app/tinh-diem-xet-tuyen)****
+**🌐** **Website tính điểm xét tuyển học bạ THPT:** [https://www.oucommunity.dev/tinh-diem-xet-tuyen](https://www.oucommunity.dev/tinh-diem-xet-tuyen)
 
-**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [**https://oucommunity.vercel.app/**](https://oucommunity.vercel.app/)****
+**🌐** **Website tổng hợp thông tin tuyển sinh:** [https://www.oucommunity.dev/](https://www.oucommunity.dev/)
+
+**🌐** **Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM:** [https://tintuc.oucommunity.dev/](https://tintuc.oucommunity.dev/)
 
 ## **Thông tin Trường**
 
@@ -117,8 +119,14 @@ Và 1001 câu "lời đồn" khác nữa, nhưng mà mình vẫn tự tin với 
 
 Cuối cùng, hy vọng các bạn có lựa chọn vào OU muốn có những cái nhìn sâu sắc nhất thì hãy hỏi sinh viên OU chứ đừng đi hỏi sinh viên trường A, trường B,... Do những bạn sinh viên đó không học OU thì sao họ có thể nói chính xác về OU được kia chứ.
 
-> Bài viết này không nhằm công kích bất kỳ cá nhân hay tổ chức nà
+> Bài viết này không nhằm công kích bất kỳ cá nhân hay tổ chức nào
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^
 {% endembed %}
+
+**🌐** **Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM:** [https://tintuc.oucommunity.dev/](https://tintuc.oucommunity.dev/)
+
+**🌐** **Website tính điểm xét tuyển học bạ THPT:** [https://www.oucommunity.dev/tinh-diem-xet-tuyen](https://www.oucommunity.dev/tinh-diem-xet-tuyen)
+
+**🌐** **Website tổng hợp thông tin tuyển sinh:** [https://www.oucommunity.dev/](https://www.oucommunity.dev/)

@@ -24,13 +24,17 @@ coverY: 242.44343891402715
 
 **⌚ Thời gian xét tuyển:** Từ 09g00 ngày 04/04/2022 đến 17g00 ngày 30/05/2022&#x20;
 
-**📌 Hình thức xét:** online (chỉ nhận hồ sơ khi có kết quả trúng tuyển)
+**📌 Hình thức xét:** chỉ xét online (nhận hồ sơ khi có kết quả trúng tuyển và có thông báo gửi hồ sơ từ nhà trường)
 
 **📌 Lệ phí xét tuyển:** miễn phí
 
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [**https://oucommunity.vercel.app/tinh-diem-xet-tuyen**](https://oucommunity.vercel.app/tinh-diem-xet-tuyen)****
+**🌐** **Website tính điểm xét tuyển học bạ THPT:** [https://www.oucommunity.dev/tinh-diem-xet-tuyen](https://www.oucommunity.dev/tinh-diem-xet-tuyen)
 
-**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [**https://oucommunity.vercel.app/**](https://oucommunity.vercel.app/)****
+**🌐** **Website tổng hợp thông tin tuyển sinh:** [https://www.oucommunity.dev/](https://www.oucommunity.dev/)
+
+**🌐** **Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM:** [https://tintuc.oucommunity.dev/](https://tintuc.oucommunity.dev/)
+
+
 
 ### KHOA ĐÀO TẠO ĐẶC BIỆT (CÁC NGÀNH CHẤT LƯỢNG CAO)
 
@@ -58,7 +62,9 @@ coverY: 242.44343891402715
 [nganh-khoa-hoc-may-tinh-clc.md](../gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-khoa-hoc-may-tinh-clc.md)
 {% endcontent-ref %}
 
-📌 Kinh tế: ngành mới (chưa có thông tin)
+{% content-ref url="../gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-kinh-te-clc.md" %}
+[nganh-kinh-te-clc.md](../gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-kinh-te-clc.md)
+{% endcontent-ref %}
 
 {% content-ref url="../gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-cong-nghe-sinh-hoc-clc.md" %}
 [nganh-cong-nghe-sinh-hoc-clc.md](../gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-cong-nghe-sinh-hoc-clc.md)
@@ -162,7 +168,9 @@ coverY: 242.44343891402715
 [nganh-kinh-te.md](../gioi-thieu-khoa-nganh-dao-tao/khoa-kinh-te-and-quan-ly-cong/nganh-kinh-te.md)
 {% endcontent-ref %}
 
-📌 Ngành Quản lý công: ngành mới (chưa cập nhật thông tin)
+{% content-ref url="../gioi-thieu-khoa-nganh-dao-tao/khoa-kinh-te-and-quan-ly-cong/nganh-quan-ly-cong.md" %}
+[nganh-quan-ly-cong.md](../gioi-thieu-khoa-nganh-dao-tao/khoa-kinh-te-and-quan-ly-cong/nganh-quan-ly-cong.md)
+{% endcontent-ref %}
 
 ### KHOA TÀI CHÍNH NGÂN HÀNG
 
@@ -216,6 +224,8 @@ coverY: 242.44343891402715
 [lien-ket-dai-hoc-rouen-normandie-phap.md](../chuong-trinh-lien-ket/lien-ket-dai-hoc-rouen-normandie-phap.md)
 {% endcontent-ref %}
 
+****
+
 **❓ Mọi thắc mắc xin vui lòng inbox fanpage** [**Trường Đại học Mở TP. HCM - Tư vấn tuyển sinh**](https://www.facebook.com/tuyensinh.ou.edu.vn/) **để được tư vấn giải đáp !**
 
 🔗 Link: [https://m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
@@ -225,3 +235,9 @@ coverY: 242.44343891402715
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^
 {% endembed %}
+
+**🌐** **Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM:** [https://tintuc.oucommunity.dev/](https://tintuc.oucommunity.dev/)
+
+**🌐** **Website tính điểm xét tuyển học bạ THPT:** [https://www.oucommunity.dev/tinh-diem-xet-tuyen](https://www.oucommunity.dev/tinh-diem-xet-tuyen)
+
+**🌐** **Website tổng hợp thông tin tuyển sinh:** [https://www.oucommunity.dev/](https://www.oucommunity.dev/)

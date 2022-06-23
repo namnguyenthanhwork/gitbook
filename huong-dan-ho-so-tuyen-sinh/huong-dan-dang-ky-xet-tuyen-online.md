@@ -16,23 +16,25 @@ coverY: 348.1900452488688
 [huong-dan-tai-lai-trang-so-tay-sinh-vien-ou.md](../huong-dan-khac/huong-dan-tai-lai-trang-so-tay-sinh-vien-ou.md)
 {% endcontent-ref %}
 
-🔗**Link đăng ký xét tuyển học bạ 2022:** [https://xettuyen.ou.edu.vn/hb2022d1/vi](https://xettuyen.ou.edu.vn/hb2022d1/vi)
-
-**⌚ Thời gian xét tuyển:** Từ 09g00 ngày 04/04/2022 đến 17g00 ngày 30/05/2022&#x20;
-
-**📌 Hình thức xét:** online (chỉ nhận hồ sơ khi có kết quả trúng tuyển)
-
-**📌 Lệ phí xét tuyển:** miễn phí
-
 📞 **Inbox Fanpage tư vấn tuyển sinh để được hỗ trợ:** [m.me/tuyensinh.ou.edu.vn](https://m.me/tuyensinh.ou.edu.vn)
 
 **🌐 Website tuyển sinh chính thức:** [http://tuyensinh.ou.edu.vn/](http://tuyensinh.ou.edu.vn/)
 
 🔗 **Thông tin tuyển sinh Đại học chính quy năm 2022:** [http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-](http://tuyensinh.ou.edu.vn/thong-bao-phuong-thuc-uu-tien-xet-tuyen-hoc-sinh-gioi-xet-tuyen-ket-qua-hoc-tap-thpt-hoc-ba-uu-tien-xet-tuyen-ket-qua-hoc-tap-thpt-co-chung-chi-ngoai-ngu-va-uu-tien-xet-tuyen-hoc-sinh-co-chung-chi-quoc-te-)
 
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [**https://oucommunity.vercel.app/tinh-diem-xet-tuyen**](https://oucommunity.vercel.app/tinh-diem-xet-tuyen)****
+🔗**Link đăng ký xét tuyển học bạ 2022:** [https://xettuyen.ou.edu.vn/hb2022d1/vi](https://xettuyen.ou.edu.vn/hb2022d1/vi)
 
-**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [**https://oucommunity.vercel.app/**](https://oucommunity.vercel.app/)****
+**⌚ Thời gian xét tuyển:** Từ 09g00 ngày 04/04/2022 đến 17g00 ngày 30/05/2022&#x20;
+
+**📌 Hình thức xét:** chỉ xét online (nhận hồ sơ khi có kết quả trúng tuyển và có thông báo gửi hồ sơ từ nhà trường)
+
+**📌 Lệ phí xét tuyển:** miễn phí
+
+**🌐** **Website tính điểm xét tuyển học bạ THPT:** [https://www.oucommunity.dev/tinh-diem-xet-tuyen](https://www.oucommunity.dev/tinh-diem-xet-tuyen)
+
+**🌐** **Website tổng hợp thông tin tuyển sinh:** [https://www.oucommunity.dev/](https://www.oucommunity.dev/)
+
+**🌐** **Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM:** [https://tintuc.oucommunity.dev/](https://tintuc.oucommunity.dev/)
 
 {% hint style="warning" %}
 Lưu ý: bạn nên chọn phương thức xét phù hợp để nâng cao tỷ lệ trúng tuyển
@@ -121,3 +123,9 @@ Nếu thấy công thức khó khăn, vui lòng vào[ "Công cụ tính điểm 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^
 {% endembed %}
+
+**🌐** **Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM:** [https://tintuc.oucommunity.dev/](https://tintuc.oucommunity.dev/)
+
+**🌐** **Website tính điểm xét tuyển học bạ THPT:** [https://www.oucommunity.dev/tinh-diem-xet-tuyen](https://www.oucommunity.dev/tinh-diem-xet-tuyen)
+
+**🌐** **Website tổng hợp thông tin tuyển sinh:** [https://www.oucommunity.dev/](https://www.oucommunity.dev/)

@@ -26,13 +26,15 @@ coverY: 446.1990950226245
 
 **⌚ Thời gian xét tuyển:** Từ 09g00 ngày 04/04/2022 đến 17g00 ngày 30/05/2022&#x20;
 
-**📌 Hình thức xét:** online (chỉ nhận hồ sơ khi có kết quả trúng tuyển)
+**📌 Hình thức xét:** chỉ xét online (nhận hồ sơ khi có kết quả trúng tuyển và có thông báo gửi hồ sơ từ nhà trường)
 
 **📌 Lệ phí xét tuyển:** miễn phí
 
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [**https://oucommunity.vercel.app/tinh-diem-xet-tuyen**](https://oucommunity.vercel.app/tinh-diem-xet-tuyen)****
+**🌐** **Website tính điểm xét tuyển học bạ THPT:** [https://www.oucommunity.dev/tinh-diem-xet-tuyen](https://www.oucommunity.dev/tinh-diem-xet-tuyen)
 
-**🌐** **Website tổng hợp thông tin tuyển sinh (tham khảo):** [**https://oucommunity.vercel.app/**](https://oucommunity.vercel.app/)****
+**🌐** **Website tổng hợp thông tin tuyển sinh:** [https://www.oucommunity.dev/](https://www.oucommunity.dev/)
+
+**🌐** **Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM:** [https://tintuc.oucommunity.dev/](https://tintuc.oucommunity.dev/)
 
 ![Công cụ tính điểm xét tuyển (Xét học bạ & xét thi THPT)](<../.gitbook/assets/1 (1).png>)
 
@@ -42,7 +44,7 @@ coverY: 446.1990950226245
 
 ![Cách sử dụng](<../.gitbook/assets/4 (1).png>)
 
-**🌐** **Website tính điểm xét tuyển (tham khảo):** [**https://oucommunity.vercel.app/tinh-diem-xet-tuyen**](https://oucommunity.vercel.app/tinh-diem-xet-tuyen)****
+**🌐** **Website tính điểm xét tuyển học bạ THPT:** [https://www.oucommunity.dev/tinh-diem-xet-tuyen](https://www.oucommunity.dev/tinh-diem-xet-tuyen)
 
 ![](<../.gitbook/assets/CÔNG CỤ TÍNH ĐIỂM XÉT TUYỂN (XÉT HỌC BẠ & XÉT THI THPT).png>)
 
@@ -61,3 +63,9 @@ coverY: 446.1990950226245
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^
 {% endembed %}
+
+**🌐** **Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM:** [https://tintuc.oucommunity.dev/](https://tintuc.oucommunity.dev/)
+
+**🌐** **Website tính điểm xét tuyển học bạ THPT:** [https://www.oucommunity.dev/tinh-diem-xet-tuyen](https://www.oucommunity.dev/tinh-diem-xet-tuyen)
+
+**🌐** **Website tổng hợp thông tin tuyển sinh:** [https://www.oucommunity.dev/](https://www.oucommunity.dev/)

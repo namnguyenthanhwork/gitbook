@@ -36,6 +36,7 @@
 
 * [Khoa Đào tạo đặc biệt (Các ngành CLC)](gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/README.md)
   * [📋 Ngành Quản Trị Kinh Doanh CLC](gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-quan-tri-kinh-doanh-clc.md)
+  * [📋 Ngành Kinh Tế CLC](gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-kinh-te-clc.md)
   * [📋 Ngành Tài Chính Ngân Hàng CLC](gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-tai-chinh-ngan-hang-clc.md)
   * [📋 Ngành Kế Toán CLC](gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-ke-toan-clc.md)
   * [📋 Ngành Công Nghệ Sinh Học CLC](gioi-thieu-khoa-nganh-dao-tao/khoa-dao-tao-dac-biet-cac-nganh-clc/nganh-cong-nghe-sinh-hoc-clc.md)
@@ -81,6 +82,7 @@
   * [📋 Ngành Công tác xã hội](gioi-thieu-khoa-nganh-dao-tao/khoa-xa-hoi-hoc-cong-tac-xa-hoi-dong-nam-a/nganh-cong-tac-xa-hoi.md)
 * [Khoa Kinh tế & Quản lý công](gioi-thieu-khoa-nganh-dao-tao/khoa-kinh-te-and-quan-ly-cong/README.md)
   * [📋 Ngành Kinh tế](gioi-thieu-khoa-nganh-dao-tao/khoa-kinh-te-and-quan-ly-cong/nganh-kinh-te.md)
+  * [📋 Ngành Quản lý công](gioi-thieu-khoa-nganh-dao-tao/khoa-kinh-te-and-quan-ly-cong/nganh-quan-ly-cong.md)
 
 ## CHƯƠNG TRÌNH LIÊN KẾT
 
