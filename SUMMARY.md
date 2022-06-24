@@ -112,3 +112,7 @@
 ## Hướng dẫn khác
 
 * [📑 Hướng dẫn tải lại trang sổ tay sinh viên OU](huong-dan-khac/huong-dan-tai-lai-trang-so-tay-sinh-vien-ou.md)
+
+## Chính sách bảo mật
+
+* [📑 Chính sách quyền riêng tư người dùng](chinh-sach-bao-mat/chinh-sach-quyen-rieng-tu-nguoi-dung.md)

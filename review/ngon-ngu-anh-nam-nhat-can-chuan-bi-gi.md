@@ -58,3 +58,9 @@ Vậy là hết bài post rồi ớ, cảm ơn các bạn đã đọc tới đâ
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham vào nhóm đê ^\_^
 {% endembed %}
+
+**🌐** **Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM:** [https://tintuc.oucommunity.dev/](https://tintuc.oucommunity.dev/)
+
+**🌐** **Website tính điểm xét tuyển học bạ THPT:** [https://www.oucommunity.dev/tinh-diem-xet-tuyen](https://www.oucommunity.dev/tinh-diem-xet-tuyen)
+
+**🌐** **Website tổng hợp thông tin tuyển sinh:** [https://www.oucommunity.dev/](https://www.oucommunity.dev/)
