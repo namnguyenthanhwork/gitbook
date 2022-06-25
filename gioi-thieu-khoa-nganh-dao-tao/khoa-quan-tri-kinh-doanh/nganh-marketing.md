@@ -20,6 +20,8 @@ coverY: 268.2352941176471
 Giới thiệu ngành Marketing - Trường Đại học Mở Tp.HCM
 {% endembed %}
 
+![Trung tâm hướng nghiệp - Tư vấn việc làm, P. CTSC - TT Biên tập](<../../.gitbook/assets/Sß+ò tay h¦¦ß+¢ng nghiß+çp - bß¦ún ch+¡nh - size nhß+Å1024\_27.jpg>)
+
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}

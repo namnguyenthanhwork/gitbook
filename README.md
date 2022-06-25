@@ -52,6 +52,10 @@ coverY: 219.23076923076923
 
 **Fax:** (028) 39207639 hoặc (028) 39207640
 
+![Trung tâm hướng nghiệp - Tư vấn việc làm, P. CTSC - TT Biên tập](<.gitbook/assets/Sß+ò tay h¦¦ß+¢ng nghiß+çp - bß¦ún ch+¡nh - size nhß+Å1024\_4.jpg>)
+
+![Trung tâm hướng nghiệp - Tư vấn việc làm, P. CTSC - TT Biên tập](<.gitbook/assets/Sß+ò tay h¦¦ß+¢ng nghiß+çp - bß¦ún ch+¡nh - size nhß+Å1024\_5.jpg>)
+
 ## Cảm nhận của sinh viên về Trường ĐH Mở Tp.HCM
 
 {% hint style="success" %}

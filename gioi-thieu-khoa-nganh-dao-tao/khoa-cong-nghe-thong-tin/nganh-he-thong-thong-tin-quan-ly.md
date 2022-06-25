@@ -20,6 +20,8 @@ coverY: 239.86425339366517
 Giới thiệu ngành Hệ Thống Thông Tin Quản Lý - Trường Đại học Mở Tp.HCM
 {% endembed %}
 
+![Trung tâm hướng nghiệp - Tư vấn việc làm, P. CTSC - TT Biên tập](<../../.gitbook/assets/Sß+ò tay h¦¦ß+¢ng nghiß+çp - bß¦ún ch+¡nh - size nhß+Å1024\_12.jpg>)
+
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}

@@ -20,6 +20,8 @@ coverY: 172.8054298642534
 Giới thiệu ngành CNKT Công trình xây dựng - Trường Đại học Mở Tp.HCM
 {% endembed %}
 
+![Trung tâm hướng nghiệp - Tư vấn việc làm, P. CTSC - TT Biên tập](<../../.gitbook/assets/Sß+ò tay h¦¦ß+¢ng nghiß+çp - bß¦ún ch+¡nh - size nhß+Å1024\_30.jpg>)
+
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}

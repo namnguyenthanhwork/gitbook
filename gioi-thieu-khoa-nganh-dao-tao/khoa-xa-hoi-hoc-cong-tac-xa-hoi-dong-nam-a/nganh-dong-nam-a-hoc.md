@@ -20,6 +20,8 @@ coverY: 224.38914027149323
 Giới thiệu ngành Đông Nam Á - Trường Đại học Mở Tp.HCM
 {% endembed %}
 
+![Trung tâm hướng nghiệp - Tư vấn việc làm, P. CTSC - TT Biên tập](<../../.gitbook/assets/Sß+ò tay h¦¦ß+¢ng nghiß+çp - bß¦ún ch+¡nh - size nhß+Å1024\_32.jpg>)
+
 ## Nội dung chương trình đào tạo
 
 {% hint style="info" %}
