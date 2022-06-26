@@ -31,13 +31,13 @@ coverY: 245.02262443438914
 
 ![Phiếu đăng ký (tải phiếu về và in)](../.gitbook/assets/0016.jpg)
 
+👉 File phiếu đăng ký: [Nhấn vào đây để tải về !](https://drive.google.com/file/d/1ut36w7zBqSr7HsrrWD31ql\_FVwJ2Qi7-/view?usp=sharing)
+
 **📂 File công văn hướng dẫn tuyển sinh Bộ GD&ĐT**
 
 {% file src="../.gitbook/assets/2598-bgddt-gddh-huong-dan-tuyen-sinh-dh-cd-2022.pdf" %}
 **File công văn hướng dẫn tuyển sinh Bộ GD&ĐT**
 {% endfile %}
-
-****
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia group đê
