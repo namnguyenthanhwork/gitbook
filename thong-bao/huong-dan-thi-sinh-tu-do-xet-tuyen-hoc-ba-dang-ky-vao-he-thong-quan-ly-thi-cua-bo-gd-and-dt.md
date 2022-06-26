@@ -22,9 +22,14 @@ coverY: 245.02262443438914
 
 ![⌚](https://static.xx.fbcdn.net/images/emoji.php/v9/tfa/1/16/231a.png) **Thời gian mở đăng ký:** Từ ngày 12/07 đến ngày 18/07
 
+📌 Đối tượng: Thí sinh đã tốt nghiệp THPT, trung cấp chưa có tài khoản đăng ký xét tuyển trên hệ thống của Bộ GD&ĐT
 
+### Hướng dẫn đăng ký
 
-## Hướng dẫn đăng ký: Đang cập nhật, vui lòng quay lại sau !
+* Thí sinh tải mẫu phiếu đăng ký thông tin cá nhân bên dưới và kê khai thông tin trên phiếu.
+* Nộp phiếu tại điểm tiếp nhận (theo quy định và hướng dẫn của sở giáo dục và đào tạo nơi thí sinh thường trú) để nhận thông tin tài khoản phục vụ công tác tuyển sinh.
+
+![Phiếu đăng ký (tải phiếu về và in)](../.gitbook/assets/0016.jpg)
 
 ****
 
