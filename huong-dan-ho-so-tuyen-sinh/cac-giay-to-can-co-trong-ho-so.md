@@ -66,7 +66,7 @@ coverY: 330.13574660633486
 
 ![Giấy kết quả trúng tuyển](<../.gitbook/assets/image (14) (1).png>)
 
-![Giấy kết quả trúng tuyển & thanh toán](<../.gitbook/assets/image (7) (1).png>)
+![Giấy kết quả trúng tuyển & thanh toán](<../.gitbook/assets/image (7) (1) (1).png>)
 
 ### **4. Phiếu đăng ký xét tuyển/ưu tiên xét tuyển** (in ra từ thư xác nhận nộp hồ sơ xét tuyển của trường hoặc từ trang tra cứu). <mark style="color:red;">Ký tên cuối phiếu</mark>
 
@@ -108,7 +108,7 @@ coverY: 330.13574660633486
 
 Link tham khảo: [http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc](http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc)
 
-![Chứng chỉ tin học văn phòng (minh hoạ)](<../.gitbook/assets/image (8).png>)
+![Chứng chỉ tin học văn phòng (minh hoạ)](<../.gitbook/assets/image (8) (1).png>)
 
 ![Chứng chỉ anh văn (minh hoạ)](<../.gitbook/assets/image (10).png>)
 

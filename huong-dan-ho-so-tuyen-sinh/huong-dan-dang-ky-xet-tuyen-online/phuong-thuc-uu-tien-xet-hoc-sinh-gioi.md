@@ -191,6 +191,18 @@ danh sách khu vực ưu tiên điểm trường thpt
 
 ![Hồ sơ gửi thành công, vào thư đến hoặc thư rác (spam) để kiểm tra](<../../.gitbook/assets/c8 hsg.PNG>)
 
+### Bước 7: Kiểm tra thông tin phiếu sau khi đăng ký hoàn tất
+
+Trước hết, bạn kiểm tra thu đến và thư rác xem đã có thư hay chưa. Nếu chưa hãy lăn xuống dưới để xem hướng dẫn khắc phục.
+
+<mark style="color:red;">**Lưu ý:**</mark> Nếu thư đang nằm trong thư rác, hãy chuyển nó đến thư chính **(nếu không chuyển thì sau 30 ngày thư sẽ biến mất)**
+
+![Thư đăng ký thành công](<../../.gitbook/assets/image (8).png>)
+
+Ấn vào nút link in kết quả đăng ký xét tuyển để kiểm tra 1 lần nữa xem đã đúng thông tin hay chưa. Nếu sai thông tin thì hãy ấn vào link chỉnh sửa kết quả đăng ký để cập nhật lại. Sau đó ấn link in lại phiếu 1 lần nữa để kiểm tra.
+
+![Kiểm tra lại thông tin trên phiếu. Nếu sai hãy chỉnh sửa](<../../.gitbook/assets/image (7).png>)
+
 ## Hướng dẫn chỉnh sửa - khắc phục lỗi khi đăng ký online
 
 ### 1. Xem lại ảnh CMND/CCCD sau khi upload lên website
