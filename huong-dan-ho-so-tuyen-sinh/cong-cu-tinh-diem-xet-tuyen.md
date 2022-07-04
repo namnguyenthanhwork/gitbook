@@ -46,7 +46,7 @@ coverY: 446.1990950226245
 
 **🌐** **Website tính điểm xét tuyển học bạ THPT:** [https://www.oucommunity.dev/tinh-diem-xet-tuyen](https://www.oucommunity.dev/tinh-diem-xet-tuyen)
 
-![](<../.gitbook/assets/CÔNG CỤ TÍNH ĐIỂM XÉT TUYỂN (XÉT HỌC BẠ & XÉT THI THPT).png>)
+![Cách sử dụng](<../.gitbook/assets/5 (1).png>)
 
 ![Cách sử dụng](<../.gitbook/assets/6 (1).png>)
 
@@ -57,6 +57,8 @@ coverY: 446.1990950226245
 ![Cách sử dụng](../.gitbook/assets/9.png)
 
 ![Cách sử dụng](../.gitbook/assets/10.png)
+
+![Lưu ý](<../.gitbook/assets/11 (1).png>)
 
 ![Tham khảo thêm](../.gitbook/assets/11.png)
 

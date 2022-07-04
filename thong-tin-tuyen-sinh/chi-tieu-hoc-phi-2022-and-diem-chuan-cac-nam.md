@@ -48,7 +48,7 @@ coverY: 330.13574660633486
 
 ![Điểm chuẩn THPT các năm](../.gitbook/assets/4.png)
 
-![Điểm chuẩn học bạ các năm](<../.gitbook/assets/5 (1).png>)
+![Điểm chuẩn học bạ các năm](<../.gitbook/assets/5 (1) (1).png>)
 
 <mark style="color:yellow;">**Lưu ý:**</mark>
 
