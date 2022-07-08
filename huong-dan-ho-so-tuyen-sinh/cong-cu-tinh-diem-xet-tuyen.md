@@ -51,7 +51,7 @@ Ví dụ:
 
 👉 Cách tính thủ công này chỉ giúp bạn tính 1 tổ hợp duy nhất và khá tốn thời gian, công cụ bên dưới sẽ giúp bạn tính toàn bộ các tổ hợp, có thể biết được tổ hợp nào cao nhất, thấp nhất => Từ đó giúp bạn chọn được tổ hợp có lợi cho bạn
 
-❗ Điểm khu vực và đối tượng bạn có thể tra cứu ở bên dưới
+**Điểm khu vực và đối tượng bạn có thể tra cứu ở bên dưới** 👇
 
 {% content-ref url="quy-che-tuyen-sinh/khu-vuc-uu-tien.md" %}
 [khu-vuc-uu-tien.md](quy-che-tuyen-sinh/khu-vuc-uu-tien.md)
@@ -74,6 +74,12 @@ Ví dụ:
 **🌐** **Website tính điểm xét tuyển học bạ THPT:** [https://www.oucommunity.dev/tinh-diem-xet-tuyen](https://www.oucommunity.dev/tinh-diem-xet-tuyen)
 
 ![Cách sử dụng](<../.gitbook/assets/5 (1).png>)
+
+📌 Trong trường hợp bạn xét bằng điểm thi THPTQG, nếu bạn xét tổ hợp môn nào thì bạn **nhập điểm môn đó (giống nhau) vào cột cả năm 10, 11 và hk1 năm 12**. Sau đó tiếp tục đến bước 3 như trong hình bên dưới.
+
+**Ví dụ:** Bạn xét CNNT khối A00 (toán - lý - hoá) với điểm toán là 9, hoá 8, lý 9. Thì bạn nhập điểm môn toán vào 3 cột gồm cột cả năm 10, 11 & hk1 năm 12 với số điểm là 9. Tương tự cho 2 môn còn lại.
+
+📌 Trong trường hợp bạn xét bằng điểm học bạ THPT thì bạn làm theo như hình bên dưới 👇
 
 ![Cách sử dụng](<../.gitbook/assets/6 (1).png>)
 
