@@ -5,8 +5,8 @@
 
 ## Thông tin tuyển sinh
 
-* [📖 Tuyển sinh học bạ 2022](thong-tin-tuyen-sinh/tuyen-sinh-hoc-ba-2022.md)
-* [💰 Học bổng tuyển sinh 2022](thong-tin-tuyen-sinh/hoc-bong-tuyen-sinh-2022.md)
+* [📖 Tuyển sinh học bạ](thong-tin-tuyen-sinh/tuyen-sinh-hoc-ba.md)
+* [💰 Học bổng tuyển sinh](thong-tin-tuyen-sinh/hoc-bong-tuyen-sinh.md)
 * [❓ Xác nhận nhập học](thong-tin-tuyen-sinh/xac-nhan-nhap-hoc.md)
 * [❓ Q\&A tuyển sinh](thong-tin-tuyen-sinh/q-and-a-tuyen-sinh.md)
 * [ℹ Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm](thong-tin-tuyen-sinh/chi-tieu-hoc-phi-2022-and-diem-chuan-cac-nam.md)
