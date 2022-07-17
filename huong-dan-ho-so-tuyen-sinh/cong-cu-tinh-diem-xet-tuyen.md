@@ -37,7 +37,7 @@ coverY: 446.1990950226245
 
 ### I. Cách tính điểm thủ công <a href="#heading-i-cach-tinh-diem-thu-cong" id="heading-i-cach-tinh-diem-thu-cong"></a>
 
-👉 Thí sinh kiểm tra xem ngành xét gồm những môn nào, có hệ số 2 hay không.
+👉 Thí sinh kiểm tra xem ngành xét gồm những môn nào, có hệ số 2 hay không **(tra cứu ở mục II)**.
 
 * Nếu ngành bạn không có môn nào hệ số 2 thì bạn áp dụng công thức **(môn 1 + môn 2 + môn 3) + điểm khu vực ưu tiên + điểm đối tượng ưu tiên**
 * Nếu có môn nào hệ số 2 thì bạn áp dụng công thức **(môn 1 + môn 2 + môn 3 x2) x3/4 + điểm khu vực ưu tiên + điểm đối tượng ưu tiên**
@@ -59,7 +59,34 @@ Ví dụ:
 [doi-tuong-uu-tien.md](quy-che-tuyen-sinh/doi-tuong-uu-tien.md)
 {% endcontent-ref %}
 
-### II. Hướng dẫn sử dụng công cụ tính điểm <a href="#heading-ii-huong-dan-su-dung-cong-cu-tinh-diem" id="heading-ii-huong-dan-su-dung-cong-cu-tinh-diem"></a>
+### II. Danh sách ngành tuyển sinh <a href="#heading-ii-huong-dan-su-dung-cong-cu-tinh-diem" id="heading-ii-huong-dan-su-dung-cong-cu-tinh-diem"></a>
+
+#### 1. Chương trình đại trà
+
+![](<../.gitbook/assets/image (17).png>)
+
+![](<../.gitbook/assets/image (9).png>)
+
+#### 2. Chương trình chất lượng cao
+
+![](<../.gitbook/assets/image (18).png>)
+
+📝 **Ghi chú:**
+
+(1) Môn Ngoại ngữ hệ số 2;
+
+(2) Điểm trúng tuyển tổ hợp Văn, Sử, Địa cao hơn các tổ hợp còn lại 1.5 điểm;
+
+(3) Môn Toán hệ số 2;
+
+* Các ngành Ngôn ngữ Trung Quốc (đại trà, chất lượng cao), Ngôn ngữ Nhật (đại trà, chất lượng cao), Ngôn ngữ Hàn Quốc, Đông Nam á học, Công tác xã hội, Xã hội học: Ngoại ngữ gồm Anh, Nga, Pháp, Đức, Nhật, Trung, Hàn Quốc.
+* Các ngành Luật và Luật kinh tế, ngoại ngữ gồm Anh, Pháp, Đức, Nhật.
+
+#### 3. Điểm quy đổi môn ngoại ngữ
+
+![](<../.gitbook/assets/image (3).png>)
+
+### III. Hướng dẫn sử dụng công cụ tính điểm <a href="#heading-ii-huong-dan-su-dung-cong-cu-tinh-diem" id="heading-ii-huong-dan-su-dung-cong-cu-tinh-diem"></a>
 
 ![Công cụ tính điểm xét tuyển (Xét học bạ & xét thi THPT)](<../.gitbook/assets/1 (1).png>)
 

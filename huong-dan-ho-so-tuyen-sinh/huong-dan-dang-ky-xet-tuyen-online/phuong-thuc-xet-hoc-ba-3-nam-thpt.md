@@ -188,7 +188,7 @@ Trước hết, bạn kiểm tra thu đến và thư rác xem đã có thư hay 
 
 <mark style="color:red;">**Lưu ý:**</mark> Nếu thư đang nằm trong thư rác, hãy chuyển nó đến thư chính **(nếu không chuyển thì sau 30 ngày thư sẽ biến mất)**
 
-![Thư đăng ký thành công](<../../.gitbook/assets/image (8).png>)
+![Thư đăng ký thành công](<../../.gitbook/assets/image (8) (1).png>)
 
 Ấn vào nút link in kết quả đăng ký xét tuyển để kiểm tra 1 lần nữa xem đã đúng thông tin hay chưa. Nếu sai thông tin thì hãy ấn vào link chỉnh sửa kết quả đăng ký để cập nhật lại. Sau đó ấn link in lại phiếu 1 lần nữa để kiểm tra.
 

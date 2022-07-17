@@ -26,7 +26,7 @@ coverY: 312.08144796380094
 
 ![](<../.gitbook/assets/image (1).png>)
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^

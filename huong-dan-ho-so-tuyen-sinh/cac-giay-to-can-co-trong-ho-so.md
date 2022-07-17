@@ -58,7 +58,7 @@ coverY: 330.13574660633486
 
 ### **2. Giấy chứng nhận tốt nghiệp trung học tạm thời** đối với những thí sinh trúng tuyển ngay trong năm tốt nghiệp (2021) hoặc **bằng tốt nghiệp trung học đối với những thí sinh đã tốt nghiệp năm 2020 trở về trước.** Những thí sinh nộp giấy chứng nhận tốt nghiệp tạm thời, đầu năm học sau phải xuất trình bản chính bằng tốt nghiệp trung học để đối chiếu kiểm tra;
 
-![Giấy chứng nhận tốt nghiệp](<../.gitbook/assets/image (9).png>)
+![Giấy chứng nhận tốt nghiệp](<../.gitbook/assets/image (9) (1).png>)
 
 ### **3. Phiếu thông tin sinh viên trúng tuyển** (in ra sau khi đăng ký nhập học trực tuyến);
 
@@ -92,7 +92,7 @@ coverY: 330.13574660633486
 
 ![Giấy chứng nhận đăng ký NVQS](<../.gitbook/assets/image (2).png>)
 
-![Giấy xác nhận đăng ký vắng mặt](<../.gitbook/assets/image (3) (1).png>)
+![Giấy xác nhận đăng ký vắng mặt](<../.gitbook/assets/image (3) (1) (1).png>)
 
 ### **10. Bản photo CMND/CCCD** (bắt buộc);
 
@@ -106,7 +106,7 @@ coverY: 330.13574660633486
 
 Link tham khảo: [http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc](http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc)
 
-![Chứng chỉ tin học văn phòng (minh hoạ)](<../.gitbook/assets/image (8) (1).png>)
+![Chứng chỉ tin học văn phòng (minh hoạ)](<../.gitbook/assets/image (8) (1) (1).png>)
 
 ![Chứng chỉ anh văn (minh hoạ)](<../.gitbook/assets/image (10).png>)
 
