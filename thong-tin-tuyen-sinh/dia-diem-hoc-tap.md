@@ -50,7 +50,7 @@ coverY: 410.0904977375566
   * QUẢN TRỊ NHÂN LỰC
   * KINH TẾ
   * QUẢN LÝ CÔNG&#x20;
-* <mark style="color:red;">**371 Nguyễn Kiệm, P3, Quận Gò Vấp: TẤT CẢ CÁC NGÀNH ĐẠI TRÀ**</mark>
+* <mark style="color:red;">**371 Nguyễn Kiệm, P3, Quận Gò Vấp: TẤT CẢ CÁC NGÀNH ĐẠI TRÀ (còn lại)**</mark>
   * CÔNG NGHỆ THÔNG TIN
   * KHOA HỌC MÁY TÍNH
   * HỆ THỐNG THÔNG TIN QUẢN LÝ
