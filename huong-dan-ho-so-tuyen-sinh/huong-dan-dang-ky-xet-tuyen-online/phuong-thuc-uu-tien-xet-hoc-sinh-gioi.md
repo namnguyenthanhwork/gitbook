@@ -45,7 +45,7 @@ _**Điều kiện đăng ký xét tuyển**_**:**
 
 ### **Bước 1: Chọn mục xét tuyển ưu tiên xét học sinh giỏi**
 
-![Bước 1: Chọn mục xét tuyển ưu tiên xét học sinh giỏi](<../../.gitbook/assets/c1 (1).PNG>)
+![Bước 1: Chọn mục xét tuyển ưu tiên xét học sinh giỏi](../../.gitbook/assets/c1.PNG)
 
 {% hint style="info" %}
 **1 bảng thông báo giới thiệu sẽ hiện ra, nhìn và đọc kỹ rồi hãy ấn tiếp tục**
@@ -195,11 +195,11 @@ Trước hết, bạn kiểm tra thu đến và thư rác xem đã có thư hay 
 
 <mark style="color:red;">**Lưu ý:**</mark> Nếu thư đang nằm trong thư rác, hãy chuyển nó đến thư chính **(nếu không chuyển thì sau 30 ngày thư sẽ biến mất)**
 
-![Thư đăng ký thành công](<../../.gitbook/assets/image (8) (1).png>)
+![Thư đăng ký thành công](<../../.gitbook/assets/image (40).png>)
 
 Ấn vào nút link in kết quả đăng ký xét tuyển để kiểm tra 1 lần nữa xem đã đúng thông tin hay chưa. Nếu sai thông tin thì hãy ấn vào link chỉnh sửa kết quả đăng ký để cập nhật lại. Sau đó ấn link in lại phiếu 1 lần nữa để kiểm tra.
 
-![Kiểm tra lại thông tin trên phiếu. Nếu sai hãy chỉnh sửa](<../../.gitbook/assets/image (7).png>)
+![Kiểm tra lại thông tin trên phiếu. Nếu sai hãy chỉnh sửa](<../../.gitbook/assets/image (38).png>)
 
 ## Hướng dẫn chỉnh sửa - khắc phục lỗi khi đăng ký online
 
@@ -223,7 +223,7 @@ Khi bạn upload hình lên website thì hãy chắc chắn hình đó là hình
 **Chỉnh sửa và ấn lưu, khi có thông báo bên dưới là đã thành công**
 {% endhint %}
 
-![Chỉnh sửa và ấn lưu, khi có thông báo bên dưới là đã thành công](<../../.gitbook/assets/c11 ccnn (1).PNG>)
+![Chỉnh sửa và ấn lưu, khi có thông báo bên dưới là đã thành công](<../../.gitbook/assets/c11 ccnn.PNG>)
 
 ### 3. Khắc phục lỗi khi mail không đến sau khi đăng ký hoàn tất
 

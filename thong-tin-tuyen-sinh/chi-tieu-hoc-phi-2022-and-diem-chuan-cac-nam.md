@@ -36,17 +36,17 @@ coverY: 330.13574660633486
 
 ### Chỉ tiêu tuyển sinh 2022
 
-![Chỉ tiêu tuyển sinh đại trà 2022](../.gitbook/assets/1.png)
+![Chỉ tiêu tuyển sinh đại trà 2022](<../.gitbook/assets/1 (1).png>)
 
-![Chỉ tiêu tuyển sinh đại trà 2022](<../.gitbook/assets/2 (1).png>)
+![Chỉ tiêu tuyển sinh đại trà 2022](../.gitbook/assets/2.png)
 
-![Chỉ tiêu tuyển sinh chất lượng cao 2022](../.gitbook/assets/3.png)
+![Chỉ tiêu tuyển sinh chất lượng cao 2022](<../.gitbook/assets/3 (1).png>)
 
 ### Điểm chuẩn các năm
 
-![Điểm chuẩn THPT các năm](../.gitbook/assets/4.png)
+![Điểm chuẩn THPT các năm](<../.gitbook/assets/4 (1).png>)
 
-![Điểm chuẩn học bạ các năm](<../.gitbook/assets/5 (1) (1).png>)
+![Điểm chuẩn học bạ các năm](../.gitbook/assets/5.png)
 
 <mark style="color:yellow;">**Lưu ý:**</mark>
 
@@ -60,7 +60,7 @@ coverY: 330.13574660633486
 
 ### Học phí 1 năm (dự kiến)
 
-![Học phí 1 năm (dự kiến)](../.gitbook/assets/6.png)
+![Học phí 1 năm (dự kiến)](<../.gitbook/assets/6 (1).png>)
 
 ### Học phí (theo tín chỉ)
 

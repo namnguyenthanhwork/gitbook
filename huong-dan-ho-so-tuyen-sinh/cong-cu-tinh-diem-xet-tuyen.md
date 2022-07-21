@@ -63,13 +63,13 @@ Ví dụ:
 
 #### 1. Chương trình đại trà
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (39).png>)
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (36).png>)
 
 #### 2. Chương trình chất lượng cao
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (43).png>)
 
 📝 **Ghi chú:**
 
@@ -84,21 +84,21 @@ Ví dụ:
 
 #### 3. Điểm quy đổi môn ngoại ngữ
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (37).png>)
 
 ### III. Hướng dẫn sử dụng công cụ tính điểm <a href="#heading-ii-huong-dan-su-dung-cong-cu-tinh-diem" id="heading-ii-huong-dan-su-dung-cong-cu-tinh-diem"></a>
 
-![Công cụ tính điểm xét tuyển (Xét học bạ & xét thi THPT)](<../.gitbook/assets/1 (1).png>)
+![Công cụ tính điểm xét tuyển (Xét học bạ & xét thi THPT)](../.gitbook/assets/1.png)
 
-![Giới thiệu](../.gitbook/assets/2.png)
+![Giới thiệu](<../.gitbook/assets/2 (1).png>)
 
-![Giới thiệu](<../.gitbook/assets/3 (1).png>)
+![Giới thiệu](../.gitbook/assets/3.png)
 
-![Cách sử dụng](<../.gitbook/assets/4 (1).png>)
+![Cách sử dụng](../.gitbook/assets/4.png)
 
 **🌐** **Website tính điểm xét tuyển học bạ THPT:** [https://www.oucommunity.dev/tinh-diem-xet-tuyen](https://www.oucommunity.dev/tinh-diem-xet-tuyen)
 
-![Cách sử dụng](<../.gitbook/assets/5 (1).png>)
+![Cách sử dụng](<../.gitbook/assets/5 (2).png>)
 
 📌 Trong trường hợp bạn xét bằng điểm thi THPTQG, nếu bạn xét tổ hợp môn nào thì bạn **nhập điểm môn đó (giống nhau) vào cột cả năm 10, 11 và hk1 năm 12**. Sau đó tiếp tục đến bước 3 như trong hình bên dưới.
 
@@ -106,7 +106,7 @@ Ví dụ:
 
 📌 Trong trường hợp bạn xét bằng điểm học bạ THPT thì bạn làm theo như hình bên dưới 👇
 
-![Cách sử dụng](<../.gitbook/assets/6 (1).png>)
+![Cách sử dụng](../.gitbook/assets/6.png)
 
 ![Cách sử dụng](../.gitbook/assets/7.png)
 

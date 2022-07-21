@@ -103,7 +103,7 @@ Về kiến thức ngoại ngữ khác: sinh viên được chọn học một t
 
 ## Infographic
 
-![1](<../../.gitbook/assets/1 - tiêu đề (10).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (9).png>) ![3](<../../.gitbook/assets/3 - việc làm (4).png>) ![4](<../../.gitbook/assets/4 - CƠ HỘI VIỆC LÀM (3).png>) ![5](<../../.gitbook/assets/5 - CƠ HỘI VIỆC LÀM (2).png>) ![6](<../../.gitbook/assets/6 - định hướng đào tạo (2).png>) ![7](<../../.gitbook/assets/7 - định hướng đào tạo (2).png>) ![8](<../../.gitbook/assets/8 - định hướng đào tạo (2).png>) ![9](<../../.gitbook/assets/9 - định hướng đào tạo (2).png>) ![10](<../../.gitbook/assets/10 - chương trình đào tạo (1).png>) ![11](<../../.gitbook/assets/11 - nd ctdt (1).png>) ![12](<../../.gitbook/assets/13 - HỌC PHÍ (1).png>) ![13](<../../.gitbook/assets/14 - HỌC PHÍ (1).png>) ![14](<../../.gitbook/assets/15 - liên hệ.png>)
+![1](<../../.gitbook/assets/1 - tiêu đề (25).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (6).png>) ![3](<../../.gitbook/assets/3 - việc làm (2).png>) ![4](<../../.gitbook/assets/4 - CƠ HỘI VIỆC LÀM (1).png>) ![5](<../../.gitbook/assets/5 - CƠ HỘI VIỆC LÀM (1).png>) ![6](<../../.gitbook/assets/6 - định hướng đào tạo (2).png>) ![7](<../../.gitbook/assets/7 - định hướng đào tạo.png>) ![8](<../../.gitbook/assets/8 - định hướng đào tạo (2).png>) ![9](<../../.gitbook/assets/9 - định hướng đào tạo (1).png>) ![10](<../../.gitbook/assets/10 - chương trình đào tạo (1).png>) ![11](<../../.gitbook/assets/11 - nd ctdt (4).png>) ![12](<../../.gitbook/assets/13 - HỌC PHÍ (1).png>) ![13](<../../.gitbook/assets/14 - HỌC PHÍ.png>) ![14](<../../.gitbook/assets/15 - liên hệ (2).png>)
 
 ## Thông tin liên hệ
 

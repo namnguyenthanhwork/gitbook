@@ -86,7 +86,7 @@ Các hoạt động học tập của Khoa Ngoại ngữ gắn kết cao với m
 
 ## Infographic
 
-![1](<../../.gitbook/assets/1 - tiêu đề (3).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (8).png>) ![3](<../../.gitbook/assets/3 - việc làm (3).png>) ![4](<../../.gitbook/assets/4 - CƠ HỘI VIỆC LÀM (1).png>) ![5](<../../.gitbook/assets/5 - CƠ HỘI VIỆC LÀM (1).png>) ![6](<../../.gitbook/assets/6 - định hướng đào tạo (1).png>) ![7](<../../.gitbook/assets/7 - định hướng đào tạo (1).png>) ![8](<../../.gitbook/assets/8 - chương trình đào tạo.png>) ![9](<../../.gitbook/assets/9 - nd ctdt (2).png>) ![10](<../../.gitbook/assets/11 - học phí.png>) ![11](<../../.gitbook/assets/12 - học phí (4).png>) ![12](<../../.gitbook/assets/13 - liên hệ.png>)
+![1](<../../.gitbook/assets/1 - tiêu đề (21).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (4).png>) ![3](<../../.gitbook/assets/3 - việc làm.png>) ![4](<../../.gitbook/assets/4 - CƠ HỘI VIỆC LÀM (3).png>) ![5](<../../.gitbook/assets/5 - CƠ HỘI VIỆC LÀM.png>) ![6](<../../.gitbook/assets/6 - định hướng đào tạo (1).png>) ![7](<../../.gitbook/assets/7 - định hướng đào tạo (2).png>) ![8](<../../.gitbook/assets/8 - chương trình đào tạo.png>) ![9](<../../.gitbook/assets/9 - nd ctdt.png>) ![10](<../../.gitbook/assets/11 - học phí (1).png>) ![11](<../../.gitbook/assets/12 - học phí (1).png>) ![12](<../../.gitbook/assets/13 - liên hệ.png>)
 
 ## Thông tin liên hệ
 

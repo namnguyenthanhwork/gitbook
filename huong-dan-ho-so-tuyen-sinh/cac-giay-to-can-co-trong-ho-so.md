@@ -54,29 +54,29 @@ coverY: 330.13574660633486
 
 ### 1. Giấy chứng nhận kết quả thi THPT năm 2022 (<mark style="color:red;">**bản chính**</mark>** - Bắt buộc đối với thí sinh tham gia kỳ thi Tốt nghiệp THPT 2022, bao gồm thí sinh tự do có đăng ký tham dự kỳ thi năm nay**)
 
-![Giấy chứng nhận kết quả thi THPT năm 2022](<../.gitbook/assets/image (16) (1).png>)
+![Giấy chứng nhận kết quả thi THPT năm 2022](<../.gitbook/assets/image (28).png>)
 
 ### **2. Giấy chứng nhận tốt nghiệp trung học tạm thời** đối với những thí sinh trúng tuyển ngay trong năm tốt nghiệp (2021) hoặc **bằng tốt nghiệp trung học đối với những thí sinh đã tốt nghiệp năm 2020 trở về trước.** Những thí sinh nộp giấy chứng nhận tốt nghiệp tạm thời, đầu năm học sau phải xuất trình bản chính bằng tốt nghiệp trung học để đối chiếu kiểm tra;
 
-![Giấy chứng nhận tốt nghiệp](<../.gitbook/assets/image (9) (1).png>)
+![Giấy chứng nhận tốt nghiệp](<../.gitbook/assets/image (6).png>)
 
 ### **3. Phiếu thông tin sinh viên trúng tuyển** (in ra sau khi đăng ký nhập học trực tuyến);
 
-![Giấy kết quả trúng tuyển](<../.gitbook/assets/image (14) (1).png>)
+![Giấy kết quả trúng tuyển](<../.gitbook/assets/image (27).png>)
 
-![Giấy kết quả trúng tuyển & thanh toán](<../.gitbook/assets/image (7) (1) (1).png>)
+![Giấy kết quả trúng tuyển & thanh toán](<../.gitbook/assets/image (1).png>)
 
 ### **4. Phiếu đăng ký xét tuyển/ưu tiên xét tuyển** (in ra từ thư xác nhận nộp hồ sơ xét tuyển của trường hoặc từ trang tra cứu). <mark style="color:red;">Ký tên cuối phiếu</mark>
 
-![Giấy xét tuyển](<../.gitbook/assets/image (11) (1) (1).png>)
+![Giấy xét tuyển](<../.gitbook/assets/image (9).png>)
 
 ### **5. Học bạ** (<mark style="color:red;">3 bản sao công chứng</mark> - đầy đủ thông tin 3 năm học THPT - 6 học kỳ);
 
-![Học bạ (công chứng)](<../.gitbook/assets/image (6) (1).png>)
+![Học bạ (công chứng)](../.gitbook/assets/image.png)
 
 ### **6. Giấy khai sinh** (<mark style="color:red;">1 bản sao công chứng</mark>)
 
-![Giấy khai sinh (bản sao hoặc photo công chứng)](<../.gitbook/assets/image (13) (1).png>)
+![Giấy khai sinh (bản sao hoặc photo công chứng)](<../.gitbook/assets/image (22).png>)
 
 ### **7. Các minh chứng để được hưởng chế độ ưu tiên quy định trong văn bản hướng dẫn của Bộ Giáo dục và Đào tạo** (các giấy tờ xác nhận đối tượng và khu vực ưu tiên, hộ khẩu...). <mark style="color:red;">Bản sao công chứng</mark> Link minh chứng: [http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu-tien-2021](http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu-tien-2021)
 
@@ -86,29 +86,29 @@ coverY: 330.13574660633486
 
 ### **8. 03 ảnh màu 3x4 chụp trong vòng 6 tháng ghi rõ thông tin cá nhân sau ảnh** (mã sinh viên, họ và tên);
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<../.gitbook/assets/image (21).png>)
 
 ### **9. Giấy chứng nhận đăng ký nghĩa vụ quân sự** do Ban chỉ huy quân sự cấp Quận, Huyện cấp và **giấy xác nhận đăng ký vắng mặt** do Ban chỉ huy quân sự cấp Phường, Xã nơi cư trú cấp **(đối với nam sinh viên);**
 
-![Giấy chứng nhận đăng ký NVQS](<../.gitbook/assets/image (2).png>)
+![Giấy chứng nhận đăng ký NVQS](<../.gitbook/assets/image (16).png>)
 
-![Giấy xác nhận đăng ký vắng mặt](<../.gitbook/assets/image (3) (1) (1).png>)
+![Giấy xác nhận đăng ký vắng mặt](<../.gitbook/assets/image (34).png>)
 
 ### **10. Bản photo CMND/CCCD** (bắt buộc);
 
-![Giấy CMND/CCCD](<../.gitbook/assets/image (15) (1) (1).png>)
+![Giấy CMND/CCCD](<../.gitbook/assets/image (24).png>)
 
 ### **11. Biên lai đóng học phí học kỳ I,** năm học 2021 – 2022 (bản in hoặc photo);
 
-![Biên lai](<../.gitbook/assets/image (12) (1).png>)
+![Biên lai](<../.gitbook/assets/image (14).png>)
 
 ### **12. **<mark style="color:red;">**Bản sao công chứng**</mark>** chứng chỉ Ngoại ngữ/Tin học** đối với thí sinh được miễn thi Ngoại ngữ, Tin học;
 
 Link tham khảo: [http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc](http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc)
 
-![Chứng chỉ tin học văn phòng (minh hoạ)](<../.gitbook/assets/image (8) (1) (1).png>)
+![Chứng chỉ tin học văn phòng (minh hoạ)](<../.gitbook/assets/image (4).png>)
 
-![Chứng chỉ anh văn (minh hoạ)](<../.gitbook/assets/image (10).png>)
+![Chứng chỉ anh văn (minh hoạ)](<../.gitbook/assets/image (12).png>)
 
 **MỌI THẮC MẮC KHÁC CÁC BẠN CÓ THỂ LIÊN HỆ BAN TUYỂN SINH, PHÒNG QUẢN LÝ ĐÀO TẠO ĐỂ ĐƯỢC GIẢI QUYẾT KỊP THỜI.**
 

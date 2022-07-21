@@ -12,10 +12,10 @@
 * [ℹ Chỉ tiêu - Học phí 2022 & Điểm chuẩn các năm](thong-tin-tuyen-sinh/chi-tieu-hoc-phi-2022-and-diem-chuan-cac-nam.md)
 * [🌎 Địa điểm học tập](thong-tin-tuyen-sinh/dia-diem-hoc-tap.md)
 * [📋 Review cơ sở học tập](thong-tin-tuyen-sinh/review-co-so-hoc-tap/README.md)
-  * [☺ Review cơ sở 371 Nguyễn Kiệm](review/review-co-so-371-nguyen-kiem.md)
-  * [🥰 Review cơ sở 02 Mai Thị Lựu](review/review-co-so-mai-thi-luu.md)
-  * [😍 Review cơ sở 97 Võ Văn Tần](thong-tin-tuyen-sinh/review-co-so-hoc-tap/review-co-so-vo-van-tan.md)
-* [🗒 Giới thiệu ngành đào tạo Trường Đại học Mở Tp.HCM](thong-tin-tuyen-sinh/danh-sach-khoa-nganh-dao-tao-truong-dai-hoc-mo-tp.hcm.md)
+  * [☺ Review cơ sở 371 Nguyễn Kiệm](thong-tin-tuyen-sinh/review-co-so-hoc-tap/review-co-so-371-nguyen-kiem.md)
+  * [🥰 Review cơ sở 02 Mai Thị Lựu](thong-tin-tuyen-sinh/review-co-so-hoc-tap/review-co-so-02-mai-thi-luu.md)
+  * [😍 Review cơ sở 97 Võ Văn Tần](thong-tin-tuyen-sinh/review-co-so-hoc-tap/review-co-so-97-vo-van-tan.md)
+* [🗒 Giới thiệu ngành đào tạo Trường Đại học Mở Tp.HCM](thong-tin-tuyen-sinh/gioi-thieu-nganh-dao-tao-truong-dai-hoc-mo-tp.hcm.md)
 
 ## Hướng dẫn hồ sơ tuyển sinh
 
@@ -23,7 +23,7 @@
   * [🗒 Khu vực ưu tiên](huong-dan-ho-so-tuyen-sinh/quy-che-tuyen-sinh/khu-vuc-uu-tien.md)
   * [🗒 Đối tượng ưu tiên](huong-dan-ho-so-tuyen-sinh/quy-che-tuyen-sinh/doi-tuong-uu-tien.md)
 * [📱 Công cụ tính điểm xét tuyển](huong-dan-ho-so-tuyen-sinh/cong-cu-tinh-diem-xet-tuyen.md)
-* [📋 Hướng dẫn đăng ký xét tuyển online](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online.md)
+* [📋 Hướng dẫn đăng ký xét tuyển online](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/README.md)
   * [✏ Phương thức xét học bạ 3 năm THPT](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt.md)
   * [✏ Phương thức ưu tiên xét học sinh giỏi](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-uu-tien-xet-hoc-sinh-gioi.md)
   * [✏ Phương thức xét học bạ 3 năm THPT có chứng chỉ ngoại ngữ](huong-dan-ho-so-tuyen-sinh/huong-dan-dang-ky-xet-tuyen-online/phuong-thuc-xet-hoc-ba-3-nam-thpt-co-chung-chi-ngoai-ngu.md)

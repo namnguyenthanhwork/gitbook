@@ -48,17 +48,17 @@ Cách đăng ký
 
 Vậy là nhờ có chiếc mail trường mà bây giờ bạn có thể thoải mái xài notion luôn rồi hen! Nếu bạn muốn chuyển background thành màu đen như mình thì bấm vào thanh công cụ bên trái, chọn Settings & Members -> Appearance -> Chọn "Dark" là ok.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (32).png>)
 
-![](<../.gitbook/assets/image (15) (1).png>)
+![](<../.gitbook/assets/image (11).png>)
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (31).png>)
 
-![](<../.gitbook/assets/image (18) (1).png>)
+![](<../.gitbook/assets/image (26).png>)
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (23).png>)
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^

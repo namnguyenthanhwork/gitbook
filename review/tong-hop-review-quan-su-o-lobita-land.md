@@ -6,7 +6,7 @@ coverY: 278.552036199095
 
 # 🔖 Tổng hợp review quân sự ở Lobita Land
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (41).png>)
 
 {% hint style="info" %}
 **Tổng hợp các bài review quân sự của sinh viên OU**

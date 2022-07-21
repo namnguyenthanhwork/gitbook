@@ -68,7 +68,7 @@ Trước khi ra trường, sinh viên phải trải qua một kỳ thực tập 
 
 ## Infographic
 
-![1](<../../.gitbook/assets/1 - tiêu đề (3) (1).png>) ![2](<../../.gitbook/assets/3 - ngành - chuyên ngành.png>) ![3](<../../.gitbook/assets/4 - ngành - chuyên ngành.png>) ![4](<../../.gitbook/assets/5 - ngành - chuyên ngành.png>) ![5](<../../.gitbook/assets/6 - ngành - chuyên ngành (2).png>) ![6](<../../.gitbook/assets/7 - ngành - chuyên ngành (2).png>) ![7](<../../.gitbook/assets/8 - tỷ lệ việc làm (2).png>) ![8](<../../.gitbook/assets/9 - nd ctdt (1).png>) ![9](<../../.gitbook/assets/10 - nd ctdt (1).png>) ![10](<../../.gitbook/assets/11 - nd ctdt (3).png>) ![11](<../../.gitbook/assets/13 - HỌC PHÍ.png>) ![12](<../../.gitbook/assets/14 - HỌC PHÍ.png>)
+![1](<../../.gitbook/assets/1 - tiêu đề (15).png>) ![2](<../../.gitbook/assets/3 - ngành - chuyên ngành.png>) ![3](<../../.gitbook/assets/4 - ngành - chuyên ngành.png>) ![4](<../../.gitbook/assets/5 - ngành - chuyên ngành.png>) ![5](<../../.gitbook/assets/6 - ngành - chuyên ngành.png>) ![6](<../../.gitbook/assets/7 - ngành - chuyên ngành.png>) ![7](<../../.gitbook/assets/8 - tỷ lệ việc làm (2).png>) ![8](<../../.gitbook/assets/9 - nd ctdt (2).png>) ![9](<../../.gitbook/assets/10 - nd ctdt.png>) ![10](<../../.gitbook/assets/11 - nd ctdt.png>) ![11](<../../.gitbook/assets/13 - HỌC PHÍ (2).png>) ![12](<../../.gitbook/assets/14 - HỌC PHÍ (1).png>)
 
 ## Thông tin liên hệ
 

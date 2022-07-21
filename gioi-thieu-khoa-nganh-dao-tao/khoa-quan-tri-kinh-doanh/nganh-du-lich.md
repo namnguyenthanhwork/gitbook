@@ -78,7 +78,7 @@ Chương trình đào tạo cử nhân của khoa QTKD cung cấp kiến thức 
 
 ## Infographic
 
-![1](<../../.gitbook/assets/1 - tiêu đề (1) (1).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (1) (1).png>) ![3](<../../.gitbook/assets/3 - Ngành & việc làm (2).png>) ![4](<../../.gitbook/assets/4 - NGÀNH DU LỊCH 1.png>) ![5](<../../.gitbook/assets/5 - NGÀNH DU LỊCH 2.png>) ![6](<../../.gitbook/assets/6 - Mục tiêu đào tạo.png>) ![7](<../../.gitbook/assets/7 - MỤC TIÊU ĐÀO TẠO.png>) ![8](<../../.gitbook/assets/8 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![9](<../../.gitbook/assets/9 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO (1).png>) ![10](<../../.gitbook/assets/11 - học phí (1).png>) ![11](<../../.gitbook/assets/12 - học phí.png>) ![12](<../../.gitbook/assets/13 - thông tin khác.png>)
+![1](<../../.gitbook/assets/1 - tiêu đề (22).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (11).png>) ![3](<../../.gitbook/assets/3 - Ngành & việc làm (5).png>) ![4](<../../.gitbook/assets/4 - NGÀNH DU LỊCH 1.png>) ![5](<../../.gitbook/assets/5 - NGÀNH DU LỊCH 2.png>) ![6](<../../.gitbook/assets/6 - Mục tiêu đào tạo.png>) ![7](<../../.gitbook/assets/7 - MỤC TIÊU ĐÀO TẠO (1).png>) ![8](<../../.gitbook/assets/8 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![9](<../../.gitbook/assets/9 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO (3).png>) ![10](<../../.gitbook/assets/11 - học phí.png>) ![11](<../../.gitbook/assets/12 - học phí (2).png>) ![12](<../../.gitbook/assets/13 - thông tin khác.png>)
 
 ## Thông tin liên hệ
 

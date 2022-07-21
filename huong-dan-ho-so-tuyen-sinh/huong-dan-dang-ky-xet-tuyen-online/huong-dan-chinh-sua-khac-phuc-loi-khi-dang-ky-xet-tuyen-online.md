@@ -46,7 +46,7 @@ coverY: 136.69683257918555
 **Chỉnh sửa và ấn lưu, khi có thông báo bên dưới là đã thành công**
 {% endhint %}
 
-![Chỉnh sửa và ấn lưu, khi có thông báo bên dưới là đã thành công](<../../.gitbook/assets/c11 ccnn (1).PNG>)
+![Chỉnh sửa và ấn lưu, khi có thông báo bên dưới là đã thành công](<../../.gitbook/assets/c11 ccnn.PNG>)
 
 ## Xem lại ảnh CMND/CCCD sau khi upload lên website
 

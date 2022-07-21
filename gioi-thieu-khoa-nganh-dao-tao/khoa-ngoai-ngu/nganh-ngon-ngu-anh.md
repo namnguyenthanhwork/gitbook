@@ -108,7 +108,7 @@ Trong quá trình học tập sinh viên có cơ hội học tập đồng bộ 
 
 ## Infographic
 
-![1](<../../.gitbook/assets/1 - tiêu đề (9).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (5).png>) ![3](<../../.gitbook/assets/3 - việc làm (2).png>) ![4](<../../.gitbook/assets/4 - CƠ HỘI VIỆC LÀM.png>) ![5](<../../.gitbook/assets/5 - CƠ HỘI VIỆC LÀM.png>) ![6](<../../.gitbook/assets/6 - CƠ HỘI VIỆC LÀM.png>) ![7](<../../.gitbook/assets/7 - định hướng đào tạo (3).png>) ![8](<../../.gitbook/assets/8 - định hướng đào tạo (1).png>) ![9](<../../.gitbook/assets/9 - định hướng đào tạo.png>) ![10](<../../.gitbook/assets/10 - CHƯƠNG TRÌNH đào tạo.png>) ![11](<../../.gitbook/assets/11 - nd ctdt.png>) ![12](<../../.gitbook/assets/13 - học phí (3).png>) ![13](<../../.gitbook/assets/14 - học phí.png>) ![14](<../../.gitbook/assets/15 - liên hệ (3).png>)
+![1](<../../.gitbook/assets/1 - tiêu đề (18).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (13).png>) ![3](<../../.gitbook/assets/3 - việc làm (6).png>) ![4](<../../.gitbook/assets/4 - CƠ HỘI VIỆC LÀM (2).png>) ![5](<../../.gitbook/assets/5 - CƠ HỘI VIỆC LÀM (2).png>) ![6](<../../.gitbook/assets/6 - CƠ HỘI VIỆC LÀM.png>) ![7](<../../.gitbook/assets/7 - định hướng đào tạo (1).png>) ![8](<../../.gitbook/assets/8 - định hướng đào tạo.png>) ![9](<../../.gitbook/assets/9 - định hướng đào tạo.png>) ![10](<../../.gitbook/assets/10 - CHƯƠNG TRÌNH đào tạo.png>) ![11](<../../.gitbook/assets/11 - nd ctdt (5).png>) ![12](<../../.gitbook/assets/13 - học phí (3).png>) ![13](<../../.gitbook/assets/14 - học phí (1).png>) ![14](<../../.gitbook/assets/15 - liên hệ.png>)
 
 ## Thông tin liên hệ
 

@@ -22,7 +22,7 @@ coverY: 288.868778280543
 
 **Chú ý:** 1 số bạn không tìm thấy nút tải lại do đa số các bạn click thông qua facebook nên các bạn làm theo bên dưới nhé !
 
-![](<../.gitbook/assets/reload fb link (1).jpg>)
+![](<../.gitbook/assets/reload fb link.jpg>)
 
 **Hướng dẫn trên điện thoại đang sử dụng trình duyệt chrome, nếu các bạn sài khác trình duyệt này thì có thể tìm và ấn nút tương tự**
 
