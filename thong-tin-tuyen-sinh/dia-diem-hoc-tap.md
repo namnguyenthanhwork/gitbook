@@ -34,40 +34,43 @@ coverY: 410.0904977375566
 
 
 
-### Cơ sở học tập
+### Các địa điểm học tập ở Trường Đại học Mở Tp.HCM&#x20;
 
-![Cơ sở học tập](<../.gitbook/assets/cơ sở ĐHM.jpg>)
+📌 Cơ sở 1 (CS chính của các ngành CLC): 97 Võ Văn Tần, P. 6, Q. 3, TP.HCM&#x20;
 
-{% hint style="info" %}
-**Ghi chú:** CÁC CƠ SỞ HỌC CỦA TRƯỜNG THEO NGÀNH ĐÀO TẠO:&#x20;
+📌 Cơ sở 2 (Cơ sở hành chính hiệu bộ): 35-37 Hồ Hảo Hớn, P. Cô Giang, Q. 1, TP.HCM&#x20;
 
-* <mark style="color:red;">**97 Võ Văn Tần P6 Q3:**</mark> Các ngành CHẤT LƯỢNG CAO&#x20;
-* <mark style="color:red;">**02 Mai Thị Lựu, phường Đa Kao, Q1:**</mark>&#x20;
-  * QTKD, MARKETING
-  * DU LỊCH
-  * LOGISTIC
-  * KINH DOANH QUỐC TẾ
-  * QUẢN TRỊ NHÂN LỰC
-  * KINH TẾ
-  * QUẢN LÝ CÔNG&#x20;
-* <mark style="color:red;">**371 Nguyễn Kiệm, P3, Quận Gò Vấp: TẤT CẢ CÁC NGÀNH ĐẠI TRÀ (còn lại)**</mark>
-  * CÔNG NGHỆ THÔNG TIN
-  * KHOA HỌC MÁY TÍNH
-  * HỆ THỐNG THÔNG TIN QUẢN LÝ
-  * CÁC NGÀNH NGÔN NGỮ ANH-NHẬT-TRUNG
-  * KẾ TOÁN - KIỂM TOÁN
-  * TÀI CHÍNH NGÂN HÀNG
-  * QUẢN LÝ XD
-  * CNKTCT XÂY DỰNG
-  * XÃ HỘI HỌC
-  * CÔNG TÁC XÃ HỘI
-  * ĐÔNG NAM Á
-  * LUẬT - LUẬT KINH TẾ
-  * CÔNG NGHỆ SINH HỌC
-  * CÔNG NGHỆ THỰC PHẨM&#x20;
-* <mark style="color:red;">**68 Lê Thị Trung, Tp.Thủ Dầu Một, Tỉnh Bình Dương:**</mark> NGÀNH CÔNG NGHỆ SINH HỌC (HỌC THỰC HÀNH)&#x20;
-* <mark style="color:red;">**Phường Long Bình Tân, Tp. Biên Hòa, Tỉnh Đồng Nai:**</mark> HỌC QUỐC PHÒNG TẬP TRUNG.
-{% endhint %}
+📌 Cơ sở 3 (Các ngành Đại trà): 371 Nguyễn Kiệm, P. 3, Q. Gò Vấp, TP.HCM
+
+* Công nghệ thông tin
+* Khoa học máy tính
+* Hệ thống thông thông tin quản lý
+* Ngôn ngữ Anh - Trung - Nhật - Hàn
+* Kế toán - Kiểm toán
+* Tài chính ngân hàng
+* Quản lý xây dựng
+* CNKT Công trình xây dựng
+* Xã hội học
+* Công tác xã hội
+* Đông nam á
+* Luật - Luật kinh tế
+* Công nghệ sinh học
+* Công nghệ thực phẩm
+
+📌 Cơ sở 4: 02 Mai Thị Lựu, P. Đa Kao, Q. 1, TP.HCM
+
+* Quản trị kinh doanh
+* Marketing
+* Du lịch
+* Logistics
+* Kinh doanh quốc tế
+* Quản trị nhân lực
+* Kinh tế
+* Quản lý công&#x20;
+
+📌 Cơ sở 5 (Khu thực hành khoa công nghệ sinh học): 68 Lê Thị Trung, P. Phú Lợi, TP. Thủ Dầu Một, Tỉnh Bình Dương.&#x20;
+
+📌 Cơ sở 6 (Khu quân sự): Đường số 9, P. Long Bình Tân, TP. Biên Hòa, Tỉnh Đồng Nai.
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^
