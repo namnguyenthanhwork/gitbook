@@ -1,5 +1,5 @@
 ---
-description: Hướng dẫn đăng ký Phương thức ưu tiên xét học sinh giỏi
+description: Hướng dẫn đăng ký Phương thức ưu tiên xét học sinh giỏi 3 năm THPT
 cover: ../../.gitbook/assets/banner mẫu 3.png
 coverY: 136.69683257918555
 ---
