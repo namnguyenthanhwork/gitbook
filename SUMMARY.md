@@ -105,9 +105,10 @@
 * [📑 Mẹo thuê phòng trọ](review/meo-thue-phong-tro.md)
 * [🔖 Tổng hợp review quân sự ở Lobita Land](review/tong-hop-review-quan-su-o-lobita-land.md)
 
-## THÔNG BÁO
+## Hướng dẫn
 
-* [📑 \[Hướng dẫn\] Thí sinh tự do xét tuyển học bạ đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT](thong-bao/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt.md)
+* [📑 Hướng dẫn Thí sinh tự do xét tuyển học bạ đăng ký vào hệ thống quản lý thi của Bộ GD&ĐT](huong-dan/huong-dan-thi-sinh-tu-do-xet-tuyen-hoc-ba-dang-ky-vao-he-thong-quan-ly-thi-cua-bo-gd-and-dt.md)
+* [📑 Hướng dẫn đăng ký nguyện vọng trên Cổng thông tin Bộ GD&ĐT](huong-dan/huong-dan-dang-ky-nguyen-vong-tren-cong-thong-tin-bo-gd-and-dt.md)
 
 ## Hướng dẫn khác
 

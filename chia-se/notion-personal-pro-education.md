@@ -50,15 +50,15 @@ Vậy là nhờ có chiếc mail trường mà bây giờ bạn có thể thoả
 
 ![](<../.gitbook/assets/image (32).png>)
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 ![](<../.gitbook/assets/image (31).png>)
 
 ![](<../.gitbook/assets/image (26).png>)
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^
