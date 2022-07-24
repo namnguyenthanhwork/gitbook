@@ -50,13 +50,15 @@ coverY: 330.13574660633486
 
 <mark style="color:yellow;">**Lưu ý:**</mark>
 
-1. Phương thức HSG (HSG 3 năm cấp 3) <mark style="color:red;">có thể xét tất cả các ngành (1 số ngành có cột điểm hsg là ngoài yêu cầu HSG thì phải đạt điểm chuẩn HSG trở lên)</mark>
-2. Thí sinh không được HSG và không có CCNN thì chỉ <mark style="color:red;">được phép đăng ký các ngành trừ những ngành có cột điểm HSG hoặc có ghi chú "chỉ nhận HSG & CCNN"</mark>
-3. Nếu cột học sinh giỏi không có ghi, cột học bạ điền dấu "x" hoặc không điền gì, <mark style="color:red;">nghĩa là tuyển thẳng học sinh giỏi</mark>
-4. Nếu HSG (cả năm 10 11 hk1 12) <mark style="color:red;">nên chọn phương thức 4</mark>
-5. Nếu có chứng chỉ ngoại ngữ <mark style="color:red;">nên chọn phương thức 5</mark>
-6. Nếu không được HSG hay không có CCNN <mark style="color:red;">nên chọn phương thức 6</mark>
-7. Nếu HSG mà có CCNN <mark style="color:red;">nên chọn phương thức 4 và điền thêm mục có CCNN</mark>
+1. Thứ tự ưu tiên các phương thức: **4 (PT xét HB 3 năm HSG) > 5 (PT xét HB có CCNN) > 6 (PT xét  HB)**
+2. Phương thức HSG (HSG 3 năm cấp 3) **có thể xét tất cả các ngành (1 số ngành có cột điểm hsg là ngoài yêu cầu HSG thì phải đạt điểm chuẩn HSG trở lên)**
+3. Thí sinh không được HSG và không có CCNN thì **chỉ được phép đăng ký các ngành có điểm số ở cột học bạ**
+4. Nếu cột học sinh giỏi & cột CCNN không có ghi nghĩa là **tuyển thẳng học sinh giỏi hoặc có CCNN. Nhưng nếu số lượng HSG quá nhiều thì sẽ thêm tiêu chí phụ là điểm chuẩn HSG**
+5. Nếu cột có dấu "x" nghĩa là **không xét tuyển phương thức đó**
+6. Nếu HSG (cả năm 10 11 hk1 12) nên chọn **phương thức 4 (PT HSG)**
+7. Nếu có chứng chỉ ngoại ngữ nên chọn **phương thức 5 (PT CCNN)**
+8. Nếu không được HSG hay không có CCNN nên chọn **phương thức 6 (PT xét học bạ THPT)**
+9. Nếu HSG mà có CCNN nên chọn **phương thức 4 và điền thêm mục có CCNN**
 
 ### III. Học phí 1 năm (dự kiến)
 
