@@ -122,21 +122,21 @@ Chương trình chất lượng cao học tại trụ sở chính của trườn
 ## Thông tin liên hệ
 
 {% hint style="info" %}
-**ĐỊA ĐIỂM HỌC TẬP:** 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.
+📍 ĐỊA ĐIỂM HỌC TẬP: 97 Võ Văn Tần, phường 6, Quận 3, TP.HCM.&#x20;
 
-**VĂN PHÒNG KHOA ĐÀO TẠO ĐẶC BIỆT**&#x20;
+VĂN PHÒNG KHOA ĐÀO TẠO ĐẶC BIỆT&#x20;
 
-Phòng 007, 97 Võ Văn Tần, Quận 3, TP. Hồ Chí Minh
+🏫 Phòng 007, 97 Võ Văn Tần, Quận 3, TP. Hồ Chí Minh&#x20;
 
-**Điện thoại:** 028-3930 9918
+☎ Điện thoại: 028-3930 9918&#x20;
 
-**Hotline:** 0382109000
+📞 Hotline: 0382109000&#x20;
 
-**Email:** sas@ou.edu.vn
+📧 Email: sas@ou.edu.vn&#x20;
 
-**Website:** [www.ou.edu.vn/dacbiet](https://www.ou.edu.vn/dacbiet)
+🌐 Website: www.ou.edu.vn/dacbiet&#x20;
 
-**Fanpage:** [https://www.facebook.com/KhoaDaotaodacbiet](https://www.facebook.com/KhoaDaotaodacbiet)
+🔗 Fanpage: https://www.facebook.com/KhoaDaotaodacbiet
 {% endhint %}
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
