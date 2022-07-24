@@ -97,7 +97,16 @@ Ngoài ra, sinh viên cũng được trang bị thêm các kiến thức cơ b�
 
 ## Học phí
 
-![1](<../../.gitbook/assets/1 - tiêu đề (13).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (18).png>) ![3](<../../.gitbook/assets/3 - VIỆC LÀM.png>) ![4](<../../.gitbook/assets/4 - CƠ HỘI VIỆC LÀM.png>) ![5](<../../.gitbook/assets/5 - CƠ HỘI VIỆC LÀM (3).png>) ![6](<../../.gitbook/assets/6 - định hướng đào tạo.png>) ![7](<../../.gitbook/assets/7 - định hướng đào tạo (3).png>) ![8](<../../.gitbook/assets/8 - định hướng đào tạo (1).png>) ![9](<../../.gitbook/assets/9 - định hướng đào tạo (2).png>) ![10](<../../.gitbook/assets/10 - chương trình đào tạo.png>) ![11](<../../.gitbook/assets/11 - nd ctdt (2).png>) ![12](<../../.gitbook/assets/13 - học phí (5).png>) ![13](<../../.gitbook/assets/14 - học phí (4).png>) ![14](<../../.gitbook/assets/15 - liên hệ (3).png>)
+| NGÀNH/NHÓM NGÀNH                                                                                                                                                                  | MỨC HỌC PHÍ BÌNH QUÂN      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| CÔNG NGHỆ SINH HỌC, CÔNG NGHỆ THỰC PHẨM                                                                                                                                           | 24,000,000/1 NĂM/SINH VIÊN |
+| CÔNG NGHỆ KỸ THUẬT CÔNG TRÌNH XÂY DỰNG, QUẢN LÝ XÂY DỰNG                                                                                                                          | 25,000,000/1 NĂM/SINH VIÊN |
+| KHOA HỌC MÁY TÍNH, HỆ THỐNG THÔNG TIN QUẢN LÝ, CÔNG NGHỆ THÔNG TIN                                                                                                                | 25,000,000/1 NĂM/SINH VIÊN |
+| KẾ TOÁN, KIỂM TOÁN,TÀI CHÍNH - NGÂN HÀNG, QUẢN TRỊ KINH DOANH, MARKETING, KINH DOANH QUỐC TẾ, QUẢN TRỊ NHÂN LỰC, LUẬT, LUẬT KINH TẾ, LOGISTICS VÀ QUẢN LÝ CHUỖI CUNG ỨNG, DU LỊCH | 23,000,000/1 NĂM/SINH VIÊN |
+| KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
+| NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
+
+![](<../../.gitbook/assets/image (45).png>)
 
 ## Thông tin liên hệ
 

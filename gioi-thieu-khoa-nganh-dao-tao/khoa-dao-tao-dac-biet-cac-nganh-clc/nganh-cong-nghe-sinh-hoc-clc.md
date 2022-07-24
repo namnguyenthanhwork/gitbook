@@ -47,12 +47,6 @@ Chương trình đào tạo ngành Công Nghệ Sinh Học được thiết kế
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)
 
-### Infographic
-
-![1](<../../.gitbook/assets/27 - Công nghệ sinh học.png>)
-
-![2](<../../.gitbook/assets/28 - Công nghệ sinh học.png>)
-
 ### Thông tin liên hệ
 
 {% hint style="info" %}

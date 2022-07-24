@@ -43,12 +43,6 @@ Chương trình đào tạo chuyên ngành Biên - Phiên dịch được thiế
 * Học lên bậc học thạc sĩ các ngành liên quan tiếng Trung Quốc.
 {% endhint %}
 
-### Infographic
-
-![1](<../../.gitbook/assets/43 - Ngôn ngữ Trung.png>)
-
-![2](<../../.gitbook/assets/44 - Ngôn ngữ Trung.png>)
-
 ### Học phí
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)

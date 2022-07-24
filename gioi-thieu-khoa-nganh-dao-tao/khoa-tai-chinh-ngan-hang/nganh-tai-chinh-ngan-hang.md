@@ -127,9 +127,7 @@ Với định hướng đào tạo tạo nên những khác biệt nêu trên, s
 | KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
 | NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
 
-## Infographic
-
-![1](<../../.gitbook/assets/1 - tiêu đề (1).png>) ![2](<../../.gitbook/assets/2 - Giới thiệu chung.png>) ![3](<../../.gitbook/assets/3 - đầu ra - việc làm.png>) ![4](<../../.gitbook/assets/4 - đầu ra - việc làm.png>) ![5](<../../.gitbook/assets/5 - đầu ra - việc làm.png>) ![6](<../../.gitbook/assets/6 - MỤC TIÊU CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![7](<../../.gitbook/assets/7 - MỤC TIÊU CHƯƠNG TRÌNH ĐÀO TẠO (2).png>) ![8](<../../.gitbook/assets/8 - ngành - chuyên ngành (3).png>) ![9](<../../.gitbook/assets/9 - Chuyên ngành Tài chính doanh nghiệp.png>) ![10](<../../.gitbook/assets/10 - Chuyên ngành Tài chính doanh nghiệp.png>) ![11](<../../.gitbook/assets/11 - Chuyên ngành Đầu tư.png>) ![12](<../../.gitbook/assets/12 - Chuyên ngành Đầu tư.png>) ![13](<../../.gitbook/assets/13 - Chuyên ngành Ngân hàng.png>) ![14](<../../.gitbook/assets/14 - Chuyên ngành Ngân hàng.png>) ![15](<../../.gitbook/assets/15 - Chuyên ngành Ngân hàng.png>) ![16](<../../.gitbook/assets/17 - học phí (2).png>) ![17](<../../.gitbook/assets/18 - học phí.png>) ![18](<../../.gitbook/assets/19 - liên hệ.png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 ## Thông tin liên hệ
 

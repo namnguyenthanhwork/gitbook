@@ -71,18 +71,6 @@ Sinh viên tốt nghiệp chuyên ngành Kinh doanh quốc tế có thể đảm
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)
 
-### Infographic
-
-![1](<../../.gitbook/assets/10 - Ngành Quản Trị Kinh Doanh.png>)
-
-![2](<../../.gitbook/assets/11 - Marketing.png>)
-
-![3](<../../.gitbook/assets/12 - Marketing.png>)
-
-![4](<../../.gitbook/assets/13 - Kinh doanh quốc tế.png>)
-
-![5](<../../.gitbook/assets/14 - Kinh doanh quốc tế.png>)
-
 ### Thông tin liên hệ
 
 {% hint style="info" %}

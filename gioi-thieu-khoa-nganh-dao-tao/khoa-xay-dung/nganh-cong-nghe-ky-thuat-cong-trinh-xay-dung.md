@@ -108,9 +108,7 @@ Sinh viên được trang bị các khối kiến thức:
 | KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
 | NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
 
-## Infographic
-
-![1](<../../.gitbook/assets/1- tiêu đề.png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (2).png>) ![3](<../../.gitbook/assets/3 - Điểm nổi bật của khoa.png>) ![4](<../../.gitbook/assets/4 - việc làm (1).png>) ![5](<../../.gitbook/assets/5 - Việc làm - CTXD.png>) ![6](<../../.gitbook/assets/6 - Mục tiêu (1).png>) ![7](<../../.gitbook/assets/7 - Mục tiêu - CTXD.png>) ![8](<../../.gitbook/assets/8 - Mục tiêu - CTXD.png>) ![9](<../../.gitbook/assets/9 - Điểm mạnh.png>) ![10](<../../.gitbook/assets/10 - Điểm mạnh.png>) ![11](<../../.gitbook/assets/11 - ngành - chuyên ngành (1).png>) ![12](<../../.gitbook/assets/12 - nd ctdt (1).png>) ![13](<../../.gitbook/assets/13 - nd ctdt (1).png>) ![14](<../../.gitbook/assets/14 - nd ctdt.png>) ![15](<../../.gitbook/assets/16 - học phí.png>) ![16](<../../.gitbook/assets/17 - học phí.png>) ![17](<../../.gitbook/assets/18 - Thông tin liên hệ.png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 ## Thông tin liên hệ
 

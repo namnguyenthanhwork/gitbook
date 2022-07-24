@@ -104,9 +104,7 @@ CTĐT ngành Công Nghệ Thực Phẩm nhằm trang bị cho người học nh�
 | KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
 | NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
 
-## Infographic
-
-![1](<../../.gitbook/assets/1 - tiêu đề (20).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (1).png>) ![3](<../../.gitbook/assets/3 - Đầu ra & Cơ hội việc làm.png>) ![4](<../../.gitbook/assets/4 - Đầu ra & Cơ hội việc làm.png>) ![5](<../../.gitbook/assets/5 - Đầu ra & Cơ hội việc làm (1).png>) ![6](<../../.gitbook/assets/6 - tỷ lệ có việc làm.png>) ![7](<../../.gitbook/assets/7 - Mục tiêu Chương trình đào tạo (1).png>) ![8](<../../.gitbook/assets/8 - Mục tiêu Chương trình đào tạo (1).png>) ![9](<../../.gitbook/assets/9 - ngành - chuyên ngành (1).png>) ![10](<../../.gitbook/assets/10 - Nội dung Chương trình đào tạo (1).png>) ![11](<../../.gitbook/assets/11 - Nội dung Chương trình đào tạo (1).png>) ![12](<../../.gitbook/assets/12 - Nội dung Chương trình đào tạo.png>) ![13](<../../.gitbook/assets/13 - Nội dung Chương trình đào tạo.png>) ![14](<../../.gitbook/assets/14 - Nội dung Chương trình đào tạo (1).png>) ![15](<../../.gitbook/assets/16 - HỌC PHÍ.png>) ![16](<../../.gitbook/assets/17 - HỌC PHÍ (1).png>) ![17](<../../.gitbook/assets/18 - liên hệ (1).png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 ## Thông tin liên hệ
 

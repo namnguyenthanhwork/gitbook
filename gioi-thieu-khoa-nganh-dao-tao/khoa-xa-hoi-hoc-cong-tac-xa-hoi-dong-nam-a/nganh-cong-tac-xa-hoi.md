@@ -97,9 +97,7 @@ Với tư cách là Công tác xã hội viên, sinh viên tốt nghiệp có th
 | KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
 | NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
 
-## Infographic
-
-![1](<../../.gitbook/assets/1 - tiêu đề.png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (21).png>) ![3](<../../.gitbook/assets/3 - đầu ra - việc làm (1).png>) ![4](<../../.gitbook/assets/4 - NGÀNH CÔNG TÁC XÃ HỘI.png>) ![5](<../../.gitbook/assets/5 - NGÀNH CÔNG TÁC XÃ HỘI.png>) ![6](<../../.gitbook/assets/6 - NGÀNH CÔNG TÁC XÃ HỘI.png>) ![7](<../../.gitbook/assets/7 - ngành - chuyên ngành (2).png>) ![8](<../../.gitbook/assets/8 - chuyên ngành 1.png>) ![9](<../../.gitbook/assets/9 - NGÀNH CÔNG TÁC XÃ HỘI.png>) ![10](<../../.gitbook/assets/10 - NGÀNH CÔNG TÁC XÃ HỘI.png>) ![11](<../../.gitbook/assets/11 - ngành - chuyên ngành.png>) ![12](<../../.gitbook/assets/12 - NGÀNH Đông Nam Á học.png>) ![13](<../../.gitbook/assets/13 - NGÀNH Đông Nam Á học.png>) ![14](<../../.gitbook/assets/15 - học phí.png>) ![15](<../../.gitbook/assets/16 - học phí (1).png>) ![16](<../../.gitbook/assets/17 - LIÊN HỆ.png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 ## Thông tin liên hệ
 

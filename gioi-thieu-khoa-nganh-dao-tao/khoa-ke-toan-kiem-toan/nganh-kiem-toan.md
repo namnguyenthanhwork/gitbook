@@ -106,9 +106,7 @@ Ngoài ra, Khoa có chương trình thực tập kết hợp với doanh nghiệ
 | KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
 | NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
 
-## Infographic
-
-![1](<../../.gitbook/assets/1 - tiêu đề (9).png>) ![2](<../../.gitbook/assets/3 - việc làm (1).png>) ![3](<../../.gitbook/assets/4 - việc làm (4).png>) ![4](<../../.gitbook/assets/5 - việc làm.png>) ![5](<../../.gitbook/assets/6 - MỤC TIÊU CHƯƠNG TRÌNH ĐÀO TẠO (2).png>) ![6](<../../.gitbook/assets/7 - MỤC TIÊU CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![7](<../../.gitbook/assets/8 - nội dung ctdt.png>) ![8](<../../.gitbook/assets/9 - nội dung ctdt (2).png>) ![9](<../../.gitbook/assets/10 - ngành kiểm toán (1).png>) ![10](<../../.gitbook/assets/11 - ngành kiểm toán.png>) ![11](<../../.gitbook/assets/12 - ngành kiểm toán.png>) ![12](<../../.gitbook/assets/14 - KHÁC BIỆT.png>) ![13](<../../.gitbook/assets/15 - KHÁC BIỆT (1).png>) ![14](<../../.gitbook/assets/16 - KHÁC BIỆT.png>) ![15](<../../.gitbook/assets/17 - KHÁC BIỆT.png>) ![16](<../../.gitbook/assets/18 - HỌC PHÍ (2).png>) ![17](<../../.gitbook/assets/19 - HỌC PHÍ.png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 ## Thông tin liên hệ
 

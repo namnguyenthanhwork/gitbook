@@ -77,18 +77,6 @@ Ngoài **ra còn có các môn học tự chọn như:**
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)
 
-### Infographic
-
-![1](<../../.gitbook/assets/34 - Ngành Khoa Học Máy Tính.png>)
-
-![2](<../../.gitbook/assets/35 - Khoa học máy tính.png>)
-
-![3](<../../.gitbook/assets/36 - Khoa học máy tính.png>)
-
-![4](<../../.gitbook/assets/37 - Khoa học máy tính.png>)
-
-![5](<../../.gitbook/assets/38 - Khoa học máy tính.png>)
-
 ### Thông tin liên hệ
 
 {% hint style="info" %}

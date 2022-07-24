@@ -18,6 +18,21 @@ coverY: 198.59728506787332
 
 ## ❗ Chưa cập nhật thông tin
 
+
+
+## Học phí
+
+| NGÀNH/NHÓM NGÀNH                                                                                                                                                                  | MỨC HỌC PHÍ BÌNH QUÂN      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| CÔNG NGHỆ SINH HỌC, CÔNG NGHỆ THỰC PHẨM                                                                                                                                           | 24,000,000/1 NĂM/SINH VIÊN |
+| CÔNG NGHỆ KỸ THUẬT CÔNG TRÌNH XÂY DỰNG, QUẢN LÝ XÂY DỰNG                                                                                                                          | 25,000,000/1 NĂM/SINH VIÊN |
+| KHOA HỌC MÁY TÍNH, HỆ THỐNG THÔNG TIN QUẢN LÝ, CÔNG NGHỆ THÔNG TIN                                                                                                                | 25,000,000/1 NĂM/SINH VIÊN |
+| KẾ TOÁN, KIỂM TOÁN,TÀI CHÍNH - NGÂN HÀNG, QUẢN TRỊ KINH DOANH, MARKETING, KINH DOANH QUỐC TẾ, QUẢN TRỊ NHÂN LỰC, LUẬT, LUẬT KINH TẾ, LOGISTICS VÀ QUẢN LÝ CHUỖI CUNG ỨNG, DU LỊCH | 23,000,000/1 NĂM/SINH VIÊN |
+| KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
+| NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
+
+![](<../../.gitbook/assets/image (45).png>)
+
 ## Thông tin liên hệ
 
 {% hint style="info" %}

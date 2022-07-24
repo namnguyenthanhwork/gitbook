@@ -66,9 +66,7 @@ Trước khi ra trường, sinh viên phải trải qua một kỳ thực tập 
 | KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
 | NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
 
-## Infographic
-
-![1](<../../.gitbook/assets/1 - tiêu đề (15).png>) ![2](<../../.gitbook/assets/3 - ngành - chuyên ngành.png>) ![3](<../../.gitbook/assets/4 - ngành - chuyên ngành.png>) ![4](<../../.gitbook/assets/5 - ngành - chuyên ngành.png>) ![5](<../../.gitbook/assets/6 - ngành - chuyên ngành.png>) ![6](<../../.gitbook/assets/7 - ngành - chuyên ngành.png>) ![7](<../../.gitbook/assets/8 - tỷ lệ việc làm (2).png>) ![8](<../../.gitbook/assets/9 - nd ctdt (2).png>) ![9](<../../.gitbook/assets/10 - nd ctdt.png>) ![10](<../../.gitbook/assets/11 - nd ctdt.png>) ![11](<../../.gitbook/assets/13 - HỌC PHÍ (2).png>) ![12](<../../.gitbook/assets/14 - HỌC PHÍ (1).png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 ## Thông tin liên hệ
 

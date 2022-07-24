@@ -66,19 +66,28 @@ coverY: 330.13574660633486
 
 ![Giấy kết quả trúng tuyển & thanh toán](<../.gitbook/assets/image (1) (1).png>)
 
-### **4. Phiếu đăng ký xét tuyển/ưu tiên xét tuyển** (in ra từ thư xác nhận nộp hồ sơ xét tuyển của trường hoặc từ trang tra cứu). <mark style="color:red;">Ký tên cuối phiếu</mark>
+### **4. Phiếu đăng ký xét tuyển/ưu tiên xét tuyển**&#x20;
+
+(in ra từ thư xác nhận nộp hồ sơ xét tuyển của trường hoặc từ trang tra cứu). <mark style="color:red;">Ký tên cuối phiếu</mark>
 
 ![Giấy xét tuyển](<../.gitbook/assets/image (9) (1).png>)
 
-### **5. Học bạ** (<mark style="color:red;">3 bản sao công chứng</mark> - đầy đủ thông tin 3 năm học THPT - 6 học kỳ);
+### **5. Học bạ**&#x20;
+
+<mark style="color:red;">**3 bản sao hoặc photo công chứng**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> - đầy đủ thông tin 3 năm học THPT - 6 học kỳ;
 
 ![Học bạ (công chứng)](<../.gitbook/assets/image (29).png>)
 
-### **6. Giấy khai sinh** (<mark style="color:red;">1 bản sao công chứng</mark>)
+### **6. Giấy khai sinh**&#x20;
+
+<mark style="color:red;">**1 bản sao hoặc bản photo công chứng**</mark>
 
 ![Giấy khai sinh (bản sao hoặc photo công chứng)](<../.gitbook/assets/image (22) (1).png>)
 
-### **7. Các minh chứng để được hưởng chế độ ưu tiên quy định trong văn bản hướng dẫn của Bộ Giáo dục và Đào tạo** (các giấy tờ xác nhận đối tượng và khu vực ưu tiên, hộ khẩu...). <mark style="color:red;">Bản sao công chứng</mark> Link minh chứng: [http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu-tien-2021](http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu-tien-2021)
+### **7. Các minh chứng để được hưởng chế độ ưu tiên quy định trong văn bản hướng dẫn của Bộ Giáo dục và Đào tạo**&#x20;
+
+(các giấy tờ xác nhận đối tượng và khu vực ưu tiên, hộ khẩu...). <mark style="color:red;">**Bản sao hoặc bản photo công chứng**</mark>\
+Link minh chứng: [http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu-tien-2021](http://tuyensinh.ou.edu.vn/hd-chuan-bi-mc-huong-che-do-uu-tien-2021)
 
 {% hint style="info" %}
 **Lưu ý: Các giấy tờ tại mục 2, 5, 6, 7 là bản sao y chứng thực.**
@@ -88,7 +97,9 @@ coverY: 330.13574660633486
 
 ![](<../.gitbook/assets/image (21) (1).png>)
 
-### **9. Giấy chứng nhận đăng ký nghĩa vụ quân sự** do Ban chỉ huy quân sự cấp Quận, Huyện cấp và **giấy xác nhận đăng ký vắng mặt** do Ban chỉ huy quân sự cấp Phường, Xã nơi cư trú cấp **(đối với nam sinh viên);**
+### **9. Giấy chứng nhận đăng ký nghĩa vụ quân sự**&#x20;
+
+do Ban chỉ huy quân sự cấp Quận, Huyện cấp và **giấy xác nhận đăng ký vắng mặt** do Ban chỉ huy quân sự cấp Phường, Xã nơi cư trú cấp **(đối với nam sinh viên);**
 
 ![Giấy chứng nhận đăng ký NVQS](<../.gitbook/assets/image (16) (1).png>)
 
@@ -102,7 +113,7 @@ coverY: 330.13574660633486
 
 ![Biên lai](<../.gitbook/assets/image (14) (1).png>)
 
-### **12. **<mark style="color:red;">**Bản sao công chứng**</mark>** chứng chỉ Ngoại ngữ/Tin học** đối với thí sinh được miễn thi Ngoại ngữ, Tin học;
+### **12. **<mark style="color:red;">**Bản sao hoặc bản photo công chứng**</mark>** chứng chỉ Ngoại ngữ/Tin học** đối với thí sinh được miễn thi Ngoại ngữ, Tin học;
 
 Link tham khảo: [http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc](http://tuyensinh.ou.edu.vn/huong-dan-tan-sv-nop-ho-so-xet-mien-giam-mon-hoc)
 

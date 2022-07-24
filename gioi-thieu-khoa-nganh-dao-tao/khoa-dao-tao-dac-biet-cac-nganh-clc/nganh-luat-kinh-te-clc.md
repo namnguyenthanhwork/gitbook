@@ -50,18 +50,6 @@ Chương trình đào tạo ngành Luật Kinh Tế được thiết kế bao g�
   * **Công tác giảng dạy pháp luật**: sau khi tham gia khóa đào tạo, bồi dưỡng nghiệp vụ chuyên môn, có thời gian công tác thực tiễn theo quy định.
 {% endhint %}
 
-### Infographic
-
-![1](<../../.gitbook/assets/29 - Luật kinh tế.png>)
-
-![2](<../../.gitbook/assets/30 - Luật kinh tế.png>)
-
-![3](<../../.gitbook/assets/31 - Luật kinh tế.png>)
-
-![4](<../../.gitbook/assets/32 - Luật kinh tế.png>)
-
-![5](<../../.gitbook/assets/33 - Luật kinh tế.png>)
-
 ### Học phí
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)

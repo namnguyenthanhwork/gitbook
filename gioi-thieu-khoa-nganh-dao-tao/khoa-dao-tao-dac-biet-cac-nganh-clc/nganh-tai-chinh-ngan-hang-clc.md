@@ -96,22 +96,6 @@ Sau khi tích lũy kinh nghiệm thực tế và đáp ứng các điều kiện
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)
 
-### Infographic
-
-![1](<../../.gitbook/assets/15 - Ngành Tài chính ngân hàng.png>)
-
-![2](<../../.gitbook/assets/16 - Tài chính.png>)
-
-![3](<../../.gitbook/assets/17- Tài chính.png>)
-
-![4](<../../.gitbook/assets/18 - Tài chính.png>)
-
-![5](<../../.gitbook/assets/19 - Ngân hàng.png>)
-
-![6](<../../.gitbook/assets/20 - Ngân hàng.png>)
-
-![7](<../../.gitbook/assets/21 - Ngân hàng.png>)
-
 ### Thông tin liên hệ
 
 {% hint style="info" %}

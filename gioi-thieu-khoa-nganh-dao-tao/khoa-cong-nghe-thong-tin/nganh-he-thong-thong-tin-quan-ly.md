@@ -66,9 +66,7 @@ Sau khi học xong chương trình, cử nhân ngành Hệ thống thông tin q
 | KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
 | NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
 
-## Infographic
-
-![1](<../../.gitbook/assets/1 - tiêu đề (2).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (19).png>) ![3](<../../.gitbook/assets/3 - ngành - chuyên ngành (1).png>) ![4](<../../.gitbook/assets/4 - việc làm.png>) ![5](<../../.gitbook/assets/5 - chuyên ngành - việc làm.png>) ![6](<../../.gitbook/assets/6 - chuyên ngành - việc làm.png>) ![7](<../../.gitbook/assets/7 - tỷ lệ việc làm.png>) ![8](<../../.gitbook/assets/8 - nd ctdt.png>) ![9](<../../.gitbook/assets/9 - nd ctdt (3).png>) ![10](<../../.gitbook/assets/10 - nd ctdt (1).png>) ![11](<../../.gitbook/assets/12 - HỌC PHÍ.png>) ![12](<../../.gitbook/assets/13 - HỌC PHÍ.png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 ## Thông tin liên hệ
 

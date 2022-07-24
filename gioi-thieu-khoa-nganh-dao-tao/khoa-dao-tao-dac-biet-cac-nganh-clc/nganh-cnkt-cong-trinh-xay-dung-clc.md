@@ -53,12 +53,6 @@ Chương trình đào tạo ngành CNKT Công Trình Xây Dựng được thiế
 
 ![Học phí](<../../.gitbook/assets/48 - học phí.png>)
 
-### Infographic
-
-![1](<../../.gitbook/assets/39 - CNKT – Công trình xây dựng .png>)
-
-![2](<../../.gitbook/assets/40 - CNKT – Công trình xây dựng .png>)
-
 ### Thông tin liên hệ
 
 {% hint style="info" %}

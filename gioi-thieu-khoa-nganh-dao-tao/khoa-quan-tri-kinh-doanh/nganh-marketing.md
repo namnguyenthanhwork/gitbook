@@ -84,9 +84,7 @@ Chương trình đào tạo cử nhân của khoa QTKD cung cấp kiến thức 
 | KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
 | NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
 
-## Infographic
-
-![1](<../../.gitbook/assets/1 - tiêu đề (16).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (12).png>) ![3](<../../.gitbook/assets/3 - Ngành & việc làm (4).png>) ![4](<../../.gitbook/assets/4 - NGÀNH MARKETING 1.png>) ![5](<../../.gitbook/assets/5 - NGÀNH MARKETING 2.png>) ![6](<../../.gitbook/assets/6 - NGÀNH MARKETING 3.png>) ![7](<../../.gitbook/assets/7 - MỤC TIÊU ĐÀO TẠO (2).png>) ![8](<../../.gitbook/assets/8 - MỤC TIÊU ĐÀO TẠO (1).png>) ![9](<../../.gitbook/assets/9 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![10](<../../.gitbook/assets/10 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![11](<../../.gitbook/assets/12 - học phí (3).png>) ![12](<../../.gitbook/assets/13 - học phí (4).png>) ![13](<../../.gitbook/assets/14 - thông tin khác (1).png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 ## Thông tin liên hệ
 

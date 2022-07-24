@@ -50,7 +50,7 @@ _Điều kiện đăng ký xét tuyển_:
 3. Kết quả kỳ thi SAT đạt từ 1100/1600.
 {% endhint %}
 
-### **Phương thức 4:** Ưu tiên xét tuyển Học sinh Giỏi
+### **Phương thức 4:** Ưu tiên xét tuyển 3 năm Học sinh Giỏi
 
 {% hint style="success" %}
 _Điều kiện đăng ký xét tuyển_:

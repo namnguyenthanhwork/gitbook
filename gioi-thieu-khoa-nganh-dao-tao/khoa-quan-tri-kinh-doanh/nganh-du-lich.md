@@ -76,9 +76,7 @@ Chương trình đào tạo cử nhân của khoa QTKD cung cấp kiến thức 
 | KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
 | NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
 
-## Infographic
-
-![1](<../../.gitbook/assets/1 - tiêu đề (22).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (11).png>) ![3](<../../.gitbook/assets/3 - Ngành & việc làm (5).png>) ![4](<../../.gitbook/assets/4 - NGÀNH DU LỊCH 1.png>) ![5](<../../.gitbook/assets/5 - NGÀNH DU LỊCH 2.png>) ![6](<../../.gitbook/assets/6 - Mục tiêu đào tạo.png>) ![7](<../../.gitbook/assets/7 - MỤC TIÊU ĐÀO TẠO (1).png>) ![8](<../../.gitbook/assets/8 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO.png>) ![9](<../../.gitbook/assets/9 - NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO (3).png>) ![10](<../../.gitbook/assets/11 - học phí.png>) ![11](<../../.gitbook/assets/12 - học phí (2).png>) ![12](<../../.gitbook/assets/13 - thông tin khác.png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 ## Thông tin liên hệ
 

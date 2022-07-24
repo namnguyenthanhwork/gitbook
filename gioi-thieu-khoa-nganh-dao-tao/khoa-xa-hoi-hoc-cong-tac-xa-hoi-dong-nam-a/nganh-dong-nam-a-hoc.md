@@ -96,9 +96,7 @@ Học Đông Nam Á học, sinh viên sẽ được cung cấp kiến thức n�
 | KINH TẾ - QUẢN LÝ CÔNG - XÃ HỘI HỌC- CÔNG TÁC XÃ HỘI- ĐÔNG NAM Á HỌC                                                                                                              | 20,000,000/1 NĂM/SINH VIÊN |
 | NGÔN NGỮ NHẬT, NGÔN NGỮ TRUNG QUỐC, NGÔN NGỮ ANH, NGÔN NGỮ HÀN QUỐC                                                                                                               | 23,000,000/1 NĂM/SINH VIÊN |
 
-## Infographic
-
-![1](<../../.gitbook/assets/1 - tiêu đề (12).png>) ![2](<../../.gitbook/assets/2 - giới thiệu chung (15).png>) ![3](<../../.gitbook/assets/3 - đầu ra - việc làm (3).png>) ![4](<../../.gitbook/assets/4 - việc làm 1 (1).png>) ![5](<../../.gitbook/assets/5 - việc làm 2.png>) ![6](<../../.gitbook/assets/6 - ngành - chuyên ngành (1).png>) ![7](<../../.gitbook/assets/7 - chuyên ngành 1.png>) ![8](<../../.gitbook/assets/8 - chuyên ngành 2.png>) ![9](<../../.gitbook/assets/9 - chuyên ngành 2.png>) ![10](<../../.gitbook/assets/10 - ngành - chuyên ngành.png>) ![11](<../../.gitbook/assets/11 - chương trình 1.png>) ![12](<../../.gitbook/assets/13 - học phí (1).png>) ![13](<../../.gitbook/assets/14 - học phí (3).png>) ![14](<../../.gitbook/assets/15 - liên hệ (1).png>)
+![](<../../.gitbook/assets/image (45).png>)
 
 ## Thông tin liên hệ
 

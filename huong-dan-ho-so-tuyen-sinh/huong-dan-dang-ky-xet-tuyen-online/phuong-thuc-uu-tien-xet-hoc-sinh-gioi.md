@@ -32,7 +32,7 @@ coverY: 136.69683257918555
 
 **🌐** **Trang tin tức Cộng đồng Sinh viên Đại học Mở Tp.HCM:** [https://tintuc.oucommunity.dev/](https://tintuc.oucommunity.dev/)
 
-## **Phương thức 4:** Ưu tiên xét tuyển Học sinh Giỏi
+## **Phương thức 4:** Ưu tiên xét tuyển 3 năm Học sinh Giỏi
 
 {% hint style="success" %}
 _**Điều kiện đăng ký xét tuyển**_**:**

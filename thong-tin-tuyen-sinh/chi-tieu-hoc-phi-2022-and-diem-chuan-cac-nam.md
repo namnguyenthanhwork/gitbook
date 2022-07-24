@@ -34,7 +34,7 @@ coverY: 330.13574660633486
 
 
 
-### Chỉ tiêu tuyển sinh 2022
+### I. Chỉ tiêu tuyển sinh 2022
 
 ![Chỉ tiêu tuyển sinh đại trà 2022](<../.gitbook/assets/1 (1).png>)
 
@@ -42,7 +42,7 @@ coverY: 330.13574660633486
 
 ![Chỉ tiêu tuyển sinh chất lượng cao 2022](<../.gitbook/assets/3 (1).png>)
 
-### Điểm chuẩn các năm
+### II. Điểm chuẩn các năm
 
 ![Điểm chuẩn THPT các năm](<../.gitbook/assets/4 (1).png>)
 
@@ -58,17 +58,17 @@ coverY: 330.13574660633486
 6. Nếu không được HSG hay không có CCNN <mark style="color:red;">nên chọn phương thức 6</mark>
 7. Nếu HSG mà có CCNN <mark style="color:red;">nên chọn phương thức 4 và điền thêm mục có CCNN</mark>
 
-### Học phí 1 năm (dự kiến)
+### III. Học phí 1 năm (dự kiến)
 
 ![Học phí 1 năm (dự kiến)](<../.gitbook/assets/6 (1).png>)
 
 ### Học phí (theo tín chỉ)
 
-![Học phí theo tín chỉ (Hệ đại trà)](<../.gitbook/assets/hp tín chỉ 2020.PNG>)
+![](<../.gitbook/assets/image (45).png>)
 
 ### Học phí chất lượng cao
 
-![Học phí Khoa Đào tạo đặc biệt (Chất lượng cao)](<../.gitbook/assets/hp clc 2020.PNG>)
+![](<../.gitbook/assets/image (44).png>)
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^
