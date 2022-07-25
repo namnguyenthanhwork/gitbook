@@ -113,7 +113,7 @@ Ví dụ: Sai thông tin Học lực học kì 1, sai thông tin điểm môn To
 
 ❗ **Lưu ý:** Sau khi **Xóa nguyện vọng** thí sinh nhấn **Lưu thông tin** để lưu thông tin vừa xóa
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 **5. Xếp theo thứ tự nguyện vọng**
 
@@ -144,7 +144,7 @@ Sau đó nhập mã xác thực được gửi về điện thoại rồi nhấn
 
 **Bước 3:** Nhấn nút **Đồng ý** để lưu thông tin
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (7).png>)
 
 **7. Thanh toán**
 

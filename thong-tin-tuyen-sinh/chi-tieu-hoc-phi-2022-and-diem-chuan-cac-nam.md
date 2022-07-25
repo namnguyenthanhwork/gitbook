@@ -44,9 +44,17 @@ coverY: 330.13574660633486
 
 ### II. Điểm chuẩn các năm
 
-![Điểm chuẩn THPT các năm](<../.gitbook/assets/4 (1).png>)
+**Điểm chuẩn xét thi THPTQG (2017 -> 2021)**
 
-![Điểm chuẩn học bạ các năm](../.gitbook/assets/5.png)
+![Điểm chuẩn THPT các năm (2017 -> 2021)](<../.gitbook/assets/4 (1).png>)
+
+**Điểm chuẩn xét học bạ THPT (2019 -> 2021)**
+
+![Điểm chuẩn học bạ (2019 -> 2021)](../.gitbook/assets/5.png)
+
+**Điểm chuẩn xét học bạ THPT (2022)**
+
+![Điểm chuẩn xét học bạ THPT (2022)](../.gitbook/assets/image.png)
 
 <mark style="color:yellow;">**Lưu ý:**</mark>
 
