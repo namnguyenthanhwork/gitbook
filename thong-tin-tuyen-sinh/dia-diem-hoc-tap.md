@@ -36,28 +36,32 @@ coverY: 410.0904977375566
 
 ### Các địa điểm học tập ở Trường Đại học Mở Tp.HCM&#x20;
 
-📌 **Cơ sở 1 (CS chính của các ngành CLC):** 97 Võ Văn Tần, P. 6, Q. 3, TP.HCM&#x20;
+📌 Cơ sở 1 (Đ/c: 97 Võ Văn Tần, P.6, Q.3): Cơ sở của tất cả các ngành Chất lượng cao&#x20;
 
-📌 **Cơ sở 2 (Cơ sở hành chính hiệu bộ):** 35-37 Hồ Hảo Hớn, P. Cô Giang, Q. 1, TP.HCM&#x20;
+📌 Cơ sở 2 (Đ/c: 35-37 Hồ Hảo Hớn, P. Cô Giang, Q.1): Cơ sở hành chính hiệu bộ của Trường ĐH Mở&#x20;
 
-📌 **Cơ sở 3 (Các ngành Đại trà):** 371 Nguyễn Kiệm, P. 3, Q. Gò Vấp, TP.HCM
+📌 Cơ sở 3 (Đ/c: 371 Nguyễn Kiệm, P.3, Q.Gò Vấp):&#x20;
 
-* Công nghệ thông tin
-* Khoa học máy tính
-* Hệ thống thông thông tin quản lý
-* Ngôn ngữ Anh - Trung - Nhật - Hàn
-* Kế toán - Kiểm toán
-* Tài chính ngân hàng
-* Quản lý xây dựng
-* CNKT Công trình xây dựng
-* Xã hội học
-* Công tác xã hội
+Các ngành Đại trà gồm:&#x20;
+
+* Công nghệ thông tin&#x20;
+* Khoa học máy tính&#x20;
+* Hệ thống thông thông tin quản lý&#x20;
+* Ngôn ngữ Anh - Trung - Nhật - Hàn&#x20;
+* &#x20;Kế toán - Kiểm toán&#x20;
+* Tài chính ngân hàng&#x20;
+* Quản lý xây dựng&#x20;
+* CNKT Công trình xây dựng&#x20;
+* Xã hội học&#x20;
+* Công tác xã hội&#x20;
 * Đông nam á
-* Luật - Luật kinh tế
-* Công nghệ sinh học
+* Luật - Luật kinh tế&#x20;
+* Công nghệ sinh học&#x20;
 * Công nghệ thực phẩm
 
-📌 **Cơ sở 4: 02 Mai Thị Lựu, P. Đa Kao, Q. 1, TP.HCM**
+📌 Cơ sở 4 (Đ/c: 02 Mai Thị Lựu, P.Đa Kao, Q.1):&#x20;
+
+Các ngành Đại trà gồm:&#x20;
 
 * Quản trị kinh doanh
 * Marketing
@@ -68,9 +72,9 @@ coverY: 410.0904977375566
 * Kinh tế
 * Quản lý công&#x20;
 
-📌 **Cơ sở 5 (Khu thực hành khoa công nghệ sinh học):** 68 Lê Thị Trung, P. Phú Lợi, TP. Thủ Dầu Một, Tỉnh Bình Dương.&#x20;
+📌 Cơ sở 5 (Đ/c: 68 Lê Thị Trung, P.Phú Lợi, TP.Thủ Dầu Một, Tỉnh Bình Dương): Khu thực hành khoa công nghệ sinh học (có xe đưa đón)&#x20;
 
-📌 **Cơ sở 6 (Khu quân sự):** Đường số 9, P. Long Bình Tân, TP. Biên Hòa, Tỉnh Đồng Nai.
+📌 Cơ sở 6 (Đ/c: Đường số 9, P.Long Bình Tân, TP.Biên Hòa, Tỉnh Đồng Nai): Khu học quân sự/quốc phòng
 
 {% embed url="https://www.facebook.com/groups/ou.community" %}
 Tham gia vào nhóm đê ^\_^
