@@ -49,6 +49,10 @@ coverY: 446.1990950226245
 * Ngành CNTT xét tổ hợp toán lý hoá (A00), ngành này môn toán hệ số 2 nên ta tính **(toán x2 + lý + hoá) x3/4 + điểm khu vực ưu tiên + điểm đối tượng ưu tiên**
 * Ngành Du lịch xét tổ hợp toán văn anh, ngành này không có môn nào hệ số 2 nên chỉ cần **(toán + văn + anh) + điểm khu vực ưu tiên + điểm đối tượng ưu tiên**
 
+**❗ Lưu ý:**
+
+* Môn 1, 2, 3 là thứ tự các môn xét trong tổ hợp xét tuyển (là điểm trung bình của cả năm 10, 11 và hk1 năm 12)
+
 **📚Xét thi THPTQG**
 
 * Nếu ngành bạn không có môn nào hệ số 2 thì bạn áp dụng công thức **(môn 1 + môn 2 + môn 3)**&#x20;
@@ -61,7 +65,6 @@ coverY: 446.1990950226245
 
 **❗ Lưu ý:**
 
-* Xét thi THPTQG không sử dụng điểm vùng
 * Lệ phí xét thi THPTQG là 20.000đ/1 nguyện vọng
 * Có sử dụng CCNN (Chứng chỉ ngoại ngữ) để quy đổi điểm ngoại ngữ
 * Không sử dụng điểm bảo lưu Kỳ thi tốt nghiệp THPT Quốc gia từ năm 2021 về trước
